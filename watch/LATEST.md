@@ -1,36 +1,45 @@
 # Shipaton Watch — 2026-09-02
-**12 new items** (HackerNoon 4 · Reddit 0 · YouTube 2 · web 3 · social 3)
-
-First run — memory (watch/seen.txt) was empty, so this report was curated for signal rather than exhaustive; going forward only genuinely new items will surface.
+**24 new items** (HackerNoon 4 · Reddit 5 · YouTube 3 · web 9 · social 1 · showcase 2)
 
 ## ⚔ Competitors — games entering Shipaton
-**Pulse Gate: Echo Shift** — one-tap timing-puzzle game, solo dev, native Swift/SpriteKit/SwiftUI, no engine/ads/tracking, live on App Store Aug 20 · [HackerNoon](https://hackernoon.com/six-weeks-from-empty-repo-to-the-app-store-building-pulse-gate-for-revenuecats-shipaton-2026)
-
-No roguelike/roguelite/survivors-like entrants surfaced today. Standing "roguelike fitness app" lead (Google, prior sighting) still unidentified — not resolved by today's searches.
+- ⚠ **Protect the Orb** — horde-defense: waves of enemies swarm a central orb you defend (Android) · via Shipaton Showcase · [link](https://apps.shipaton.com/app/protect-the-orb)
+- ⚠ **Brewmancer: Roguelike** — solo-wizard brewing/combat roguelike, "One wizard." (iOS) · via Shipaton Showcase · [link](https://apps.shipaton.com/app/brewmancer-roguelike)
+- ⚠ **SoteriaApps roguelike** — roguelike that charges real steps walked as its in-game currency; likely resolves our earlier "roguelike fitness app" lead · [HackerNoon](https://hackernoon.com/i-built-a-roguelike-that-charges-you-steps-to-play-it)
+- **NICHLYST** — narrative "survival engine" game, 40 days of content / 29 endings · Eugene Kozlovsky · [dev.to](https://dev.to/koztechie/building-nichlyst-how-to-code-a-survival-engine-when-you-are-failing-to-survive-54nl)
+- **Digicity: City Builder** — city-builder with historical-era scenario mode · andrewjneumann · [Reddit](https://www.reddit.com/r/appledevelopers/comments/1vwuds3/major_update_to_digicity_city_builder/)
 
 ## 📢 Build-in-public activity
-- HAIRLOOP team (first-time app builders), article, 60-day build journey · [HackerNoon](https://hackernoon.com/weve-never-built-an-app-now-were-taking-on-shipaton-2026)
-- Darryl Bayliss — "Buildhorn" (KMP GitHub-CI status widget app), week-three article · [HackerNoon](https://hackernoon.com/building-buildhorn-shipaton-2026-week-three)
-- Darryl Bayliss — kickoff post announcing his Shipaton entry · [darrylbayliss.net](https://darrylbayliss.net/im-building-for-shipaton-2026/)
-- YouTube devlog, "How I am Preparing for Shipaton 2026 #BuildInPublic" · [video](https://www.youtube.com/watch?v=2J4Wc6kgKxc)
-- Scott Cameron, LinkedIn post tagging #shipaton #revenuecat #indiehackers · [LinkedIn](https://www.linkedin.com/posts/scott-cameron-6b191511a_shipaton-revenuecat-mobileapps-activity-7496277846902849536-R9v6)
+- Reddit r/AppBusiness — "Shipaton 2026: Halfway Check-In," flags Sep 30 store-live deadline and recommends submitting within two weeks · [thread](https://www.reddit.com/r/AppBusiness/comments/1w4haj2/shipaton_2026_halfway_checkin/)
+- Reddit r/AppBusiness — recurring "Weekly Build in Public Thread," open sharing format for progress updates · [thread](https://www.reddit.com/r/AppBusiness/comments/1w0irnl/shipaton_2026_weekly_build_in_public_thread/)
+- Ronak Mahajan, 13-year-old solo builder, multi-part article series building Sprout Atlas (AI produce scanner) · [dev.to](https://dev.to/ronak1311/the-social-media-trap-spending-an-entire-day-creating-content-instead-of-coding-5b8g)
+- "Do0ne" numbered build journal, article #5 of an ongoing series · [dev.to](https://dev.to/friendship_e3d5e249468fc3/shipaton-do0ne-build-journal-5-social-feature-discover-goals-tasks-4mp)
+- Furkan Tonyalı, article on going public with Beamrove's build after building in private · [HackerNoon](https://hackernoon.com/shipaton-is-pushing-me-to-stop-building-beamrove-in-private)
+- Article on pivoting a translation career into building for Shipaton · [HackerNoon](https://hackernoon.com/from-words-to-code-pivoting-my-translation-career-through-shipaton-2026)
+- Jithin Jude, article on how Shipaton reshaped an indie dev career · [Medium](https://medium.com/@jithin.jude/how-shipaton-helped-me-reshape-my-independent-app-developer-career-f740df93e781)
+- Video, Shipaton 2026 Tokyo kickoff countdown party · [YouTube](https://www.youtube.com/watch?v=KOMsGljE2HY)
+- Video, "Building apps for influencer audiences" talk · [YouTube](https://www.youtube.com/watch?v=72o8EZTerxE)
 
 ## 📰 Official — RevenueCat / Shipaton
-- "Announcing Shipaton 2026" — official kickoff post, new Best Game Award category, Samsung Galaxy Store now eligible · [RevenueCat](https://www.revenuecat.com/blog/company/announcing-shipaton-2026)
-- Best Game Award category page (judging on gameplay, art direction, genre-fit monetization) · [shipaton.com](https://www.shipaton.com/categories/best-game-award)
-- Stripe announced as official Shipaton sponsor · [X/RevenueCat](https://x.com/RevenueCat/status/1947718647851430288)
-- "Shipaton Showcase" launched — all Shipaton apps browsable in one place, store links · [X/RevenueCat](https://x.com/RevenueCat/status/1985683563962855448)
-- HackerNoon offering +$2,500 prize for chronicling a Shipaton build on their platform · [HackerNoon](https://hackernoon.com/building-for-shipaton-2026-share-your-journey-on-hackernoon-and-compete-for-an-extra-$2500)
-- "What should I build? Finding and validating your Shipaton idea" — official prep video · [YouTube](https://www.youtube.com/watch?v=fkZwbElE1u4)
+- "How to submit your app for Shipaton" — walkthrough of the five Devpost submission steps · [RevenueCat](https://www.revenuecat.com/blog/engineering/how-to-submit-your-app-for-shipaton)
+- "How we judge Shipaton" — judging timeline, screening process, judge scoring criteria · [shipaton.com](https://shipaton.com/blog/how-we-judge-shipaton)
+- Twice-weekly livestreams with guests and live Q&A, ongoing through the event · [schedule](https://www.shipaton.com/live)
+- Official Discord server for builder discussion, teammate-finding, RevenueCat team support · [Discord](https://discord.gg/shipaton26)
 
 ## 💡 Worth stealing
-- Multi-part numbered "build journal" series (HackerNoon/dev.to) sustains weekly visibility instead of one launch post — worth doing for HALL PASS.
-- HackerNoon's Shipaton writing-contest track is a second amplification channel + extra prize money on top of #BuildInPublic — cross-post build logs there.
-- Pulse Gate shipped narrow scope (single mechanic, 10 free levels/one-time unlock) in 6 weeks solo — a model for scoping HALL PASS's playable-vertical-slice deadline.
+- "How we judge Shipaton" spells out scoring criteria — worth reading closely before HALL PASS's submission to tune the paywall/monetization-genre-fit judges score on.
+- Numbered build-journal naming ("Do0ne Build Journal #5", NICHLYST's weekly posts) sustains a following better than one-off updates — consider a "HALL PASS Build Log #N" series.
+- r/AppBusiness's recurring Weekly Build in Public Thread is a ready-made distribution channel — post HALL PASS progress there alongside personal channels.
 
 ## Everything else
-- JetBrains "Ship Kotlin Everywhere Award" sponsor post, $30k KMP prize pool · [JetBrains blog](https://blog.jetbrains.com/kotlin/2026/07/know-kotlin-ship-it-everywhere-and-win-at-shipaton-2026/)
-- 9to5Mac press coverage of Shipaton 2026 launch · [9to5Mac](https://9to5mac.com/2026/08/04/revenuecat-shipaton-mobile-hackathon-is-back-with-1-million-worth-of-prizes/)
+- Reddit r/hackathon — thread questioning Devpost/RevenueCat platform reliability · [thread](https://www.reddit.com/r/hackathon/comments/1vy7o49/devpostrevenuecat_are_you_okay/)
+- HackerNoon — story about a judge free-unlock request rejected with an HTTP 409 · [article](https://hackernoon.com/can-you-give-a-hackathon-judge-a-free-unlock-before-you-submit-no-and-here-is-the-exact-409)
+- Capawesome (dev-tooling company) blog post covering Shipaton 2026 · [Capawesome](https://capawesome.io/blog/shipaton-2026/)
+- Paul Hudson (Hacking with Swift), post thanking RevenueCat for sponsoring last week's event, plugs Shipaton 2026 · [X](https://x.com/twostraws/status/2077718551369027715)
+- YouTube, Swift News roundup mentioning Shipaton's $700K prize pool · [video](https://www.youtube.com/watch?v=Q3tPGesg_e8)
+- Reddit — r/shipaton, unofficial build-log/progress subreddit for the event · [subreddit](https://www.reddit.com/r/shipaton/)
 
 ## Source status
-- Reddit search RSS (`reddit.com/search.rss`) and HackerNoon/RevenueCat/shipaton.com RSS feeds all blocked by this environment's egress proxy (organization policy) — no direct RSS fetch; substituted WebSearch coverage of the same domains.
+- Local collector: ok, fetched 2026-09-02T14:46:33Z (hackernoon 50, devto 12, reddit 23, revenuecat_blog 2, shipaton_blog 15, medium 10; youtube_search returned 0 — no RSS for YouTube search, relied on WebSearch instead).
+- showcase_2026.json: ok but thin (nav links only) — full showcase_2026.html scanned directly for the 309-app directory; found Brewmancer and Protect the Orb this way.
+- WebSearch sweep: all 15 queries ran; site:reddit.com shipaton and site:producthunt.com shipaton returned mostly unrelated results (search index gap), substituted with local Reddit collector data instead.
+- Devpost: not fetched per standing rule (robots.txt disallows automated access) — cited by URL/snippet only where it appeared in search results.
