@@ -1,0 +1,29 @@
+{
+ "source": "showcase_today",
+ "url": "https://apps.shipaton.com/today",
+ "fetched_at": "2026-09-02T14:46:33Z",
+ "count": 3,
+ "items": [
+  {
+   "title": "Shipaton Showcase",
+   "link": "https://apps.shipaton.com/today",
+   "date": "",
+   "author": "",
+   "summary": ""
+  },
+  {
+   "title": "Shipaton",
+   "link": "https://shipaton.com",
+   "date": "",
+   "author": "",
+   "summary": ""
+  },
+  {
+   "title": "Devpost",
+   "link": "https://revenuecat-shipaton-2025.devpost.com/",
+   "date": "",
+   "author": "",
+   "summary": ""
+  }
+ ]
+}

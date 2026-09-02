@@ -1,0 +1,92 @@
+{
+ "source": "devto",
+ "url": "https://dev.to/feed/tag/shipaton",
+ "fetched_at": "2026-09-02T14:46:33Z",
+ "count": 12,
+ "items": [
+  {
+   "title": "How we adapted our bottom navigation into a navigation rail in KMP",
+   "link": "https://dev.to/patwaryhossin/how-we-adapted-our-bottom-navigation-into-a-navigation-rail-in-kmp-335o",
+   "date": "Sun, 30 Aug 2026 03:47:29 +0000",
+   "author": "Arfin Hosain",
+   "summary": "<p>Foster is a relationship check-in app, built with Kotlin Multiplatform and Compose Multiplatform for iOS and Android. When we tested it on a tablet, the phone-style bottom bar looked wrong — too stretched, not made for a big screen. Tablets usually want a side rail instead.</p>\n\n<p>Adding that rail took one new file. No second codebase, no separate tablet team, no rewritten logic. Here's how it"
+  },
+  {
+   "title": "Building NICHLYST: How to Code a Survival Engine When You Are Failing to Survive",
+   "link": "https://dev.to/koztechie/building-nichlyst-how-to-code-a-survival-engine-when-you-are-failing-to-survive-54nl",
+   "date": "Sat, 29 Aug 2026 15:58:32 +0000",
+   "author": "Eugene Kozlovsky",
+   "summary": "<h1>\n  \n  \n  Building NICHLYST: How to Code a Survival Engine When You Are Failing to Survive\n</h1>\n\n<p>I track everything. It is an occupational habit of a systems architect. You cannot fix what you do not measure — not a failing build, not a leaking color, and not developer burnout. And if you are reading this while grinding through the RevenueCat Shipaton 2026 yourself, you already know that th"
+  },
+  {
+   "title": "The Social Media Trap: Spending an Entire Day Creating Content Instead of Coding 🙃",
+   "link": "https://dev.to/ronak1311/the-social-media-trap-spending-an-entire-day-creating-content-instead-of-coding-5b8g",
+   "date": "Wed, 26 Aug 2026 02:53:19 +0000",
+   "author": "Ronak Mahajan",
+   "summary": "<p>We've all been there during a hackathon or indie project build. You tell yourself, \"I'll just spend an hour drafting social media content for next week so I can clear my schedule and focus 100% on coding.\"</p>\n\n<p>Fast forward 10 hours, and you haven't touched a single line of code, opened your editor, or fixed a single backend bug.That was exactly my entire yesterday while building Sprout Atla"
+  },
+  {
+   "title": "Typing \"Brocoli\" at 5 PM: Building Typo-Tolerant Search on Mobile",
+   "link": "https://dev.to/ronak1311/typing-brocoli-at-5-pm-building-typo-tolerant-search-on-mobile-2mme",
+   "date": "Mon, 24 Aug 2026 10:45:59 +0000",
+   "author": "Ronak Mahajan",
+   "summary": "<p>Mobile keyboards are prone to typos, especially in busy grocery aisles. I walked through refactoring our Firestore search queries and client-side logic so queries like \"brocoli\" or \"avcado\" instantly resolve to the correct botanical entries without throwing empty states.</p>"
+  },
+  {
+   "title": "Stop Showing Users Textbooks: Redesigning Sprout Atlas Data Cards",
+   "link": "https://dev.to/ronak1311/stop-showing-users-textbooks-redesigning-sprout-atlas-data-cards-23ge",
+   "date": "Mon, 24 Aug 2026 10:38:04 +0000",
+   "author": "Ronak Mahajan",
+   "summary": "<p>My first UI iteration for Sprout Atlas crammed entire botanical profiles into single scroll views. It was a disaster. In this post, I break down how I refactored heavy food safety data into modular, card-based layouts using clean typography and strict spacing rules.</p>"
+  },
+  {
+   "title": "When Local Environments Lie: How I Survived Firebase Sandbox Glitches",
+   "link": "https://dev.to/ronak1311/when-local-environments-lie-how-i-survived-firebase-sandbox-glitches-5gno",
+   "date": "Mon, 24 Aug 2026 10:30:51 +0000",
+   "author": "Ronak Mahajan",
+   "summary": "<p>When Local Environments Lie: How I Survived Firebase Sandbox Glitches</p>\n\n<p>Setting up Firebase for Sprout Atlas seemed easy until the local sandbox environment decided to stop processing authentication states and data syncs. When your testing environment breaks, print statements become your best friend. Here's how I isolated the pipeline failures and got our data layer running reliably again"
+  },
+  {
+   "title": "The Integration Nightmare: Fighting RevenueCat, Firebase, and Broken Sandboxes While Building Sprout Atlas 🛠️",
+   "link": "https://dev.to/ronak1311/the-integration-nightmare-fighting-revenuecat-firebase-and-broken-sandboxes-while-building-5619",
+   "date": "Sun, 23 Aug 2026 13:22:51 +0000",
+   "author": "Ronak Mahajan",
+   "summary": "<p>If you're following my build-in-public journey for Sprout Atlas and the RevenueCat Shipaton 2026, you know the UI design sprint went smoothly last week. But this week? The codebase decided to humble me.</p>\n\n<p>My mission was simple: wire up the RevenueCat SDK for frictionless subscription paywalls and hook everything into Firebase for multi-lingual search data and user states.</p>\n\n<p>It turne"
+  },
+  {
+   "title": "One Week, One Vision: Designing the UI/UX Core of Sprout Atlas",
+   "link": "https://dev.to/ronak1311/one-week-one-vision-designing-the-uiux-core-of-sprout-atlas-2aki",
+   "date": "Sat, 22 Aug 2026 03:55:23 +0000",
+   "author": "Ronak Mahajan",
+   "summary": "<p>This past week has been an absolute sprint. If you've been following along with my journey for the RevenueCat Shipaton 2026, you know that Sprout Atlas isn't just another food app—it's an AI-powered ecosystem designed to eliminate market anxiety, track produce freshness, and make nutritional data instantly accessible.</p>\n\n<p>While much of the underlying infrastructure involves setting up Fires"
+  },
+  {
+   "title": "The Science Behind Sprout Atlas: Why We Buy Blind at the Market",
+   "link": "https://dev.to/ronak1311/the-science-behind-sprout-atlas-why-we-buy-blind-at-the-market-3c0g",
+   "date": "Wed, 19 Aug 2026 10:58:35 +0000",
+   "author": "Ronak Mahajan",
+   "summary": "<p>In my previous post, I shared the mission behind Sprout Atlas—an interactive produce field guide and AI scanner I’m building for RevenueCat’s #Shipaton 2026.</p>\n\n<p>Today, I want to explore the real food science that led me to create Sprout Atlas, and why traditional grocery shopping leaves almost all of us buying in the dark.</p>\n\n<p>🔬 1. The Chemistry of What's Actually on Our Food<br>\nWhen "
+  },
+  {
+   "title": "I'm 13 and Building an AI Produce Scanner for Local Markets: Meet Sprout Atlas",
+   "link": "https://dev.to/ronak1311/im-13-and-building-an-ai-produce-scanner-for-local-markets-meet-sprout-atlas-2f76",
+   "date": "Tue, 18 Aug 2026 13:05:25 +0000",
+   "author": "Ronak Mahajan",
+   "summary": "<p>Hey DEV Community! 👋 </p>\n\n<p>I'm Ronak, a 13-year-old student builder from Pune, India. </p>\n\n<p>Over the past few weeks, I’ve been building <strong>Sprout Atlas</strong>—an interactive produce field guide and AI-powered camera scanner designed to solve a very real, everyday problem at local markets.</p>\n\n<p>Here is the story behind why I’m building it, the architecture under the hood, and wha"
+  },
+  {
+   "title": "Building NICHLYST: Two Mugs, a Black Screen, and the Weekend the Engine Woke Up",
+   "link": "https://dev.to/koztechie/building-nichlyst-two-mugs-a-black-screen-and-the-weekend-the-engine-woke-up-d05",
+   "date": "Sun, 16 Aug 2026 13:46:07 +0000",
+   "author": "Eugene Kozlovsky",
+   "summary": "<p>A friend came by last Thursday and handed me a mug she had brought from Bulgaria. On the mug was a Kama Sutra position so acrobatic that gravity itself seemed ready to file a complaint. \"So that there would be love,\" she said. It felt strangely appropriate: the thing on my desk that week was a half-asleep HTML5 game engine, and it was going to need exactly that kind of stubborn love to wake up."
+  },
+  {
+   "title": "Building NICHLYST: The Weight of 40 Days, 29 Endings, and a Style Anchor",
+   "link": "https://dev.to/koztechie/building-nichlyst-the-weight-of-40-days-29-endings-and-a-style-anchor-2o0f",
+   "date": "Thu, 13 Aug 2026 21:01:28 +0000",
+   "author": "Eugene Kozlovsky",
+   "summary": "<p>Three days ago, I published the first devlog for the RevenueCat Shipaton 2026. Diving deep into the heavy, emotional trenches of narrative game design, I had a 128-step plan, a blank APK, and 3 Google Play testers. Today, I have 40 days of structured narrative content, 29 endings, a full art pipeline, and a very familiar tightness in my chest.</p>\n\n<p>Let me explain.</p>\n\n<h2>\n  \n  \n  The Conte"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "source": "medium",
+ "url": "https://medium.com/feed/tag/shipaton",
+ "fetched_at": "2026-09-02T14:46:33Z",
+ "count": 10,
+ "items": [
+  {
+   "title": "JOOQ code from Flyway migration, with no database",
+   "link": "https://medium.com/@behzodhalil/jooq-code-from-flyway-migration-with-no-database-0a9632430f69?source=rss------shipaton-5",
+   "date": "Sat, 29 Aug 2026 18:53:04 GMT",
+   "author": "Behzod Halil",
+   "summary": "jOOQ generates its code from a schema, which means something has to be holding a schema at build time. The usual answer is a database, and…   Continue reading on Medium »"
+  },
+  {
+   "title": "I Built Awwly From Scratch: From a Simple Idea to a Real App",
+   "link": "https://medium.com/@basavaraja-dev/i-built-awwly-from-scratch-from-a-simple-idea-to-a-real-app-d669176a67aa?source=rss------shipaton-5",
+   "date": "Sat, 29 Aug 2026 15:31:01 GMT",
+   "author": "Basavaraja V",
+   "summary": "What started as a tiny idea about making meaningful moments turned into a journey through product design, AI, monetization, App Store…   Continue reading on Medium »"
+  },
+  {
+   "title": "Building in Public: Laying the Foundation & Onboarding Screens in KMP",
+   "link": "https://medium.com/@yourbrownieee/building-in-public-laying-the-foundation-onboarding-screens-in-kmp-a6e9f47b9c83?source=rss------shipaton-5",
+   "date": "Thu, 27 Aug 2026 18:42:58 GMT",
+   "author": "brownieee",
+   "summary": "From unlocking Mobbin Pro via ShipKit to wiring up Supabase Auth and Brevo, here is how we built our first onboarding flow.   Continue reading on Medium »"
+  },
+  {
+   "title": "RevenueCat Shipaton: Letting Creators Cook! ‍",
+   "link": "https://medium.com/@yourbrownieee/revenuecat-shipaton-letting-creators-cook-5d5ca7a6492e?source=rss------shipaton-5",
+   "date": "Fri, 21 Aug 2026 19:06:04 GMT",
+   "author": "brownieee",
+   "summary": "RevenueCat brings in top creators to judge apps built for their specific niches. It’s a massive W for devs because they get to build tools…   Continue reading on Medium »"
+  },
+  {
+   "title": "I audited 53 flatfish illustrations for which eye faces up",
+   "link": "https://medium.com/@WorldFishingMap/i-audited-53-flatfish-illustrations-for-which-eye-faces-up-2b833fdc4072?source=rss------shipaton-5",
+   "date": "Fri, 21 Aug 2026 17:58:19 GMT",
+   "author": "Naoto Yamabe",
+   "summary": "A flatfish has both eyes on one side of its head. It lies on the seabed with that side facing up, and only that side carries colour and…   Continue reading on Medium »"
+  },
+  {
+   "title": "Why RevenueCat Shipaton 2026 might be the best thing to happen to Indie Devs this year?",
+   "link": "https://medium.com/@yourbrownieee/why-revenuecat-shipaton-2026-might-be-the-best-thing-to-happen-to-indie-devs-this-year-2b79220c5699?source=rss------shipaton-5",
+   "date": "Thu, 20 Aug 2026 09:22:39 GMT",
+   "author": "brownieee",
+   "summary": "Most hackathons give you a weekend to build a type nobody ever uses. Shipathon asks you to do one thing that actually matters: ship a real…   Continue reading on Medium »"
+  },
+  {
+   "title": "I let AI write 2,940 fish descriptions. Here is everything it got wrong.",
+   "link": "https://medium.com/@WorldFishingMap/i-let-ai-write-2-940-fish-descriptions-here-is-everything-it-got-wrong-da6e569b6b93?source=rss------shipaton-5",
+   "date": "Mon, 17 Aug 2026 22:41:24 GMT",
+   "author": "Naoto Yamabe",
+   "summary": "My fishing app ships an encyclopedia of 2,940 species.   Continue reading on Medium »"
+  },
+  {
+   "title": "How I ended up with a doomsday app.",
+   "link": "https://medium.com/@bo.niehaus/how-i-ended-up-with-a-doomsday-app-99dcc45ce934?source=rss------shipaton-5",
+   "date": "Tue, 11 Aug 2026 14:26:02 GMT",
+   "author": "Bo Niehaus",
+   "summary": "I come from a generation that owned things. CDs on a shelf. Tapes with handwritten labels. VHS boxes that took up actual space. You bought…   Continue reading on Medium »"
+  },
+  {
+   "title": "“Preservation anchors”: teaching an AI what it must never delete",
+   "link": "https://medium.com/@WorldFishingMap/preservation-anchors-teaching-an-ai-what-it-must-never-delete-ecafbe05a261?source=rss------shipaton-5",
+   "date": "Tue, 11 Aug 2026 01:33:29 GMT",
+   "author": "Naoto Yamabe",
+   "summary": "An AI coding agent will happily hand you a refactor that is smaller, cleaner, better named — and quietly missing a feature.   Continue reading on Medium »"
+  },
+  {
+   "title": "Two AI agents, one repo: how I split a codebase between Claude Code and ChatGPT Codex",
+   "link": "https://medium.com/@WorldFishingMap/two-ai-agents-one-repo-how-i-split-a-codebase-between-claude-code-and-chatgpt-codex-a5dc55878c36?source=rss------shipaton-5",
+   "date": "Sun, 09 Aug 2026 15:33:07 GMT",
+   "author": "Naoto Yamabe",
+   "summary": "I have been building a fishing app for 58 days.   Continue reading on Medium »"
+  }
+ ]
+}
