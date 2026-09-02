@@ -188,11 +188,21 @@ def collect_showcase(stamp, status):
             slugs.append(s)
     total = re.search(r"Explore all (\d+) published apps", index)
     new = [s for s in slugs if s not in known]
-    fetched = failed = 0
-    for s in new:
+    # Every Games-category entrant is a competitor for Best Game, so re-fetch all
+    # of them daily — rating_count growth is the only public traction signal.
+    refresh = [s for s in slugs if s in known and known[s].get("category", "").lower() == "games"]
+    fetched = failed = refreshed = 0
+    for s in new + refresh:
         try:
-            known[s] = parse_detail(fetch(f"{SHOWCASE}/app/{s}"), s)
-            fetched += 1
+            rec = parse_detail(fetch(f"{SHOWCASE}/app/{s}"), s)
+            if s in known:
+                prev = known[s]
+                rec["first_seen"] = prev.get("first_seen", rec["first_seen"])
+                rec["rating_count_prev"] = prev.get("rating_count")
+                refreshed += 1
+            else:
+                fetched += 1
+            known[s] = rec
         except Exception:
             failed += 1
         time.sleep(DELAY)
@@ -202,7 +212,11 @@ def collect_showcase(stamp, status):
         # <title> regex; strip it so the stored name is the app's real name.
         a["name"] = re.sub(r"^QR code for\s+", "", a.get("name", "")).strip() or a["slug"]
         a["gamey"] = bool(GAMEY.search(" ".join([a.get("name", ""), a.get("description", "")])))
-        a["is_game"] = a.get("category", "").lower() == "games" or a["gamey"]
+        # is_game is the store category, full stop. gamey is a separate genre-
+        # proximity hint (roguelike/survivor/arena...) and can be true for non-games.
+        a["is_game"] = a.get("category", "").lower() == "games"
+        a["gaining"] = bool(a.get("rating_count") and a.get("rating_count_prev") is not None
+                            and a["rating_count"] > a["rating_count_prev"])
     games = [a for a in apps if a["is_game"]]
     with open(path, "w", encoding="utf-8") as f:
         json.dump({"source": "showcase_2026", "url": f"{SHOWCASE}/2026", "fetched_at": stamp,
