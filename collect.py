@@ -44,6 +44,7 @@ FEEDS = {
     "hackernoon":       ("https://hackernoon.com/tagged/shipaton/feed", "rss"),
     "devto":            ("https://dev.to/feed/tag/shipaton", "rss"),
     "reddit":           ("https://www.reddit.com/search.rss?q=shipaton&sort=new", "atom"),
+    "reddit_shipaton":  ("https://www.reddit.com/r/shipaton/new.rss", "atom"),   # unofficial build-log sub
     "revenuecat_blog":  ("https://www.revenuecat.com/blog/rss.xml", "rss"),
     "shipaton_blog":    ("https://shipaton.com/blog", "html"),
     "medium":           ("https://medium.com/feed/tag/shipaton", "rss"),
@@ -197,6 +198,9 @@ def collect_showcase(stamp, status):
         time.sleep(DELAY)
     apps = [known[s] for s in slugs if s in known] + [a for s, a in known.items() if s not in slugs]
     for a in apps:
+        # The QR image's alt text ("QR code for <Name>") occasionally wins the
+        # <title> regex; strip it so the stored name is the app's real name.
+        a["name"] = re.sub(r"^QR code for\s+", "", a.get("name", "")).strip() or a["slug"]
         a["gamey"] = bool(GAMEY.search(" ".join([a.get("name", ""), a.get("description", "")])))
         a["is_game"] = a.get("category", "").lower() == "games" or a["gamey"]
     games = [a for a in apps if a["is_game"]]
@@ -228,10 +232,17 @@ def push():
     def git(*a):
         return subprocess.run(["git", *a], cwd=ROOT, capture_output=True, text=True,
                               creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0))
-    git("pull", "-q", "--rebase", "origin", "master")
+    # Commit our raw/ FIRST, then rebase onto whatever the cloud routine pushed
+    # (it only ever touches watch/, so the rebase is conflict-free), then push.
+    # Pulling before committing fails with "unstaged changes" whenever raw/ is dirty.
     git("add", "raw/")
     day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    if git("commit", "-q", "-m", f"raw: {day}").returncode == 0:
+    committed = git("commit", "-q", "-m", f"raw: {day}").returncode == 0
+    r = git("pull", "-q", "--rebase", "origin", "master")
+    if r.returncode != 0:
+        log("pull --rebase FAIL " + r.stderr.strip()[:200])
+        git("rebase", "--abort")
+    if committed:
         p = git("push", "-q", "origin", "master")
         log("push " + ("ok" if p.returncode == 0 else "FAIL " + p.stderr.strip()[:200]))
     else:
