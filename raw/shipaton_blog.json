@@ -1,19 +1,33 @@
 {
  "source": "shipaton_blog",
  "url": "https://shipaton.com/blog",
- "fetched_at": "2026-09-02T14:53:02Z",
- "count": 15,
+ "fetched_at": "2026-09-04T09:30:02Z",
+ "count": 18,
  "items": [
   {
-   "title": "Jul 2, 2026 / 7 min read  Announcing Shipaton 2026: Ship an app, win big, join the fun  Shipaton 2026 is here: ship a new iOS or Android app this August–Septemb",
-   "link": "https://shipaton.com/blog/announcing-shipaton-2026",
+   "title": "Sep 3, 2026 / 7 min read  Gurwi: how to turn building in public into a Shipaton #BuildInPublic win  How building in public can get strangers to give you money t",
+   "link": "https://shipaton.com/blog/gurwi-build-in-public-shipaton",
    "date": "",
    "author": "",
    "summary": ""
   },
   {
-   "title": "Jun 26, 2026 / 6 min read   How we judge Shipaton  A look at the Shipaton judging timeline, screening process, judge scoring, and what your submission needs to ",
-   "link": "https://shipaton.com/blog/how-we-judge-shipaton",
+   "title": "Sep 3, 2026 / 10 min read   The late submitter's guide to getting through app review  Everything you need to get your app approved by App Store review and Play ",
+   "link": "https://shipaton.com/blog/the-late-submitters-guide-to-getting-through-app-review",
+   "date": "",
+   "author": "",
+   "summary": ""
+  },
+  {
+   "title": "Aug 27, 2026 / 12 min read   How to submit your app for Shipaton  A detailed walkthrough of the five Devpost steps, what to prepare, and how to make sure your a",
+   "link": "https://shipaton.com/blog/how-to-submit-your-app-for-shipaton",
+   "date": "",
+   "author": "",
+   "summary": ""
+  },
+  {
+   "title": "Jul 2, 2026 / 7 min read   Announcing Shipaton 2026: Ship an app, win big, join the fun  Shipaton 2026 is here: ship a new iOS or Android app this August–Septem",
+   "link": "https://shipaton.com/blog/announcing-shipaton-2026",
    "date": "",
    "author": "",
    "summary": ""
@@ -42,6 +56,13 @@
   {
    "title": "Sep 5, 2025 / 9 min read   Part 4: pitching your app  Learn how to win Shipaton by pitching your app with story-driven videos and descriptions that stand out an",
    "link": "https://shipaton.com/blog/how-to-win-shipaton-part-4-pitching-your-app",
+   "date": "",
+   "author": "",
+   "summary": ""
+  },
+  {
+   "title": "Jun 26, 2026 / 6 min read   How we judge Shipaton  A look at the Shipaton judging timeline, screening process, judge scoring, and what your submission needs to ",
+   "link": "https://shipaton.com/blog/how-we-judge-shipaton",
    "date": "",
    "author": "",
    "summary": ""

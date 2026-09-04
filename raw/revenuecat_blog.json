@@ -1,9 +1,16 @@
 {
  "source": "revenuecat_blog",
  "url": "https://www.revenuecat.com/blog/rss.xml",
- "fetched_at": "2026-09-02T14:53:02Z",
- "count": 2,
+ "fetched_at": "2026-09-04T09:30:02Z",
+ "count": 3,
  "items": [
+  {
+   "title": "The late submitter's guide to getting through app review",
+   "link": "https://www.revenuecat.com/blog/company/the-late-submitters-guide-to-getting-through-app-review",
+   "date": "Thu, 03 Sep 2026 15:57:25 GMT",
+   "author": "Perttu Lähteenlahti",
+   "summary": "Everything you need to get your app approved by the App Store and Play Store review before the Shipaton deadline"
+  },
   {
    "title": "How to submit your app for Shipaton",
    "link": "https://www.revenuecat.com/blog/engineering/how-to-submit-your-app-for-shipaton",

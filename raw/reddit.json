@@ -1,9 +1,16 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "2026-09-02T14:53:02Z",
- "count": 23,
+ "fetched_at": "2026-09-04T09:30:02Z",
+ "count": 24,
  "items": [
+  {
+   "title": "App Business & Appreneurs | ASO, App Marketing & More",
+   "link": "https://www.reddit.com/r/AppBusiness/",
+   "date": "2014-02-14T04:19:14+00:00",
+   "author": "/u/Skape7",
+   "summary": "<img src=\"https://b.thumbs.redditmedia.com/34A5ijNdACxWG-VGOI-oGddm_CnQQsxzzU065m8_73M.png\" /> <div> A community for app founders, indie hackers, developers, and marketers building, launching, and growing app businesses. Join our free list for upcoming AMAs, workshops, meetups, demo days, and networking events: [appbusiness.club](https://appbusiness.club/) Topics for discussion: - App Marketing - "
+  },
   {
    "title": "shipaton",
    "link": "https://www.reddit.com/r/shipaton/",
@@ -12,11 +19,53 @@
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
   },
   {
-   "title": "Day 01/30 - How did I end up building a game?",
-   "link": "https://www.reddit.com/r/u_ChuzaWick420/comments/1w4m3xo/day_0130_how_did_i_end_up_building_a_game/",
-   "date": "2026-09-01T19:19:50+00:00",
-   "author": "/u/ChuzaWick420",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/u_ChuzaWick420/comments/1w4m3xo/day_0130_how_did_i_end_up_building_a_game/\"> <img src=\"https://preview.redd.it/l2os8v37lymh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=cce07305327e0ea0392cf92d885e57f8bd223c20\" alt=\"Day 01/30 - How did I end up building a game?\" title=\"Day 01/30 - How did I end up building a game?\" /> </a> </td><td> <!-- SC_O"
+   "title": "Shipaton 2026: Weekly Build in Public Thread — Friday, Sep 4, 2026",
+   "link": "https://www.reddit.com/r/AppBusiness/comments/1w6wfur/shipaton_2026_weekly_build_in_public_thread/",
+   "date": "2026-09-04T06:30:58+00:00",
+   "author": "/u/AutoModerator",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Welcome to this week&#39;s <strong>Shipaton Build in Public Thread</strong>! Everyone is welcome to share an update on their current project here. No need to participate in the hackathon to share, but if you decide to enter sharing updates consistently is a great way to increase your chances of winning the <strong>#BuildInPublic</strong> Award</p> <p>Please share "
+  },
+  {
+   "title": "Got approved for Shipaton Anyone else got approved? Let’s connect and maybe go together!",
+   "link": "https://www.reddit.com/r/Gorakhpur/comments/1w6qlix/got_approved_for_shipaton_anyone_else_got/",
+   "date": "2026-09-04T01:36:24+00:00",
+   "author": "/u/its_hk133",
+   "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/its_hk133\"> /u/its_hk133 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/Gorakhpur/\"> r/Gorakhpur </a> <br/> <span><a href=\"https://www.reddit.com/r/Gorakhpur/comments/1w6qlix/got_approved_for_shipaton_anyone_else_got/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Gorakhpur/comments/1w6qlix/got_approved_for_ship"
+  },
+  {
+   "title": "Looking for feedback on my new screenshots",
+   "link": "https://www.reddit.com/r/AppStoreOptimization/comments/1w6i69t/looking_for_feedback_on_my_new_screenshots/",
+   "date": "2026-09-03T19:54:07+00:00",
+   "author": "/u/radomird",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AppStoreOptimization/comments/1w6i69t/looking_for_feedback_on_my_new_screenshots/\"> <img src=\"https://preview.redd.it/cohny8ie1dnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d893238be070523c2e256b7a2710056fefa8f68\" alt=\"Looking for feedback on my new screenshots\" title=\"Looking for feedback on my new screenshots\" /> </a> </td><td> <!-- SC"
+  },
+  {
+   "title": "Solo-building a photo-metadata privacy app for Shipaton — pivoting out of field work into security, building it in the open",
+   "link": "https://www.reddit.com/r/AppBusiness/comments/1w6c0e0/solobuilding_a_photometadata_privacy_app_for/",
+   "date": "2026-09-03T16:18:05+00:00",
+   "author": "/u/HRD-Sec",
+   "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HRD-Sec\"> /u/HRD-Sec </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/AppBusiness/\"> r/AppBusiness </a> <br/> <span><a href=\"https://v.redd.it/qf7dyjancbnh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/AppBusiness/comments/1w6c0e0/solobuilding_a_photometadata_privacy_app_for/\">[comments]</a></span>"
+  },
+  {
+   "title": "Solo-building a photo-metadata privacy app for Shipaton — pivoting out of field work into security, building it in the open",
+   "link": "https://www.reddit.com/r/buildinpublic/comments/1w68lsl/solobuilding_a_photometadata_privacy_app_for/",
+   "date": "2026-09-03T14:13:34+00:00",
+   "author": "/u/HRD-Sec",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/buildinpublic/comments/1w68lsl/solobuilding_a_photometadata_privacy_app_for/\"> <img src=\"https://external-preview.redd.it/eXFvODJ0OG5jYm5oMWMsk2_wcqX3QeB3b9BPRgile6o2Aq2IB4cPu-YJBcfk.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=0ed0fd3fd77bbaf1759392818e0387514211aeac\" alt=\"Solo-building a photo-metadata privacy app for Shipaton — pivoting out"
+  },
+  {
+   "title": "Save Peps — a free-to-start one-tap puzzle game for Android",
+   "link": "https://www.reddit.com/r/playmygame/comments/1w676ka/save_peps_a_freetostart_onetap_puzzle_game_for/",
+   "date": "2026-09-03T13:18:19+00:00",
+   "author": "/u/mx883",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/playmygame/comments/1w676ka/save_peps_a_freetostart_onetap_puzzle_game_for/\"> <img src=\"https://external-preview.redd.it/MmtndHMwaGMwYm5oMWs_UdACHpgSr2HaGwNcQOR0XYU2JgsbSMgQV9_FBjAe.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3db9b2f6c1af20d1c3bd4dd3bb5c6a55ebbd0c28\" alt=\"Save Peps — a free-to-start one-tap puzzle game for Android\" title=\"Sav"
+  },
+  {
+   "title": "Here’s what I learned shipping my second iOS app",
+   "link": "https://www.reddit.com/r/buildinpublic/comments/1w5jp93/heres_what_i_learned_shipping_my_second_ios_app/",
+   "date": "2026-09-02T19:02:40+00:00",
+   "author": "/u/hakan115",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I started building Video Cue on August 1st, mostly in the evenings and on weekends. About a month later, it’s finally live on the App Store.</p> <p>The idea came from a problem I had myself. We have a small 3D-printed lampshade business and struggled to create good videos for Instagram. I had the same problem when I wanted to make better travel videos. I bought a "
   },
   {
    "title": "Shipaton 2026: Halfway Check-In",
@@ -122,48 +171,6 @@
    "date": "2026-08-24T16:08:22+00:00",
    "author": "/u/No_Refrigerator3147",
    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reactnative/comments/1vx73tg/pov_youre_a_coder_who_cares_too_much_about_design/\"> <img src=\"https://external-preview.redd.it/Z2h0Y3dpOTNhY2xoMS85p7G131AFQzuRLhvgK-uEEPg8vtSgvU-5cV3X0K04.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=aba3ca557f7356b71cb7a9b1b1b37eed128c153e\" alt=\"POV: You’re a coder who cares too much about design.\" title=\"POV: Y"
-  },
-  {
-   "title": "Six weeks to ship an app with KMP and win $30K. KMP experience optional, last year's 2nd place was a first-timer",
-   "link": "https://www.reddit.com/r/u_ekaterina-petrova/comments/1vx6g79/six_weeks_to_ship_an_app_with_kmp_and_win_30k_kmp/",
-   "date": "2026-08-24T15:44:34+00:00",
-   "author": "/u/ekaterina-petrova",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Last year a guy entered a mobile hackathon with zero KMP experience, learned it during the build window with AI as a study partner, shipped Posturely to the stores in time, and took 2nd place in the Kotlin category. Not a made-up success story: he&#39;s one of the winners we later interviewed, and &quot;just enter, you&#39;ll ship faster than you expect&quot; was "
-  },
-  {
-   "title": "Major update to Digicity City Builder #buildinpublic",
-   "link": "https://www.reddit.com/r/appledevelopers/comments/1vwuds3/major_update_to_digicity_city_builder/",
-   "date": "2026-08-24T06:02:06+00:00",
-   "author": "/u/andrewjneumann",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m taking a fun side quest building a game as part of the shipaton app building competition! City builder with a twist. Scenario mode breaks down historical eras, including challenges associated with them. Do you remove built rail in favor of roads for autos? How do you build a city when noise pollution matters. </p> <p>Have a ton of ideas, and would love feedbac"
-  },
-  {
-   "title": "How do you decide what actually belongs on a paywall?",
-   "link": "https://www.reddit.com/r/AppBusiness/comments/1vwg0ne/how_do_you_decide_what_actually_belongs_on_a/",
-   "date": "2026-08-23T19:10:15+00:00",
-   "author": "/u/hakan115",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m building a video-related app for the RevenueCat Shipaton, and I’ve reached the paywall stage.<br/> And I realized… I don’t really know what makes a good paywall 😅<br/> When a user reaches one, what’s the main thing you’re trying to communicate?<br/> Do you:<br/> Remind them of the value?<br/> Show what they unlock?<br/> Highlight the main features?<br/> Keep i"
-  },
-  {
-   "title": "Finalizing the mascot for my #shipaton project",
-   "link": "https://www.reddit.com/r/reactnative/comments/1vw6m6e/finalizing_the_mascot_for_my_shipaton_project/",
-   "date": "2026-08-23T13:01:17+00:00",
-   "author": "/u/No_Refrigerator3147",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/reactnative/comments/1vw6m6e/finalizing_the_mascot_for_my_shipaton_project/\"> <img src=\"https://external-preview.redd.it/MGdmdGNrc2xoNGxoMSz8s7sG4f9rNLqkr59cki46mWgJJmGQaOvxTwtUP3vz.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=fcd348ba166bd40056642e4eeb30d0050d3bcfa8\" alt=\"Finalizing the mascot for my #shipaton project\" title=\"Finalizing the m"
-  },
-  {
-   "title": "I wish workout apps helped us understand why our best training periods were actually our best",
-   "link": "https://www.reddit.com/r/jointopset/comments/1vvabr1/i_wish_workout_apps_helped_us_understand_why_our/",
-   "date": "2026-08-22T11:47:56+00:00",
-   "author": "/u/Abooyeah",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/jointopset/comments/1vvabr1/i_wish_workout_apps_helped_us_understand_why_our/\"> <img src=\"https://preview.redd.it/fiyuu8j1zwkh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=6bf358057fae3a5f2d1bf6f357318c20490ff938\" alt=\"I wish workout apps helped us understand why our best training periods were actually our best\" title=\"I wish workout apps hel"
-  },
-  {
-   "title": "Meet Frens!",
-   "link": "https://www.reddit.com/r/Frenby/comments/1vuh0qs/meet_frens/",
-   "date": "2026-08-21T13:53:36+00:00",
-   "author": "/u/BehindTheInterface",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Frenby/comments/1vuh0qs/meet_frens/\"> <img src=\"https://preview.redd.it/vwylj3mrgqkh1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=6c5b155d401b49f2af8840a0af1df0bb6797337f\" alt=\"Meet Frens!\" title=\"Meet Frens!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://x.com/i/communities/1493446837214187523/hashtag/BuildInPublic\">#B"
   }
  ]
 }

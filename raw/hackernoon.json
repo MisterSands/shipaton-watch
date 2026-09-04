@@ -1,9 +1,79 @@
 {
  "source": "hackernoon",
  "url": "https://hackernoon.com/tagged/shipaton/feed",
- "fetched_at": "2026-09-02T14:53:02Z",
+ "fetched_at": "2026-09-04T09:30:02Z",
  "count": 50,
  "items": [
+  {
+   "title": "How I Built a Real-World Kotlin Multiplatform App",
+   "link": "https://hackernoon.com/how-i-built-a-real-world-kotlin-multiplatform-app?source=rss",
+   "date": "Fri, 04 Sep 2026 02:01:46 GMT",
+   "author": "Casey",
+   "summary": ""
+  },
+  {
+   "title": "Why I Refuse to Sell My App’s Most Valuable Feature",
+   "link": "https://hackernoon.com/why-i-refuse-to-sell-my-apps-most-valuable-feature?source=rss",
+   "date": "Fri, 04 Sep 2026 01:49:07 GMT",
+   "author": "Naoto Yamabe",
+   "summary": ""
+  },
+  {
+   "title": "I Posted Two TikToks With No Link to My App and I Still Got a Paid Subscriber",
+   "link": "https://hackernoon.com/i-posted-two-tiktoks-with-no-link-to-my-app-and-i-still-got-a-paid-subscriber?source=rss",
+   "date": "Thu, 03 Sep 2026 11:59:59 GMT",
+   "author": "Kirill Semenov",
+   "summary": ""
+  },
+  {
+   "title": "How to Stop Burning Revenue on Bootstrapped SaaS",
+   "link": "https://hackernoon.com/how-to-stop-burning-revenue-on-bootstrapped-saas?source=rss",
+   "date": "Thu, 03 Sep 2026 10:59:59 GMT",
+   "author": "CSKaron",
+   "summary": ""
+  },
+  {
+   "title": "Five Times Pixbu’s Tests Measured the Wrong Thing",
+   "link": "https://hackernoon.com/five-times-pixbus-tests-measured-the-wrong-thing?source=rss",
+   "date": "Thu, 03 Sep 2026 09:59:59 GMT",
+   "author": "dedemavci",
+   "summary": ""
+  },
+  {
+   "title": "My Safety Checks Were Monuments to Bugs I Had Already Fixed",
+   "link": "https://hackernoon.com/my-safety-checks-were-monuments-to-bugs-i-had-already-fixed?source=rss",
+   "date": "Thu, 03 Sep 2026 09:14:59 GMT",
+   "author": "Ushio Hoshino",
+   "summary": ""
+  },
+  {
+   "title": "From Rejection to Release: How the Pinoy-Made App Todochi Got on Google Play",
+   "link": "https://hackernoon.com/from-rejection-to-release-how-the-pinoy-made-app-todochi-got-on-google-play?source=rss",
+   "date": "Thu, 03 Sep 2026 07:59:59 GMT",
+   "author": "Todochi",
+   "summary": ""
+  },
+  {
+   "title": "Four Weeks of Building Buildhorn for Shipaton 2026",
+   "link": "https://hackernoon.com/four-weeks-of-building-buildhorn-for-shipaton-2026?source=rss",
+   "date": "Wed, 02 Sep 2026 16:45:33 GMT",
+   "author": "Darryl Bayliss",
+   "summary": ""
+  },
+  {
+   "title": "The HackerNoon Newsletter: I Have Two Testers for my App. One of Them is my Wife (9/2/2026)",
+   "link": "https://hackernoon.com/9-2-2026-newsletter?source=rss",
+   "date": "Wed, 02 Sep 2026 16:05:25 GMT",
+   "author": "Noonification",
+   "summary": ""
+  },
+  {
+   "title": "Turning Apple Pencil Into a Reed Pen: How I Built and Shipped Qalaris",
+   "link": "https://hackernoon.com/turning-apple-pencil-into-a-reed-pen-how-i-built-and-shipped-qalaris?source=rss",
+   "date": "Wed, 02 Sep 2026 14:52:53 GMT",
+   "author": "Akif",
+   "summary": ""
+  },
   {
    "title": "I Gave an On-Device LLM a Search Tool. It Ignored It and Made Up Data Instead",
    "link": "https://hackernoon.com/i-gave-an-on-device-llm-a-search-tool-it-ignored-it-and-made-up-data-instead?source=rss",
@@ -282,76 +352,6 @@
    "link": "https://hackernoon.com/one-week-into-shipaton-we-had-shipped-nothing?source=rss",
    "date": "Tue, 18 Aug 2026 16:31:50 GMT",
    "author": "Nora Wang",
-   "summary": ""
-  },
-  {
-   "title": "How to Find and Validate a Shipaton Idea in Three Days",
-   "link": "https://hackernoon.com/how-to-find-and-validate-a-shipaton-idea-in-three-days?source=rss",
-   "date": "Mon, 17 Aug 2026 15:26:56 GMT",
-   "author": "RevenueCat",
-   "summary": ""
-  },
-  {
-   "title": "The HackerNoon Newsletter: Navigating Claude Code: The Full Workflow (8/16/2026)",
-   "link": "https://hackernoon.com/8-16-2026-newsletter?source=rss",
-   "date": "Sun, 16 Aug 2026 16:07:09 GMT",
-   "author": "Noonification",
-   "summary": ""
-  },
-  {
-   "title": "Building Buildhorn for Shipaton 2026: Week Two Progress",
-   "link": "https://hackernoon.com/building-buildhorn-for-shipaton-2026-week-two-progress?source=rss",
-   "date": "Fri, 14 Aug 2026 02:53:56 GMT",
-   "author": "Darryl Bayliss",
-   "summary": ""
-  },
-  {
-   "title": "How I Stop AI Coding Agents From “Improving” Away Important Features",
-   "link": "https://hackernoon.com/how-i-stop-ai-coding-agents-from-improving-away-important-features?source=rss",
-   "date": "Thu, 13 Aug 2026 04:00:54 GMT",
-   "author": "Naoto Yamabe",
-   "summary": ""
-  },
-  {
-   "title": "Four Brothers from the Philippines, One App: Building Todochi for Shipaton 2026",
-   "link": "https://hackernoon.com/four-brothers-from-the-philippines-one-app-building-todochi-for-shipaton-2026?source=rss",
-   "date": "Wed, 12 Aug 2026 10:08:08 GMT",
-   "author": "Todochi",
-   "summary": ""
-  },
-  {
-   "title": "How I Run Two AI Coding Agents on One Codebase",
-   "link": "https://hackernoon.com/how-i-run-two-ai-coding-agents-on-one-codebase?source=rss",
-   "date": "Wed, 12 Aug 2026 07:34:16 GMT",
-   "author": "Naoto Yamabe",
-   "summary": ""
-  },
-  {
-   "title": "The Hidden Cost of AI-Generated Product Decisions",
-   "link": "https://hackernoon.com/the-hidden-cost-of-ai-generated-product-decisions?source=rss",
-   "date": "Wed, 12 Aug 2026 06:26:12 GMT",
-   "author": "Carol Bolger",
-   "summary": ""
-  },
-  {
-   "title": "My Shipaton Build: A CI Status App for Developers",
-   "link": "https://hackernoon.com/my-shipaton-build-a-ci-status-app-for-developers?source=rss",
-   "date": "Wed, 12 Aug 2026 06:23:39 GMT",
-   "author": "Darryl Bayliss",
-   "summary": ""
-  },
-  {
-   "title": "My Shipaton Quest: Building, Shipping and Growing Name Ninja",
-   "link": "https://hackernoon.com/my-shipaton-quest-building-shipping-and-growing-name-ninja?source=rss",
-   "date": "Tue, 11 Aug 2026 13:55:21 GMT",
-   "author": "Marc",
-   "summary": ""
-  },
-  {
-   "title": "Inside RedFlag, Our Shipaton 2026 App for Detecting Job Scams",
-   "link": "https://hackernoon.com/inside-redflag-our-shipaton-2026-app-for-detecting-job-scams?source=rss",
-   "date": "Tue, 11 Aug 2026 12:09:42 GMT",
-   "author": "tooba",
    "summary": ""
   }
  ]

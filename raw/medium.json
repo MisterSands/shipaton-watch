@@ -1,9 +1,16 @@
 {
  "source": "medium",
  "url": "https://medium.com/feed/tag/shipaton",
- "fetched_at": "2026-09-02T14:53:02Z",
+ "fetched_at": "2026-09-04T09:30:02Z",
  "count": 10,
  "items": [
+  {
+   "title": "I built a paywall that refuses to sell the most valuable feature",
+   "link": "https://medium.com/@WorldFishingMap/i-built-a-paywall-that-refuses-to-sell-the-most-valuable-feature-1c765b72503a?source=rss------shipaton-5",
+   "date": "Thu, 03 Sep 2026 09:56:37 GMT",
+   "author": "Naoto Yamabe",
+   "summary": "Most apps decide what to charge for. I spent longer deciding what I would refuse to charge for, and that turned out to be the harder…   Continue reading on Medium »"
+  },
   {
    "title": "JOOQ code from Flyway migration, with no database",
    "link": "https://medium.com/@behzodhalil/jooq-code-from-flyway-migration-with-no-database-0a9632430f69?source=rss------shipaton-5",
@@ -66,13 +73,6 @@
    "date": "Tue, 11 Aug 2026 01:33:29 GMT",
    "author": "Naoto Yamabe",
    "summary": "An AI coding agent will happily hand you a refactor that is smaller, cleaner, better named — and quietly missing a feature.   Continue reading on Medium »"
-  },
-  {
-   "title": "Two AI agents, one repo: how I split a codebase between Claude Code and ChatGPT Codex",
-   "link": "https://medium.com/@WorldFishingMap/two-ai-agents-one-repo-how-i-split-a-codebase-between-claude-code-and-chatgpt-codex-a5dc55878c36?source=rss------shipaton-5",
-   "date": "Sun, 09 Aug 2026 15:33:07 GMT",
-   "author": "Naoto Yamabe",
-   "summary": "I have been building a fishing app for 58 days.   Continue reading on Medium »"
   }
  ]
 }
