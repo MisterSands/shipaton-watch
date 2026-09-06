@@ -1,6 +1,6 @@
 # Shipaton 2026 — competitor watch
 
-Every published entrant in the **Games** category on apps.shipaton.com/2026 — all of them compete for the Best Game Award, not just the ones near HALL PASS's genre. ⚠ marks genre proximity (roguelike / survivors / arena / horde). Sorted by App Store rating count, the only public traction signal. The daily routine appends new games and notes rating growth.
+Every published entrant in the **Games** category on apps.shipaton.com/2026 — all of them compete for the Best Game Award, not just the ones near HALL PASS's genre. ⚠ marks genre proximity (roguelike / survivors / arena / horde). Sorted by App Store rating count, the only public traction signal. The daily routine appends new games and notes rating growth. Rows marked **Not Shipped** are pre-release entrants spotted via build-in-public posts, not yet on apps.shipaton.com — tracked manually and moved to a normal rating once they appear in the showcase feed.
 
 | Name | What | Developer | Platforms | Rating (n) | Links | First seen |
 |---|---|---|---|---|---|---|
@@ -40,3 +40,4 @@ Every published entrant in the **Games** category on apps.shipaton.com/2026 — 
 | Velocity Unleashed | Put the hammer down in a polished SceneKit racing experience with real 3D tracks, dynamic lighting, physics-ba | Omer Younus | iPhone | — | [showcase](https://apps.shipaton.com/app/velocity-unleashed) · [store](https://apps.apple.com/us/app/velocity-unleashed/id6794736953?uo=4) | 2026-09-02 |
 | ⚠ VOLTFIELD: 80s Classic Arcade | VOLTFIELD is a neon arcade game about taking ground back, made in the spirit of the old classics Qix and Volfi | Hasan Turken | iPhone | — | [showcase](https://apps.shipaton.com/app/voltfield-80s-classic-arcade) · [store](https://apps.apple.com/us/app/voltfield-80s-classic-arcade/id6787507847?uo=4) | 2026-09-02 |
 | Zanshin Spirit: Leaf Blade | Zanshin Spirit: Leaf Blade is a one-swipe slashing action game wrapped in modern Japanese aesthetics — lacquer | HARO WORKS | iPhone, Android | — | [showcase](https://apps.shipaton.com/app/zanshin-spirit-leaf-blade) · [store](https://apps.apple.com/us/app/zanshin-spirit-leaf-blade/id6799004346?uo=4) | 2026-09-02 |
+| ⚠ NICHLYST | Narrative survival game built as a "novel you can fail" — branching endings, permadeath-style failure states | koztechie | TBD | Not Shipped | [build journal](https://dev.to/koztechie/building-nichlyst-explosions-medication-and-rewriting-15-days-as-a-novel-you-can-fail-583g) | 2026-09-06 |
