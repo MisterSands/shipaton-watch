@@ -118,8 +118,19 @@ def parse_html_links(doc, base):
 
 def collect_feeds(stamp, status):
     for name, (url, kind) in FEEDS.items():
+        # Reddit throttles hard per-IP; 1.1s between two reddit.com calls earns a
+        # 429 every time. Give it room and retry once.
+        if "reddit.com" in url:
+            time.sleep(4)
         try:
-            doc = fetch(url)
+            try:
+                doc = fetch(url)
+            except Exception as e:
+                if getattr(e, "code", None) == 429:
+                    time.sleep(15)
+                    doc = fetch(url)
+                else:
+                    raise
             if kind == "rss":
                 items = parse_rss(doc)
             elif kind == "atom":

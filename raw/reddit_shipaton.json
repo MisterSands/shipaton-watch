@@ -1,0 +1,29 @@
+{
+ "source": "reddit_shipaton",
+ "url": "https://www.reddit.com/r/shipaton/new.rss",
+ "fetched_at": "test",
+ "count": 3,
+ "items": [
+  {
+   "title": "D12 · #003 · Mail boundary fixed",
+   "link": "https://www.reddit.com/r/shipaton/comments/1vmompd/d12_003_mail_boundary_fixed/",
+   "date": "2026-08-12T19:49:51+00:00",
+   "author": "/u/IamAngusU",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/shipaton/comments/1vmompd/d12_003_mail_boundary_fixed/\"> <img src=\"https://preview.redd.it/f7qjbw6l00jh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7597c05c1c09153981771747b8fd57da884b871d\" alt=\"D12 · #003 · Mail boundary fixed\" title=\"D12 · #003 · Mail boundary fixed\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Fixed the thing from"
+  },
+  {
+   "title": "D11 · #002 · Production met reality",
+   "link": "https://www.reddit.com/r/shipaton/comments/1vlnszv/d11_002_production_met_reality/",
+   "date": "2026-08-11T17:20:46+00:00",
+   "author": "/u/IamAngusU",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/shipaton/comments/1vlnszv/d11_002_production_met_reality/\"> <img src=\"https://preview.redd.it/62ji9yu25sih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f5ac8e692c4bca319641aa855ba550727b8b4cc7\" alt=\"D11 · #002 · Production met reality\" title=\"D11 · #002 · Production met reality\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Found somet"
+  },
+  {
+   "title": "👋 Welcome to the unofficial r/shipaton community!",
+   "link": "https://www.reddit.com/r/shipaton/comments/1vi3zgu/welcome_to_the_unofficial_rshipaton_community/",
+   "date": "2026-08-07T15:36:41+00:00",
+   "author": "/u/IamAngusU",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/shipaton/comments/1vi3zgu/welcome_to_the_unofficial_rshipaton_community/\"> <img src=\"https://preview.redd.it/7z5chg2v2zhh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6f9a0820ac0bbfcc15850c1cec6b5c22e4c96202\" alt=\"👋 Welcome to the unofficial r/shipaton community!\" title=\"👋 Welcome to the unofficial r/shipaton community!\" /> </a> </td><td> <!"
+  }
+ ]
+}
