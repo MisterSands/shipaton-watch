@@ -1,13 +1,13 @@
 {
- "fetched_at": "2026-09-04T09:30:02Z",
+ "fetched_at": "2026-09-09T11:29:18Z",
  "sources": {
   "hackernoon": "ok 50",
   "devto": "ok 12",
   "reddit": "ok 24",
   "reddit_shipaton": "FAIL HTTPError 429",
-  "revenuecat_blog": "ok 3",
+  "revenuecat_blog": "ok 4",
   "shipaton_blog": "ok 18",
   "medium": "ok 10",
-  "showcase_2026": "ok 309 apps (+0 new, 0 failed) \u00b7 36 games"
+  "showcase_2026": "ok 472 apps (+163 new, 0 failed) \u00b7 44 games"
  }
 }

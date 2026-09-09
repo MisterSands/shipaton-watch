@@ -1,9 +1,86 @@
 {
  "source": "hackernoon",
  "url": "https://hackernoon.com/tagged/shipaton/feed",
- "fetched_at": "2026-09-04T09:30:02Z",
+ "fetched_at": "2026-09-09T11:29:18Z",
  "count": 50,
  "items": [
+  {
+   "title": "Building Isolyne (Part 3): Testing State Supersession and Idempotent Replay in a CQRS Event Engine",
+   "link": "https://hackernoon.com/building-isolyne-part-3-testing-state-supersession-and-idempotent-replay-in-a-cqrs-event-engine?source=rss",
+   "date": "Wed, 09 Sep 2026 09:59:59 GMT",
+   "author": "AMIT KUMAR GUPTA",
+   "summary": ""
+  },
+  {
+   "title": "Building Four Apps Turned Out To Be Easier Than Shipping One",
+   "link": "https://hackernoon.com/building-four-apps-turned-out-to-be-easier-than-shipping-one?source=rss",
+   "date": "Wed, 09 Sep 2026 08:59:59 GMT",
+   "author": "TooManyTabsOpen",
+   "summary": ""
+  },
+  {
+   "title": "Buildhorn Nears App Store Release After Five Weeks",
+   "link": "https://hackernoon.com/buildhorn-nears-app-store-release-after-five-weeks?source=rss",
+   "date": "Wed, 09 Sep 2026 03:10:22 GMT",
+   "author": "Darryl Bayliss",
+   "summary": ""
+  },
+  {
+   "title": "I’m Building a Study App That Predicts What You’re About To Forget",
+   "link": "https://hackernoon.com/im-building-a-study-app-that-predicts-what-youre-about-to-forget?source=rss",
+   "date": "Tue, 08 Sep 2026 22:15:17 GMT",
+   "author": "Abeera",
+   "summary": ""
+  },
+  {
+   "title": "How I Built a Spaced-Repetition Widget With SwiftUI and WidgetKit",
+   "link": "https://hackernoon.com/how-i-built-a-spaced-repetition-widget-with-swiftui-and-widgetkit?source=rss",
+   "date": "Tue, 08 Sep 2026 21:31:31 GMT",
+   "author": "Hulya Masharipov",
+   "summary": ""
+  },
+  {
+   "title": "Building Dogear Taught Me to Validate Before I Ship",
+   "link": "https://hackernoon.com/building-dogear-taught-me-to-validate-before-i-ship?source=rss",
+   "date": "Tue, 08 Sep 2026 21:26:20 GMT",
+   "author": "Rockindash",
+   "summary": ""
+  },
+  {
+   "title": "Building Isolyne (Part 2): How We Detect Silent Architectural Drift with Zero AI Hallucinations",
+   "link": "https://hackernoon.com/building-isolyne-part-2-how-we-detect-silent-architectural-drift-with-zero-ai-hallucinations?source=rss",
+   "date": "Tue, 08 Sep 2026 20:05:13 GMT",
+   "author": "AMIT KUMAR GUPTA",
+   "summary": ""
+  },
+  {
+   "title": "I Built the Game. Now I Need to Find Out If Anyone Wants It",
+   "link": "https://hackernoon.com/i-built-the-game-now-i-need-to-find-out-if-anyone-wants-it?source=rss",
+   "date": "Tue, 08 Sep 2026 19:37:07 GMT",
+   "author": "Niv",
+   "summary": ""
+  },
+  {
+   "title": "How Cloud Policies and Store Verification Delayed My Mobile App Release",
+   "link": "https://hackernoon.com/how-cloud-policies-and-store-verification-delayed-my-mobile-app-release?source=rss",
+   "date": "Tue, 08 Sep 2026 16:32:42 GMT",
+   "author": "Ushio Hoshino",
+   "summary": ""
+  },
+  {
+   "title": "On-Device Body Tracking in a PWA: How AURADUEL Scores an Aura Battle Without a Server",
+   "link": "https://hackernoon.com/on-device-body-tracking-in-a-pwa-how-auraduel-scores-an-aura-battle-without-a-server?source=rss",
+   "date": "Tue, 08 Sep 2026 14:29:59 GMT",
+   "author": "bleiquel",
+   "summary": ""
+  },
+  {
+   "title": "Building an On-Device AR Game With MediaPipe, PixiJS, and Capacitor",
+   "link": "https://hackernoon.com/building-an-on-device-ar-game-with-mediapipe-pixijs-and-capacitor?source=rss",
+   "date": "Mon, 07 Sep 2026 20:42:04 GMT",
+   "author": "bleiquel",
+   "summary": ""
+  },
   {
    "title": "How I Built a Real-World Kotlin Multiplatform App",
    "link": "https://hackernoon.com/how-i-built-a-real-world-kotlin-multiplatform-app?source=rss",
@@ -275,83 +352,6 @@
    "link": "https://hackernoon.com/one-early-return-turned-my-14-day-trial-into-a-free-licence?source=rss",
    "date": "Thu, 20 Aug 2026 12:03:56 GMT",
    "author": "Peter Dongo",
-   "summary": ""
-  },
-  {
-   "title": "Five Days Into Shipaton 2026: Building, Breaking, and Rethinking ROLL Beauty",
-   "link": "https://hackernoon.com/five-days-into-shipaton-2026-building-breaking-and-rethinking-roll-beauty?source=rss",
-   "date": "Thu, 20 Aug 2026 09:00:00 GMT",
-   "author": "Ryu | AMANEKU Studio",
-   "summary": ""
-  },
-  {
-   "title": "The HackerNoon Newsletter: Has LinkedIn Become the New Business Newspaper? (8/19/2026)",
-   "link": "https://hackernoon.com/8-19-2026-newsletter?source=rss",
-   "date": "Wed, 19 Aug 2026 16:06:30 GMT",
-   "author": "Noonification",
-   "summary": ""
-  },
-  {
-   "title": "From HAIRLOOP to ROLL Beauty: Naming Our 360° Hairstyle App for Shipaton",
-   "link": "https://hackernoon.com/from-hairloop-to-roll-beauty-naming-our-360-hairstyle-app-for-shipaton?source=rss",
-   "date": "Wed, 19 Aug 2026 15:48:30 GMT",
-   "author": "Ryu | AMANEKU Studio",
-   "summary": ""
-  },
-  {
-   "title": "I Let AI Write 2,940 Fish Descriptions. Here’s What Broke",
-   "link": "https://hackernoon.com/i-let-ai-write-2940-fish-descriptions-heres-what-broke?source=rss",
-   "date": "Wed, 19 Aug 2026 05:49:21 GMT",
-   "author": "Naoto Yamabe",
-   "summary": ""
-  },
-  {
-   "title": "Week 2 of Shipaton 2026: Pinoy-Made App, Todochi, Enters Public Testing",
-   "link": "https://hackernoon.com/week-2-of-shipaton-2026-pinoy-made-app-todochi-enters-public-testing?source=rss",
-   "date": "Tue, 18 Aug 2026 18:17:19 GMT",
-   "author": "Todochi",
-   "summary": ""
-  },
-  {
-   "title": "I’ve Started Hundreds of Projects. Shipaton Might Help Me Finish This One",
-   "link": "https://hackernoon.com/starting-what-you-finish?source=rss",
-   "date": "Tue, 18 Aug 2026 18:07:37 GMT",
-   "author": "SoteriaApps",
-   "summary": ""
-  },
-  {
-   "title": "How I Built CatPulse, a Private Offline Cat Care App That Speaks 19 Languages",
-   "link": "https://hackernoon.com/how-i-built-catpulse-a-private-offline-cat-care-app-that-speaks-19-languages?source=rss",
-   "date": "Tue, 18 Aug 2026 17:43:06 GMT",
-   "author": "Onour Impram",
-   "summary": ""
-  },
-  {
-   "title": "Your Build-in-Public Followers Are Not Your Users. Build-FOR-Public Instead",
-   "link": "https://hackernoon.com/your-build-in-public-followers-are-not-your-users-build-for-public-instead?source=rss",
-   "date": "Tue, 18 Aug 2026 17:31:45 GMT",
-   "author": "Maxime Deleau",
-   "summary": ""
-  },
-  {
-   "title": "For Shipaton, I Built an AI Voice Memory App That Never Stores Your Data on a Server",
-   "link": "https://hackernoon.com/for-shipaton-i-built-an-ai-voice-memory-app-that-never-stores-your-data-on-a-server?source=rss",
-   "date": "Tue, 18 Aug 2026 17:06:03 GMT",
-   "author": "sahil soni",
-   "summary": ""
-  },
-  {
-   "title": "Why I Ignored the Winning Option",
-   "link": "https://hackernoon.com/why-i-ignored-the-winning-option?source=rss",
-   "date": "Tue, 18 Aug 2026 16:52:28 GMT",
-   "author": "Niv",
-   "summary": ""
-  },
-  {
-   "title": "One Week Into Shipaton, We Had Shipped Nothing",
-   "link": "https://hackernoon.com/one-week-into-shipaton-we-had-shipped-nothing?source=rss",
-   "date": "Tue, 18 Aug 2026 16:31:50 GMT",
-   "author": "Nora Wang",
    "summary": ""
   }
  ]

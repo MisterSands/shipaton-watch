@@ -1,9 +1,16 @@
 {
  "source": "revenuecat_blog",
  "url": "https://www.revenuecat.com/blog/rss.xml",
- "fetched_at": "2026-09-04T09:30:02Z",
- "count": 3,
+ "fetched_at": "2026-09-09T11:29:18Z",
+ "count": 4,
  "items": [
+  {
+   "title": "Gurwi: How to turn building in public into a Shipaton #BuildInPublic win",
+   "link": "https://www.revenuecat.com/blog/company/gurwi-build-in-public-shipaton",
+   "date": "Thu, 03 Sep 2026 20:36:00 GMT",
+   "author": "Perttu Lähteenlahti",
+   "summary": "How building in public can get strangers to give you money to build your dreams, capture the attention of politicians, and bring loyal customers"
+  },
   {
    "title": "The late submitter's guide to getting through app review",
    "link": "https://www.revenuecat.com/blog/company/the-late-submitters-guide-to-getting-through-app-review",

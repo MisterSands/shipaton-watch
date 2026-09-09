@@ -1,7 +1,7 @@
 {
  "source": "showcase_games",
- "fetched_at": "2026-09-04T09:30:02Z",
- "count": 36,
+ "fetched_at": "2026-09-09T11:29:18Z",
+ "count": 44,
  "flagged_roguelike": [
   "brewmancer-roguelike",
   "lms-land-of-magic-spices",
@@ -18,14 +18,14 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 4.9,
-   "rating_count": 19,
+   "rating": 5.0,
+   "rating_count": 25,
    "store_links": [
     "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4"
    ],
-   "description": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space. Nitelore is extreme anti-gravity racing with explosive combat, rival pilots and constantly escalating challenges. Conquer Grand Prix seasons, chase the perfect lap, survive brutal eliminations and destroy your opponents in all-out death races. ENDLESS RACING - Compete across multiple cups, zones and full Grand Prix seasons. - Rise through the leagues and race for the championship. - Master every track, upgrade your ships and keep pushing for faster times. MULTIPLE GAME MODES - Grand Prix - Battle through complete seasons and claim the title. - Time Attack - Race against your personal-best ghost and shave every possible second from your time. - Elimination - Every 20 seconds, the last vehicle explodes. Stay ahead or be destroyed. - Death Race - Anything goes. Attack your rivals and be the last ship standing. SPECTACULAR TRACKS - Race through futuristic cities, volcanic plains, lunar landscapes, raging oceans and even a colossal star. - Discover alternate routes, dangerous obstacles and unique surprises on every track. - More tracks being added all the time! BUILD YOUR FLEET - Unlock a range of ",
+   "description": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space. Nitelore is extreme anti-gravity racing with explosive combat, rival pilots and constantly escalating challenges. Conquer Grand Prix seasons, chase the perfect lap, survive brutal eliminations and destroy your opponents in all-out death races. ENDLESS RACING - Compete across multiple cups, zones and full Grand Prix seasons. - Rise through the leagues and race for the championship. - Master every track, upgrade your ships and keep pushing for faster times. MULTIPLE GAME MODES - Grand Prix - Battle through complete seasons and claim the title. - Time Attack - Race against your personal-best ghost and shave every possible second from your time. - Elimination - Every 20 seconds, the last vehicle explodes. Stay ahead or be destroyed. - Death Race - Anything goes. Attack your rivals and be the last ship standing. ONLINE MULTIPLAYER - Race against friends or strangers online across all your tracks and game modes - Quick race to jump right in to the action - Invite your friends and have a group race - New Time Duel mode to compete for the record - Build your online rating and compete with others for m",
    "first_seen": "2026-09-02",
-   "rating_count_prev": 13,
+   "rating_count_prev": 19,
    "gamey": false,
    "is_game": true,
    "gaining": true
@@ -46,10 +46,10 @@
    ],
    "description": "10+ Games is a hub of fun, positive mini-games for kids ages 6 and up—and families who want to play together. One download. Ten-plus ways to play. Open a bright game hub, pick something fun, and jump in. Most games feel great in about 1–3 minutes—perfect for a quick break or couch time with a sibling or parent. Play alone or together Several games support same-device two-player play. No accounts. No online strangers. Just tap, play, and smile. What’s inside • Space Heroes — pilot a Starship, clear asteroids, and dock at the station • Cosmic Match — bright matching fun • Gold Defense & Food Defense — playful tower-style challenges • Body Defense — cartoon defenders keep the Heart Hub safe • Stone Stack — calm, tactile moon-rock stacking • Draw Together — glow-draw alone or with a friend on one device • Maze Runner & Mars Sprint — race and escape on Mars • Space Ants — dig tunnels and watch ants carry crumbs home • More games Coming Soon inside the hub Built for families • Designed for Apple’s Kids Category (ages 6+) • No third-party ads or tracking SDKs • Progress stays on your device—no account required • Parental gate before purchases and links that leave the app Made by Spiritual",
    "first_seen": "2026-09-02",
-   "rating_count_prev": 4,
+   "rating_count_prev": 7,
    "gamey": false,
    "is_game": true,
-   "gaining": true
+   "gaining": false
   },
   {
    "slug": "consoly-coding-challenges",
@@ -76,6 +76,49 @@
    "gaining": false
   },
   {
+   "slug": "nomikit-tiny-things-you-build",
+   "name": "NomiKit: Tiny Things You Build",
+   "url": "https://apps.shipaton.com/app/nomikit-tiny-things-you-build",
+   "category": "Games",
+   "developer": "Xiangyu Ren",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 3,
+   "store_links": [
+    "https://apps.apple.com/us/app/nomikit-tiny-things-you-build/id6798403681?uo=4"
+   ],
+   "description": "Unboxing, making, and collecting - shrunk into one pocket-sized fun! Sweep a finger along the sprue and snip every part free. Snap them into place, one click at a time. A few seconds later, something small is standing on your desk - and it's yours, because you built it. BUILT FOR FINGERS Every part pops loose with a flick and lands in its socket with a click you can feel. Haptics tuned like a fidget toy. Just the quiet satisfaction of putting a thing together. A SHELF WORTH KEEPING Finished kits don't vanish into a menu. They line up on your shelf. The collection fills slowly - that's the good part. A GENTLE RHYTHM The production line turns out free boxes while you're away. Come back, unbox, build, admire, repeat. A session fits inside a coffee break! Terms of Service: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Privacy Notice: https://nomikit.com/privacy A subscription purchase is required to unlock the app's premium experience. A subscription purchase will be applied to your iTunes account if you start. Subscriptions will automatically renew unless canceled one day before the end of the current period. You can cancel anytime with your iTunes account settings",
+   "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": true,
+   "gaining": false
+  },
+  {
+   "slug": "offsuit-blackjack-21",
+   "name": "Offsuit: Blackjack 21",
+   "url": "https://apps.shipaton.com/app/offsuit-blackjack-21",
+   "category": "Games",
+   "developer": "Offsuit Games, Inc.",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": 4.3,
+   "rating_count": 3,
+   "store_links": [
+    "https://apps.apple.com/us/app/offsuit-blackjack-21/id6749341906?uo=4",
+    "https://play.google.com/store/apps/details?id=com.bjack.app",
+    "https://play.google.com/store/apps/details?id=com.bjack.app&amp;hl=en&amp;gl=us"
+   ],
+   "description": "This is blackjack, redesigned. No forced pop-up ads, and no fake felt or neon. Just beautiful, dead simple hands of 21. Learn basic blackjack strategy as you go, or just play the hand in front of you. From the team behind Offsuit Poker. Key Features: • Clean Design: Minimal and modern, no casino clutter • Fast Hands: Auto-deal keeps the table moving • Build a Streak: Gain XP the longer you win • Customizable: Unlock themes, chips, card faces and backs Every hand of 21 is dealt from a fairly shuffled deck. We do not manipulate cards or outcomes, ever. Offsuit Blackjack is intended for entertainment purposes only and does not offer real money gambling or any opportunity to win real money or physical prizes based on gameplay. Success in this game does not imply or guarantee future success at real money gambling. While Offsuit Blackjack is free to download and play, you have the option to purchase virtual items with real money within the game. Terms of Service: https://www.offsuit.app/terms Privacy Policy: https://www.offsuit.app/privacy Information Seller Offsuit Games, Inc. Compatibility iPhone and Android Genres Games, Card, Casino You might also like Party Animals: Truth or Dare 20",
+   "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": true,
+   "gaining": false
+  },
+  {
    "slug": "chess-rupt-arcade-chess",
    "name": "CHESS/RUPT: Arcade Chess",
    "url": "https://apps.shipaton.com/app/chess-rupt-arcade-chess",
@@ -89,7 +132,7 @@
    "store_links": [
     "https://apps.apple.com/us/app/chess-rupt-arcade-chess/id6779024949?uo=4"
    ],
-   "description": "Every move changes the board. CHESS/RUPT is a turn-based arcade survival game inspired by chess. Move like familiar pieces, transform when the board gives you a chance, and survive as tiles crack, fall away, and reshape the match. Play a fresh Daily Challenge with shared rules for everyone. Push through Crown Trials for a streak score. Explore Free Play across Arcade, Puzzle, and Battle modes. No consumable coins, randomized loot, or advertising. Everyone receives three new plays each day across Free Play, Crown Trials, and Puzzle Mode, while Daily Challenge and Daily Puzzle remain free. The optional one-time Unlimited Plays upgrade removes all daily limits on Crown Trials, Puzzle Mode, and Free Play Mode. Information Seller Ankur Gupta LLC Compatibility iPhone Genres Games, Board, Strategy You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1251 apps from every Shipaton. Shipaton",
+   "description": "Every move changes the board. CHESS/RUPT is a turn-based arcade survival game inspired by chess. Move like familiar pieces, transform when the board gives you a chance, and survive as tiles crack, fall away, and reshape the match. Play a fresh Daily Challenge with shared rules for everyone. Push through Crown Trials for a streak score. Explore Free Play across Arcade, Puzzle, and Battle modes. No consumable coins, randomized loot, or advertising. Everyone receives three new plays each day across Free Play, Crown Trials, and Puzzle Mode, while Daily Challenge and Daily Puzzle remain free. The optional one-time Unlimited Plays upgrade removes all daily limits on Crown Trials, Puzzle Mode, and Free Play Mode. Information Seller Ankur Gupta LLC Compatibility iPhone Genres Games, Board, Strategy You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1414 apps from every Shipaton. Shipaton",
    "first_seen": "2026-09-02",
    "rating_count_prev": 2,
    "gamey": false,
@@ -130,7 +173,7 @@
     "iPhone"
    ],
    "rating": 5.0,
-   "rating_count": 2,
+   "rating_count": 3,
    "store_links": [
     "https://apps.apple.com/us/app/poodoku/id6788734619?uo=4"
    ],
@@ -139,7 +182,7 @@
    "rating_count_prev": 2,
    "gamey": false,
    "is_game": true,
-   "gaining": false
+   "gaining": true
   },
   {
    "slug": "chess-coach-play-learn",
@@ -229,6 +272,26 @@
    "gaining": false
   },
   {
+   "slug": "phantom-words",
+   "name": "Phantom Words",
+   "url": "https://apps.shipaton.com/app/phantom-words",
+   "category": "Games",
+   "developer": "Fleon Labs",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 1,
+   "store_links": [
+    "https://apps.apple.com/us/app/phantom-words/id6789995017?uo=4"
+   ],
+   "description": "We made Phantom Words for anyone who loves that small, satisfying moment when a jumble of letters suddenly turns into a word. Each board begins scrambled, with most of the letters hidden behind ghost tiles. Slide rows and columns like a 2D Rubik’s Cube, then look for words running across or down the board. Whenever you make one using a tile for the first time, another letter appears. Once every tile is used, the puzzle is complete. Longer words are worth more, while tiles lose value each time you use them. Yellow means a tile is nearly spent; red means you’ve leaned on it too often. Later boards introduce gaps that split rows and columns, multi-letter tiles that keep their letters together, wildcards that can stand in for any letter, and locked tiles that stay fixed until you use them in a word. And if a solution feels messy, you can always come back and find a more elegant one. There are four ways to play: • Classic has 99 handmade levels with increasing difficulty and evolving mechanics. • Endless starts small and procedurally grows while you play. • Daily Challenge gives everyone a new board each day, plus a streak to keep going. • Lightning Mode is the same word hunting, but ag",
+   "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": true,
+   "gaining": false
+  },
+  {
    "slug": "sky-pups-dash",
    "name": "Sky Pups Dash",
    "url": "https://apps.shipaton.com/app/sky-pups-dash",
@@ -266,7 +329,7 @@
    "store_links": [
     "https://apps.apple.com/us/app/b4orafter/id6783407308?uo=4"
    ],
-   "description": "Before OR After is a fast-paced trivia game that challenges players to determine whether one event, movie, person, invention, or other historical item happened before or after another based on their dates. Each round presents a pair of items, and players must use their knowledge and intuition to choose the correct chronological relationship. The game combines history, pop culture, science, sports, and other categories to create an experience that is easy to learn but increasingly challenging as the date differences become smaller. With quick rounds, a dynamic difficulty system, and a focus on both entertainment and learning, Before OR After rewards players for recognizing subtle timeline differences while encouraging them to discover fascinating facts along the way. Information Seller Stewart Whaley Compatibility iPhone Genres Games, Trivia, Family You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1251 apps from every Shipaton. Shipaton",
+   "description": "Before OR After is a fast-paced trivia game that challenges players to determine whether one event, movie, person, invention, or other historical item happened before or after another based on their dates. Each round presents a pair of items, and players must use their knowledge and intuition to choose the correct chronological relationship. The game combines history, pop culture, science, sports, and other categories to create an experience that is easy to learn but increasingly challenging as the date differences become smaller. With quick rounds, a dynamic difficulty system, and a focus on both entertainment and learning, Before OR After rewards players for recognizing subtle timeline differences while encouraging them to discover fascinating facts along the way. Information Seller Stewart Whaley Compatibility iPhone Genres Games, Trivia, Family You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1414 apps from every Shipaton. Shipaton",
    "first_seen": "2026-09-02",
    "rating_count_prev": null,
    "gamey": false,
@@ -290,6 +353,26 @@
    "description": "Tilt. Hop. Climb. Don't look down. Ball Jump Fest is a one-thumb arcade climber. Tilt your device to steer, tap to jump, and ride an endless ladder of bars as high as your nerve will carry you. Every new bar you land on is a point. Miss one, and the floor is waiting. HOW IT PLAYS Steer by tilting - the ball leans the way you do, smooth rather than twitchy. Tap anywhere to jump the moment you land, or flip on auto-jump and let the ball bounce for you while you handle nothing but the tilt. Bars are one-way, so you sail up through them and land on top. Drift off the side of the screen and you reappear on the other, so the edges are a shortcut, not a wall. There is no level to finish and no lives to spend. Bars keep generating above you forever. The only thing that ends a run is the floor. FEATURES - Endless, always-different climb - the tower never repeats - Tilt steering with a tap jump, or hands-off auto-jump - One-way bars and wrap-around edges to route around trouble - Instant restarts: die, tap, climb again - Your best score is kept on your device - no account, no sign-up - Sound and haptics you can toggle mid-run, from the game itself - Plays fully offline, on a plane or undergr",
    "first_seen": "2026-09-02",
    "rating_count_prev": null,
+   "gamey": false,
+   "is_game": true,
+   "gaining": false
+  },
+  {
+   "slug": "carpet-diem-cozy-rug-cleaner",
+   "name": "Carpet Diem: Cozy Rug Cleaner",
+   "url": "https://apps.shipaton.com/app/carpet-diem-cozy-rug-cleaner",
+   "category": "Games",
+   "developer": "Farting Pixel",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/carpet-diem-cozy-rug-cleaner/id6788496964?uo=4"
+   ],
+   "description": "Every carpet you clean is a real painting. The Mona Lisa, Starry Night, The Great Wave, The Night Watch, buried under years of grime, waiting for you to bring it back. Scrub. Foam. Squeegee. Watch a 500-year-old face surface out of the dirt under your thumb. RELAX AND SCRUB Drag your finger across the pile and the grime lifts in greyscale. Lay foam and the colour floods back in reds, golds and that impossible blue. There is no timer, no fail state, no one shouting at you. Clean until it feels done, then decide for yourself when to hand it back. DAY ONE, AND THEN YOU QUIT You start as an employee. Jeff hands you a filthy rug, shouts the job at you one verb at a time, and pays you a single dollar for it. Then you hand in your notice, walk out with none of his equipment, and open your own shop with a brush that can barely manage a thumbprint. Everything after that is yours, and your family notice. Your mum's neighbour needs a rug done. Your brother wants a favour. Uncle Vito has a hotel and a test piece, and your grandma has friends whose taste in art needs asking about first. THE SHINE IS THE MONEY Foam doesn't just look good. Restoring colour mints COLOUR ESSENCE: glossy bubbles tin",
+   "first_seen": "2026-09-09",
    "gamey": false,
    "is_game": true,
    "gaining": false
@@ -340,6 +423,26 @@
    "gaining": false
   },
   {
+   "slug": "colorrush-turf-war",
+   "name": "ColorRush: Turf War",
+   "url": "https://apps.shipaton.com/app/colorrush-turf-war",
+   "category": "Games",
+   "developer": "Görkem Güclü",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/colorrush-turf-war/id6657944298?uo=4"
+   ],
+   "description": "Read the tile, make the gesture, and capture the board before your rival does! ColorRush: Turf War is a fast, competitive color-territory game that combines lightning-quick touch reactions, shifting board control, streak-powered specials, and multi-category scoring. SWIPE, TAP & CAPTURE Every tile on the board demands a specific touch action: • Tap • Swipe Up, Down, Left, or Right Execute the correct gesture to color the tile for your team. But stay sharp—opponents can recapture your tiles at any time! SOLO & ONLINE COMPETITION • Solo Classic: Test your speed against 1 to 3 CPU opponents with adjustable difficulty (Easy, Medium, Hard). • Online 1v1 Versus: Match up against friends or players worldwide via Apple Game Center. STREAK-POWERED BOMBS Build your correct-action streak to fill your special meter. Trigger the Bomb to instantly claim up to 15 upcoming tiles across the board. But watch out: a single mistake resets your accumulated bomb progress! MULTIPLE PATHS TO VICTORY Victory isn't just about raw speed. Classic Mode matches evaluate five category points: 1. Tiles Colored (most board progress) 2. Correct Attempts (highest accuracy) 3. Max Streak (longest unbroken combo) 4. F",
+   "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": true,
+   "gaining": false
+  },
+  {
    "slug": "debugger-incident-terminal",
    "name": "DEBUGGER: Incident Terminal",
    "url": "https://apps.shipaton.com/app/debugger-incident-terminal",
@@ -356,7 +459,7 @@
     "https://play.google.com/store/apps/details?id=com.sumiredc.debugger",
     "https://play.google.com/store/apps/details?id=com.sumiredc.debugger&amp;hl=en&amp;gl=us"
    ],
-   "description": "■ It looks like a terminal. That's the point. Black screen. Neon green text. System logs scrolling forever. CPU load and memory pressure climbing. To anyone glancing over your shoulder on the train, you are debugging a complex production system. What you are actually doing is connecting three or more matching symbols. ■ How it plays You are an incident response engineer covering 16 data centers around the world. - Pick a degraded node on the world map - Travel there (the farther it is, the longer it takes) - Patch the bugs on site (that's the puzzle) - Earn experience and credits, then move to the next incident Tokyo, Seoul, Singapore, Frankfurt, Sao Paulo, Cape Town and more. Travel time is derived from real geographic distance, so crossing the planet actually costs you time. ■ Three numbers are trying to kill you While you work, three resources keep rising: - CPU — above 72% sectors of the board freeze and become unusable - MEM — at 65% the minimum COMBO grows from 3 to 4, at 88% to 5 - TRACE — accelerates the higher CPU and MEM get. This is your real timer If any of them hits 100%, the session is lost. Clearing three at a time will never outrun the load. You have to build bigger",
+   "description": "■ It looks like a terminal. That's the point. Black screen. Neon green text. System logs scrolling forever. CPU load and memory pressure climbing. To anyone glancing over your shoulder on the train, you are debugging a complex production system. What you are actually doing is connecting three or more matching symbols. ■ How it plays You are an incident response engineer covering 16 data centers around the world. - Pick a degraded node on the world map - Travel there (the farther it is, the longer it takes) - Patch the bugs on site (that's the puzzle) - Earn experience and move to the next incident (credits arrive on promotion) Tokyo, Seoul, Singapore, Frankfurt, Sao Paulo, Cape Town and more. Travel time is derived from real geographic distance, so crossing the planet actually costs you time. ■ Three numbers are trying to kill you While you work, three resources keep rising: - CPU — above 72% sectors of the board freeze and become unusable - MEM — at 65% the minimum COMBO grows from 3 to 4, at 88% to 5 - TRACE — accelerates the higher CPU and MEM get. This is your real timer If any of them hits 100%, the session is lost. Clearing three at a time will never outrun the load. You have",
    "first_seen": "2026-09-02",
    "rating_count_prev": null,
    "gamey": false,
@@ -410,6 +513,26 @@
    "gaining": false
   },
   {
+   "slug": "findshiba",
+   "name": "FindShiba!",
+   "url": "https://apps.shipaton.com/app/findshiba",
+   "category": "Games",
+   "developer": "Mario Saputra",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4"
+   ],
+   "description": "FindShiba! is a cozy logic puzzle: place every Shiba so each row, column, and colored region has exactly one, and no two Shibas touch — not even at the corners. It is a calm deduction game you can play in a quiet minute or a longer focus session, offline and on iPhone or iPad. HOW TO PLAY • Tap or drag to mark safe cells with × • Double-tap to place a Shiba • Use hearts, undo, and hints when you need a nudge • Finish campaign levels to bank score, earn badges, and climb the Total Score leaderboard FREE FEATURES • Full campaign board with a short, friendly tutorial • Local progress, scores, and badges on your device • Optional Game Center for achievements and Total Score • Home Screen widget for a quick daily board • A starter set of Shiba looks, hints, and background music FINDSHIBA! PRO (OPTIONAL PREMIUM) Some features are premium. You can play the campaign for free. FindShiba! Pro is an auto-renewable subscription or a one-time lifetime purchase and unlocks: • Additional Shiba styles • 100 hints at the start of every calendar month • Unlimited random puzzles • Extra cozy BGM tracks • Auto mark × to clear obvious cells faster Subscriptions renew unless you cancel at least 24 hours",
+   "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": true,
+   "gaining": false
+  },
+  {
    "slug": "firmament-is-the-limit",
    "name": "Firmament is the Limit",
    "url": "https://apps.shipaton.com/app/firmament-is-the-limit",
@@ -423,9 +546,9 @@
    "store_links": [
     "https://apps.apple.com/us/app/firmament-is-the-limit/id6755933878?uo=4"
    ],
-   "description": "Firmament is a calm one-button arcade game about keeping a tiny rocket in the air. Hold to thrust. Release to drift. The Firmament is the limit. You cannot cross it, but you can push it further. Manage fuel, skim clouds, collect coins, chase daily challenges, and improve your best distance one run at a time. A small selection of ships gives you different ways to play without changing the simple rhythm. Information Seller SERGEY EPIFANOV Compatibility iPhone Genres Games, Action, Casual You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1251 apps from every Shipaton. Shipaton",
+   "description": "Firmament is a calm one-button arcade game about keeping a tiny rocket in the air. Hold to thrust. Release to drift. The Firmament is the limit. You cannot cross it, but you can push it further. Manage fuel, skim clouds, collect coins, chase daily challenges, and improve your best distance one run at a time. A small selection of ships gives you different ways to play without changing the simple rhythm. Information Seller SERGEY EPIFANOV Compatibility iPhone Genres Games, Action, Casual You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1414 apps from every Shipaton. Shipaton",
    "first_seen": "2026-09-02",
-   "rating_count_prev": null,
+   "rating_count_prev": 1,
    "gamey": false,
    "is_game": true,
    "gaining": false
@@ -439,14 +562,34 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": null,
-   "rating_count": null,
+   "rating": 1.0,
+   "rating_count": 1,
    "store_links": [
     "https://apps.apple.com/us/app/gotcha-bluff-party-trivia/id6782337044?uo=4"
    ],
    "description": "Gotcha is the party trivia game where lying wins. Get a fill-in-the-blank question, write a convincing fake answer, and watch your friends fall for it — while you hunt for the real one. WRITE. BLUFF. VOTE. LAUGH. ◆ A tricky trivia question appears: \"In the 1800s, people drank a medicine made of ______ to cure a cold.\" ◆ Everyone secretly writes a believable fake answer. ◆ All bluffs get shuffled together with the real answer. ◆ Vote for the truth — then watch the reveal and see exactly who fell for whose lie! Score +1 for finding the truth and +2 for every player you fool. Knowing the answer helps, but a brilliant lie wins the game. PLAY WITH FRIENDS ANYWHERE ◆ Create a room and share a short code — friends join in seconds. ◆ Send messages and buzz your friends' phones to hurry them up. ◆ No friends online? Quick Play drops you into a live lobby instantly — you'll never wait alone. CREATE YOUR OWN TRIVIA WITH AI Type any topic — \"90s cartoons\", \"football history\", or your friend group's inside jokes — and AI instantly builds a complete 30-question deck just for you. Turn any theme into game night. TONS OF CONTENT ◆ 1,500+ questions in 200+ themed decks. ◆ 12 categories: History, Sc",
    "first_seen": "2026-09-02",
    "rating_count_prev": null,
+   "gamey": false,
+   "is_game": true,
+   "gaining": false
+  },
+  {
+   "slug": "impossible-coasters-3d-puzzle",
+   "name": "Impossible Coasters: 3D Puzzle",
+   "url": "https://apps.shipaton.com/app/impossible-coasters-3d-puzzle",
+   "category": "Games",
+   "developer": "Ankur Gupta LLC",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/impossible-coasters-3d-puzzle/id6794763174?uo=4"
+   ],
+   "description": "Pull a chunky coaster block from the shelf. Rotate it, fit it to the board, and close one continuous circuit. Impossible Coasters is a chill, tactile spatial puzzler about building tiny rides that look larger than life. Every level gives you a compact board, a shelf of possible pieces, and the freedom to find a construction that fits. New ideas arrive gradually: loops, hills, corkscrews, crossovers, complementary cutout plinths, empty-space constraints, and convincing decoys. Finish the circuit to reveal your Level Grade, then replay to earn every star with a smarter build. When the track closes, switch to AR without losing progress and watch that exact coaster run at full detail. AR Playground also lets you choose from a curated collection of larger, intricate rides. • Handcrafted spatial puzzles with a gradual difficulty curve • Chunky pieces with tactile drag, retract, rotate, and snap interactions • Multiple valid constructions on selected levels • Optional three-star goals revealed after completion • High-fidelity AR rides on supported iPhone and iPad devices • Five campaign levels and the Comet Switchback AR ride are free • One optional, one-time Full Game purchase unlocks th",
+   "first_seen": "2026-09-09",
    "gamey": false,
    "is_game": true,
    "gaining": false
@@ -465,7 +608,7 @@
    "store_links": [
     "https://apps.apple.com/us/app/in-two-lights/id6797556691?uo=4"
    ],
-   "description": "A sculpture hangs in the corner of a dark room. Two lights. Two walls. Two shadows that refuse to agree. Turn it until both shadows land on their targets at once. Fix one and you break the other — the answer is the single position where both are true. No timers. No lives. No tutorial text. The room teaches you, and it hums as you close in. • 247 rooms across thirteen chapters • Endless mode — rooms generated on your device, running as deep as you want to go • Sculptures that look like nothing, until scattered fragments resolve into a duck, a cat, a moth • A daily room — the same puzzle for everyone, every day • The Workshop: stop finding the answer and start building it • Stars for precision, never for speed Play it slowly. It rewards that. Information Seller Jheremiah Figueroa Compatibility iPhone Genres Games, Puzzle, Strategy You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1251 apps from every Shipaton. Shipaton",
+   "description": "A sculpture hangs in the corner of a dark room. Two lights. Two walls. Two shadows that refuse to agree. Turn it until both shadows land on their targets at once. Fix one and you break the other — the answer is the single position where both are true. No timers. No lives. No tutorial text. The room teaches you, and it hums as you close in. • 247 rooms across thirteen chapters • Endless mode — rooms generated on your device, running as deep as you want to go • Sculptures that look like nothing, until scattered fragments resolve into a duck, a cat, a moth • A daily room — the same puzzle for everyone, every day • The Workshop: stop finding the answer and start building it • Stars for precision, never for speed Play it slowly. It rewards that. Information Seller Jheremiah Figueroa Compatibility iPhone Genres Games, Puzzle, Strategy You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1414 apps from every Shipaton. Shipaton",
    "first_seen": "2026-09-02",
    "rating_count_prev": null,
    "gamey": false,
@@ -539,8 +682,28 @@
    "gaining": false
   },
   {
+   "slug": "mythika-puzzle-tournament",
+   "name": "Mythika: Puzzle Tournament",
+   "url": "https://apps.shipaton.com/app/mythika-puzzle-tournament",
+   "category": "Games",
+   "developer": "Enrique Miranda",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/mythika-puzzle-tournament/id6797512855?uo=4"
+   ],
+   "description": "Mythika: Puzzle Tournament is a real-time puzzle-battle game where the gods of Olympus, Egypt, and Asgard clash on a living board. Swap adjacent panels to match three or more of the same color. Every combo and chain builds mana in real time. Spend it to cast divine abilities, devastating attacks, healing light, and shields that turn the tide. Four-in-a-row clears send garbage blocks crashing onto your rival's board. Raise the ceiling, bury their field, and claim victory. THE GODS Master 9 playable gods across three pantheons, each with unique stats, element affinities, and a distinct combat identity: • Greek — Athena, Zeus, and Hades • Egyptian — Ra, Anubis, and Sobek • Nordic — Odin, Thor, and Njord Every god brings its own voice lines, theme music, and a personal skill tree with 36 ascension abilities to unlock and equip. GAME MODES • Campaign — A cinematic story across 25 levels and four acts. Face the corruption of Baal, a forgotten god, through fully voiced cutscenes. • VS CPU — Test your skill against three difficulty levels in side-by-side battles. • Infinite — Survive an accelerating board and chase the highest score. • Daily Challenges — Rotating trials: Chain Reaction, Di",
+   "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": true,
+   "gaining": false
+  },
+  {
    "slug": "ordsnok-snoop-for-words",
-   "name": "Ordsnok: Daily Word Puzzle",
+   "name": "Ordsnok: Guess the Word",
    "url": "https://apps.shipaton.com/app/ordsnok-snoop-for-words",
    "category": "Games",
    "developer": "Stian Strange",
@@ -551,11 +714,11 @@
    "rating": null,
    "rating_count": null,
    "store_links": [
-    "https://apps.apple.com/us/app/ordsnok-daily-word-puzzle/id6797599523?uo=4",
+    "https://apps.apple.com/us/app/ordsnok-guess-the-word/id6797599523?uo=4",
     "https://play.google.com/store/apps/details?id=no.strangeutvikling.ordsnok",
     "https://play.google.com/store/apps/details?id=no.strangeutvikling.ordsnok&amp;hl=en&amp;gl=us"
    ],
-   "description": "One word. Six guesses. A fresh puzzle every day. Ordsnok is a daily word game: find the hidden word, keep your streak going and compare spoiler-free results with friends. Everyone gets the same daily puzzle, so results are easy to compare without giving the answer away. Want another round? Switch to Random and play five-, six- or seven-letter puzzles whenever you like. Use a hint when you need one, or solve it unaided. DAILY OR RANDOM • One shared daily word with six guesses • Random puzzles in three word lengths • English and Norwegian word lists • Hints when you get stuck PLAY TOGETHER • Private groups with daily and weekly leaderboards • Personal statistics and streaks • Spoiler-free result sharing • Solve times on result cards Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Information Seller Stian Strange Compatibility iPhone and Android Genres Games, Puzzle, Word You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1251 apps from every Shipaton. Shipaton",
+   "description": "One word. Six guesses. A fresh puzzle every day. Ordsnok is a daily word game: find the hidden word, keep your streak going and compare spoiler-free results with friends. Everyone gets the same daily puzzle, so results are easy to compare without giving the answer away. Want another round? Switch to Random and play five-, six- or seven-letter puzzles whenever you like. Use a hint when you need one, or solve it unaided. DAILY OR RANDOM • One shared daily word with six guesses • Random puzzles in three word lengths • English and Norwegian word lists • Hints when you get stuck PLAY TOGETHER • Private groups with daily and weekly leaderboards • Personal statistics and streaks • Spoiler-free result sharing • Solve times on result cards Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ Information Seller Stian Strange Compatibility iPhone and Android Genres Games, Puzzle, Word You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1414 apps from every Shipaton. Shipaton",
    "first_seen": "2026-09-02",
    "rating_count_prev": null,
    "gamey": false,
@@ -600,7 +763,7 @@
    "store_links": [
     "https://apps.apple.com/us/app/pulsegate-echo-shift/id6788528869?uo=4"
    ],
-   "description": "Pulse Gate: Echo Shift is a minimalist one-tap timing game about rhythm, anticipation, and precision. Tap at the right moment, send your echo through shifting gates, and master levels that look simple but demand perfect timing. Free to play: the first 10 levels and Endless Mode are free. A single one-time purchase permanently unlocks all 200 levels across 20 chapters — no subscription, no ads, no in-game currency. – simple one-tap controls – 200 handcrafted levels across 20 chapters – endless mode – one-time purchase, no subscription – no ads, no tracking – playable offline – minimalist premium design – haptic feedback – Game Center leaderboards – calm but challenging gameplay Information Seller Patrick Werle Compatibility iPhone Genres Games, Puzzle, Casual You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1251 apps from every Shipaton. Shipaton",
+   "description": "Pulse Gate: Echo Shift is a minimalist one-tap timing game about rhythm, anticipation, and precision. Tap at the right moment, send your echo through shifting gates, and master levels that look simple but demand perfect timing. Free to play: the first 10 levels and Endless Mode are free. A single one-time purchase permanently unlocks all 200 levels across 20 chapters — no subscription, no ads, no in-game currency. – simple one-tap controls – 200 handcrafted levels across 20 chapters – endless mode – one-time purchase, no subscription – no ads, no tracking – playable offline – minimalist premium design – haptic feedback – Game Center leaderboards – calm but challenging gameplay Information Seller Patrick Werle Compatibility iPhone Genres Games, Puzzle, Casual You might also like Party Animals: Truth or Dare 2024 · Games View OtterDay: Calendar Logic Game 2025 · Games View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1414 apps from every Shipaton. Shipaton",
    "first_seen": "2026-09-02",
    "rating_count_prev": null,
    "gamey": false,
@@ -730,12 +893,12 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": null,
-   "rating_count": null,
+   "rating": 5.0,
+   "rating_count": 1,
    "store_links": [
     "https://apps.apple.com/us/app/unlike/id6798033409?uo=4"
    ],
-   "description": "Every number counts the neighbours unlike it. That is the entire rule. Each square is either solid or outlined, and a numbered square tells you how many of the four squares touching it — above, below, left and right — are the opposite of itself. Everything else follows from reasoning. NEVER A GUESS Every board is generated and then checked before you ever see it: exactly one solution, and that solution reachable by deduction alone. Beginner, Intermediate and Hard boards need nothing but direct logic — never \"suppose this square is solid and see what breaks\". Expert and Impossible boards permit that step at most once. Anything harder is thrown away and regenerated. If you are stuck, there is a move to find. THE SAME BOARD FOR EVERYONE Level 17 is the same grid on every device, and the same again after a reinstall. Compare times with a friend and you know you solved an identical puzzle. HINTS THAT EXPLAIN RATHER THAN SPOIL The first hint points at the clue that is ready to be used. The second spells out the deduction behind it. Only the third fills the square in for you. Stop at whichever tier you like. Three hints a board, so spending one is a decision — and your stars remember how ",
+   "description": "Fill every cell. Follow the clues. Find the solution. Unlike is a logic puzzle played with solid and outlined cells. Each number counts its neighbors with the opposite style. Only shared edges count: above, below, left and right. Gold-dot cells are already fixed; every other cell needs a style. LEARN BY PLAYING Four short lessons teach the rule through interactive examples. Open the playing guide during a puzzle, or use a hint to find a clue, understand the deduction and optionally place a cell. KEEP EXPLORING - A 200-level difficulty progression, with more puzzles beyond it. - Daily puzzles and free play at five difficulties. - Undo, redo and Check, plus optional live clue feedback. - Themes, larger tiles, high contrast and reduced motion options. PROGRESS THAT STAYS WITH YOU Your unfinished puzzle saves on this device, including undo history. Completed levels and stars sync with iCloud when available. No Unlike account or registration is needed. Puzzles can be played offline. The free game includes ads between some levels from level 4 onward. An optional one-time purchase removes ads; additional themes are also available to buy. Game text, tutorials and support are currently in E",
    "first_seen": "2026-09-02",
    "rating_count_prev": null,
    "gamey": false,
@@ -751,12 +914,12 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": null,
-   "rating_count": null,
+   "rating": 1.0,
+   "rating_count": 1,
    "store_links": [
     "https://apps.apple.com/us/app/velocity-unleashed/id6794736953?uo=4"
    ],
-   "description": "Put the hammer down in a polished SceneKit racing experience with real 3D tracks, dynamic lighting, physics-based cars, AI opponents, and a career that rewards every perfect apex. ◆ TRUE 3D, NOT FAKE 2.5D Drive fully rendered cars on sculpted circuits. Chase-cam thrills, boost trails, and high-frame-rate action engineered for modern iPhones with Metal. ◆ FOUR SIGNATURE CIRCUITS • Coastal Circuit — Learn the lines along sunlit cliffs and ocean air • Alpine Pass — Master grip and elevation in the mountains • Neon District — Night racing under cyan and magenta city lights • Sahara Grand — Long desert straights and high-stakes endurance ◆ CAREER, CURRENCY & UPGRADES Earn prize money and XP. Unlock tougher tracks. Spend on engine, tires, aero, and weight upgrades that change how your car really drives. ◆ INTUITIVE TOUCH CONTROLS • Pan left/right to steer • Pan up/down for throttle • Tap to boost Jump in and race in seconds — no complicated setup. ◆ AI GRID & RACE FLOW Battle colorful rival cars, chase personal bests, and push for podium finishes with pause, results, and HUD designed for one-handed play. ◆ AUDIO THAT MOVES WITH YOU Engine load, boost, tire screech, and collision feedback",
+   "description": "Experience high-speed motorsport in Velocity Unleashed, the premier 3D circuit racing game designed natively for iOS. TRUE 3D ARCADE DYNAMICS Feel every apex and straightaway with responsive physics running at a blistering 240 Hz simulation rate. Master precision steering, throttle control, and tactical nitro boost management across demanding circuits. ICONIC RACING MACHINES Step inside the 3D showroom to inspect and tune high-performance machines. From screaming V10 GP Formula prototypes to thunderous GT supercars, upgrade your engine ECU, bolt on turbo kits, enhance aerodynamic downforce, and equip sticky racing slicks. CHALLENGING CIRCUITS Tackle 4 distinct racing circuits featuring complex elevation changes and parametric turns: Coastal Highway, Alpine Pass, Neon Cyber City, and Desert Dunes. Battle against a competitive 6-car AI field that adapts to your line, drafts your slipstream, and fights for pole position. REAL-TIME MULTIPLAYER & GHOST LAPS Challenge nearby friends through peer-to-peer Wi-Fi and Bluetooth duels with zero configuration. Create online parties with Game Center, climb global leaderboards, and share your best-lap ghost telemetry codes with rivals worldwide. ",
    "first_seen": "2026-09-02",
    "rating_count_prev": null,
    "gamey": false,
@@ -772,8 +935,8 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": null,
-   "rating_count": null,
+   "rating": 5.0,
+   "rating_count": 1,
    "store_links": [
     "https://apps.apple.com/us/app/voltfield-80s-classic-arcade/id6787507847?uo=4"
    ],

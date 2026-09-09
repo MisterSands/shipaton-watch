@@ -1,9 +1,30 @@
 {
  "source": "devto",
  "url": "https://dev.to/feed/tag/shipaton",
- "fetched_at": "2026-09-04T09:30:02Z",
+ "fetched_at": "2026-09-09T11:29:18Z",
  "count": 12,
  "items": [
+  {
+   "title": "Building NICHLYST: Explosions, Medication, and Rewriting 15 Days as a Novel You Can Fail",
+   "link": "https://dev.to/koztechie/building-nichlyst-explosions-medication-and-rewriting-15-days-as-a-novel-you-can-fail-583g",
+   "date": "Sun, 06 Sep 2026 07:58:32 +0000",
+   "author": "Eugene Kozlovsky",
+   "summary": "<p>On Saturday evening, August 29th, I was lying on my sofa after eating way too much watermelon. I was taking a short break from writing the narrative core of my game, NICHLYST, pushing the limits of narrative game design for the RevenueCat Shipaton 2026.</p>\n\n<p>Then the shockwave hit.</p>\n\n<p>It sounded like heavy crushed stone slamming against sheet iron. The protective netting we installed to"
+  },
+  {
+   "title": "One Missing Environment Variable Crashed My App in Production (and I Lost My Play Store Testing Streak the Same Night)",
+   "link": "https://dev.to/sanjaysah/one-missing-environment-variable-crashed-my-app-in-production-and-i-lost-my-play-store-testing-48en",
+   "date": "Sat, 05 Sep 2026 17:46:32 +0000",
+   "author": "Sanjay Kumar Sah",
+   "summary": "<blockquote>\n<p><strong>#BuildInPublic for the <a href=\"https://www.shipaton.com/\" rel=\"noopener noreferrer\">RevenueCat Shipaton 2026</a>.</strong> RentDera is my entry, and I'm sharing the whole messy journey in public — wins, crashes, and gut-punches like the one below. This post is part of that trail.</p>\n</blockquote>\n\n<h2>\n  \n  \n  The setup\n</h2>\n\n<p>Today I shipped <strong>v1.1.0</strong> of"
+  },
+  {
+   "title": "The Final Boss of Flutter: Surviving the Signed .aab Build",
+   "link": "https://dev.to/ronak1311/the-final-boss-of-flutter-surviving-the-signed-aab-build-243b",
+   "date": "Fri, 04 Sep 2026 15:31:47 +0000",
+   "author": "Ronak Mahajan",
+   "summary": "<p>Generating that signed app-release.aab feels like defeating the final boss of mobile development. I’m currently building Sprout Atlas (an AI produce scanner and field guide) for the Shipaton 2026 NextGen track, and getting the release bundle ready was intimidating.</p>\n\n<p>After completely rewiring the backend to use Z.ai’s GLM models for highly accurate visual scanning, I had to face the Gradl"
+  },
   {
    "title": "How we adapted our bottom navigation into a navigation rail in KMP",
    "link": "https://dev.to/patwaryhossin/how-we-adapted-our-bottom-navigation-into-a-navigation-rail-in-kmp-335o",
@@ -66,27 +87,6 @@
    "date": "Wed, 19 Aug 2026 10:58:35 +0000",
    "author": "Ronak Mahajan",
    "summary": "<p>In my previous post, I shared the mission behind Sprout Atlas—an interactive produce field guide and AI scanner I’m building for RevenueCat’s #Shipaton 2026.</p>\n\n<p>Today, I want to explore the real food science that led me to create Sprout Atlas, and why traditional grocery shopping leaves almost all of us buying in the dark.</p>\n\n<p>🔬 1. The Chemistry of What's Actually on Our Food<br>\nWhen "
-  },
-  {
-   "title": "I'm 13 and Building an AI Produce Scanner for Local Markets: Meet Sprout Atlas",
-   "link": "https://dev.to/ronak1311/im-13-and-building-an-ai-produce-scanner-for-local-markets-meet-sprout-atlas-2f76",
-   "date": "Tue, 18 Aug 2026 13:05:25 +0000",
-   "author": "Ronak Mahajan",
-   "summary": "<p>Hey DEV Community! 👋 </p>\n\n<p>I'm Ronak, a 13-year-old student builder from Pune, India. </p>\n\n<p>Over the past few weeks, I’ve been building <strong>Sprout Atlas</strong>—an interactive produce field guide and AI-powered camera scanner designed to solve a very real, everyday problem at local markets.</p>\n\n<p>Here is the story behind why I’m building it, the architecture under the hood, and wha"
-  },
-  {
-   "title": "Building NICHLYST: Two Mugs, a Black Screen, and the Weekend the Engine Woke Up",
-   "link": "https://dev.to/koztechie/building-nichlyst-two-mugs-a-black-screen-and-the-weekend-the-engine-woke-up-d05",
-   "date": "Sun, 16 Aug 2026 13:46:07 +0000",
-   "author": "Eugene Kozlovsky",
-   "summary": "<p>A friend came by last Thursday and handed me a mug she had brought from Bulgaria. On the mug was a Kama Sutra position so acrobatic that gravity itself seemed ready to file a complaint. \"So that there would be love,\" she said. It felt strangely appropriate: the thing on my desk that week was a half-asleep HTML5 game engine, and it was going to need exactly that kind of stubborn love to wake up."
-  },
-  {
-   "title": "Building NICHLYST: The Weight of 40 Days, 29 Endings, and a Style Anchor",
-   "link": "https://dev.to/koztechie/building-nichlyst-the-weight-of-40-days-29-endings-and-a-style-anchor-2o0f",
-   "date": "Thu, 13 Aug 2026 21:01:28 +0000",
-   "author": "Eugene Kozlovsky",
-   "summary": "<p>Three days ago, I published the first devlog for the RevenueCat Shipaton 2026. Diving deep into the heavy, emotional trenches of narrative game design, I had a 128-step plan, a blank APK, and 3 Google Play testers. Today, I have 40 days of structured narrative content, 29 endings, a full art pipeline, and a very familiar tightness in my chest.</p>\n\n<p>Let me explain.</p>\n\n<h2>\n  \n  \n  The Conte"
   }
  ]
 }
