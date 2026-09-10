@@ -1,9 +1,58 @@
 {
  "source": "hackernoon",
  "url": "https://hackernoon.com/tagged/shipaton/feed",
- "fetched_at": "test",
+ "fetched_at": "2026-09-10T09:30:01Z",
  "count": 50,
  "items": [
+  {
+   "title": "Seven Sign-Ups, Zero Catches: What My Fishing App Launch Taught Me",
+   "link": "https://hackernoon.com/seven-sign-ups-zero-catches-what-my-fishing-app-launch-taught-me?source=rss",
+   "date": "Thu, 10 Sep 2026 06:18:51 GMT",
+   "author": "Naoto Yamabe",
+   "summary": ""
+  },
+  {
+   "title": "Building Isolyne (Part 4): Building a Typed LLM Extraction Layer for a Deterministic CQRS Kernel",
+   "link": "https://hackernoon.com/building-isolyne-part-4-building-a-typed-llm-extraction-layer-for-a-deterministic-cqrs-kernel?source=rss",
+   "date": "Wed, 09 Sep 2026 20:00:09 GMT",
+   "author": "AMIT KUMAR GUPTA",
+   "summary": ""
+  },
+  {
+   "title": "I Made Two AI Sisters the Face of My Indie App So I Wouldn’t Have to Show Mine",
+   "link": "https://hackernoon.com/i-made-two-ai-sisters-the-face-of-my-indie-app-so-i-wouldnt-have-to-show-mine?source=rss",
+   "date": "Wed, 09 Sep 2026 13:17:29 GMT",
+   "author": "Amana",
+   "summary": ""
+  },
+  {
+   "title": "How I Built BackPocket and Submitted It to Both App Stores in Eight Days",
+   "link": "https://hackernoon.com/how-i-built-backpocket-and-submitted-it-to-both-app-stores-in-eight-days?source=rss",
+   "date": "Wed, 09 Sep 2026 12:56:54 GMT",
+   "author": "Chinmay Pingale",
+   "summary": ""
+  },
+  {
+   "title": "Building Todochi for iOS and Android From a Shared React Native Codebase",
+   "link": "https://hackernoon.com/building-todochi-for-ios-and-android-from-a-shared-react-native-codebase?source=rss",
+   "date": "Wed, 09 Sep 2026 12:45:38 GMT",
+   "author": "Todochi",
+   "summary": ""
+  },
+  {
+   "title": "Apple Rejected My App Because Its Buy Button Was Too Hard to Find",
+   "link": "https://hackernoon.com/apple-rejected-my-app-because-its-buy-button-was-too-hard-to-find?source=rss",
+   "date": "Wed, 09 Sep 2026 12:39:17 GMT",
+   "author": "Peter Dongo",
+   "summary": ""
+  },
+  {
+   "title": "From a TikTok Trend to the App Store in 16 Days: The AURADUEL Story",
+   "link": "https://hackernoon.com/from-a-tiktok-trend-to-the-app-store-in-16-days-the-auraduel-story?source=rss",
+   "date": "Wed, 09 Sep 2026 12:05:05 GMT",
+   "author": "bleiquel",
+   "summary": ""
+  },
   {
    "title": "Building Isolyne (Part 3): Testing State Supersession and Idempotent Replay in a CQRS Event Engine",
    "link": "https://hackernoon.com/building-isolyne-part-3-testing-state-supersession-and-idempotent-replay-in-a-cqrs-event-engine?source=rss",
@@ -303,55 +352,6 @@
    "link": "https://hackernoon.com/building-buildhorn-shipaton-2026-week-three?source=rss",
    "date": "Mon, 24 Aug 2026 05:46:50 GMT",
    "author": "Darryl Bayliss",
-   "summary": ""
-  },
-  {
-   "title": "Week 2 of Building Pocketflow for Shipaton 2026: Infinite Canvas and Realtime Sync",
-   "link": "https://hackernoon.com/week-2-of-building-pocketflow-for-shipaton-2026-infinite-canvas-and-realtime-sync?source=rss",
-   "date": "Sun, 23 Aug 2026 21:21:01 GMT",
-   "author": "AK",
-   "summary": ""
-  },
-  {
-   "title": "Six Weeks From Empty Repo to the App Store: Building Pulse Gate for RevenueCat's Shipaton 2026",
-   "link": "https://hackernoon.com/six-weeks-from-empty-repo-to-the-app-store-building-pulse-gate-for-revenuecats-shipaton-2026?source=rss",
-   "date": "Sun, 23 Aug 2026 21:14:32 GMT",
-   "author": "Patrick Werle",
-   "summary": ""
-  },
-  {
-   "title": "I Turned My iOS Memory Game Into a Physical Board for Shipaton",
-   "link": "https://hackernoon.com/i-turned-my-ios-memory-game-into-a-physical-board-for-shipaton?source=rss",
-   "date": "Fri, 21 Aug 2026 14:08:02 GMT",
-   "author": "Niv",
-   "summary": ""
-  },
-  {
-   "title": "Why Shipaton 2026 Is Different From Most Hackathons",
-   "link": "https://hackernoon.com/why-shipaton-2026-is-different-from-most-hackathons?source=rss",
-   "date": "Fri, 21 Aug 2026 05:38:15 GMT",
-   "author": "Brownieee",
-   "summary": ""
-  },
-  {
-   "title": "We Tested ROLL Beauty for 19 Hours and Found Nine Bugs",
-   "link": "https://hackernoon.com/we-tested-roll-beauty-for-19-hours-and-found-nine-bugs?source=rss",
-   "date": "Thu, 20 Aug 2026 14:59:59 GMT",
-   "author": "Ryu | AMANEKU Studio",
-   "summary": ""
-  },
-  {
-   "title": "Introducing Dogear: Never Lose a Book Worth Reading",
-   "link": "https://hackernoon.com/introducing-dogear-never-lose-a-book-worth-reading?source=rss",
-   "date": "Thu, 20 Aug 2026 12:13:39 GMT",
-   "author": "Rockindash",
-   "summary": ""
-  },
-  {
-   "title": "One Early Return Turned My 14-Day Trial Into a Free Licence",
-   "link": "https://hackernoon.com/one-early-return-turned-my-14-day-trial-into-a-free-licence?source=rss",
-   "date": "Thu, 20 Aug 2026 12:03:56 GMT",
-   "author": "Peter Dongo",
    "summary": ""
   }
  ]

@@ -1,9 +1,23 @@
 {
  "source": "medium",
  "url": "https://medium.com/feed/tag/shipaton",
- "fetched_at": "test",
+ "fetched_at": "2026-09-10T09:30:01Z",
  "count": 10,
  "items": [
+  {
+   "title": "RecompositionMode.Immediate is a frame clock",
+   "link": "https://medium.com/@behzodhalil/recompositionmode-immediate-is-a-frame-clock-70a0c8c94364?source=rss------shipaton-5",
+   "date": "Thu, 10 Sep 2026 06:45:50 GMT",
+   "author": "Behzod Halil",
+   "summary": "We build StockPlus, and the presentation layer runs on Molecule. Molecule runs a Compose composition with nothing attached to it, no nodes…   Continue reading on Medium »"
+  },
+  {
+   "title": "We shipped to 177 countries and nothing happened",
+   "link": "https://medium.com/@WorldFishingMap/we-shipped-to-177-countries-and-nothing-happened-1fc77cffecf6?source=rss------shipaton-5",
+   "date": "Wed, 09 Sep 2026 14:30:29 GMT",
+   "author": "Naoto Yamabe",
+   "summary": "On 2 September my fishing app went live on Google Play in 177 countries. Version 1.0.0, after eight weeks of building in public, a…   Continue reading on Medium »"
+  },
   {
    "title": "I built a paywall that refuses to sell the most valuable feature",
    "link": "https://medium.com/@WorldFishingMap/i-built-a-paywall-that-refuses-to-sell-the-most-valuable-feature-1c765b72503a?source=rss------shipaton-5",
@@ -59,20 +73,6 @@
    "date": "Mon, 17 Aug 2026 22:41:24 GMT",
    "author": "Naoto Yamabe",
    "summary": "My fishing app ships an encyclopedia of 2,940 species.   Continue reading on Medium »"
-  },
-  {
-   "title": "How I ended up with a doomsday app.",
-   "link": "https://medium.com/@bo.niehaus/how-i-ended-up-with-a-doomsday-app-99dcc45ce934?source=rss------shipaton-5",
-   "date": "Tue, 11 Aug 2026 14:26:02 GMT",
-   "author": "Bo Niehaus",
-   "summary": "I come from a generation that owned things. CDs on a shelf. Tapes with handwritten labels. VHS boxes that took up actual space. You bought…   Continue reading on Medium »"
-  },
-  {
-   "title": "“Preservation anchors”: teaching an AI what it must never delete",
-   "link": "https://medium.com/@WorldFishingMap/preservation-anchors-teaching-an-ai-what-it-must-never-delete-ecafbe05a261?source=rss------shipaton-5",
-   "date": "Tue, 11 Aug 2026 01:33:29 GMT",
-   "author": "Naoto Yamabe",
-   "summary": "An AI coding agent will happily hand you a refactor that is smaller, cleaner, better named — and quietly missing a feature.   Continue reading on Medium »"
   }
  ]
 }

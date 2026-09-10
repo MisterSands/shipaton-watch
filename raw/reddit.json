@@ -1,7 +1,7 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "test",
+ "fetched_at": "2026-09-10T09:30:01Z",
  "count": 24,
  "items": [
   {
@@ -17,6 +17,55 @@
    "date": "2026-08-07T13:46:11+00:00",
    "author": "/u/IamAngusU",
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
+  },
+  {
+   "title": "It took Apple nearly 4 weeks to approve my game… yet I get near daily app updates from",
+   "link": "https://www.reddit.com/r/appledevelopers/comments/1wc8u4n/it_took_apple_nearly_4_weeks_to_approve_my_game/",
+   "date": "2026-09-10T04:33:34+00:00",
+   "author": "/u/andrewjneumann",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Some companies who shall not be named. It’s annoying, but keep going, keep building, and keep improving; make sure you respond to rejections with detailed resolutions. </p> <p>Download my fully free to play (forever) city builder for iPad/Mac(M1+). 🤣😉 Digicity!</p> <p>Build 26.9 is getting submitted this week with era’s and scenarios (been busy building during the"
+  },
+  {
+   "title": "Shipaton App Building Event",
+   "link": "https://www.reddit.com/r/CalgaryTech/comments/1wc2o3u/shipaton_app_building_event/",
+   "date": "2026-09-09T23:56:03+00:00",
+   "author": "/u/Lil-booyakasha",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/CalgaryTech/comments/1wc2o3u/shipaton_app_building_event/\"> <img src=\"https://external-preview.redd.it/900ZzUdOg7s8gDwZSCOTCna2zwxVfqBfxaoQuXBrZoE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53a9c2a407d0efa382165df8b8a7a9f3460fd80c\" alt=\"Shipaton App Building Event\" title=\"Shipaton App Building Event\" /> </a> </td><td> <!-- SC_OFF --><div cl"
+  },
+  {
+   "title": "Shipaton App Building Event",
+   "link": "https://www.reddit.com/r/MRU/comments/1wc2mt6/shipaton_app_building_event/",
+   "date": "2026-09-09T23:54:29+00:00",
+   "author": "/u/Lil-booyakasha",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MRU/comments/1wc2mt6/shipaton_app_building_event/\"> <img src=\"https://external-preview.redd.it/900ZzUdOg7s8gDwZSCOTCna2zwxVfqBfxaoQuXBrZoE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53a9c2a407d0efa382165df8b8a7a9f3460fd80c\" alt=\"Shipaton App Building Event\" title=\"Shipaton App Building Event\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\""
+  },
+  {
+   "title": "Shipaton App Building Event",
+   "link": "https://www.reddit.com/r/UCalgary/comments/1wc2kh2/shipaton_app_building_event/",
+   "date": "2026-09-09T23:51:37+00:00",
+   "author": "/u/Lil-booyakasha",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UCalgary/comments/1wc2kh2/shipaton_app_building_event/\"> <img src=\"https://external-preview.redd.it/900ZzUdOg7s8gDwZSCOTCna2zwxVfqBfxaoQuXBrZoE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53a9c2a407d0efa382165df8b8a7a9f3460fd80c\" alt=\"Shipaton App Building Event\" title=\"Shipaton App Building Event\" /> </a> </td><td> <!-- SC_OFF --><div class"
+  },
+  {
+   "title": "Free Awesome Tech Shipaton Event!",
+   "link": "https://www.reddit.com/r/Calgary/comments/1wc269s/free_awesome_tech_shipaton_event/",
+   "date": "2026-09-09T23:34:52+00:00",
+   "author": "/u/Lil-booyakasha",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Calgary/comments/1wc269s/free_awesome_tech_shipaton_event/\"> <img src=\"https://external-preview.redd.it/900ZzUdOg7s8gDwZSCOTCna2zwxVfqBfxaoQuXBrZoE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53a9c2a407d0efa382165df8b8a7a9f3460fd80c\" alt=\"Free Awesome Tech Shipaton Event!\" title=\"Free Awesome Tech Shipaton Event!\" /> </a> </td><td> <!-- SC_O"
+  },
+  {
+   "title": "Apple’s event today has me wondering: what are you building now that the AI model ships with the phone?",
+   "link": "https://www.reddit.com/r/AppBusiness/comments/1wbpvn6/apples_event_today_has_me_wondering_what_are_you/",
+   "date": "2026-09-09T16:08:06+00:00",
+   "author": "/u/Tekton-Legacy",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Apple’s event today has me thinking less about whatever new AI feature gets demoed on stage and more about what this shift means for app builders.<br/> <strong>What changes when the model becomes part of the device platform?</strong><br/> I’ve been learning this firsthand while building On Cue.<br/> On Cue uses Apple’s Foundation Models framework to interpret priv"
+  },
+  {
+   "title": "I didn't build this to solve a problem, I built it to protect a feeling",
+   "link": "https://www.reddit.com/r/buildinpublic/comments/1wbj836/i_didnt_build_this_to_solve_a_problem_i_built_it/",
+   "date": "2026-09-09T11:43:46+00:00",
+   "author": "/u/Soft-Gas-9909",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/buildinpublic/comments/1wbj836/i_didnt_build_this_to_solve_a_problem_i_built_it/\"> <img src=\"https://preview.redd.it/o3bbnhdbfhoh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=93b7ead0e0431e2dc6eb8541ba7e7f309bb4f406\" alt=\"I didn't build this to solve a problem, I built it to protect a feeling\" title=\"I didn't build this to "
   },
   {
    "title": "AI Agents That Build, Ship, and Make Money - IndeHub Chapter 16",
@@ -122,55 +171,6 @@
    "date": "2026-09-04T06:30:58+00:00",
    "author": "/u/AutoModerator",
    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Welcome to this week&#39;s <strong>Shipaton Build in Public Thread</strong>! Everyone is welcome to share an update on their current project here. No need to participate in the hackathon to share, but if you decide to enter sharing updates consistently is a great way to increase your chances of winning the <strong>#BuildInPublic</strong> Award</p> <p>Please share "
-  },
-  {
-   "title": "Got approved for Shipaton Anyone else got approved? Let’s connect and maybe go together!",
-   "link": "https://www.reddit.com/r/Gorakhpur/comments/1w6qlix/got_approved_for_shipaton_anyone_else_got/",
-   "date": "2026-09-04T01:36:24+00:00",
-   "author": "/u/its_hk133",
-   "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/its_hk133\"> /u/its_hk133 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/Gorakhpur/\"> r/Gorakhpur </a> <br/> <span><a href=\"https://www.reddit.com/r/Gorakhpur/comments/1w6qlix/got_approved_for_shipaton_anyone_else_got/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/Gorakhpur/comments/1w6qlix/got_approved_for_ship"
-  },
-  {
-   "title": "Looking for feedback on my new screenshots",
-   "link": "https://www.reddit.com/r/AppStoreOptimization/comments/1w6i69t/looking_for_feedback_on_my_new_screenshots/",
-   "date": "2026-09-03T19:54:07+00:00",
-   "author": "/u/radomird",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AppStoreOptimization/comments/1w6i69t/looking_for_feedback_on_my_new_screenshots/\"> <img src=\"https://preview.redd.it/cohny8ie1dnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d893238be070523c2e256b7a2710056fefa8f68\" alt=\"Looking for feedback on my new screenshots\" title=\"Looking for feedback on my new screenshots\" /> </a> </td><td> <!-- SC"
-  },
-  {
-   "title": "Solo-building a photo-metadata privacy app for Shipaton — pivoting out of field work into security, building it in the open",
-   "link": "https://www.reddit.com/r/AppBusiness/comments/1w6c0e0/solobuilding_a_photometadata_privacy_app_for/",
-   "date": "2026-09-03T16:18:05+00:00",
-   "author": "/u/HRD-Sec",
-   "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/HRD-Sec\"> /u/HRD-Sec </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/AppBusiness/\"> r/AppBusiness </a> <br/> <span><a href=\"https://v.redd.it/qf7dyjancbnh1\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/AppBusiness/comments/1w6c0e0/solobuilding_a_photometadata_privacy_app_for/\">[comments]</a></span>"
-  },
-  {
-   "title": "Solo-building a photo-metadata privacy app for Shipaton — pivoting out of field work into security, building it in the open",
-   "link": "https://www.reddit.com/r/buildinpublic/comments/1w68lsl/solobuilding_a_photometadata_privacy_app_for/",
-   "date": "2026-09-03T14:13:34+00:00",
-   "author": "/u/HRD-Sec",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/buildinpublic/comments/1w68lsl/solobuilding_a_photometadata_privacy_app_for/\"> <img src=\"https://external-preview.redd.it/eXFvODJ0OG5jYm5oMWMsk2_wcqX3QeB3b9BPRgile6o2Aq2IB4cPu-YJBcfk.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=0ed0fd3fd77bbaf1759392818e0387514211aeac\" alt=\"Solo-building a photo-metadata privacy app for Shipaton — pivoting out"
-  },
-  {
-   "title": "Save Peps — a free-to-start one-tap puzzle game for Android",
-   "link": "https://www.reddit.com/r/playmygame/comments/1w676ka/save_peps_a_freetostart_onetap_puzzle_game_for/",
-   "date": "2026-09-03T13:18:19+00:00",
-   "author": "/u/mx883",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/playmygame/comments/1w676ka/save_peps_a_freetostart_onetap_puzzle_game_for/\"> <img src=\"https://external-preview.redd.it/MmtndHMwaGMwYm5oMWs_UdACHpgSr2HaGwNcQOR0XYU2JgsbSMgQV9_FBjAe.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3db9b2f6c1af20d1c3bd4dd3bb5c6a55ebbd0c28\" alt=\"Save Peps — a free-to-start one-tap puzzle game for Android\" title=\"Sav"
-  },
-  {
-   "title": "A game that makes you do burpees",
-   "link": "https://www.reddit.com/r/androiddev/comments/1w60riu/a_game_that_makes_you_do_burpees/",
-   "date": "2026-09-03T07:48:22+00:00",
-   "author": "/u/hajamie",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m building <em>Burpee Wrangler 3000</em> - it&#39;s a fitness tracker that&#39;s also a game. I&#39;m going to enter it in Shipaton. I have two main questions:</p> <ol> <li>How should I price it (freemium? hard paywall? monthly/lifetime?)</li> <li>How stupid of an idea do you think it is?</li> </ol> <p>The idea is that it gets you fit and keeps you accountab"
-  },
-  {
-   "title": "Here’s what I learned shipping my second iOS app",
-   "link": "https://www.reddit.com/r/buildinpublic/comments/1w5jp93/heres_what_i_learned_shipping_my_second_ios_app/",
-   "date": "2026-09-02T19:02:40+00:00",
-   "author": "/u/hakan115",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I started building Video Cue on August 1st, mostly in the evenings and on weekends. About a month later, it’s finally live on the App Store.</p> <p>The idea came from a problem I had myself. We have a small 3D-printed lampshade business and struggled to create good videos for Instagram. I had the same problem when I wanted to make better travel videos. I bought a "
   }
  ]
 }

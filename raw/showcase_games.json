@@ -1,6 +1,6 @@
 {
  "source": "showcase_games",
- "fetched_at": "2026-09-09T11:36:29Z",
+ "fetched_at": "2026-09-10T09:30:01Z",
  "count": 44,
  "flagged_roguelike": [
   "brewmancer-roguelike",
@@ -106,8 +106,8 @@
     "iPhone",
     "Android"
    ],
-   "rating": 4.3,
-   "rating_count": 3,
+   "rating": 4.5,
+   "rating_count": 4,
    "store_links": [
     "https://apps.apple.com/us/app/offsuit-blackjack-21/id6749341906?uo=4",
     "https://play.google.com/store/apps/details?id=com.bjack.app",
@@ -118,7 +118,7 @@
    "rating_count_prev": 3,
    "gamey": false,
    "is_game": true,
-   "gaining": false
+   "gaining": true
   },
   {
    "slug": "chess-rupt-arcade-chess",
@@ -362,7 +362,7 @@
   },
   {
    "slug": "carpet-diem-cozy-rug-cleaner",
-   "name": "Carpet Diem: Cozy Rug Cleaner",
+   "name": "Carpet Diem",
    "url": "https://apps.shipaton.com/app/carpet-diem-cozy-rug-cleaner",
    "category": "Games",
    "developer": "Farting Pixel",
@@ -372,9 +372,9 @@
    "rating": null,
    "rating_count": null,
    "store_links": [
-    "https://apps.apple.com/us/app/carpet-diem-cozy-rug-cleaner/id6788496964?uo=4"
+    "https://apps.apple.com/us/app/carpet-diem/id6788496964?uo=4"
    ],
-   "description": "Every carpet you clean is a real painting. The Mona Lisa, Starry Night, The Great Wave, The Night Watch, buried under years of grime, waiting for you to bring it back. Scrub. Foam. Squeegee. Watch a 500-year-old face surface out of the dirt under your thumb. RELAX AND SCRUB Drag your finger across the pile and the grime lifts in greyscale. Lay foam and the colour floods back in reds, golds and that impossible blue. There is no timer, no fail state, no one shouting at you. Clean until it feels done, then decide for yourself when to hand it back. DAY ONE, AND THEN YOU QUIT You start as an employee. Jeff hands you a filthy rug, shouts the job at you one verb at a time, and pays you a single dollar for it. Then you hand in your notice, walk out with none of his equipment, and open your own shop with a brush that can barely manage a thumbprint. Everything after that is yours, and your family notice. Your mum's neighbour needs a rug done. Your brother wants a favour. Uncle Vito has a hotel and a test piece, and your grandma has friends whose taste in art needs asking about first. THE SHINE IS THE MONEY Foam doesn't just look good. Restoring colour mints COLOUR ESSENCE: glossy bubbles tin",
+   "description": "YOU CLEAN FAMOUS PAINTINGS FOR MONEY. Technically, they are rugs. Very expensive rugs. Very dirty, historically significant rugs. Somebody has managed to walk mud across the Mona Lisa, spill something questionable on The Great Wave, and apparently use Starry Night as a doormat. Your job is to fix that. SCRUB FIRST. ASK QUESTIONS NEVER. Drag your finger across the rug and carve clean paths through the grime. Throw down foam and the original colours start coming back. Push the mess around with a squeegee. Chase shiny Colour Essence bubbles into the drain before they disappear. Repeat until a several hundred year old masterpiece looks respectable again. There is no countdown. No lives. No energy meter. No angry red timer telling you that relaxation has expired. You clean until you decide you are done. YOUR FIRST BOSS KEEPS YOU POOR. His name is Jeff. He micromanages everyone. You realize employment was a mistake, quit immediately, and start your own carpet cleaning business. Then things escalate. Family members start bringing you work. Hotels start calling. Strangers with suspicious stains appear. Museums somehow hear about you. Eventually you are operating a carpet cleaning empire bu",
    "first_seen": "2026-09-09",
    "rating_count_prev": null,
    "gamey": false,
@@ -676,8 +676,8 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": null,
-   "rating_count": null,
+   "rating": 5.0,
+   "rating_count": 1,
    "store_links": [
     "https://apps.apple.com/us/app/lms-land-of-magic-spices/id6787628573?uo=4"
    ],
@@ -902,7 +902,7 @@
     "iPhone"
    ],
    "rating": 5.0,
-   "rating_count": 1,
+   "rating_count": 4,
    "store_links": [
     "https://apps.apple.com/us/app/unlike/id6798033409?uo=4"
    ],
@@ -911,7 +911,7 @@
    "rating_count_prev": 1,
    "gamey": false,
    "is_game": true,
-   "gaining": false
+   "gaining": true
   },
   {
    "slug": "velocity-unleashed",
