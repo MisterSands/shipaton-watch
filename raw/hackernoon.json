@@ -1,9 +1,51 @@
 {
  "source": "hackernoon",
  "url": "https://hackernoon.com/tagged/shipaton/feed",
- "fetched_at": "2026-09-10T09:30:01Z",
+ "fetched_at": "2026-09-11T09:30:01Z",
  "count": 50,
  "items": [
+  {
+   "title": "Shipaton at Week Six: Buildhorn Has Officially Been Submitted to Apple",
+   "link": "https://hackernoon.com/shipaton-at-week-six-buildhorn-has-officially-been-submitted-to-apple?source=rss",
+   "date": "Fri, 11 Sep 2026 00:04:47 GMT",
+   "author": "Darryl Bayliss",
+   "summary": ""
+  },
+  {
+   "title": "The Best Paragraph in My App Review Notes Was the First One I Deleted",
+   "link": "https://hackernoon.com/the-best-paragraph-in-my-app-review-notes-was-the-first-one-i-deleted?source=rss",
+   "date": "Thu, 10 Sep 2026 21:13:28 GMT",
+   "author": "Peter Dongo",
+   "summary": ""
+  },
+  {
+   "title": "I Gave My Indie App Two AI Spokespersons. 3,590 Views Later, Nobody Came Back",
+   "link": "https://hackernoon.com/i-gave-my-indie-app-two-ai-spokespersons-3590-views-later-nobody-came-back?source=rss",
+   "date": "Thu, 10 Sep 2026 21:06:04 GMT",
+   "author": "Amana",
+   "summary": ""
+  },
+  {
+   "title": "MVP Is Dead. Long Live the MLP (Minimum Lovable Product)",
+   "link": "https://hackernoon.com/mvp-is-dead-long-live-the-mlp-minimum-lovable-product?source=rss",
+   "date": "Thu, 10 Sep 2026 20:59:09 GMT",
+   "author": "hakan",
+   "summary": ""
+  },
+  {
+   "title": "Week 4 of Building Pocketflow for Shipaton 2026: Storage, Push Alerts & Navigation",
+   "link": "https://hackernoon.com/week-4-of-building-pocketflow-for-shipaton-2026-storage-push-alerts-and-navigation?source=rss",
+   "date": "Thu, 10 Sep 2026 20:53:13 GMT",
+   "author": "AK",
+   "summary": ""
+  },
+  {
+   "title": "Why We Abandoned Satellite Imagery for an On-Device Procedural Sky",
+   "link": "https://hackernoon.com/why-we-abandoned-satellite-imagery-for-an-on-device-procedural-sky?source=rss",
+   "date": "Thu, 10 Sep 2026 09:44:59 GMT",
+   "author": "Amana",
+   "summary": ""
+  },
   {
    "title": "Seven Sign-Ups, Zero Catches: What My Fishing App Launch Taught Me",
    "link": "https://hackernoon.com/seven-sign-ups-zero-catches-what-my-fishing-app-launch-taught-me?source=rss",
@@ -310,48 +352,6 @@
    "link": "https://hackernoon.com/how-we-built-our-first-mobile-onboarding-flow-for-shipaton-2026?source=rss",
    "date": "Fri, 28 Aug 2026 05:55:07 GMT",
    "author": "Brownieee",
-   "summary": ""
-  },
-  {
-   "title": "RevenueCat Shipaton: Building a Nutrition App With Zero Calories, Grams, or Guilt",
-   "link": "https://hackernoon.com/revenuecat-shipaton-building-a-nutrition-app-with-zero-calories-grams-or-guilt?source=rss",
-   "date": "Wed, 26 Aug 2026 02:53:03 GMT",
-   "author": "Brownieee",
-   "summary": ""
-  },
-  {
-   "title": "Marketing an App When You’re Still Its Only User",
-   "link": "https://hackernoon.com/marketing-an-app-when-youre-still-its-only-user?source=rss",
-   "date": "Mon, 24 Aug 2026 23:35:21 GMT",
-   "author": "Radu",
-   "summary": ""
-  },
-  {
-   "title": "Why I Mirrored 20 Fish Instead of Regenerating Them With AI",
-   "link": "https://hackernoon.com/why-i-mirrored-20-fish-instead-of-regenerating-them-with-ai?source=rss",
-   "date": "Mon, 24 Aug 2026 23:21:05 GMT",
-   "author": "Naoto Yamabe",
-   "summary": ""
-  },
-  {
-   "title": "Shipaton Is Pushing Me to Stop Building Beamrove in Private",
-   "link": "https://hackernoon.com/shipaton-is-pushing-me-to-stop-building-beamrove-in-private?source=rss",
-   "date": "Mon, 24 Aug 2026 23:13:51 GMT",
-   "author": "Furkan Tonyalı",
-   "summary": ""
-  },
-  {
-   "title": "Week 3 of Building Pocketflow for Shipaton 2026 : Workflow Execution and Cross-Platform Sign-In",
-   "link": "https://hackernoon.com/week-3-of-building-pocketflow-for-shipaton-2026-workflow-execution-and-cross-platform-sign-in?source=rss",
-   "date": "Mon, 24 Aug 2026 23:03:51 GMT",
-   "author": "AK",
-   "summary": ""
-  },
-  {
-   "title": "Building Buildhorn: Shipaton 2026 Week Three",
-   "link": "https://hackernoon.com/building-buildhorn-shipaton-2026-week-three?source=rss",
-   "date": "Mon, 24 Aug 2026 05:46:50 GMT",
-   "author": "Darryl Bayliss",
    "summary": ""
   }
  ]

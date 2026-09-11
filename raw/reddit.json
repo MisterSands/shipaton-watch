@@ -1,7 +1,7 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "2026-09-10T09:30:01Z",
+ "fetched_at": "2026-09-11T09:30:01Z",
  "count": 24,
  "items": [
   {
@@ -17,6 +17,34 @@
    "date": "2026-08-07T13:46:11+00:00",
    "author": "/u/IamAngusU",
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
+  },
+  {
+   "title": "Shipaton 2026: Weekly Build in Public Thread — Friday, Sep 11, 2026",
+   "link": "https://www.reddit.com/r/AppBusiness/comments/1wd89lz/shipaton_2026_weekly_build_in_public_thread/",
+   "date": "2026-09-11T06:30:56+00:00",
+   "author": "/u/AutoModerator",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Welcome to this week&#39;s <strong>Shipaton Build in Public Thread</strong>! Everyone is welcome to share an update on their current project here. No need to participate in the hackathon to share, but if you decide to enter sharing updates consistently is a great way to increase your chances of winning the <strong>#BuildInPublic</strong> Award</p> <p>Please share "
+  },
+  {
+   "title": "[Tester swap] Need 12 testers for a \"which credit card should I actually get\" app — happy to test yours back",
+   "link": "https://www.reddit.com/r/GooglePlayClosedTest/comments/1wcl1o9/tester_swap_need_12_testers_for_a_which_credit/",
+   "date": "2026-09-10T14:37:40+00:00",
+   "author": "/u/yogidreamz",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/GooglePlayClosedTest/comments/1wcl1o9/tester_swap_need_12_testers_for_a_which_credit/\"> <img src=\"https://preview.redd.it/jxoml6hafpoh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=7ae31b301c3d3af619994a7c544b59e7d364428c\" alt=\"[Tester swap] Need 12 testers for a &quot;which credit card should I actually get&quot; app — happ"
+  },
+  {
+   "title": "[Tester swap] Need 12 testers for a \"which credit card should I actually get\" app — happy to test yours back",
+   "link": "https://www.reddit.com/r/AndroidClosedTesting/comments/1wck86b/tester_swap_need_12_testers_for_a_which_credit/",
+   "date": "2026-09-10T14:06:47+00:00",
+   "author": "/u/yogidreamz",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AndroidClosedTesting/comments/1wck86b/tester_swap_need_12_testers_for_a_which_credit/\"> <img src=\"https://preview.redd.it/gjn0196r9poh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=035682a20d7883c6825e68ab47e2b2d17752fda5\" alt=\"[Tester swap] Need 12 testers for a &quot;which credit card should I actually get&quot; app — happ"
+  },
+  {
+   "title": "Hangar: Deploy Control is live on the App Store.Approved on the first submission.",
+   "link": "https://www.reddit.com/r/iOSAppsMarketing/comments/1wcjsaq/hangar_deploy_control_is_live_on_the_app/",
+   "date": "2026-09-10T13:50:06+00:00",
+   "author": "/u/hibaabbas1306",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/iOSAppsMarketing/comments/1wcjsaq/hangar_deploy_control_is_live_on_the_app/\"> <img src=\"https://preview.redd.it/o523p0ar6poh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9c854ed45f7e4beb15dd61fde7a099b3a19c06b\" alt=\"Hangar: Deploy Control is live on the App Store.Approved on the first submission.\" title=\"Hangar: Deploy Control is live on the"
   },
   {
    "title": "It took Apple nearly 4 weeks to approve my game… yet I get near daily app updates from",
@@ -143,34 +171,6 @@
    "date": "2026-09-04T15:29:01+00:00",
    "author": "/u/Agreeable_Row_836",
    "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Agreeable_Row_836\"> /u/Agreeable_Row_836 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/appmarketing/\"> r/appmarketing </a> <br/> <span><a href=\"/r/AppBusiness/comments/1w77kud/shipped_a_japaneselearning_rpg_solo_now_trying_to/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/appmarketing/comments/1w77l1h/shipped_"
-  },
-  {
-   "title": "Shipped a Japanese-learning RPG solo — now trying to figure out monetization/positioning against Duolingo-sized incumbents #Shipaton #BuildInPublic",
-   "link": "https://www.reddit.com/r/AppBusiness/comments/1w77kud/shipped_a_japaneselearning_rpg_solo_now_trying_to/",
-   "date": "2026-09-04T15:28:48+00:00",
-   "author": "/u/Agreeable_Row_836",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Just launched LangCity — a Japanese-learning RPG with a pixel-art Tokyo, AI-driven NPC dialogue that reacts to your actual grammar, and on-device pronunciation scoring. Built and shipped it solo as part of RevenueCat&#39;s Shipaton.</p> <ul> <li>iOS: <a href=\"https://apps.apple.com/us/app/langcity/id6798121267\">https://apps.apple.com/us/app/langcity/id6798121267</"
-  },
-  {
-   "title": "I'm 16 and about to do my first online hackathon. Is it worth trying to find a team?",
-   "link": "https://www.reddit.com/r/learnprogramming/comments/1w77gqp/im_16_and_about_to_do_my_first_online_hackathon/",
-   "date": "2026-09-04T15:24:35+00:00",
-   "author": "/u/Direct_Ad_5181",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m 16, from South Korea. I&#39;ve been programming for a while but I&#39;ve never done a</p> <p>hackathon. I want to enter one soon.</p> <p>I assumed the normal thing was to find a team first. Then I looked at RevenueCat&#39;s</p> <p>Shipaton on Devpost, which is running right now. When you register it makes you</p> <p>answer &quot;Do you have teammates?&quot"
-  },
-  {
-   "title": "I'm a 16yo dev, and I need your feedback to build a team-building tool.",
-   "link": "https://www.reddit.com/r/hackathon/comments/1w7717s/im_a_16yo_dev_and_i_need_your_feedback_to_build_a/",
-   "date": "2026-09-04T15:08:28+00:00",
-   "author": "/u/Direct_Ad_5181",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone,</p> <p>I&#39;m a 16-year-old dev from South Korea. I&#39;ve always been into coding, and recently</p> <p>I&#39;ve gotten really interested in hackathons.</p> <p>I assumed finding a team was the hard part, so I started sketching a free tool</p> <p>around it. Then I looked at the numbers and I&#39;m not so sure anymore.</p> <p>RevenueCat&#39;s Shipaton"
-  },
-  {
-   "title": "Shipaton 2026: Weekly Build in Public Thread — Friday, Sep 4, 2026",
-   "link": "https://www.reddit.com/r/AppBusiness/comments/1w6wfur/shipaton_2026_weekly_build_in_public_thread/",
-   "date": "2026-09-04T06:30:58+00:00",
-   "author": "/u/AutoModerator",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Welcome to this week&#39;s <strong>Shipaton Build in Public Thread</strong>! Everyone is welcome to share an update on their current project here. No need to participate in the hackathon to share, but if you decide to enter sharing updates consistently is a great way to increase your chances of winning the <strong>#BuildInPublic</strong> Award</p> <p>Please share "
   }
  ]
 }
