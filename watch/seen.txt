@@ -255,3 +255,6 @@ https://www.reddit.com/r/AppBusiness/comments/1wd89lz/shipaton_2026_weekly_build
 https://www.reddit.com/r/GooglePlayClosedTest/comments/1wcl1o9/tester_swap_need_12_testers_for_a_which_credit/
 https://www.reddit.com/r/AndroidClosedTesting/comments/1wck86b/tester_swap_need_12_testers_for_a_which_credit/
 https://www.reddit.com/r/iOSAppsMarketing/comments/1wcjsaq/hangar_deploy_control_is_live_on_the_app/
+https://www.reddit.com/r/buildinpublic/comments/1wdr6xy/were_building_a_localmultiplayer_party_game_with/
+https://www.reddit.com/r/appledevelopers/comments/1we7vs4/finally_got_my_video_recorder_for_camerashy/
+https://dev.to/cjbrooks12/designing-a-user-management-system-with-jwts-ktor-and-exposed-2j1a
