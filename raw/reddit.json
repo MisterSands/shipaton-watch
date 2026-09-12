@@ -1,7 +1,7 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "2026-09-11T09:30:01Z",
+ "fetched_at": "2026-09-12T09:30:01Z",
  "count": 24,
  "items": [
   {
@@ -17,6 +17,20 @@
    "date": "2026-08-07T13:46:11+00:00",
    "author": "/u/IamAngusU",
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
+  },
+  {
+   "title": "Finally got my video recorder for camera-shy creators approved 🥹 Took about two weeks and a courtesy call.",
+   "link": "https://www.reddit.com/r/appledevelopers/comments/1we7vs4/finally_got_my_video_recorder_for_camerashy/",
+   "date": "2026-09-12T09:21:31+00:00",
+   "author": "/u/madsmadsdk",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>To be fair, I did pull back the submission a few times to resubmit some bugfixes.</p> <p>Shipped this for Shipaton, so I got in contact with a super nice supporter that offered to try and get it expedited. She came through!</p> <p>Now it’s time to market this thing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/madsmadsdk\">"
+  },
+  {
+   "title": "We're building a local-multiplayer party game with no backend. Three architecture calls that shaped the whole app.",
+   "link": "https://www.reddit.com/r/buildinpublic/comments/1wdr6xy/were_building_a_localmultiplayer_party_game_with/",
+   "date": "2026-09-11T20:06:21+00:00",
+   "author": "/u/bernardofens",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Five of us are building an iOS party game for RevenueCat&#39;s Shipaton. Everyone</p> <p>plays in the same physical room, each on their own iPhone. No server, no</p> <p>accounts beyond Sign in with Apple, no chat. That constraint forced a few</p> <p>decisions I haven&#39;t seen discussed much, so here they are.</p> <p>**1. Transport: GameKit → Multipeer → Network "
   },
   {
    "title": "Shipaton 2026: Weekly Build in Public Thread — Friday, Sep 11, 2026",
@@ -73,13 +87,6 @@
    "date": "2026-09-09T23:51:37+00:00",
    "author": "/u/Lil-booyakasha",
    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UCalgary/comments/1wc2kh2/shipaton_app_building_event/\"> <img src=\"https://external-preview.redd.it/900ZzUdOg7s8gDwZSCOTCna2zwxVfqBfxaoQuXBrZoE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53a9c2a407d0efa382165df8b8a7a9f3460fd80c\" alt=\"Shipaton App Building Event\" title=\"Shipaton App Building Event\" /> </a> </td><td> <!-- SC_OFF --><div class"
-  },
-  {
-   "title": "Free Awesome Tech Shipaton Event!",
-   "link": "https://www.reddit.com/r/Calgary/comments/1wc269s/free_awesome_tech_shipaton_event/",
-   "date": "2026-09-09T23:34:52+00:00",
-   "author": "/u/Lil-booyakasha",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Calgary/comments/1wc269s/free_awesome_tech_shipaton_event/\"> <img src=\"https://external-preview.redd.it/900ZzUdOg7s8gDwZSCOTCna2zwxVfqBfxaoQuXBrZoE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53a9c2a407d0efa382165df8b8a7a9f3460fd80c\" alt=\"Free Awesome Tech Shipaton Event!\" title=\"Free Awesome Tech Shipaton Event!\" /> </a> </td><td> <!-- SC_O"
   },
   {
    "title": "Apple’s event today has me wondering: what are you building now that the AI model ships with the phone?",
@@ -164,13 +171,6 @@
    "date": "2026-09-04T17:14:55+00:00",
    "author": "/u/devinhouse_xd",
    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Gorakhpur/comments/1w7aj63/the_shipaton_irl_gkp_meetup_is_going_to_have/\"> <img src=\"https://preview.redd.it/rsgf70swdjnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2cfda0ff4a341c58a907de4fe14df2b10c216c13\" alt=\"The Shipaton IRL GKP meetup is going to have talks on these topics.\" title=\"The Shipaton IRL GKP meetup is going to have talks on"
-  },
-  {
-   "title": "Shipped a Japanese-learning RPG solo — now trying to figure out monetization/positioning against Duolingo-sized incumbents #Shipaton #BuildInPublic",
-   "link": "https://www.reddit.com/r/appmarketing/comments/1w77l1h/shipped_a_japaneselearning_rpg_solo_now_trying_to/",
-   "date": "2026-09-04T15:29:01+00:00",
-   "author": "/u/Agreeable_Row_836",
-   "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Agreeable_Row_836\"> /u/Agreeable_Row_836 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/appmarketing/\"> r/appmarketing </a> <br/> <span><a href=\"/r/AppBusiness/comments/1w77kud/shipped_a_japaneselearning_rpg_solo_now_trying_to/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/appmarketing/comments/1w77l1h/shipped_"
   }
  ]
 }

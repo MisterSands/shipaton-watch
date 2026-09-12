@@ -1,9 +1,16 @@
 {
  "source": "devto",
  "url": "https://dev.to/feed/tag/shipaton",
- "fetched_at": "2026-09-11T09:30:01Z",
+ "fetched_at": "2026-09-12T09:30:01Z",
  "count": 12,
  "items": [
+  {
+   "title": "Designing a User Management system with JWTs, Ktor, and Exposed",
+   "link": "https://dev.to/cjbrooks12/designing-a-user-management-system-with-jwts-ktor-and-exposed-2j1a",
+   "date": "Fri, 11 Sep 2026 19:30:54 +0000",
+   "author": "Casey Brooks",
+   "summary": "<p>Every app eventually needs to answer two questions: \"who is this person?\" and \"what are they allowed to do?\" Many tutorials either focus on integrating a specific authentication provider like Auth0 or Cognito, or else discuss low-level details like password hashing algorithms. But both of those stop short of the real question we should be asking ourselves: who actually is this person, and what "
+  },
   {
    "title": "Building NICHLYST: Explosions, Medication, and Rewriting 15 Days as a Novel You Can Fail",
    "link": "https://dev.to/koztechie/building-nichlyst-explosions-medication-and-rewriting-15-days-as-a-novel-you-can-fail-583g",
@@ -80,13 +87,6 @@
    "date": "Sat, 22 Aug 2026 03:55:23 +0000",
    "author": "Ronak Mahajan",
    "summary": "<p>This past week has been an absolute sprint. If you've been following along with my journey for the RevenueCat Shipaton 2026, you know that Sprout Atlas isn't just another food app—it's an AI-powered ecosystem designed to eliminate market anxiety, track produce freshness, and make nutritional data instantly accessible.</p>\n\n<p>While much of the underlying infrastructure involves setting up Fires"
-  },
-  {
-   "title": "The Science Behind Sprout Atlas: Why We Buy Blind at the Market",
-   "link": "https://dev.to/ronak1311/the-science-behind-sprout-atlas-why-we-buy-blind-at-the-market-3c0g",
-   "date": "Wed, 19 Aug 2026 10:58:35 +0000",
-   "author": "Ronak Mahajan",
-   "summary": "<p>In my previous post, I shared the mission behind Sprout Atlas—an interactive produce field guide and AI scanner I’m building for RevenueCat’s #Shipaton 2026.</p>\n\n<p>Today, I want to explore the real food science that led me to create Sprout Atlas, and why traditional grocery shopping leaves almost all of us buying in the dark.</p>\n\n<p>🔬 1. The Chemistry of What's Actually on Our Food<br>\nWhen "
   }
  ]
 }
