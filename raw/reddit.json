@@ -1,7 +1,7 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "2026-09-12T09:30:01Z",
+ "fetched_at": "2026-09-13T11:31:41Z",
  "count": 24,
  "items": [
   {
@@ -19,11 +19,46 @@
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
   },
   {
-   "title": "Finally got my video recorder for camera-shy creators approved 🥹 Took about two weeks and a courtesy call.",
-   "link": "https://www.reddit.com/r/appledevelopers/comments/1we7vs4/finally_got_my_video_recorder_for_camerashy/",
-   "date": "2026-09-12T09:21:31+00:00",
-   "author": "/u/madsmadsdk",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>To be fair, I did pull back the submission a few times to resubmit some bugfixes.</p> <p>Shipped this for Shipaton, so I got in contact with a super nice supporter that offered to try and get it expedited. She came through!</p> <p>Now it’s time to market this thing.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/madsmadsdk\">"
+   "title": "Just launched my iOS app for RevenueCat Shipaton!",
+   "link": "https://www.reddit.com/r/iOSDevelopment/comments/1wf0vds/just_launched_my_ios_app_for_revenuecat_shipaton/",
+   "date": "2026-09-13T07:19:57+00:00",
+   "author": "/u/daria_dev04",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p> <p>For RevenueCat’s <strong>#Shipaton</strong>, I built an app called <strong>10Goals</strong>. It’s my 8th iOS app, and it’s already live on the <a href=\"https://apps.apple.com/us/app/10goals-goal-tracker/id6799881924\">App Store.</a></p> <p>I built it because I used to keep my long-term goals in <strong>ClickUp</strong>, but it always felt a bit"
+  },
+  {
+   "title": "Built my 8th iOS app for RevenueCat Shipaton — looking for feedback",
+   "link": "https://www.reddit.com/r/iosdev/comments/1wf0na4/built_my_8th_ios_app_for_revenuecat_shipaton/",
+   "date": "2026-09-13T07:07:08+00:00",
+   "author": "/u/daria_dev04",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/iosdev/comments/1wf0na4/built_my_8th_ios_app_for_revenuecat_shipaton/\"> <img src=\"https://preview.redd.it/0oqqalsqk8ph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a2015a31a854ecb3a80a931a1f34a9803de7967\" alt=\"Built my 8th iOS app for RevenueCat Shipaton — looking for feedback\" title=\"Built my 8th iOS app for RevenueCat Shipaton — looking fo"
+  },
+  {
+   "title": "What if you could send someone a song for the exact moment they need it?",
+   "link": "https://www.reddit.com/r/buildinpublic/comments/1weq4lp/what_if_you_could_send_someone_a_song_for_the/",
+   "date": "2026-09-12T22:23:30+00:00",
+   "author": "/u/Tekton-Legacy",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/buildinpublic/comments/1weq4lp/what_if_you_could_send_someone_a_song_for_the/\"> <img src=\"https://external-preview.redd.it/N3M0ZjludzcwNnBoMTcDYFNK8ZjbfC-ICukSq0Ix0dR5FJZSyfEUm0zwNBMY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f5c022ca410ea3f73b6deaa401982f788cc33e51\" alt=\"What if you could send someone a song for the exact moment they need"
+  },
+  {
+   "title": "Untold — Anonymous Emotional Support Platform | Shipaton 2026",
+   "link": "https://www.reddit.com/r/alphaandbetausers/comments/1wek3js/untold_anonymous_emotional_support_platform/",
+   "date": "2026-09-12T18:24:55+00:00",
+   "author": "/u/Untold_8128",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a small group of people to test an app I&#39;ve been building called <strong>Untold</strong>.</p> <p>It&#39;s an anonymous emotional-support platform where you can:</p> <p>→ Talk with an AI listener<br/> → Connect anonymously with peers<br/> → Explore shared thoughts<br/> → Keep a private journal<br/> → Find and book professional support</p> <p"
+  },
+  {
+   "title": "Untold — Anonymous Emotional Support Platform | Shipaton 2026",
+   "link": "https://www.reddit.com/r/promoteMyApp/comments/1wek0n8/untold_anonymous_emotional_support_platform/",
+   "date": "2026-09-12T18:21:49+00:00",
+   "author": "/u/Untold_8128",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been working on something called Untold.</p> <p>The idea started from a simple observation:</p> <p>Sometimes talking to someone you know is actually harder than talking to a stranger.</p> <p>You worry about being judged, becoming a burden, or having people treat you differently afterward.</p> <p>So we built an anonymous emotional-support platform where pe"
+  },
+  {
+   "title": "We shipped our Shipaton app in 29 days. Now the harder part starts: finding users",
+   "link": "https://www.reddit.com/r/buildinpublic/comments/1weaco8/we_shipped_our_shipaton_app_in_29_days_now_the/",
+   "date": "2026-09-12T11:40:01+00:00",
+   "author": "/u/Sudden-Abalone-7692",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>About a month ago I started building in public because of RevenueCat’s Shipaton. I’d had the idea for 10Goals for a while, but Shipaton was the push to actually build it.</p> <p>10Goals is a goal tracker for people who already use task managers, project tools, calendars and reminders, but still lose sight of their long-term goals.</p> <p>That was my problem too. I"
   },
   {
    "title": "We're building a local-multiplayer party game with no backend. Three architecture calls that shaped the whole app.",
@@ -89,6 +124,13 @@
    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UCalgary/comments/1wc2kh2/shipaton_app_building_event/\"> <img src=\"https://external-preview.redd.it/900ZzUdOg7s8gDwZSCOTCna2zwxVfqBfxaoQuXBrZoE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53a9c2a407d0efa382165df8b8a7a9f3460fd80c\" alt=\"Shipaton App Building Event\" title=\"Shipaton App Building Event\" /> </a> </td><td> <!-- SC_OFF --><div class"
   },
   {
+   "title": "Need 12 testers for my rhythm game - Pixel Riffs (5mb download) - I will test your app back for 14 days",
+   "link": "https://www.reddit.com/r/AndroidClosedTesting/comments/1wbw3c4/need_12_testers_for_my_rhythm_game_pixel_riffs/",
+   "date": "2026-09-09T19:45:43+00:00",
+   "author": "/u/metamorphosising",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AndroidClosedTesting/comments/1wbw3c4/need_12_testers_for_my_rhythm_game_pixel_riffs/\"> <img src=\"https://preview.redd.it/1nbty7e4ujoh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=16531033061f0295261ba76294a0f73d3d78379a\" alt=\"Need 12 testers for my rhythm game - Pixel Riffs (5mb download) - I will test your app back for 14"
+  },
+  {
    "title": "Apple’s event today has me wondering: what are you building now that the AI model ships with the phone?",
    "link": "https://www.reddit.com/r/AppBusiness/comments/1wbpvn6/apples_event_today_has_me_wondering_what_are_you/",
    "date": "2026-09-09T16:08:06+00:00",
@@ -129,48 +171,6 @@
    "date": "2026-09-06T19:55:48+00:00",
    "author": "/u/Otherwise_Tart3320",
    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AppBusiness/comments/1w96eji/beat_my_sales_target_by_300/\"> <img src=\"https://preview.redd.it/7ukocmtfgynh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3295ab0c7158f11abc08bbeb71ebee0f6c036c3f\" alt=\"Beat my sales target by 300%!!!\" title=\"Beat my sales target by 300%!!!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I shipped <a href=\""
-  },
-  {
-   "title": "Looking for 12 testers for my habit-tracking game - pick 3 habits, watch a farm grow (Android, free)",
-   "link": "https://www.reddit.com/r/AndroidAppTesters/comments/1w8ssnx/looking_for_12_testers_for_my_habittracking_game/",
-   "date": "2026-09-06T10:41:46+00:00",
-   "author": "/u/AmitKalita2022",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey all, I am building <strong>Vylo</strong> for the RevenueCat Shipaton 2026 hackathon, and I need testers to satisfy Google Play&#39;s closed testing requirement before I can launch publicly. Would genuinely appreciate a few of you giving it a shot.</p> <p><strong>What it is:</strong> Pick 3 daily habits, and every day you follow through, a small isometric farm "
-  },
-  {
-   "title": "First Milestone!",
-   "link": "https://www.reddit.com/r/AppBusiness/comments/1w8c2h3/first_milestone/",
-   "date": "2026-09-05T20:46:50+00:00",
-   "author": "/u/hakan115",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AppBusiness/comments/1w8c2h3/first_milestone/\"> <img src=\"https://preview.redd.it/ppxur0hdkrnh1.png?width=140&amp;height=78&amp;auto=webp&amp;s=bda10ea6999cc81fb18779faf4f283f9a14fbcf1\" alt=\"First Milestone!\" title=\"First Milestone!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/ppxur0hdkrnh1.png?width=742&am"
-  },
-  {
-   "title": "If 300 people in the same room need the same file, why should all 300 download it from the Internet?",
-   "link": "https://www.reddit.com/r/buildinpublic/comments/1w7y6e9/if_300_people_in_the_same_room_need_the_same_file/",
-   "date": "2026-09-05T11:26:39+00:00",
-   "author": "/u/Icy-Raisin2421",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/buildinpublic/comments/1w7y6e9/if_300_people_in_the_same_room_need_the_same_file/\"> <img src=\"https://external-preview.redd.it/Z3NnZW8zcGxzb25oMYlKKHpMqLaH1a7smEbU0son_xSWYlfUM6Gw2LA4X2yv.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=18ae056ffcaac22d8ee928e89489d5cf5371b4a8\" alt=\"If 300 people in the same room need the same file, why should all"
-  },
-  {
-   "title": "Built a CV app that tracks which version you sent where — trying to scrape together 50-100 to actually launch it",
-   "link": "https://www.reddit.com/r/SideProject/comments/1w7lv0s/built_a_cv_app_that_tracks_which_version_you_sent/",
-   "date": "2026-09-05T00:34:59+00:00",
-   "author": "/u/Brave-Letters-97",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/SideProject/comments/1w7lv0s/built_a_cv_app_that_tracks_which_version_you_sent/\"> <img src=\"https://external-preview.redd.it/cDB6cjZiNzRrbG5oMd4j4VgxthPxDSoVsBvVQwbFjS6mA98_LnkO46T9neVw.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=883038adb79f6fc3eec6b324492857df4ed5c4b1\" alt=\"Built a CV app that tracks which version you sent where — trying to"
-  },
-  {
-   "title": "The Shipaton IRL GKP meetup is going to have talks on these topics.",
-   "link": "https://www.reddit.com/r/GorakhpurDevs/comments/1w7b1mq/the_shipaton_irl_gkp_meetup_is_going_to_have/",
-   "date": "2026-09-04T17:32:52+00:00",
-   "author": "/u/devinhouse_xd",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/GorakhpurDevs/comments/1w7b1mq/the_shipaton_irl_gkp_meetup_is_going_to_have/\"> <img src=\"https://preview.redd.it/rsgf70swdjnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2cfda0ff4a341c58a907de4fe14df2b10c216c13\" alt=\"The Shipaton IRL GKP meetup is going to have talks on these topics.\" title=\"The Shipaton IRL GKP meetup is going to have talk"
-  },
-  {
-   "title": "The Shipaton IRL GKP meetup is going to have talks on these topics.",
-   "link": "https://www.reddit.com/r/Gorakhpur/comments/1w7aj63/the_shipaton_irl_gkp_meetup_is_going_to_have/",
-   "date": "2026-09-04T17:14:55+00:00",
-   "author": "/u/devinhouse_xd",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/Gorakhpur/comments/1w7aj63/the_shipaton_irl_gkp_meetup_is_going_to_have/\"> <img src=\"https://preview.redd.it/rsgf70swdjnh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2cfda0ff4a341c58a907de4fe14df2b10c216c13\" alt=\"The Shipaton IRL GKP meetup is going to have talks on these topics.\" title=\"The Shipaton IRL GKP meetup is going to have talks on"
   }
  ]
 }

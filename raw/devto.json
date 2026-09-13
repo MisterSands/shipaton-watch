@@ -1,9 +1,16 @@
 {
  "source": "devto",
  "url": "https://dev.to/feed/tag/shipaton",
- "fetched_at": "2026-09-12T09:30:01Z",
+ "fetched_at": "2026-09-13T11:31:41Z",
  "count": 12,
  "items": [
+  {
+   "title": "Finally shipping v1.0.7: Fixing the silent Google Sign-In & Paywall bugs in my Flutter app published: true",
+   "link": "https://dev.to/ronak1311/finally-shipping-v107-fixing-the-silent-google-sign-in-paywall-bugs-in-my-flutter-app-1obl",
+   "date": "Sat, 12 Sep 2026 15:04:57 +0000",
+   "author": "Ronak Mahajan",
+   "summary": "<p>After 7 iterations of staring blankly at crash logs, wrestling with Google Cloud OAuth scopes, and questioning my life choices as a solo developer, Sprout Atlas is finally ready for its Google Play release.</p>\n\n<p>Building an AI-powered produce scanner using Flutter, Firebase, and RevenueCat sounds great on paper. In practice? Let's just say getting the native authentication and subscription p"
+  },
   {
    "title": "Designing a User Management system with JWTs, Ktor, and Exposed",
    "link": "https://dev.to/cjbrooks12/designing-a-user-management-system-with-jwts-ktor-and-exposed-2j1a",
@@ -80,13 +87,6 @@
    "date": "Sun, 23 Aug 2026 13:22:51 +0000",
    "author": "Ronak Mahajan",
    "summary": "<p>If you're following my build-in-public journey for Sprout Atlas and the RevenueCat Shipaton 2026, you know the UI design sprint went smoothly last week. But this week? The codebase decided to humble me.</p>\n\n<p>My mission was simple: wire up the RevenueCat SDK for frictionless subscription paywalls and hook everything into Firebase for multi-lingual search data and user states.</p>\n\n<p>It turne"
-  },
-  {
-   "title": "One Week, One Vision: Designing the UI/UX Core of Sprout Atlas",
-   "link": "https://dev.to/ronak1311/one-week-one-vision-designing-the-uiux-core-of-sprout-atlas-2aki",
-   "date": "Sat, 22 Aug 2026 03:55:23 +0000",
-   "author": "Ronak Mahajan",
-   "summary": "<p>This past week has been an absolute sprint. If you've been following along with my journey for the RevenueCat Shipaton 2026, you know that Sprout Atlas isn't just another food app—it's an AI-powered ecosystem designed to eliminate market anxiety, track produce freshness, and make nutritional data instantly accessible.</p>\n\n<p>While much of the underlying infrastructure involves setting up Fires"
   }
  ]
 }
