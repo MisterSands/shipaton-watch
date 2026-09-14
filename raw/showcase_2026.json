@@ -1,10 +1,75 @@
 {
  "source": "showcase_2026",
  "url": "https://apps.shipaton.com/2026",
- "fetched_at": "2026-09-13T11:31:41Z",
- "declared_total": 559,
- "count": 559,
- "new_today": [],
+ "fetched_at": "2026-09-14T09:30:02Z",
+ "declared_total": 623,
+ "count": 623,
+ "new_today": [
+  "pollzy",
+  "ultraalarm-get-up-alarm-clock",
+  "cibby-game-collection",
+  "moving-box-tracker-find-items",
+  "agemaxx",
+  "booklore-ai-book-characters",
+  "2x-history",
+  "ariaai-studio",
+  "autohdmi-auto-switch-to-hdmi",
+  "autoreplied",
+  "bite-club-family-meal-planner",
+  "bookmark-manager-nemor",
+  "cafediary-map-journal",
+  "echo-smart-link-saver",
+  "elements-aesthetic-widgets",
+  "fajr-prayer-alarm-adhan",
+  "fillo-car-expense-tracker",
+  "filmedsurf",
+  "flyright-flight-tracker",
+  "frog-crossing-arcade-hopper",
+  "gut-scribe-ibs-food-diary",
+  "harmony-paws-dogs-outings",
+  "homeworld-chores-together",
+  "isard-gps-run-hike-tracker",
+  "jobs-puzzle-jobs-cv-maker",
+  "kivella-recipes-meal-planner",
+  "landlordpro-rent-tracker",
+  "lentes-glasses-contacts",
+  "linya",
+  "loanshark-utang-tracker",
+  "logadia-save-share-places",
+  "makiroll",
+  "marnie-expense-tracker",
+  "minijoy",
+  "mossu-meditation-timer-grow",
+  "newmemo-ai",
+  "offline-music-player-offly",
+  "oshicho-fc",
+  "pageling-scan-book-highlights",
+  "patternpro-shotgun-patterning",
+  "pawmiaw",
+  "peelmeal-recipe-meal-plan",
+  "penypost-slow-penpal-letter",
+  "pomostats-app-store-stats",
+  "privy-pilot",
+  "reelio-catch-collect",
+  "ripple-sensory-spaces",
+  "sadhana-yoga-meditation",
+  "saju-today-daily-fortune",
+  "sanchariq-travel-companion",
+  "sense-of-wonder-space-puzzle",
+  "song-ribbon",
+  "survkit-offline-emergency",
+  "tapuchino-idle-cafe-tycoon",
+  "the-pawmanent-record",
+  "uku",
+  "untold-mind-mental-health",
+  "verdara-rescue",
+  "vikkeland",
+  "voiceroutine",
+  "wakekids-remote-kids-alarm",
+  "walkabout-step-explore",
+  "yesri-business-manager",
+  "zupiq-ai-math-solver"
+ ],
  "apps": [
   {
    "slug": "zubdah",
@@ -367,6 +432,26 @@
    "gaining": false
   },
   {
+   "slug": "pollzy",
+   "name": "Pollzy",
+   "url": "https://apps.shipaton.com/app/pollzy",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/pollzy/id6748984309?uo=4",
+    "https://play.google.com/store/apps/details?id=com.pollzy.app",
+    "https://play.google.com/store/apps/details?id=com.pollzy.app&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "outfit-maker-mydrobe",
    "name": "Outfit Maker - MyDrobe",
    "url": "https://apps.shipaton.com/app/outfit-maker-mydrobe",
@@ -401,6 +486,24 @@
    "description": "",
    "first_seen": "2026-09-02",
    "rating_count_prev": 7,
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "ultraalarm-get-up-alarm-clock",
+   "name": "UltraAlarm: Get Up Alarm Clock",
+   "url": "https://apps.shipaton.com/app/ultraalarm-get-up-alarm-clock",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/ultraalarm-get-up-alarm-clock/id6795298720?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -483,6 +586,24 @@
    ],
    "description": "Now you always have someone to text. A stranger next door heard your call end badly and has a bottle. Your ex is parked outside with your key still on the ring. Your best friend's fiancé is texting you at 1am, four days before the wedding. A locksmith says he changed your locks today. You didn't call one. Every story is a real text thread. It starts on its own, like a chat you weren't meant to see. Then the keyboard is yours. Type anything. They answer you, in their own voice, and they remember what you said. HOW IT WORKS • Stories text you first, at the hour they would • A few messages in, you take over: type anything or tap a reply • Characters flirt, push, lie, and react to YOUR words • Your last message is the one that decides how it ends WHAT'S WAITING (WITH LEFT ON READ PLUS) • Forty conversations across romance, thriller, horror, mystery, drama and comedy • The ones who shouldn't be texting you: the ex, the trainer, the plus one, the wrong number that wasn't • Group chats where everyone is typing at once • Phone calls that interrupt the thread when texting isn't enough • Three endings each, and their read on you afterwards • Tell us who you are and who texts you; the stories",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "cibby-game-collection",
+   "name": "Cibby: Game Collection",
+   "url": "https://apps.shipaton.com/app/cibby-game-collection",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/cibby-game-collection/id6790582307?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -1096,6 +1217,24 @@
    "gaining": false
   },
   {
+   "slug": "moving-box-tracker-find-items",
+   "name": "Moving Box Tracker: Find Items",
+   "url": "https://apps.shipaton.com/app/moving-box-tracker-find-items",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/moving-box-tracker-find-items/id6762944912?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "picky-eats-save-your-fave",
    "name": "Picky Eats: Save your Fave",
    "url": "https://apps.shipaton.com/app/picky-eats-save-your-fave",
@@ -1221,6 +1360,24 @@
    "gaining": false
   },
   {
+   "slug": "agemaxx",
+   "name": "Agemaxx",
+   "url": "https://apps.shipaton.com/app/agemaxx",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/agemaxx/id6773225673?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "ai-baby-notes",
    "name": "AI Baby Notes",
    "url": "https://apps.shipaton.com/app/ai-baby-notes",
@@ -1299,6 +1456,24 @@
    ],
    "description": "A quiet place to read the Bible. Open the book, sign the cover, and read. Chapters are set in a single column of large type. Nothing else competes with the text. Choose a language and a translation. Follow a plan: straight through, in the order the events happened, or Jesus first. Mark a chapter read. Keep a verse with one tap. The day’s verse can sit on the Lock Screen and the Home Screen. A small radio, if you want it. Highlights and progress stay on this device, and in iCloud. Information Seller Leny Levant Compatibility iPhone Genres Books, Reference You might also like Vector Guard - Bug Identifier 2025 · Reference View BibleNow: Audio Bible Stories 2025 · Reference View CookShelf: Search Cookbooks 2025 · Food & Drink View Mindsnap: Daily Micro Learning 2024 · Education View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1251 apps from every Shipaton. Shipaton",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "booklore-ai-book-characters",
+   "name": "BookLore AI: Book Characters",
+   "url": "https://apps.shipaton.com/app/booklore-ai-book-characters",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/booklore-ai-book-characters/id6801190644?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -2040,6 +2215,24 @@
    "gaining": false
   },
   {
+   "slug": "2x-history",
+   "name": "2x History",
+   "url": "https://apps.shipaton.com/app/2x-history",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/2x-history/id6803251446?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "9-plates-task-manager",
    "name": "9 Plates: Task Manager",
    "url": "https://apps.shipaton.com/app/9-plates-task-manager",
@@ -2556,6 +2749,25 @@
    "gaining": false
   },
   {
+   "slug": "ariaai-studio",
+   "name": "AriaAI Studio",
+   "url": "https://apps.shipaton.com/app/ariaai-studio",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.emergent.mediagenhub.xtuae4",
+    "https://play.google.com/store/apps/details?id=com.emergent.mediagenhub.xtuae4&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "artlevelup-drawing-practice",
    "name": "ArtLevelUp - Drawing Practice",
    "url": "https://apps.shipaton.com/app/artlevelup-drawing-practice",
@@ -2671,6 +2883,43 @@
    ],
    "description": "Every story here listens back. At each turning point you answer yes or no, and the book genuinely branches — a different scene plays, different people make it out, and you land on a different ending. Your way through a story doesn't have to look like anyone else's. Starting out is free. Open the app, pick something, press play. No card, no trial countdown, no sign-up screen. A GROWING COLLECTION New interactive audiobooks are added over time, across genres. Every one is written, narrated and checked in full before it's published — nothing is generated while you listen. BUILT AROUND YOU A short setup shapes what's on your shelf, so the library you open is the one meant for you. It's worked out on your device, from what you tell the app. No profile, no tracking, nothing to sign up for. WHAT YOU GET - Real branching stories with many endings, not one path with a couple of detours - Answer with a tap, or hands-free with your headphone buttons - Nod for yes, shake for no with AirPods or motion-capable Beats: hands stay in your pocket - Playback speed from 0.75x to 2x - Full lock-screen and notification controls - Download a book once and it's yours: replay it offline, as often as you li",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "autohdmi-auto-switch-to-hdmi",
+   "name": "AutoHDMI - Auto Switch to HDMI",
+   "url": "https://apps.shipaton.com/app/autohdmi-auto-switch-to-hdmi",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.taponyourglass.autohdmi",
+    "https://play.google.com/store/apps/details?id=com.taponyourglass.autohdmi&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "autoreplied",
+   "name": "AutoReplied",
+   "url": "https://apps.shipaton.com/app/autoreplied",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/autoreplied/id6801167886?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -2992,6 +3241,24 @@
    "gaining": false
   },
   {
+   "slug": "bite-club-family-meal-planner",
+   "name": "Bite Club: Family Meal Planner",
+   "url": "https://apps.shipaton.com/app/bite-club-family-meal-planner",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/bite-club-family-meal-planner/id6794914590?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "bite-food-tracker",
    "name": "Bite° Food Tracker           Scan to open  Google Play       Showcase                         2026  Shipaton     Category         Health & Fitness     Developer           gugus.     Ratings  —  Not yet rated                              Today                Games            Apps                  Winners            Browse        Explore the showcase  Browse   Done    Collections          iOS Apps            Android Apps              Unreleased Apps      Years                          2026                          2025                          2024      Categories              Entertainment            Social Networking              Lifestyle          Photo & Video            Education          Health & Fitness          Productivity                          Utilities          Books                  Sports          Music              Business            Graphics & Design        Navigation          Android   $RS=function(a,b){a=document.getElementById(a);b=document.getElementById(b);for(a.parentNode.removeChild(a);a.firstChild;)b.parentNode.insertBefore(a.firstChild,b);b.parentNode.removeChild(b)};$RS(\"S:4\",\"P:4\")                  $RS(\"S:5\",\"P:5\")     About this app  Food tracking doesn't need to feel like accounting.\n\nBite is a lightweight food tracker built around a simple idea: turn what you eat into Bites and use your personal daily range to understand your day without focusing on calorie counting.\n\nFind your Bite range\n\nBite gives you a personal daily range based on you and your goal. You don't need to hit one exact number. The range gives you room for normal day-to-day variation, while weekly Flex adds flexibility across your week.\n\nBuild your meal as you eat\n\nThe Bite Editor turns food tracking into something closer to putting together a recipe. Add ingredients, adjust portions and build your meal piece by piece. Bite calculates nutrition information and Bites along the way.\n\nScan packaged foods\n\nUse the built-in barcode scanner to quickly add products without entering everything manually.\n\nA simple food library\n\nSearch for foods you eat regularly, adjust the amount and add them directly to your meal.\n\nSee what matters\n\nNutrition information stays available when you want it, while your Bite range gives you a simpler way to see how your day is going.\n\nLook beyond a single day\n\nSee how your eating patterns develop over time, including how often you land within, above or below your range.\n\nSave the meals you love\n\nFinished something worth making again? Save your Bite and quickly reuse it later.\n\nMade for everyday food\n\nBreakfast at home. A sandwich for lunch. Something you cooked from whatever was left in the fridge. Bite is designed for real meals, not perfect logging.\n\nNo complicated food diary. No endless forms. Just build what you ate and keep going.\n\nBite. Build it. Eat it. Track it.    Information    Seller  gugus.    Compatibility  Android    Genres  Health & Fitness       $RS(\"S:6\",\"P:6\")    You might also like                        PitchLab - Baseball & Softball    2025",
    "url": "https://apps.shipaton.com/app/bite-food-tracker",
@@ -3065,6 +3332,24 @@
    ],
    "description": "blyn is a local-first budget tracker with an AI money coach. See what's left this month, log expenses in seconds, and set category limits. Your ledger stays on your iPhone. You only sign in when you want Coach or Pro. WHAT'S FREE FOREVER • Add, edit, and delete expenses and income • Categories, goals, charts, and search • Home Screen and Lock Screen widgets • Face ID app lock • One recurring entry — set rent or salary once • Back Tap / Shortcuts quick log • Export your data • No account required for tracking RECURRING Rent, salary, subscriptions. Set the amount and how often it repeats, and blyn logs it on schedule — daily, weekly, every two weeks, monthly, or yearly. Pause any of them when things change. Free includes one; Pro removes the limit. MULTI-CURRENCY Every entry keeps the currency you logged it in. Switch your display currency and blyn converts at live rates without ever rewriting what you originally spent. Coach understands it too — say \"set my budget to $500\" while tracking in rupees and it converts before saving. COACH (3 free messages, then blyn Pro) Talk like a human: \"coffee $5 today.\" Coach prepares the entry and you confirm before it saves. It can also help set a",
    "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "bookmark-manager-nemor",
+   "name": "Bookmark Manager: Nemor",
+   "url": "https://apps.shipaton.com/app/bookmark-manager-nemor",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/bookmark-manager-nemor/id6766080848?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -3227,6 +3512,24 @@
    ],
    "description": "Cadge is a virtual pet that lives on your home screen. Feed it straight from the widget without opening the app, and watch a Blob become a Sprout and then a Cadgling with a personality you accidentally trained. THE WIDGET IS THE APP Two widget sizes, and both of them have a working Feed button. Feeding from the home screen runs exactly the same path as feeding inside the app: the same daily allowance, the same cost, the same result. Tap the pet instead and it opens the room. A PERSONALITY YOU DIDN'T CHOOSE Five traits (chaos, clinginess, sass, sleepiness and curiosity) move with how you actually play. At the Cadgling stage the dominant one sets in for good: chaotic, clingy or sassy. Two people who both fed their pet every single day can still end up with completely different creatures. CARE IS ALWAYS FREE Three feeds a day cost nothing. Petting costs nothing. A Treat costs one Snack, and Snacks are earned by turning up. There is no paywall on any care action, and there never will be: nothing you have to buy to keep it happy. IT NOTICES WHEN YOU DON'T Leave it alone and it gets interesting. Leave it long enough and it goes out, and leaves a note. Come back and it comes back. Not one",
    "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "cafediary-map-journal",
+   "name": "CafeDiary: Map & Journal",
+   "url": "https://apps.shipaton.com/app/cafediary-map-journal",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/cafediary-map-journal/id6806307701?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -4270,6 +4573,24 @@
    "gaining": false
   },
   {
+   "slug": "echo-smart-link-saver",
+   "name": "Echo: Smart Link Saver",
+   "url": "https://apps.shipaton.com/app/echo-smart-link-saver",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/echo-smart-link-saver/id6787304102?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "echoes-leave-a-mark",
    "name": "echoes - leave a mark",
    "url": "https://apps.shipaton.com/app/echoes-leave-a-mark",
@@ -4328,6 +4649,24 @@
    ],
    "description": "Most medication apps assume you are tracking your own pills. Elderhub assumes you are not. If you help look after a parent, a spouse, or both, you already know the problem: the real list lives in three places at once. Some of it is in your head, some of it is on a scrap of paper in a kitchen drawer, and some of it is whatever the pharmacy printed out last spring. Then a nurse asks what she takes, and you are guessing. Elderhub keeps one current list per person, so you always have the answer. MORE THAN ONE PERSON Add Mom, Dad, and yourself. Each person gets their own medications, their own schedule, and their own history. Switch between them in one tap. THE LIST A DOCTOR ACTUALLY WANTS Name, strength, form, what it is for, who prescribed it, and the instructions that matter. Not just an alarm. ONE TAP TO HAND IT OVER The emergency card renders the whole picture in large type: allergies, conditions, every active medication, and emergency contacts. Share it as plain text into a message or an email, or read it straight off the screen in a waiting room. It works with no signal. MARK DOSES ON SOMEONE ELSE'S BEHALF Log a dose as taken or skipped, and the entry records who did it. Useful w",
    "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "elements-aesthetic-widgets",
+   "name": "Elements - Aesthetic Widgets",
+   "url": "https://apps.shipaton.com/app/elements-aesthetic-widgets",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/elements-aesthetic-widgets/id6798970389?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -4630,6 +4969,25 @@
    "gaining": false
   },
   {
+   "slug": "fajr-prayer-alarm-adhan",
+   "name": "Fajr: Prayer Alarm & Adhan",
+   "url": "https://apps.shipaton.com/app/fajr-prayer-alarm-adhan",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.alifanalytics.fajr_app",
+    "https://play.google.com/store/apps/details?id=com.alifanalytics.fajr_app&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "family-care-relay",
    "name": "Family Care Relay",
    "url": "https://apps.shipaton.com/app/family-care-relay",
@@ -4804,6 +5162,42 @@
    "gaining": false
   },
   {
+   "slug": "fillo-car-expense-tracker",
+   "name": "Fillo: Car Expense Tracker",
+   "url": "https://apps.shipaton.com/app/fillo-car-expense-tracker",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/fillo-car-expense-tracker/id6809118943?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "filmedsurf",
+   "name": "FilmedSurf",
+   "url": "https://apps.shipaton.com/app/filmedsurf",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/filmedsurf/id6763542435?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "fin",
    "name": "Fin",
    "url": "https://apps.shipaton.com/app/fin",
@@ -4923,6 +5317,26 @@
    "gaining": false
   },
   {
+   "slug": "flyright-flight-tracker",
+   "name": "FlyRight: Flight Tracker",
+   "url": "https://apps.shipaton.com/app/flyright-flight-tracker",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/flyright-flight-tracker/id6801505051?uo=4",
+    "https://play.google.com/store/apps/details?id=com.shanavasshaji.flyright",
+    "https://play.google.com/store/apps/details?id=com.shanavasshaji.flyright&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "focalai-learn-photography",
    "name": "FocalAI: Learn Photography",
    "url": "https://apps.shipaton.com/app/focalai-learn-photography",
@@ -5018,6 +5432,26 @@
    ],
    "description": "You don't quit because you're lazy. You quit because nothing notices. No streak breaks. Nobody asks where you were. Fouz makes showing up the game. Log any sport in about twenty seconds — no wearable, no GPS, no subscription. Every session earns XP. Days become streaks. Friends see it, cheer it, and notice when you stop. THE LOOP • Log it — pick your sport, add what you did, save • Earn XP — workouts, meals, games and goals all pay • Climb — XP becomes levels, days become streaks • Share it — one tap turns a session into a card for your story • Get pulled back — friends react, someone needs a fourth on Thursday YOUR SPORT IS IN HERE 55 sports across 9 categories: football, padel, pickleball, running, gym, boxing, yoga, swimming and more. It doesn't matter which one — only that you came back. A GAME THAT PLAYS FAIR • No hidden multipliers, no pay-to-win • Streaks stay honest: alive only while your last logged day is today or yesterday. No freeze tokens. That's what makes a 30-day streak mean something. • Badges with original artwork across four rarity tiers • Leaderboards by XP, streak or level — filtered to your city, your sport, your friends NEVER TRAIN ALONE • A feed that only re",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "frog-crossing-arcade-hopper",
+   "name": "Frog Crossing: Arcade Hopper",
+   "url": "https://apps.shipaton.com/app/frog-crossing-arcade-hopper",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/frog-crossing-arcade-hopper/id6794325921?uo=4",
+    "https://play.google.com/store/apps/details?id=com.duwittechnologies.frog_cross",
+    "https://play.google.com/store/apps/details?id=com.duwittechnologies.frog_cross&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -5309,6 +5743,25 @@
    "gaining": false
   },
   {
+   "slug": "gut-scribe-ibs-food-diary",
+   "name": "Gut Scribe - IBS Food Diary",
+   "url": "https://apps.shipaton.com/app/gut-scribe-ibs-food-diary",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.gutscribe",
+    "https://play.google.com/store/apps/details?id=com.gutscribe&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "gynus-gym-workout-tracker",
    "name": "Gynus: Gym Workout Tracker",
    "url": "https://apps.shipaton.com/app/gynus-gym-workout-tracker",
@@ -5388,6 +5841,24 @@
    ],
    "description": "",
    "first_seen": "2026-09-12",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "harmony-paws-dogs-outings",
+   "name": "Harmony Paws: Dogs & Outings",
+   "url": "https://apps.shipaton.com/app/harmony-paws-dogs-outings",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/harmony-paws-dogs-outings/id6783914070?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -5530,6 +6001,26 @@
    ],
    "description": "Your home tells you what it needs. HomeTend listens. Photograph anything — a drip under the sink, a filter that's due, a crack you don't like the look of — and HomeTend turns it into a scheduled task with a title, a category and a due date. No forms, no setup, no account to create. It works the moment you open it. WALK YOUR WHOLE HOUSE Inspection mode guides you through 66 checks across 14 areas: the walk-around outside, the roof from the ground, attic, basement and crawlspace, plumbing, electrical, heating and cooling, kitchen, bathrooms, laundry, garage, chimney, doors and windows, and septic. Each item tells you what to look for and why it matters. Photograph what you find, mark it pass or needs-attention yourself, and anything that fails becomes a scheduled task with the photo already attached. When you're done, email the full report — every item, your photos, what needs work — to yourself, your partner, or your agent. Want a second opinion? HomeTend Plus adds an AI read on any item: what it sees, and why. You stay the judge — every call can be overridden. MAINTENANCE THAT REMEMBERS SO YOU DON'T Set a job once and it reschedules itself. HVAC filters every three months, gutters ",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "homeworld-chores-together",
+   "name": "Homeworld: Chores, Together",
+   "url": "https://apps.shipaton.com/app/homeworld-chores-together",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/homeworld-chores-together/id6789872225?uo=4",
+    "https://play.google.com/store/apps/details?id=com.homeworld.mobile",
+    "https://play.google.com/store/apps/details?id=com.homeworld.mobile&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -5803,6 +6294,24 @@
    "gaining": false
   },
   {
+   "slug": "isard-gps-run-hike-tracker",
+   "name": "iSard: GPS Run & Hike Tracker",
+   "url": "https://apps.shipaton.com/app/isard-gps-run-hike-tracker",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/isard-gps-run-hike-tracker/id6762874327?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "islamic-baby-names",
    "name": "Islamic Baby Names Generator",
    "url": "https://apps.shipaton.com/app/islamic-baby-names",
@@ -5942,6 +6451,26 @@
    "description": "",
    "first_seen": "2026-09-09",
    "gamey": true,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "jobs-puzzle-jobs-cv-maker",
+   "name": "Jobs Puzzle",
+   "url": "https://apps.shipaton.com/app/jobs-puzzle-jobs-cv-maker",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/jobs-puzzle/id6792380332?uo=4",
+    "https://play.google.com/store/apps/details?id=com.jobspuzzle.app",
+    "https://play.google.com/store/apps/details?id=com.jobspuzzle.app&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
    "is_game": false,
    "gaining": false
   },
@@ -6223,6 +6752,25 @@
    "gaining": false
   },
   {
+   "slug": "kivella-recipes-meal-planner",
+   "name": "Kivella Recipes & Meal Planner",
+   "url": "https://apps.shipaton.com/app/kivella-recipes-meal-planner",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.flowbytelabs.culinafyapp",
+    "https://play.google.com/store/apps/details?id=com.flowbytelabs.culinafyapp&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "knead-sourdough-and-yeast",
    "name": "Knead: Sourdough and Yeast",
    "url": "https://apps.shipaton.com/app/knead-sourdough-and-yeast",
@@ -6360,6 +6908,25 @@
    "gaining": false
   },
   {
+   "slug": "landlordpro-rent-tracker",
+   "name": "LandlordPro - Rent Tracker",
+   "url": "https://apps.shipaton.com/app/landlordpro-rent-tracker",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.digispher.landlordpro",
+    "https://play.google.com/store/apps/details?id=com.digispher.landlordpro&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "langcity",
    "name": "LangCity",
    "url": "https://apps.shipaton.com/app/langcity",
@@ -6442,6 +7009,24 @@
    "gaining": false
   },
   {
+   "slug": "lentes-glasses-contacts",
+   "name": "Lentes: Glasses & Contacts",
+   "url": "https://apps.shipaton.com/app/lentes-glasses-contacts",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/lentes-glasses-contacts/id6806536795?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "les-gardiens-of-silence",
    "name": "Les Gardiens of Silence",
    "url": "https://apps.shipaton.com/app/les-gardiens-of-silence",
@@ -6515,6 +7100,24 @@
    ],
    "description": "",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "linya",
+   "name": "Linya",
+   "url": "https://apps.shipaton.com/app/linya",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/linya/id6784623755?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -6614,6 +7217,25 @@
    ],
    "description": "",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "loanshark-utang-tracker",
+   "name": "LoanShark: Utang Tracker",
+   "url": "https://apps.shipaton.com/app/loanshark-utang-tracker",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.ncm4mac.loanshark",
+    "https://play.google.com/store/apps/details?id=com.ncm4mac.loanshark&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -6719,6 +7341,26 @@
    "gaining": false
   },
   {
+   "slug": "logadia-save-share-places",
+   "name": "Logadia: Save & Share Places",
+   "url": "https://apps.shipaton.com/app/logadia-save-share-places",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/logadia-save-share-places/id6787303835?uo=4",
+    "https://play.google.com/store/apps/details?id=com.yokkolab.pointia",
+    "https://play.google.com/store/apps/details?id=com.yokkolab.pointia&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "lumaloop",
    "name": "LumaLoop",
    "url": "https://apps.shipaton.com/app/lumaloop",
@@ -6804,6 +7446,24 @@
    "gaining": false
   },
   {
+   "slug": "makiroll",
+   "name": "MakiRoll",
+   "url": "https://apps.shipaton.com/app/makiroll",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/makiroll/id6801274678?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "managergym",
    "name": "ManagerGym           Scan to open  Google Play       Showcase                         2026  Shipaton     Category           Education     Developer           Mrdzyn Studio     Ratings  —  Not yet rated                              Today                Games            Apps                  Winners            Browse        Explore the showcase  Browse   Done    Collections          iOS Apps            Android Apps              Unreleased Apps      Years                          2026                          2025                          2024      Categories              Entertainment            Social Networking              Lifestyle          Photo & Video            Education          Health & Fitness          Productivity                          Utilities          Books                  Sports          Music              Business            Graphics & Design        Navigation          Android   $RS=function(a,b){a=document.getElementById(a);b=document.getElementById(b);for(a.parentNode.removeChild(a);a.firstChild;)b.parentNode.insertBefore(a.firstChild,b);b.parentNode.removeChild(b)};$RS(\"S:4\",\"P:4\")                              $RS(\"S:5\",\"P:5\")     About this app  Practice the conversations leadership requires.\n\nManagerGym is an interactive leadership training app that helps managers practice difficult workplace conversations before they happen for real.\n\nGiving tough feedback. Addressing a missed deadline. Handling a defensive employee. Setting clear expectations. Pushing back on an unrealistic request.\n\nThese are conversations managers are expected to handle — but rarely get a safe place to practice.\n\nManagerGym gives you that place.\n\nHOW MANAGERGYM WORKS\n\nEach leadership workout puts you inside a realistic workplace situation.\n\nYou choose how you would respond.\n\nThe conversation develops based on your decisions, allowing you to see how different leadership approaches can influence the outcome.\n\nAt the end of each workout, review your performance across four practical leadership competencies:\n\n• Empathy\nUnderstand and acknowledge another person's perspective while keeping the conversation productive.\n\n• Clarity\nCommunicate observations, expectations, reasoning and next steps clearly.\n\n• Accountability\nCreate ownership and follow-through without relying on blame or micromanagement.\n\n• Assertiveness\nAddress difficult issues directly, calmly and respectfully.\n\nPRACTICE REAL MANAGEMENT SITUATIONS\n\nManagerGym includes leadership workouts covering situations such as:\n\n• Defensive employees\n• Missed deadlines\n• Difficult feedback\n• Setting clear expectations\n• Angry or frustrated employees\n• Unrealistic stakeholder requests\n• Performance and accountability conversations\n\nNew leadership workouts may also become available over time.\n\nSTRUCTURED TRAINING PATHS\n\nGo beyond individual scenarios with structured leadership training paths designed around practical management challenges.\n\nTraining areas include:\n\n• New Manager Foundations\n• Difficult Conversations\n• Performance & Accountability\n• Coaching & Growth\n• Influence Without Authority\n\nBUILD A LEADERSHIP PRACTICE\n\nLeadership improves through practice.\n\nManagerGym helps you build consistency with:\n\n• Daily leadership workouts\n• XP and leadership levels\n• Practice streaks\n• Personal best scores\n• Progress tracking\n• Replayable scenarios\n• Competency feedback\n\nXP rewards consistent practice, while leadership scores reflect the decisions you make during each conversation.\n\nPRACTICE. REFLECT. TRY AGAIN.\n\nThere is rarely one perfect sentence for a difficult workplace conversation.\n\nManagerGym lets you experiment with different approaches, see their consequences, review the feedback and replay the situation with a different strategy.\n\nPRIVATE BY DESIGN\n\nManagerGym does not require a ManagerGym account.\n\nYour workout history, choices, scores, XP and leadership progress are designed to remain on your device.\n\nYou do not need to upload real employee conversations or workplace information to use the app.\n\nFREE AND PRO CONTENT\n\nStart with selected leadership workouts for free.\n\nManagerGym Pro unlocks additional premium leadership scenarios and training content through an in-app subscription.\n\nBUILT FOR\n\nManagerGym is designed for:\n\n• New managers\n• Team leaders\n• Supervisors\n• People managers\n• Project leaders\n• Founders managing teams\n• Professionals preparing for leadership responsibilities\n• Experienced managers who want more structured practice\n\nBUILD CONFIDENCE BEFORE THE CONVERSATION MATTERS\n\nYou can read about leadership.\n\nYou can watch someone explain leadership.\n\nBut eventually, you still have to decide:\n\n“What do I actually say?”\n\nManagerGym gives you a place to practice that decision.\n\nTrain. Improve. Lead.\n\nManagerGym is an educational leadership practice tool. It does not provide legal, HR, employment, psychological or other professional advice. Always consider your organization's policies and applicable laws when handling real workplace situations.       $RS(\"S:6\",\"P:6\")    You might also like                        Gurwi – Learn Anything    2025",
    "url": "https://apps.shipaton.com/app/managergym",
@@ -6878,6 +7538,25 @@
    ],
    "description": "",
    "first_seen": "2026-09-12",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "marnie-expense-tracker",
+   "name": "Marnie: Expense Tracker",
+   "url": "https://apps.shipaton.com/app/marnie-expense-tracker",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.finecho.app",
+    "https://play.google.com/store/apps/details?id=com.finecho.app&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -7128,6 +7807,26 @@
    "gaining": false
   },
   {
+   "slug": "minijoy",
+   "name": "miniJoy",
+   "url": "https://apps.shipaton.com/app/minijoy",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/minijoy/id6803772345?uo=4",
+    "https://play.google.com/store/apps/details?id=app.schaffer.minijoy",
+    "https://play.google.com/store/apps/details?id=app.schaffer.minijoy&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "mise",
    "name": "Mise           Scan to open  Google Play       Showcase                         2026  Shipaton     Category           Food & Drink     Developer           Mono/Forge     Ratings  —  Not yet rated     Android                         Today                Games            Apps                  Winners            Browse        Explore the showcase  Browse   Done    Collections          iOS Apps            Android Apps              Unreleased Apps      Years                          2026                          2025                          2024      Categories              Entertainment            Social Networking              Lifestyle          Photo & Video            Education          Health & Fitness          Productivity                          Utilities          Books                  Sports          Music              Business            Graphics & Design        Navigation                                  $RS=function(a,b){a=document.getElementById(a);b=document.getElementById(b);for(a.parentNode.removeChild(a);a.firstChild;)b.parentNode.insertBefore(a.firstChild,b);b.parentNode.removeChild(b)};$RS(\"S:4\",\"P:4\")     About this app  Tired of scrolling through endless blog stories, pop-up ads, and cluttered recipe pages just to find an ingredient list?\n\n\n\nMeet Mise — the modern, culinary minimalist recipe manager and meal companion designed by home cooks, for home cooks. With an offline-first foundation, instant unit conversions, hands-free cooking mode, and private local sharing, Mise brings clarity back to your kitchen.\n\n\n\n━━━━━━━━━━━━━━━━━━━━━\n\n✨ KEY FEATURES\n\n━━━━━━━━━━━━━━━━━━━━━\n\n\n\n📥 1. Smart Recipe Capture & Scanner\n\n• One-Tap Link Import: Paste links from TikTok, YouTube, Instagram, Reddit, or food blogs to extract clean recipes in seconds.\n\n• Photo & Cookbook OCR: Snap a photo of any physical cookbook or printed recipe to digitize it instantly.\n\n• Handwriting Recognition: Turn Grandma’s handwritten recipe cards into structured digital recipes.\n\n• Raw Text Paste: Paste any text snippet or ingredient list directly into the canvas.\n\n\n\n⚖️ 2. Dynamic Serving Scaler & Conversions\n\n• Scale on the Fly: Adjust serving sizes with one tap; all ingredient amounts recalculate in real-time.\n\n• Metric ↔ Imperial: Switch between grams/ml and cups/oz without doing mental math.\n\n• Nutrition Ring: Track approximate macros (Protein, Carbs, Fat) and calories at a glance.\n\n\n\n🍳 3. Distraction-Free \"Focus Cooking Mode\"\n\n• Step-by-Step Cards: Large, readable layout designed for the kitchen counter.\n\n• Screen Wake-Lock: Screen stays awake while you cook—no need to touch your device with messy hands.\n\n• Tap-to-Advance: Tap anywhere on screen to smoothly glide to the next step.\n\n\n\n🛒 4. Smart Aisle-Sorted Grocery List\n\n• Aisle Categorization: Ingredients automatically sort by aisle (Produce, Dairy, Pantry, Meat).\n\n• Reactive Amounts: Scaled recipes update your shopping list quantities instantly.\n\n• Interactive Checklists: Check off items as you shop with smooth animations.\n\n\n\n📡 5. Private Peer-to-Peer (P2P) Sharing\n\n• Instant Local Transfer: Send recipes to nearby devices over local Wi-Fi in seconds.\n\n• Zero Cloud Middlemen: Direct local mDNS transfers—fast, private, and secure.\n\n\n\n🔒 6. 100% Offline & Privacy-First\n\n• On-Device Storage: All recipes, notes, and photos stay private on your device.\n\n• No Accounts Needed: Zero logins, passwords, or personal data tracking.\n\n• Zero Ads: Enjoy an ad-free, clean culinary workspace.\n\n\n\n📄 7. Clean Exports\n\n• Export formatted PDF recipe cards, copy raw Markdown, or share via plain text in one tap.\n\n\n\n━━━━━━━━━━━━━━━━━━━━━\n\n👨‍🍳 WHY MISE?\n\n━━━━━━━━━━━━━━━━━━━━━\n\n\n\n\"Mise en place\" is the culinary principle of having everything in its place before cooking. Mise was built with this philosophy: pure focus, intuitive controls, and zero distractions.\n\n\n\nDownload Mise today and experience cooking with precision.\n\n\n\nDeveloped with focus by Mono/Forge.    Information    Seller  Mono/Forge    Compatibility  Android    Genres  Food & Drink       $RS(\"S:5\",\"P:5\")    You might also like                        Food Sense - Meal Journal    2024",
    "url": "https://apps.shipaton.com/app/mise",
@@ -7209,6 +7908,22 @@
    ],
    "description": "",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "mossu-meditation-timer-grow",
+   "name": "Mossu: Meditation Timer & Grow",
+   "url": "https://apps.shipaton.com/app/mossu-meditation-timer-grow",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -7492,6 +8207,24 @@
    "gaining": false
   },
   {
+   "slug": "newmemo-ai",
+   "name": "NewMemo - AI日記&メモ",
+   "url": "https://apps.shipaton.com/app/newmemo-ai",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/newmemo-ai%E6%97%A5%E8%A8%98-%E3%83%A1%E3%83%A2/id6781608386?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "nobli-wine-cellar-tracker",
    "name": "Nobli: Wine Cellar Tracker           Scan to open  Google Play       Showcase                         2026  Shipaton     Category           Food & Drink     Developer           LMT Digital Creations     Ratings  —  Not yet rated                              Today                Games            Apps                  Winners            Browse        Explore the showcase  Browse   Done    Collections          iOS Apps            Android Apps              Unreleased Apps      Years                          2026                          2025                          2024      Categories              Entertainment            Social Networking              Lifestyle          Photo & Video            Education          Health & Fitness          Productivity                          Utilities          Books                  Sports          Music              Business            Graphics & Design        Navigation          Android   $RS=function(a,b){a=document.getElementById(a);b=document.getElementById(b);for(a.parentNode.removeChild(a);a.firstChild;)b.parentNode.insertBefore(a.firstChild,b);b.parentNode.removeChild(b)};$RS(\"S:4\",\"P:4\")                     $RS(\"S:5\",\"P:5\")     About this app  Nobli is the wine cellar tracker that fills itself in. Photograph any bottle — wine, champagne, beer or whisky — and AI identifies it in seconds, adding producer, vintage, region, ABV and food pairings to your collection.\n\n✨ WHAT NOBLI DOES\n\n• AI bottle scanner — snap the label, get the full record. No typing.\n• Your cellar, organised — wine, beer and spirits on their own shelves, with tags, search and 10 ways to sort.\n• Drinking windows — know when each bottle is at its peak, filled in automatically for vintage wines.\n• AI sommelier chat — ask what to serve, how to pair it, when to open it.\n• Wishlist — track the bottles you want, not only the ones you own.\n• Tasting notes & ratings — your own notes, star ratings, opened dates and shelf locations.\n• Export anytime — share your collection as plain text or CSV.\n• Works offline — your cellar lives on your phone, browse it anywhere.\n\n🔒 PRIVATE BY DESIGN\nNo account. No ads. No personal data collected. Your cellar is stored on this device, not on our servers.\n\n🍷 FOR EVERY COLLECTOR\nWhether you keep six bottles in a kitchen rack or six hundred in a cellar, Nobli turns a shelf of bottles into a searchable inventory. Wine collectors use it as a wine list and cellar book, whisky lovers as a bottle log, beer fans to track what is ageing in the fridge.\n\nDownload Nobli and scan your first bottle in seconds.\n\nWine cellar app, wine inventory and cellar management in one: bottle scanner, wine label scanner, wine list, wine collection tracker, whisky collection log, beer cellar, spirits inventory, drinking window tracker, tasting notes and a sommelier in your pocket.    Information    Seller  LMT Digital Creations    Compatibility  Android    Genres  Food & Drink       $RS(\"S:6\",\"P:6\")    You might also like                        Food Sense - Meal Journal    2024",
    "url": "https://apps.shipaton.com/app/nobli-wine-cellar-tracker",
@@ -7642,6 +8375,24 @@
    ],
    "description": "",
    "first_seen": "2026-09-12",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "offline-music-player-offly",
+   "name": "Offline Music Player:Offly",
+   "url": "https://apps.shipaton.com/app/offline-music-player-offly",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/offline-music-player-offly/id6800964292?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -7884,6 +8635,24 @@
    "gaining": false
   },
   {
+   "slug": "oshicho-fc",
+   "name": "Oshicho - Fan Budget Tracker",
+   "url": "https://apps.shipaton.com/app/oshicho-fc",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/oshicho-fan-budget-tracker/id6797187745?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "ourdays",
    "name": "Ourdays - Memory Board",
    "url": "https://apps.shipaton.com/app/ourdays",
@@ -7938,6 +8707,26 @@
    ],
    "description": "",
    "first_seen": "2026-09-12",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "pageling-scan-book-highlights",
+   "name": "Pageling: Scan Book Highlights",
+   "url": "https://apps.shipaton.com/app/pageling-scan-book-highlights",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/pageling-scan-book-highlights/id6798802101?uo=4",
+    "https://play.google.com/store/apps/details?id=software.artifacts.pageling",
+    "https://play.google.com/store/apps/details?id=software.artifacts.pageling&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -8022,6 +8811,25 @@
    "gaining": false
   },
   {
+   "slug": "patternpro-shotgun-patterning",
+   "name": "PatternPro: Shotgun Patterning",
+   "url": "https://apps.shipaton.com/app/patternpro-shotgun-patterning",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.patternpro.app",
+    "https://play.google.com/store/apps/details?id=com.patternpro.app&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "patterns-experiment-analyse",
    "name": "Patterns: Experiment & Analyse",
    "url": "https://apps.shipaton.com/app/patterns-experiment-analyse",
@@ -8040,6 +8848,25 @@
    ],
    "description": "Understand your body, mind, and daily performance with Patterns — the 100% local, privacy-first correlation tracker. Ever wondered if cutting coffee improves your sleep score, or if evening walks boost your morning focus? Patterns helps you run personal micro-experiments to discover exact cause-and-effect relationships in your life. WHY PATTERNS? • 100% PRIVATE & LOCAL-ONLY Your sensitive health and habit data never leaves your device. No cloud sync, no tracking, no account required. Complete data ownership. • PERSONAL EXPERIMENTS & CUSTOM CATEGORIES Set up tracking experiments with fully custom trial durations (choose any number of days or ongoing trials). Create custom habit categories, custom tracking metrics, and test hypotheses like \"No screen time before bed\" or \"Daily cold showers\" to observe real quantitative outcomes. • CORRELATION RADAR & INSIGHTS Our built-in correlation engine visualizes trends and impact factors. See instant radar charts and trendlines mapping habit consistency against energy, sleep, mood, or focus. • DAILY RHYTHM & STREAKS Stay consistent with customizable daily reminders and non-guilt streak indicators. Log observations in seconds with fluid, intuiti",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "pawmiaw",
+   "name": "pawmiaw",
+   "url": "https://apps.shipaton.com/app/pawmiaw",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.linoa.pawmiaw",
+    "https://play.google.com/store/apps/details?id=com.linoa.pawmiaw&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -8066,6 +8893,26 @@
    "gaining": false
   },
   {
+   "slug": "peelmeal-recipe-meal-plan",
+   "name": "Peelmeal: Recipe & Meal Plan",
+   "url": "https://apps.shipaton.com/app/peelmeal-recipe-meal-plan",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/peelmeal-recipe-meal-plan/id6771609834?uo=4",
+    "https://play.google.com/store/apps/details?id=com.jasuplix.peelmeal",
+    "https://play.google.com/store/apps/details?id=com.jasuplix.peelmeal&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "peleng-ai-sales-office",
    "name": "Peleng: AI Sales Office           Scan to open  Google Play       Showcase                         2026  Shipaton     Category             Business     Developer           AstarFenix     Ratings  —  Not yet rated                              Today                Games            Apps                  Winners            Browse        Explore the showcase  Browse   Done    Collections          iOS Apps            Android Apps              Unreleased Apps      Years                          2026                          2025                          2024      Categories              Entertainment            Social Networking              Lifestyle          Photo & Video            Education          Health & Fitness          Productivity                          Utilities          Books                  Sports          Music              Business            Graphics & Design        Navigation          Android   $RS=function(a,b){a=document.getElementById(a);b=document.getElementById(b);for(a.parentNode.removeChild(a);a.firstChild;)b.parentNode.insertBefore(a.firstChild,b);b.parentNode.removeChild(b)};$RS(\"S:4\",\"P:4\")                           $RS(\"S:5\",\"P:5\")     About this app  Peleng is the AI front office for businesses that sell through Instagram.\n\nComments and DMs become an organized sales workflow: AI detects buying intent, starts first contact, assigns the conversation, helps managers work across languages, and shows the owner what happened next.\n\nFIND BUYING INTENT\n\nPeleng analyzes Instagram messages against your business rules and separates commercial intent from everyday noise. Qualified conversations become actionable leads for your team.\n\nRESPOND WHILE INTEREST IS HIGH\n\nPeleng can send the first contact automatically and route the lead to a manager. Clear status cards show which customers are waiting and which conversations have already been handled.\n\nLET MANAGERS WORK WITHOUT INSTAGRAM ACCESS\n\nManagers reply from Peleng instead of using the business account password. Owners can add or remove team members while keeping control of Instagram credentials and connected sources.\n\nSELL ACROSS LANGUAGES\n\nIncoming messages and lead previews can be shown in the manager's interface language. Replies are translated when needed. If a manager already writes in the customer's language, Peleng sends the original message unchanged.\n\nKEEP EVERY OPPORTUNITY ACTIVE\n\nMark a conversation as a lead, not a lead, read, or a completed sale without losing its history. If a previous customer writes again, Peleng returns the conversation to the active workspace so your team can make a repeat sale.\n\nSEE TEAM PERFORMANCE\n\nOwners can monitor active and new leads, work completed today, outcomes and response time. Response time is measured again after every new customer message, giving a more realistic view of how the team works.\n\nMODERATE SAFELY\n\nChoose Off or Auto-hide. Peleng can hide unwanted Instagram comments according to owner-defined rules. It does not delete comments and keeps destructive controls out of the manager workflow.\n\nBUILT FOR INSTAGRAM-FIRST BUSINESSES\n\nPeleng combines AI lead detection, a secure team inbox, multilingual conversation, lead routing, follow-up history, owner analytics and safe moderation in one mobile workspace.\n\nFrom the first signal to the next sale, Peleng gives your Instagram business one controlled digital front office.    Information    Seller  AstarFenix    Compatibility  Android    Genres  Business       $RS(\"S:6\",\"P:6\")    You might also like                        Karo: Tasks, Todo List Planner    2024",
    "url": "https://apps.shipaton.com/app/peleng-ai-sales-office",
@@ -8080,6 +8927,25 @@
    ],
    "description": "",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "penypost-slow-penpal-letter",
+   "name": "PenyPost - Slow Penpal Letter",
+   "url": "https://apps.shipaton.com/app/penypost-slow-penpal-letter",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.apps.unsealed",
+    "https://play.google.com/store/apps/details?id=com.apps.unsealed&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -8393,6 +9259,25 @@
    "gaining": false
   },
   {
+   "slug": "pomostats-app-store-stats",
+   "name": "PomoStats — App Store stats",
+   "url": "https://apps.shipaton.com/app/pomostats-app-store-stats",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.prof18.pomostats",
+    "https://play.google.com/store/apps/details?id=com.prof18.pomostats&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "fix-posture-stretch-reminder",
    "name": "Posture Reminder: Fix Posture",
    "url": "https://apps.shipaton.com/app/fix-posture-stretch-reminder",
@@ -8408,6 +9293,24 @@
    ],
    "description": "Your neck hurts because you sit still for hours — not because you don't know what to do about it. Knowing isn't the problem. Remembering is. Fix Posture builds a daily routine of 15 physiotherapy-grade neck, shoulder and upper-back movements, and spreads it across your own desk hours. Eight reminders a day by default, roughly one every 75 minutes. Tap a reminder and the movement starts. An illustrated character performs it while a soft tone marks every second of the hold, so you can close your eyes and follow the sound. Nothing to read, nothing to work out. Tell it where it hurts, when you're at a desk, and how many reps you want. Tomorrow's routine is different from today's. Rest days don't break your streak, and a calendar shows every month you've built. Everything stays on your phone. No account, no sign-up, no tracking, and it works offline. FREE 3 movements and one reminder a day. FIX POSTURE PRO All 15 movements, the full eight-a-day schedule, and your complete history. Weekly or yearly, with a 7-day free trial. Cancel any time. — Apple Terms of Use apply: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/ https://mosoajans.com/terms-of-use.html https://mosoaja",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "privy-pilot",
+   "name": "Privy Pilot",
+   "url": "https://apps.shipaton.com/app/privy-pilot",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/privy-pilot/id6798502990?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -8706,6 +9609,24 @@
    "gaining": false
   },
   {
+   "slug": "reelio-catch-collect",
+   "name": "Reelio: Catch & Collect",
+   "url": "https://apps.shipaton.com/app/reelio-catch-collect",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/reelio-catch-collect/id6803636133?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "reesetme",
    "name": "ReesetMe",
    "url": "https://apps.shipaton.com/app/reesetme",
@@ -8867,6 +9788,24 @@
    "gaining": false
   },
   {
+   "slug": "ripple-sensory-spaces",
+   "name": "Ripple: Sensory Spaces",
+   "url": "https://apps.shipaton.com/app/ripple-sensory-spaces",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/ripple-sensory-spaces/id6801950809?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "rizz-coach-charmpilot",
    "name": "Rizz Coach - CharmPilot",
    "url": "https://apps.shipaton.com/app/rizz-coach-charmpilot",
@@ -8980,6 +9919,63 @@
    ],
    "description": "",
    "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "sadhana-yoga-meditation",
+   "name": "Sadhana - Yoga & Meditation",
+   "url": "https://apps.shipaton.com/app/sadhana-yoga-meditation",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/sadhana-yoga-meditation/id6806279084?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "saju-today-daily-fortune",
+   "name": "Saju Today: Daily Fortune",
+   "url": "https://apps.shipaton.com/app/saju-today-daily-fortune",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.hunis.sajutoday",
+    "https://play.google.com/store/apps/details?id=com.hunis.sajutoday&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "sanchariq-travel-companion",
+   "name": "Sanchariq- Travel Companion",
+   "url": "https://apps.shipaton.com/app/sanchariq-travel-companion",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/sanchariq-travel-companion/id6781339196?uo=4",
+    "https://play.google.com/store/apps/details?id=com.sanchariq.travel",
+    "https://play.google.com/store/apps/details?id=com.sanchariq.travel&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -9138,6 +10134,24 @@
    "description": "",
    "first_seen": "2026-09-02",
    "rating_count_prev": null,
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "sense-of-wonder-space-puzzle",
+   "name": "Sense of Wonder: Space Puzzle",
+   "url": "https://apps.shipaton.com/app/sense-of-wonder-space-puzzle",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/sense-of-wonder-space-puzzle/id6790464791?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -9548,6 +10562,24 @@
    "gaining": false
   },
   {
+   "slug": "song-ribbon",
+   "name": "Song Ribbon",
+   "url": "https://apps.shipaton.com/app/song-ribbon",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/song-ribbon/id6805297855?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "sova-planner-shared-lists",
    "name": "Sova: Planner & Shared Lists",
    "url": "https://apps.shipaton.com/app/sova-planner-shared-lists",
@@ -9739,6 +10771,24 @@
    ],
    "description": "",
    "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "survkit-offline-emergency",
+   "name": "SURVKIT – Offline Emergency",
+   "url": "https://apps.shipaton.com/app/survkit-offline-emergency",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/survkit-offline-emergency/id6762569881?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -9980,6 +11030,26 @@
    "gaining": false
   },
   {
+   "slug": "tapuchino-idle-cafe-tycoon",
+   "name": "Tapuchino: Coffee Shop Tycoon",
+   "url": "https://apps.shipaton.com/app/tapuchino-idle-cafe-tycoon",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/tapuchino-coffee-shop-tycoon/id6793236238?uo=4",
+    "https://play.google.com/store/apps/details?id=com.tapuchino.time",
+    "https://play.google.com/store/apps/details?id=com.tapuchino.time&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "taskstomp",
    "name": "TaskStomp           Scan to open  Google Play       Showcase                         2026  Shipaton     Category         Productivity     Developer           Koli Studio     Ratings  —  Not yet rated                              Today                Games            Apps                  Winners            Browse        Explore the showcase  Browse   Done    Collections          iOS Apps            Android Apps              Unreleased Apps      Years                          2026                          2025                          2024      Categories              Entertainment            Social Networking              Lifestyle          Photo & Video            Education          Health & Fitness          Productivity                          Utilities          Books                  Sports          Music              Business            Graphics & Design        Navigation          Android   $RS=function(a,b){a=document.getElementById(a);b=document.getElementById(b);for(a.parentNode.removeChild(a);a.firstChild;)b.parentNode.insertBefore(a.firstChild,b);b.parentNode.removeChild(b)};$RS(\"S:4\",\"P:4\")                              $RS(\"S:5\",\"P:5\")     About this app  Meet Birdy — your warm, witty AI companion who helps you actually get things done.\n\nTaskStomp turns your daily habits into a game and your to-do list into a conversation.\n\nWhat you can do, completely free:\n• Turn daily habits into challenges and earn XP as you go\n• Manage tasks, recurring bills, and reminders effortlessly\n• Set long-term goals and track real progress\n• Keep quick notes and stay on top of your calendar, all in one place\n\nWant Birdy to actually talk back? Chat naturally with your AI companion to add tasks, plan your day, and get personalized help - unlocked with a 7-day free trial, then part of a paid plan.    Information    Seller  Koli Studio    Compatibility  Android    Genres  Productivity       $RS(\"S:6\",\"P:6\")    You might also like                        Speak Japanese - Kigaru Talks    2025",
    "url": "https://apps.shipaton.com/app/taskstomp",
@@ -10012,6 +11082,26 @@
    ],
    "description": "",
    "first_seen": "2026-09-12",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "the-pawmanent-record",
+   "name": "The Pawmanent Record",
+   "url": "https://apps.shipaton.com/app/the-pawmanent-record",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/the-pawmanent-record/id6807846711?uo=4",
+    "https://play.google.com/store/apps/details?id=com.moonana.pawmanentrecord",
+    "https://play.google.com/store/apps/details?id=com.moonana.pawmanentrecord&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -10318,6 +11408,25 @@
    "gaining": false
   },
   {
+   "slug": "uku",
+   "name": "Uku",
+   "url": "https://apps.shipaton.com/app/uku",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.rmnkhr.uku",
+    "https://play.google.com/store/apps/details?id=com.rmnkhr.uku&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "under-siege-workout-rpg",
    "name": "Under Siege - Workout RPG",
    "url": "https://apps.shipaton.com/app/under-siege-workout-rpg",
@@ -10350,6 +11459,26 @@
    ],
    "description": "",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "untold-mind-mental-health",
+   "name": "Untold: Mind & Mental Health",
+   "url": "https://apps.shipaton.com/app/untold-mind-mental-health",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/untold-mind-mental-health/id6799430912?uo=4",
+    "https://play.google.com/store/apps/details?id=app.untold.mobile",
+    "https://play.google.com/store/apps/details?id=app.untold.mobile&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -10416,6 +11545,24 @@
    "gaining": false
   },
   {
+   "slug": "verdara-rescue",
+   "name": "VERDARA RESCUE",
+   "url": "https://apps.shipaton.com/app/verdara-rescue",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/verdara-rescue/id6810076187?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "vibestep",
    "name": "VibeStep           Scan to open  Google Play       Showcase                         2026  Shipaton     Category               Casual     Developer           eyedealist                                 Today                Games            Apps                  Winners            Browse        Explore the showcase  Browse   Done    Collections          iOS Apps            Android Apps              Unreleased Apps      Years                          2026                          2025                          2024      Categories              Entertainment            Social Networking              Lifestyle          Photo & Video            Education          Health & Fitness          Productivity                          Utilities          Books                  Sports          Music              Business            Graphics & Design        Navigation          Ratings   $RS=function(a,b){a=document.getElementById(a);b=document.getElementById(b);for(a.parentNode.removeChild(a);a.firstChild;)b.parentNode.insertBefore(a.firstChild,b);b.parentNode.removeChild(b)};$RS(\"S:4\",\"P:4\")   —  Not yet rated   $RS(\"S:5\",\"P:5\")    Android                  $RS(\"S:6\",\"P:6\")     About this app  Design a dance, one joint at a time.\n\nVibeStep is a slow social network built around motion. You pose a 2D stick figure frame by frame, give it a beat, and share it. No endless scroll of noise — just moves people actually made.\n\nMAKE A DANCE\n• Drag joints directly to set each keyframe pose\n• Start with 4 keyframes, expand to 8 or 16\n• Doodle a stage behind your dancer, or draw a different backdrop per frame\n• Dress your dancer with hats, tops, gloves, shoes and more\n\nBUILD THE BEAT\n• Sequence up to 6 instrument tracks on the same grid as your keyframes\n• Piano, violin, viola, synth, kick, clap, hi-hat, guitar, bass, cello, flute, trumpet\n• Tap notes yourself, or shuffle a harmonious pentatonic pattern\n• 90 to 160 BPM\n\nSHARE IT SLOWLY\n• Save dances to your library, then post the ones worth sharing\n• Public or private — you decide per post\n• Text comments are capped at 3 per 12 hours. Fewer, better replies\n• React with Slack-style multi-emoji, no limit\n• Or reply with a dance: use one of your own moves as a motion emoji\n\nMAKE IT YOURS\n• Every account starts with coins to spend in the shop\n• Unlock library slots, longer animations, per-frame backgrounds, and the ability to use your dances as reactions\n\nReport and block are built in, and you can delete your account and all of its data from inside the app at any time.\n\nAvailable in English, Korean, Japanese, Chinese (Simplified and Traditional), Spanish, French, and German.    Information    Seller  eyedealist    Compatibility  Android    Genres  Casual       $RS(\"S:7\",\"P:7\")    You might also like                        Draw-It!    2025",
    "url": "https://apps.shipaton.com/app/vibestep",
@@ -10430,6 +11577,25 @@
    ],
    "description": "",
    "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "vikkeland",
+   "name": "Vikkeland",
+   "url": "https://apps.shipaton.com/app/vikkeland",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=dev.fluxit.vikkeland",
+    "https://play.google.com/store/apps/details?id=dev.fluxit.vikkeland&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -10474,6 +11640,24 @@
    "gaining": false
   },
   {
+   "slug": "voiceroutine",
+   "name": "VoiceRoutine",
+   "url": "https://apps.shipaton.com/app/voiceroutine",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/voiceroutine/id6801251906?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "vouch-ai-medicine-reminder",
    "name": "Vouch AI: Medicine Reminder",
    "url": "https://apps.shipaton.com/app/vouch-ai-medicine-reminder",
@@ -10513,6 +11697,25 @@
    "gaining": false
   },
   {
+   "slug": "wakekids-remote-kids-alarm",
+   "name": "WakeKids: Remote Kids Alarm",
+   "url": "https://apps.shipaton.com/app/wakekids-remote-kids-alarm",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.wakekids",
+    "https://play.google.com/store/apps/details?id=com.wakekids&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "walk-tracker-stepooo",
    "name": "Walk tracker: Stepooo",
    "url": "https://apps.shipaton.com/app/walk-tracker-stepooo",
@@ -10526,6 +11729,24 @@
    ],
    "description": "",
    "first_seen": "2026-09-12",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "walkabout-step-explore",
+   "name": "Walkabout - Step & Explore",
+   "url": "https://apps.shipaton.com/app/walkabout-step-explore",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/walkabout-step-explore/id6794850563?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -10805,6 +12026,25 @@
    "gaining": false
   },
   {
+   "slug": "yesri-business-manager",
+   "name": "Yesri Business Manager",
+   "url": "https://apps.shipaton.com/app/yesri-business-manager",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.yesrifinance.app",
+    "https://play.google.com/store/apps/details?id=com.yesrifinance.app&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "yoink-social-screen-time",
    "name": "Yoink: Social Screen Time",
    "url": "https://apps.shipaton.com/app/yoink-social-screen-time",
@@ -10947,6 +12187,24 @@
    "description": "Most people never find out how strong they could get. ZENKAI writes the program that gets you there, then turns every set you log into a level, a rank and five real stats. Not stats from a quiz. Stats from the bar. Answer the questions. Get a real plan. Do the work. The number goes up because you made it go up. YOU NEVER WALK IN WONDERING WHAT TO DO • Your whole block is written before day one: 8 to 12 weeks, every session, every set, every weight • Built around your equipment, your days, your injuries and what you can already lift • Full gym, home gym, or nothing but your bodyweight. It works with what you have • Straight sets, supersets or circuits. You pick how you train, the plan follows • Progressive overload and deload weeks handled for you. You just show up • Change your days, change gym, hurt a shoulder, and the rest of the block rebuilds around it • Finish the block and the next one is built from what you actually lifted. Not a reset. A recalculation YOUR BODY GETS A STAT SCREEN • Five stats — STRENGTH, ENDURANCE, VOLUME, RECOVERY, DISCIPLINE — computed from the sets you logged • A LEVEL that only goes up, and a RANK you cannot fake. That is exactly what makes it worth som",
    "first_seen": "2026-09-09",
    "gamey": true,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "zupiq-ai-math-solver",
+   "name": "Zupiq: AI Math Solver",
+   "url": "https://apps.shipaton.com/app/zupiq-ai-math-solver",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/zupiq-ai-math-solver/id6804370123?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
    "is_game": false,
    "gaining": false
   },

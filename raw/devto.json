@@ -1,9 +1,16 @@
 {
  "source": "devto",
  "url": "https://dev.to/feed/tag/shipaton",
- "fetched_at": "2026-09-13T11:31:41Z",
+ "fetched_at": "2026-09-14T09:30:02Z",
  "count": 12,
  "items": [
+  {
+   "title": "Building NICHLYST: The 14-Day Clock, the \"Web App\" Illusion, and Hardening the Archive",
+   "link": "https://dev.to/koztechie/building-nichlyst-the-14-day-clock-the-web-app-illusion-and-hardening-the-archive-4a6c",
+   "date": "Sun, 13 Sep 2026 14:04:23 +0000",
+   "author": "Eugene Kozlovsky",
+   "summary": "<p>On September 10th, at 10:19 AM, the system finally turned green.</p>\n\n<h2>\n  \n  \n  12 Testers Google Play\n</h2>\n\n<p>Twelve confirmed, opt-in testers. The threshold is met.</p>\n\n<p>The 14-day Google Play closed testing clock is officially locked.</p>\n\n<p>For the next two weeks, NICHLYST sits in a state of anabiosis. My role has shifted from \"Builder\" to \"Watcher.\" But as any builder who has ever"
+  },
   {
    "title": "Finally shipping v1.0.7: Fixing the silent Google Sign-In & Paywall bugs in my Flutter app published: true",
    "link": "https://dev.to/ronak1311/finally-shipping-v107-fixing-the-silent-google-sign-in-paywall-bugs-in-my-flutter-app-1obl",
@@ -80,13 +87,6 @@
    "date": "Mon, 24 Aug 2026 10:30:51 +0000",
    "author": "Ronak Mahajan",
    "summary": "<p>When Local Environments Lie: How I Survived Firebase Sandbox Glitches</p>\n\n<p>Setting up Firebase for Sprout Atlas seemed easy until the local sandbox environment decided to stop processing authentication states and data syncs. When your testing environment breaks, print statements become your best friend. Here's how I isolated the pipeline failures and got our data layer running reliably again"
-  },
-  {
-   "title": "The Integration Nightmare: Fighting RevenueCat, Firebase, and Broken Sandboxes While Building Sprout Atlas 🛠️",
-   "link": "https://dev.to/ronak1311/the-integration-nightmare-fighting-revenuecat-firebase-and-broken-sandboxes-while-building-5619",
-   "date": "Sun, 23 Aug 2026 13:22:51 +0000",
-   "author": "Ronak Mahajan",
-   "summary": "<p>If you're following my build-in-public journey for Sprout Atlas and the RevenueCat Shipaton 2026, you know the UI design sprint went smoothly last week. But this week? The codebase decided to humble me.</p>\n\n<p>My mission was simple: wire up the RevenueCat SDK for frictionless subscription paywalls and hook everything into Firebase for multi-lingual search data and user states.</p>\n\n<p>It turne"
   }
  ]
 }

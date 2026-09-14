@@ -1,9 +1,30 @@
 {
  "source": "hackernoon",
  "url": "https://hackernoon.com/tagged/shipaton/feed",
- "fetched_at": "2026-09-13T11:31:41Z",
+ "fetched_at": "2026-09-14T09:30:02Z",
  "count": 50,
  "items": [
+  {
+   "title": "Why I'm Building \"Once Upon Today\" for Shipaton 2026",
+   "link": "https://hackernoon.com/why-im-building-once-upon-today-for-shipaton-2026?source=rss",
+   "date": "Sun, 13 Sep 2026 22:46:08 GMT",
+   "author": "Abhijith Konnayil",
+   "summary": ""
+  },
+  {
+   "title": "Building Isolyne (Part 5): How the Offline Fallback Parser Handles LLM Outages",
+   "link": "https://hackernoon.com/building-isolyne-part-5-how-the-offline-fallback-parser-handles-llm-outages?source=rss",
+   "date": "Sun, 13 Sep 2026 21:51:31 GMT",
+   "author": "AMIT KUMAR GUPTA",
+   "summary": ""
+  },
+  {
+   "title": "Week 5 of Building Pocketflow for Shipaton 2026: Paywalls, Timeline Audits, and Launch!",
+   "link": "https://hackernoon.com/week-5-of-building-pocketflow-for-shipaton-2026paywalls-timeline-audits-and-launch?source=rss",
+   "date": "Sun, 13 Sep 2026 21:33:44 GMT",
+   "author": "AK",
+   "summary": ""
+  },
   {
    "title": "Shipaton at Week Six: Buildhorn Has Officially Been Submitted to Apple",
    "link": "https://hackernoon.com/shipaton-at-week-six-buildhorn-has-officially-been-submitted-to-apple?source=rss",
@@ -331,27 +352,6 @@
    "link": "https://hackernoon.com/i-built-a-roguelike-that-charges-you-steps-to-play-it?source=rss",
    "date": "Tue, 01 Sep 2026 03:00:19 GMT",
    "author": "SoteriaApps",
-   "summary": ""
-  },
-  {
-   "title": "I Named My IOS App After My Own Diagnosis",
-   "link": "https://hackernoon.com/i-named-my-ios-app-after-my-own-diagnosis?source=rss",
-   "date": "Mon, 31 Aug 2026 00:42:45 GMT",
-   "author": "Kirill Semenov",
-   "summary": ""
-  },
-  {
-   "title": "We Killed RedFlag, Our First Shipaton Idea. Here’s Why We’re Building Eligible Instead",
-   "link": "https://hackernoon.com/we-killed-redflag-our-first-shipaton-idea-heres-why-were-building-eligible-instead?source=rss",
-   "date": "Fri, 28 Aug 2026 09:47:46 GMT",
-   "author": "Fatima Afzal",
-   "summary": ""
-  },
-  {
-   "title": "How We Built Our First Mobile Onboarding Flow for Shipaton 2026",
-   "link": "https://hackernoon.com/how-we-built-our-first-mobile-onboarding-flow-for-shipaton-2026?source=rss",
-   "date": "Fri, 28 Aug 2026 05:55:07 GMT",
-   "author": "Brownieee",
    "summary": ""
   }
  ]
