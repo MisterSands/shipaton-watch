@@ -1,23 +1,24 @@
-"""Local feed collector for Shipaton Watch.
+"""Local collector for Shipaton Watch.
 
-Runs on Chris's Windows box (no egress restrictions) a little before the 6am
-cloud routine. Pulls every source the cloud sandbox cannot reach, writes one
-JSON snapshot per source into raw/, commits and pushes. The cloud routine then
-reads raw/ from the repo instead of fetching the open web.
+Runs on Chris's Windows box at 05:30 (Task Scheduler via hidden-run.vbs, catch-up
+enabled). The cloud routine's sandbox cannot reach any of these hosts, so this is
+the only thing that can see the field.
 
-The showcase (apps.shipaton.com/2026) is RevenueCat's own directory of every
-published 2026 entrant. Its cards are server-rendered, and each /app/<slug>
-detail page carries store link, category, developer, platforms, rating and
-description. We crawl the directory for slugs and fetch detail pages only for
-slugs we have not seen before, so the first run costs ~6 minutes and every
-run after that costs seconds.
+Two jobs:
+  1. Feeds  - HackerNoon, dev.to, Reddit, RevenueCat, shipaton.com, Medium -> raw/*.json
+  2. Games  - EVERY 2026 game on apps.shipaton.com, re-fetched EVERY run, with rating
+              history -> watch/games.json (what hallpass.cc/watcher.html renders) and
+              watch/competitors.md. Deterministic: no LLM touches the games list.
 
-Stdlib only. Silent — no windows, no prompts. Task Scheduler runs it through
-hidden-run.vbs at 05:30 local.
+Games = slugs on /games (all years, server-rendered) intersected with slugs on /2026.
+Detail pages stream their body through React Suspense, so fields are parsed from the
+whole document's text, not <main>. A run that finds zero games never overwrites a
+good list: it keeps the last one and flags the page stale.
 
   python collect.py            # fetch + commit + push
-  python collect.py --no-push  # fetch only (debug)
+  python collect.py --no-push  # debug
 """
+import gzip
 import html
 import json
 import os
@@ -26,31 +27,49 @@ import subprocess
 import sys
 import time
 import urllib.request
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 RAW = os.path.join(ROOT, "raw")
+WATCH = os.path.join(ROOT, "watch")
 LOG = os.path.join(ROOT, "collect.log")
 UA = ("Mozilla/5.0 (compatible; ShipatonWatch/1.0; +https://github.com/MisterSands/shipaton-watch; "
       "contact csands@gmail.com)")
 DELAY = 1.1
 SHOWCASE = "https://apps.shipaton.com"
+NOWIN = getattr(subprocess, "CREATE_NO_WINDOW", 0)
 KEYWORD = re.compile(r"shipaton", re.I)
-GAMEY = re.compile(r"roguelike|roguelite|rogue-like|survivor|bullet[- ]?heaven|bullet[- ]?hell|dungeon|"
-                   r"\brpg\b|arena|horde|wave[s]? of|auto[- ]?battler|deckbuild", re.I)
+PROXIMITY = re.compile(
+    r"roguelike|roguelite|rogue-like|survivor|bullet[- ]?heaven|bullet[- ]?hell|dungeon|\brpg\b|"
+    r"role[- ]playing|arena|horde|waves? of|auto[- ]?battler|deck[- ]?build|hack[- ]and[- ]slash|"
+    r"shooter|brawler|slash", re.I)
+GENRES = [
+    "Games", "Action", "Adventure", "Arcade", "Board", "Card", "Casino", "Casual", "Dice", "Educational",
+    "Education", "Family", "Kids", "Music", "Music & Audio", "Puzzle", "Racing", "Role Playing",
+    "Roleplaying", "Simulation", "Sports", "Strategy", "Trivia", "Word", "Entertainment", "Lifestyle",
+    "Productivity", "Utilities", "Health & Fitness", "Social Networking", "Social", "Photo & Video",
+    "Books", "Books & Reference", "Business", "Graphics & Design", "Navigation", "Maps & Navigation",
+    "Travel", "Travel & Local", "Food & Drink", "Finance", "News", "News & Magazines",
+    "Magazines & Newspapers", "Reference", "Shopping", "Weather", "Medical", "Developer Tools", "Stickers",
+    "Communication", "Tools", "Personalization", "Art & Design", "Auto & Vehicles", "Beauty", "Comics",
+    "Dating", "Events", "House & Home", "Libraries & Demo", "Parenting", "Photography",
+    "Video Players & Editors"]
+GENRE_RE = "(?:%s)\\b" % "|".join(re.escape(g) for g in sorted(GENRES, key=len, reverse=True))
+STORE = re.compile(r"https://(?:apps\.apple\.com|play\.google\.com|galaxystore\.samsung\.com|galaxy\.store)"
+                   r"[^\"'\s<\\]*")
 
 FEEDS = {
-    # name: (url, kind)   kind = rss | atom | html
     "hackernoon":       ("https://hackernoon.com/tagged/shipaton/feed", "rss"),
     "devto":            ("https://dev.to/feed/tag/shipaton", "rss"),
     "reddit":           ("https://www.reddit.com/search.rss?q=shipaton&sort=new", "atom"),
-    "reddit_shipaton":  ("https://www.reddit.com/r/shipaton/new.rss", "atom"),   # unofficial build-log sub
+    "reddit_shipaton":  ("https://www.reddit.com/r/shipaton/new.rss", "atom"),
     "revenuecat_blog":  ("https://www.revenuecat.com/blog/rss.xml", "rss"),
     "shipaton_blog":    ("https://shipaton.com/blog", "html"),
     "medium":           ("https://medium.com/feed/tag/shipaton", "rss"),
 }
 
 
+# --------------------------------------------------------------------- utils
 def log(msg):
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     with open(LOG, "a", encoding="utf-8") as f:
@@ -63,12 +82,25 @@ def fetch(url):
     with urllib.request.urlopen(req, timeout=40) as r:
         raw = r.read()
         if r.headers.get("Content-Encoding") == "gzip":
-            import gzip
             raw = gzip.decompress(raw)
     return raw.decode("utf-8", "replace")
 
 
-def text(s):
+def load_json(path, default):
+    try:
+        with open(path, encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return default
+
+
+def write_json(path, obj):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=1)
+
+
+def text_of(s):
     return html.unescape(re.sub(r"<[^>]+>", " ", s)).strip()
 
 
@@ -77,10 +109,10 @@ def tag(block, name):
     if not m:
         return ""
     v = re.sub(r"^<!\[CDATA\[(.*?)\]\]>$", r"\1", m.group(1).strip(), flags=re.S)
-    return text(v)
+    return text_of(v)
 
 
-# ------------------------------------------------------------------ feeds
+# --------------------------------------------------------------------- feeds
 def parse_rss(doc):
     out = []
     for it in re.findall(r"<item>(.*?)</item>", doc, re.S | re.I):
@@ -104,7 +136,7 @@ def parse_atom(doc):
 def parse_html_links(doc, base):
     out, seen = [], set()
     for href, body in re.findall(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', doc, re.S | re.I):
-        t = text(body)
+        t = text_of(body)
         if not (KEYWORD.search(t) or KEYWORD.search(href)):
             continue
         if href.startswith("/"):
@@ -118,8 +150,7 @@ def parse_html_links(doc, base):
 
 def collect_feeds(stamp, status):
     for name, (url, kind) in FEEDS.items():
-        # Reddit throttles hard per-IP; 1.1s between two reddit.com calls earns a
-        # 429 every time. Give it room and retry once.
+        # Reddit throttles hard per-IP; two reddit.com calls 1.1s apart earn a 429.
         if "reddit.com" in url:
             time.sleep(4)
         try:
@@ -139,130 +170,295 @@ def collect_feeds(stamp, status):
                 items = parse_html_links(doc, re.match(r"https?://[^/]+", url).group(0))
             if name == "revenuecat_blog":
                 items = [i for i in items if KEYWORD.search(i["title"] + i["summary"])]
-            with open(os.path.join(RAW, f"{name}.json"), "w", encoding="utf-8") as f:
-                json.dump({"source": name, "url": url, "fetched_at": stamp, "count": len(items),
-                           "items": items}, f, ensure_ascii=False, indent=1)
+            write_json(os.path.join(RAW, f"{name}.json"),
+                       {"source": name, "url": url, "fetched_at": stamp, "count": len(items), "items": items})
             status[name] = f"ok {len(items)}"
         except Exception as e:
             status[name] = f"FAIL {type(e).__name__} {getattr(e, 'code', '')}"
         time.sleep(DELAY)
 
 
-# --------------------------------------------------------------- showcase
+# --------------------------------------------------------------------- games
+def page_text(doc):
+    doc = re.sub(r"<(script|style|noscript|template)\b[^>]*>.*?</\1>", " ", doc, flags=re.S | re.I)
+    return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", doc))).strip()
+
+
+def app_slugs(doc):
+    out = []
+    for s in re.findall(r'href="/app/([^"/?#]+)"', doc):
+        if s not in out:
+            out.append(s)
+    return out
+
+
 def parse_detail(doc, slug):
-    """Pull the structured fields off an /app/<slug> page. The page renders a
-    plain-text spine: 'Category X Developer Y Ratings Z ... About this app ...'."""
-    title = re.search(r"<title>(.*?)\s*·", doc, re.S)
-    m = re.search(r"<main[^>]*>(.*?)</main>", doc, re.S)
-    body = re.sub(r"\s+", " ", text(m.group(1) if m else doc))
-    store = sorted(set(u.rstrip("\\'\"") for u in re.findall(
-        r'https://(?:apps\.apple\.com|play\.google\.com|galaxystore\.samsung\.com|galaxy\.store)[^"\'\s<\\]*', doc)))
-    cat = re.search(r"Category\s+(.+?)\s+Developer\s", body)
-    dev = re.search(r"Developer\s+(.+?)\s+(?:Ratings|iPhone|iPad|Android|About this app)", body)
-    rating = re.search(r"Ratings\s+([\d.]+)", body)
-    nrat = re.search(r"·\s*([\d,]+)\s+ratings?", body)
-    plats = [p for p in ("iPhone", "iPad", "Mac", "Apple Watch", "Android", "Galaxy")
-             if re.search(rf"\b{p}\b", body.split("About this app")[0])]
-    about = body.split("About this app", 1)[1].strip() if "About this app" in body else ""
-    tagline = re.search(r"^(?:.*?)\s{2,}(.+?)\s+View in", body)
+    """Fields from the page's plain-text spine, which reads:
+    'Category X Developer Y Ratings 5.0 ★★★★★ 26 ratings ... About this app <desc>
+     Information Seller Y Compatibility iPhone Genres Games, Action, Racing You might also like'"""
+    t = page_text(doc)
+    og = re.search(r'property="og:title"\s+content="([^"]*)"', doc)
+    ti = re.search(r"<title>(.*?)\s*·", doc, re.S)
+    name = html.unescape((og or ti).group(1)).strip() if (og or ti) else slug
+
+    # Any of Seller / Compatibility / Genres can be blank, and "You might also like" is
+    # sometimes absent, so each field is cut separately and genres match a known list.
+    j = t.find("Information Seller")
+    seg = t[j:j + 600] if j >= 0 else ""
+    sm = re.search(r"Seller (.{1,80}?)(?= Compatibility\b)", seg)
+    cm = re.search(r"Compatibility(.{0,80}?)(?= Genres\b| You might also like\b| More from\b|$)", seg)
+    gm = re.search(r"Genres (%s(?:, %s)*)" % (GENRE_RE, GENRE_RE), seg)
+    compat = cm.group(1).strip() if cm else ""
+    genres = gm.group(1).split(", ") if gm else []
+
+    cat = re.search(r"Category (.{1,40}?) Developer (.{1,80}?) (?=Ratings\b|About this app\b)", t)
+    category = cat.group(1).strip() if cat else (genres[0] if genres else "")
+    seller = (sm.group(1).strip() if sm else "") or (cat.group(2).strip() if cat else "")
+
+    rm = re.search(r"Ratings ([\d.]+) ★+ ([\d,]+) ratings?", t)
+    store = sorted(set(u.rstrip("\\'\"") for u in STORE.findall(doc)))
+
+    plats = [p for p in ("iPhone", "iPad", "Mac", "Apple Watch", "Apple TV", "Android")
+             if re.search(r"\b%s\b" % p, compat)]
+    if not plats:
+        if any("apple.com" in u for u in store):
+            plats.append("iPhone")
+        if any("play.google" in u for u in store):
+            plats.append("Android")
+    if any("galaxy" in u for u in store):
+        plats.append("Galaxy")
+
+    j = t.find("Information Seller")
+    k = t.rfind("About this app", 0, j if j > 0 else len(t))
+    about = t[k + len("About this app"):j].strip() if (k >= 0 and j > k) else ""
+    tagline = re.split(r"(?<=[.!?])\s", about, maxsplit=1)[0][:160] if about else ""
+
+    apple = next((u for u in store if "apple.com" in u), "")
+    play = next((u for u in store if "play.google" in u), "")
     return {
         "slug": slug,
-        "name": text(title.group(1)) if title else slug,
+        "name": name,
         "url": f"{SHOWCASE}/app/{slug}",
-        "category": cat.group(1).strip() if cat else "",
-        "developer": dev.group(1).strip() if dev else "",
+        "tagline": tagline,
+        "description": about[:600],
+        "category": category,
+        "genres": genres,
+        "seller": seller,
         "platforms": plats,
-        "rating": float(rating.group(1)) if rating else None,
-        "rating_count": int(nrat.group(1).replace(",", "")) if nrat else None,
+        "rating": float(rm.group(1)) if rm else None,
+        "rating_count": int(rm.group(2).replace(",", "")) if rm else 0,
+        "store": apple or play or (store[0] if store else ""),
         "store_links": store,
-        "description": about[:1200],
-        "first_seen": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
     }
 
 
-def collect_showcase(stamp, status):
-    path = os.path.join(RAW, "showcase_2026.json")
-    known = {}
-    if os.path.exists(path):
+def count_on_or_before(hist, day):
+    days = sorted(d for d in hist if d <= day)
+    return hist[days[-1]] if days else None
+
+
+def backfill_history():
+    """First run only: rebuild per-day rating counts from this repo's git history of
+    raw/showcase_2026.json, so the page has real 1-day and 7-day deltas immediately."""
+    hist = {}
+    r = subprocess.run(["git", "log", "--format=%H %cs", "--", "raw/showcase_2026.json"], cwd=ROOT,
+                       capture_output=True, text=True, encoding="utf-8", creationflags=NOWIN)
+    for line in reversed([x for x in r.stdout.split("\n") if x.strip()]):
+        sha, day = line.split()[:2]
+        show = subprocess.run(["git", "show", f"{sha}:raw/showcase_2026.json"], cwd=ROOT,
+                              capture_output=True, creationflags=NOWIN)
         try:
-            known = {a["slug"]: a for a in json.load(open(path, encoding="utf-8")).get("apps", [])}
+            data = json.loads(show.stdout.decode("utf-8", "replace"))
         except Exception:
-            known = {}
+            continue
+        for a in data.get("apps", []):
+            n = a.get("rating_count")
+            if isinstance(n, int) and n > 0:
+                hist.setdefault(a["slug"], {})[day] = n
+    return hist
+
+
+def mark_stale(prev, path, stamp, err):
+    if prev.get("games"):
+        prev.update({"stale": True, "error": err, "checked_at": stamp})
+        write_json(path, prev)
+    else:
+        write_json(path, {"generated_at": stamp, "stale": True, "error": err, "count": 0, "games": []})
+
+
+def fmt_delta(n):
+    if n is None:
+        return "—"
+    return f"+{n}" if n > 0 else str(n)
+
+
+def md(s):
+    return str(s or "").replace("|", "\\|")
+
+
+def write_competitors(p):
+    rows = []
+    for g in p["games"]:
+        mark = "⚠ " if g["proximity"] else ""
+        new = " 🆕" if g["new"] else ""
+        rat = f"{g['rating']} ({g['rating_count']})" if g.get("rating_count") else "—"
+        links = f"[showcase]({g['url']})" + (f" · [store]({g['store']})" if g.get("store") else "")
+        rows.append(
+            f"| {g['rank']} | {mark}{md(g['name'])}{new} | {md(', '.join(g['genres']) or g['category'])} | "
+            f"{md(g['seller'])} | {', '.join(g['platforms'])} | {rat} | {fmt_delta(g['delta_1d'])} | "
+            f"{fmt_delta(g['delta_7d'])} | {g['first_seen']} | {links} |")
+    head = (
+        "# Shipaton 2026 — every game in the field\n\n"
+        f"Generated {p['generated_at']} by the local collector from {SHOWCASE}/games ∩ /2026. "
+        f"**{p['count']} games** · {p['rated']} rated · +{len(p['new_today'])} new today · "
+        f"{len(p['gaining'])} gaining. Sorted by store rating count. ⚠ = genre proximity to HALL PASS. "
+        "🆕 = first seen in the last 3 days. Regenerated every run — do not edit by hand.\n\n"
+        "| # | Game | Genres | Developer | Platforms | Rating (n) | Δ 1d | Δ 7d | First seen | Links |\n"
+        "|---|---|---|---|---|---|---|---|---|---|\n")
+    with open(os.path.join(WATCH, "competitors.md"), "w", encoding="utf-8") as f:
+        f.write(head + "\n".join(rows) + "\n")
+
+
+def collect_games(stamp, today, status):
+    games_path = os.path.join(WATCH, "games.json")
+    hist_path = os.path.join(RAW, "ratings_history.json")
+    all_path = os.path.join(RAW, "showcase_2026.json")
+    prev = load_json(games_path, {})
+    prev_by = {g["slug"]: g for g in prev.get("games", [])}
+    roster = {a["slug"]: a for a in load_json(all_path, {}).get("apps", [])}
+    history = load_json(hist_path, None)
+    if history is None:
+        history = backfill_history()
+
     try:
-        index = fetch(f"{SHOWCASE}/2026")
+        idx = fetch(SHOWCASE + "/2026")
+        time.sleep(DELAY)
+        gdoc = fetch(SHOWCASE + "/games")
+        time.sleep(DELAY)
     except Exception as e:
-        status["showcase_2026"] = f"FAIL {type(e).__name__} {getattr(e, 'code', '')}"
+        msg = f"FAIL index fetch {type(e).__name__} {getattr(e, 'code', '')}"
+        status["showcase_games"] = msg
+        mark_stale(prev, games_path, stamp, msg)
         return
-    slugs = []
-    for s in re.findall(r'href="/app/([^"/]+)"', index):
-        if s not in slugs:
-            slugs.append(s)
-    total = re.search(r"Explore all (\d+) published apps", index)
-    new = [s for s in slugs if s not in known]
-    # Every Games-category entrant is a competitor for Best Game, so re-fetch all
-    # of them daily — rating_count growth is the only public traction signal.
-    refresh = [s for s in slugs if s in known and known[s].get("category", "").lower() == "games"]
-    fetched = failed = refreshed = 0
-    for s in new + refresh:
+
+    y26 = app_slugs(idx)
+    total = re.search(r"Explore all (\d+) published apps", idx)
+    gall = app_slugs(gdoc)
+    gdecl = re.search(r"\b(\d+) games\b", page_text(gdoc))
+    in26 = set(y26)
+    slugs = [s for s in gall if s in in26]
+
+    # all-apps roster: new slugs recorded with first_seen; cheap, no detail fetch
+    new_apps = [s for s in y26 if s not in roster]
+    for s in new_apps:
+        roster[s] = {"slug": s, "url": f"{SHOWCASE}/app/{s}", "first_seen": today}
+    write_json(all_path, {"source": "showcase_2026", "url": SHOWCASE + "/2026", "fetched_at": stamp,
+                          "declared_total": int(total.group(1)) if total else len(y26), "count": len(y26),
+                          "new_today": new_apps, "apps": [roster[s] for s in y26 if s in roster]})
+    status["showcase_2026"] = f"ok {len(y26)} apps (+{len(new_apps)} new)"
+
+    if not slugs:
+        msg = (f"FAIL 0 games in /games ∩ /2026 ({len(gall)} game slugs all-years, {len(y26)} 2026 apps) "
+               "— showcase layout may have changed")
+        status["showcase_games"] = msg
+        mark_stale(prev, games_path, stamp, msg)
+        return
+
+    t0 = date.fromisoformat(today)
+    yday, wk, new_cut = ((t0 - timedelta(days=n)).isoformat() for n in (1, 7, 2))
+    games, failed = [], 0
+    for s in slugs:
         try:
             rec = parse_detail(fetch(f"{SHOWCASE}/app/{s}"), s)
-            if s in known:
-                prev = known[s]
-                rec["first_seen"] = prev.get("first_seen", rec["first_seen"])
-                rec["rating_count_prev"] = prev.get("rating_count")
-                refreshed += 1
-            else:
-                fetched += 1
-            known[s] = rec
+            if not (rec["genres"] or rec["seller"] or rec["category"]):
+                # the streamed body occasionally arrives empty; one retry, then keep
+                # yesterday's fields rather than blanking a row
+                time.sleep(3)
+                rec = parse_detail(fetch(f"{SHOWCASE}/app/{s}"), s)
+            old = prev_by.get(s, {})
+            for k in ("tagline", "description", "category", "genres", "seller", "platforms", "store"):
+                if not rec.get(k) and old.get(k):
+                    rec[k] = old[k]
+            rec["stale"] = False
         except Exception:
             failed += 1
+            rec = dict(prev_by[s], stale=True) if s in prev_by else None
         time.sleep(DELAY)
-    apps = [known[s] for s in slugs if s in known] + [a for s, a in known.items() if s not in slugs]
-    for a in apps:
-        # The QR image's alt text ("QR code for <Name>") occasionally wins the
-        # <title> regex; strip it so the stored name is the app's real name.
-        a["name"] = re.sub(r"^QR code for\s+", "", a.get("name", "")).strip() or a["slug"]
-        a["gamey"] = bool(GAMEY.search(" ".join([a.get("name", ""), a.get("description", "")])))
-        # is_game is the store category, full stop. gamey is a separate genre-
-        # proximity hint (roguelike/survivor/arena...) and can be true for non-games.
-        a["is_game"] = a.get("category", "").lower() == "games"
-        a["gaining"] = bool(a.get("rating_count") and a.get("rating_count_prev") is not None
-                            and a["rating_count"] > a["rating_count_prev"])
-    games = [a for a in apps if a["is_game"]]
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump({"source": "showcase_2026", "url": f"{SHOWCASE}/2026", "fetched_at": stamp,
-                   "declared_total": int(total.group(1)) if total else None, "count": len(apps),
-                   "new_today": new, "apps": apps}, f, ensure_ascii=False, indent=1)
-    with open(os.path.join(RAW, "showcase_games.json"), "w", encoding="utf-8") as f:
-        json.dump({"source": "showcase_games", "fetched_at": stamp, "count": len(games),
-                   "flagged_roguelike": [a["slug"] for a in games if a["gamey"]], "apps": games},
-                  f, ensure_ascii=False, indent=1)
-    status["showcase_2026"] = f"ok {len(apps)} apps (+{fetched} new, {failed} failed) · {len(games)} games"
+        if rec is None:
+            continue
+        seen = prev_by.get(s) or roster.get(s) or {}
+        rec["first_seen"] = seen.get("first_seen") or today
+        h = history.setdefault(s, {})
+        n = rec.get("rating_count") or 0
+        before1 = count_on_or_before(h, yday)
+        before7 = count_on_or_before(h, wk)
+        if not rec["stale"]:
+            h[today] = n
+        rec["delta_1d"] = (n - before1) if before1 is not None else None
+        rec["delta_7d"] = (n - before7) if before7 is not None else None
+        rec["gaining"] = bool(rec["delta_1d"] and rec["delta_1d"] > 0)
+        rec["new"] = rec["first_seen"] >= new_cut
+        rec["new_today"] = rec["first_seen"] == today
+        rec["proximity"] = bool(PROXIMITY.search(
+            " ".join([rec["name"], rec.get("description", ""), " ".join(rec.get("genres", []))])))
+        games.append(rec)
+
+    parsed = [g for g in games if not g["stale"]]
+    empties = sum(1 for g in parsed if not g.get("genres") and not g.get("seller"))
+    warning = ""
+    if parsed and empties > len(parsed) * 0.5:
+        warning = (f"{empties}/{len(parsed)} games parsed without genres or developer — "
+                   "showcase detail layout may have changed")
+
+    games.sort(key=lambda g: (-(g.get("rating_count") or 0), g["name"].lower()))
+    keep = ("rank", "slug", "name", "url", "tagline", "description", "category", "genres", "seller",
+            "platforms", "rating", "rating_count", "delta_1d", "delta_7d", "first_seen", "new",
+            "new_today", "gaining", "proximity", "store", "stale")
+    for i, g in enumerate(games, 1):
+        g["rank"] = i
+    payload = {
+        "generated_at": stamp, "date": today, "stale": False, "error": "", "warning": warning,
+        "source": SHOWCASE + "/games",
+        "apps_2026": int(total.group(1)) if total else len(y26),
+        "games_all_years": int(gdecl.group(1)) if gdecl else len(gall),
+        "count": len(games),
+        "rated": sum(1 for g in games if g.get("rating_count")),
+        "new_today": [g["slug"] for g in games if g["new_today"]],
+        "gaining": [g["slug"] for g in games if g["gaining"]],
+        "failed": failed,
+        "games": [{k: g.get(k) for k in keep} for g in games],
+    }
+    write_json(games_path, payload)
+    write_json(os.path.join(RAW, "showcase_games.json"), dict(payload, apps=games))
+    write_json(hist_path, history)
+    write_competitors(payload)
+    status["showcase_games"] = (
+        f"ok {len(games)} games · {payload['rated']} rated · +{len(payload['new_today'])} new · "
+        f"{len(payload['gaining'])} gaining" + (f" · {failed} failed" if failed else "")
+        + (f" · WARNING {warning}" if warning else ""))
 
 
-# ------------------------------------------------------------------- main
+# ---------------------------------------------------------------------- main
 def collect():
     os.makedirs(RAW, exist_ok=True)
-    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    now = datetime.now(timezone.utc)
+    stamp, today = now.strftime("%Y-%m-%dT%H:%M:%SZ"), now.strftime("%Y-%m-%d")
     status = {}
     collect_feeds(stamp, status)
-    collect_showcase(stamp, status)
-    with open(os.path.join(RAW, "_status.json"), "w", encoding="utf-8") as f:
-        json.dump({"fetched_at": stamp, "sources": status}, f, indent=1)
+    collect_games(stamp, today, status)
+    write_json(os.path.join(RAW, "_status.json"), {"fetched_at": stamp, "sources": status})
     log("collect " + " | ".join(f"{k}={v}" for k, v in status.items()))
     return status
 
 
 def push():
     def git(*a):
-        return subprocess.run(["git", *a], cwd=ROOT, capture_output=True, text=True,
-                              creationflags=getattr(subprocess, "CREATE_NO_WINDOW", 0))
-    # Commit our raw/ FIRST, then rebase onto whatever the cloud routine pushed
-    # (it only ever touches watch/, so the rebase is conflict-free), then push.
-    # Pulling before committing fails with "unstaged changes" whenever raw/ is dirty.
-    git("add", "raw/")
+        return subprocess.run(["git", *a], cwd=ROOT, capture_output=True, text=True, creationflags=NOWIN)
+    # Commit first, then rebase onto whatever the cloud routine pushed (it only writes
+    # watch/*.md report files and seen.txt, so this never conflicts), then push.
+    git("add", "raw/", "watch/games.json", "watch/competitors.md")
     day = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    committed = git("commit", "-q", "-m", f"raw: {day}").returncode == 0
+    committed = git("commit", "-q", "-m", f"collect: {day}").returncode == 0
     r = git("pull", "-q", "--rebase", "origin", "master")
     if r.returncode != 0:
         log("pull --rebase FAIL " + r.stderr.strip()[:200])
@@ -278,4 +474,5 @@ if __name__ == "__main__":
     st = collect()
     if "--no-push" not in sys.argv:
         push()
-    print(json.dumps(st, indent=1))
+    sys.stdout.reconfigure(encoding="utf-8")
+    print(json.dumps(st, indent=1, ensure_ascii=False))

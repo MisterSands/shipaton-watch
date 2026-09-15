@@ -1,7 +1,7 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "2026-09-15T09:30:02Z",
+ "fetched_at": "2026-09-15T11:20:13Z",
  "count": 24,
  "items": [
   {
@@ -17,6 +17,13 @@
    "date": "2026-08-07T13:46:11+00:00",
    "author": "/u/IamAngusU",
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
+  },
+  {
+   "title": "Shipaton 2026: Two Weeks Remaining",
+   "link": "https://www.reddit.com/r/AppBusiness/comments/1wgxb2r/shipaton_2026_two_weeks_remaining/",
+   "date": "2026-09-15T11:08:07+00:00",
+   "author": "/u/sourd1esel",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Only <strong>two weeks remain</strong> until the Shipaton submission deadline! </p> <p>If you haven&#39;t already, <strong>submit your app to the App Store or Google Play as soon as possible</strong>. App review times can be unpredictable, and waiting until the last few days could put your submission at risk. Apps must be <strong>live on the store</strong> by Sept"
   },
   {
    "title": "made an iPhone medicine tracker for my grandma. it’s live on the App Store now",
@@ -164,13 +171,6 @@
    "date": "2026-09-09T23:54:29+00:00",
    "author": "/u/Lil-booyakasha",
    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/MRU/comments/1wc2mt6/shipaton_app_building_event/\"> <img src=\"https://external-preview.redd.it/900ZzUdOg7s8gDwZSCOTCna2zwxVfqBfxaoQuXBrZoE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53a9c2a407d0efa382165df8b8a7a9f3460fd80c\" alt=\"Shipaton App Building Event\" title=\"Shipaton App Building Event\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\""
-  },
-  {
-   "title": "Shipaton App Building Event",
-   "link": "https://www.reddit.com/r/UCalgary/comments/1wc2kh2/shipaton_app_building_event/",
-   "date": "2026-09-09T23:51:37+00:00",
-   "author": "/u/Lil-booyakasha",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UCalgary/comments/1wc2kh2/shipaton_app_building_event/\"> <img src=\"https://external-preview.redd.it/900ZzUdOg7s8gDwZSCOTCna2zwxVfqBfxaoQuXBrZoE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53a9c2a407d0efa382165df8b8a7a9f3460fd80c\" alt=\"Shipaton App Building Event\" title=\"Shipaton App Building Event\" /> </a> </td><td> <!-- SC_OFF --><div class"
   }
  ]
 }

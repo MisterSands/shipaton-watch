@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-09-15T09:30:02Z",
+ "fetched_at": "2026-09-15T11:20:13Z",
  "sources": {
   "hackernoon": "ok 50",
   "devto": "ok 12",
@@ -8,6 +8,7 @@
   "revenuecat_blog": "ok 4",
   "shipaton_blog": "ok 18",
   "medium": "ok 10",
-  "showcase_2026": "ok 623 apps (+0 new, 0 failed) \u00b7 0 games"
+  "showcase_2026": "ok 623 apps (+0 new)",
+  "showcase_games": "ok 77 games · 24 rated · +0 new · 1 gaining"
  }
 }
