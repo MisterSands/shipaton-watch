@@ -1,36 +1,32 @@
 # Shipaton Watch — 2026-09-15
-**10 new items** (showcase 5 · HackerNoon 0 · dev.to 0 · Reddit 5 · YouTube 0 · web 0 · social 0)
+**77 games in the field** · 24 rated · +0 new today · 1 gaining · 623 apps total — full sortable table: [hallpass.cc/watcher.html](https://hallpass.cc/watcher.html)
 
-## ⚔ Competitors — games entering Shipaton
-Backlog catch-up: these three were missed on earlier days because the showcase collector's `is_game` flag is still broken (see Source status) — confirmed as real games from their Play Store descriptions/genre, not from the flag.
-- ⚠ **Jianghu: Sword & Zither** — wuxia action roguelike, fight with a 7-string zither across 4 lanes, wave-based upgrades · HD Expanse · Android · [showcase](https://apps.shipaton.com/app/jianghu-sword-zither) · [store](https://play.google.com/store/apps/details?id=com.hdexpanse.qinjianjianghu)
-- **Raven Storm** — 3D multiplayer arena shooter, jetpacks/grenades/dual weapons in procedurally generated maze arenas · MazeStrike · Android · [showcase](https://apps.shipaton.com/app/raven-storm) · [store](https://play.google.com/store/apps/details?id=com.mazestrike.app)
-- ⚠ **멍냥아레나 (PawPaw Arena)** — .io-style real-time arena brawler, cats/dogs/pigs fight for treats · petaflo · Android · [showcase](https://apps.shipaton.com/app/android-com-petaflo-pawpawarena) · [store](https://play.google.com/store/apps/details?id=com.petaflo.pawpawarena)
-
-No rating-growth data today — `rating_count_prev` is empty fleet-wide in the collector output, so `gaining` can't be computed (see Source status).
+## ⚔ Games — what changed
+- GAINING **Unlike** — 6 → 7 ratings (7d: n/a) · [showcase](https://apps.shipaton.com/app/unlike)
+- Top 5 by ratings — Nitelore (26), 10+ Games (7), Unlike (7), Offsuit: Blackjack 21 (4), Consoly: Coding Challenges (3)
 
 ## 📢 Build-in-public activity
-- u/sparkfire27 (17-year-old solo dev) cross-posted an "urgent need for testers" call for an offline drawing-tutorial app, tagged #shipaton with a tight deadline, to 5 testing subreddits same day, offering reciprocal testing · [1](https://www.reddit.com/r/AndroidClosedTesting/comments/1wgjyab/urgent_need_for_testers/) · [2](https://www.reddit.com/r/GooglePlayClosedTest/comments/1wgjxjk/urgent_need_for_testers/) · [3](https://www.reddit.com/r/AndroidTesting/comments/1wgjwnr/urgent_need_for_testers/) · [4](https://www.reddit.com/r/AndroidAppTesters/comments/1wgjvpu/urgent_need_for_testers/) · [5](https://www.reddit.com/r/TestersCommunity/comments/1wgjv25/urgent_need_for_testers/)
+- No new build-in-public posts surfaced today — 2 Reddit candidates were excluded for no visible Shipaton mention (see Source status).
 
 ## 📰 Official — RevenueCat / Shipaton
-No new official posts, rule changes, or announcements today — RevenueCat blog and shipaton.com blog feeds returned zero new items, and the web sweep surfaced nothing beyond already-tracked pages (Discord, livestream schedule, AMA info all previously seen).
+- Community reminder (r/AppBusiness): two weeks left until the Shipaton deadline — apps must be live on the App Store or Google Play by Sept 30 · [link](https://www.reddit.com/r/AppBusiness/comments/1wgxb2r/shipaton_2026_two_weeks_remaining/)
 
 ## 💡 Worth stealing
-- sparkfire27's tester call went to 5 narrowly-targeted testing subreddits (not general dev subs) in one day — a tighter list than the usual 3-way cross-post, worth mirroring for HALL PASS's own closed-testing push.
-- Jianghu: Sword & Zither ships without any energy system or pay-to-win framing, calling it out explicitly in its own description — a monetization stance judges may read as more "polished and fun" per the Best Game Award criteria.
+- Nothing new identified today.
 
 ## Everything else
-- Two more fitness apps join the "workout-as-RPG" trend already seen with Samurai Rise: **ZENKAI: Gym Workout RPG** (Sports category, turns lifted sets into levels/ranks/stats) and **Under Siege - Workout RPG** — both gamey-flagged but categorized as fitness, not games · [ZENKAI showcase](https://apps.shipaton.com/app/zenkai-gym-workout-rpg) · [Under Siege showcase](https://apps.shipaton.com/app/under-siege-workout-rpg)
+- None.
 
 ## Source status
-- Local collector: fresh — raw/_status.json fetched_at 2026-09-15T09:30:02Z (within 36h).
-- showcase: 623 apps · 0 games · 59 rated · +0 new today · top by ratings: Zubdah (305), Flashback: Sports Replay Cam (63), PokeNotify: TCG Restock Alerts (50) — `is_game` is still 0/623 true (same structural bug flagged 09-14) and several detail pages (Jianghu, Raven Storm, 멍냥아레나, QuestLog, Protect the Orb) are returning raw page-HTML dumps instead of parsed fields; `rating_count_prev` is null fleet-wide so `gaining` cannot be computed. All games listed above were identified manually from description/genre text, not from the flags.
+- Local collector: fixed and fresh — games.json generated_at 2026-09-15T11:20:13Z, stale=false, no error/warning. This morning's collector fix (detail pages were parsing only nav, 0 games) landed after the earlier version of today's report; count is now 77 games / 24 rated / 623 apps total, replacing the placeholder 3-game manual backlog reported before the fix.
+- showcase_2026: ok, 623 apps (+0 new)
+- showcase_games: ok, 77 games · 24 rated · +0 new · 1 gaining
 - HackerNoon: ok, 50 items, 1 title matched keyword but had no Shipaton content in title/summary (excluded as false positive)
 - dev.to: ok, 12 items, 0 new
-- Reddit: ok, 24 items, 7 candidates, 5 reported (2 excluded — no visible Shipaton mention in available summary text)
-- reddit_shipaton: FAILED — HTTPError 429 (rate-limited), not fetched today
+- Reddit: ok, 24 items, 3 candidates, 1 reported (2 excluded — no visible Shipaton mention in available summary text)
+- reddit_shipaton: FAILED — HTTPError 429 (rate-limited), second day in a row
 - RevenueCat blog: ok, 4 items, 0 new
 - shipaton.com blog: ok, 18 items, 0 new
 - Medium: ok, 10 items, 0 new
-- WebSearch sweep: all 14 queries ran; no new URLs beyond what raw/ already surfaced.
+- WebSearch sweep: all 14 queries ran; no new URLs beyond what raw/ and games.json already surfaced (already-seen mirrors, unrelated generic roguelike/survivors game listings, or old 2024/2025 RevenueCat content).
 - Devpost: not fetched per standing rule.
