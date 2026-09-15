@@ -1,7 +1,7 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "2026-09-14T09:30:02Z",
+ "fetched_at": "2026-09-15T09:30:02Z",
  "count": 24,
  "items": [
   {
@@ -17,6 +17,55 @@
    "date": "2026-08-07T13:46:11+00:00",
    "author": "/u/IamAngusU",
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
+  },
+  {
+   "title": "made an iPhone medicine tracker for my grandma. it’s live on the App Store now",
+   "link": "https://www.reddit.com/r/iOSDevelopment/comments/1wgrzvp/made_an_iphone_medicine_tracker_for_my_grandma/",
+   "date": "2026-09-15T06:02:36+00:00",
+   "author": "/u/Infinite_Weather_173",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>my grandma takes maintenance medicines, and the routine kept becoming:</p> <ol> <li><p>check which medicine is due</p></li> <li><p>ask whether it was already taken</p></li> <li><p>check again later</p></li> <li><p>repeat tomorrow</p></li> </ol> <p>so i built Pilly for iPhone.</p> <p>it handles schedules, reminders, taken or skipped records, the week ahead, history"
+  },
+  {
+   "title": "Urgent need for testers!!!",
+   "link": "https://www.reddit.com/r/AndroidClosedTesting/comments/1wgjyab/urgent_need_for_testers/",
+   "date": "2026-09-14T23:40:24+00:00",
+   "author": "/u/sparkfire27",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I’m a 17 year old who just created an app that teaches you how to draw. It’s 100% offline, meaning that images are <strong>not</strong> sent to AI models. I’m looking for testers, and I’m on a tight deadline (#shipaton). I’d really appreciate any help, and I’m more than willing to reciprocate (I’ve helped 3 apps get published). </p> <p>Step 1 - Join "
+  },
+  {
+   "title": "Urgent need for testers!!!",
+   "link": "https://www.reddit.com/r/GooglePlayClosedTest/comments/1wgjxjk/urgent_need_for_testers/",
+   "date": "2026-09-14T23:39:26+00:00",
+   "author": "/u/sparkfire27",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I’m a 17 year old who just created an app that teaches you how to draw. It’s 100% offline, meaning that images are <strong>not</strong> sent to AI models. I’m looking for testers, and I’m on a tight deadline (#shipaton). I’d really appreciate any help, and I’m more than willing to reciprocate (I’ve helped 3 apps get published). </p> <p>Step 1 - Join "
+  },
+  {
+   "title": "Urgent need for testers!!!",
+   "link": "https://www.reddit.com/r/AndroidTesting/comments/1wgjwnr/urgent_need_for_testers/",
+   "date": "2026-09-14T23:38:18+00:00",
+   "author": "/u/sparkfire27",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I’m a 17 year old who just created an app that teaches you how to draw. It’s 100% offline, meaning that images are <strong>not</strong> sent to AI models. I’m looking for testers, and I’m on a tight deadline (#shipaton). I’d really appreciate any help, and I’m more than willing to reciprocate (I’ve helped 3 apps get published). </p> <p>Step 1 - Join "
+  },
+  {
+   "title": "Urgent need for testers!",
+   "link": "https://www.reddit.com/r/AndroidAppTesters/comments/1wgjvpu/urgent_need_for_testers/",
+   "date": "2026-09-14T23:37:08+00:00",
+   "author": "/u/sparkfire27",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I’m a 17 year old who just created an app that teaches you how to draw. It’s 100% offline, meaning that images are <strong>not</strong> sent to AI models. I’m looking for testers, and I’m on a tight deadline (#shipaton). I’d really appreciate any help, and I’m more than willing to reciprocate (I’ve helped 3 apps get published). </p> <p>Step 1 - Join "
+  },
+  {
+   "title": "Urgent need for testers !",
+   "link": "https://www.reddit.com/r/TestersCommunity/comments/1wgjv25/urgent_need_for_testers/",
+   "date": "2026-09-14T23:36:19+00:00",
+   "author": "/u/sparkfire27",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I’m a 17 year old who just created an app that teaches you how to draw. It’s 100% offline, meaning that images are <strong>not</strong> sent to AI models. I’m looking for testers, and I’m on a tight deadline (#shipaton). I’d really appreciate any help, and I’m more than willing to reciprocate (I’ve helped 3 apps get published). </p> <p>Step 1 - Join "
+  },
+  {
+   "title": "App presentation video - Any thoughts?",
+   "link": "https://www.reddit.com/r/AppBusiness/comments/1wgexl2/app_presentation_video_any_thoughts/",
+   "date": "2026-09-14T20:21:44+00:00",
+   "author": "/u/MattLima1",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AppBusiness/comments/1wgexl2/app_presentation_video_any_thoughts/\"> <img src=\"https://external-preview.redd.it/b6vDiEt5UGKIDN1eY2BL8JXGDoVDXGJQYWTwo9v0xGs.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bc0b9e199aed16cc49e0c56f5e460f5739d44bcf\" alt=\"App presentation video - Any thoughts?\" title=\"App presentation video - Any thoughts?\" /> </a> </"
   },
   {
    "title": "Just launched my iOS app for RevenueCat Shipaton!",
@@ -122,55 +171,6 @@
    "date": "2026-09-09T23:51:37+00:00",
    "author": "/u/Lil-booyakasha",
    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/UCalgary/comments/1wc2kh2/shipaton_app_building_event/\"> <img src=\"https://external-preview.redd.it/900ZzUdOg7s8gDwZSCOTCna2zwxVfqBfxaoQuXBrZoE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53a9c2a407d0efa382165df8b8a7a9f3460fd80c\" alt=\"Shipaton App Building Event\" title=\"Shipaton App Building Event\" /> </a> </td><td> <!-- SC_OFF --><div class"
-  },
-  {
-   "title": "Need 12 testers for my rhythm game - Pixel Riffs (5mb download) - I will test your app back for 14 days",
-   "link": "https://www.reddit.com/r/AndroidClosedTesting/comments/1wbw3c4/need_12_testers_for_my_rhythm_game_pixel_riffs/",
-   "date": "2026-09-09T19:45:43+00:00",
-   "author": "/u/metamorphosising",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AndroidClosedTesting/comments/1wbw3c4/need_12_testers_for_my_rhythm_game_pixel_riffs/\"> <img src=\"https://preview.redd.it/1nbty7e4ujoh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=16531033061f0295261ba76294a0f73d3d78379a\" alt=\"Need 12 testers for my rhythm game - Pixel Riffs (5mb download) - I will test your app back for 14"
-  },
-  {
-   "title": "Apple’s event today has me wondering: what are you building now that the AI model ships with the phone?",
-   "link": "https://www.reddit.com/r/AppBusiness/comments/1wbpvn6/apples_event_today_has_me_wondering_what_are_you/",
-   "date": "2026-09-09T16:08:06+00:00",
-   "author": "/u/Tekton-Legacy",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Apple’s event today has me thinking less about whatever new AI feature gets demoed on stage and more about what this shift means for app builders.<br/> <strong>What changes when the model becomes part of the device platform?</strong><br/> I’ve been learning this firsthand while building On Cue.<br/> On Cue uses Apple’s Foundation Models framework to interpret priv"
-  },
-  {
-   "title": "I didn't build this to solve a problem, I built it to protect a feeling",
-   "link": "https://www.reddit.com/r/buildinpublic/comments/1wbj836/i_didnt_build_this_to_solve_a_problem_i_built_it/",
-   "date": "2026-09-09T11:43:46+00:00",
-   "author": "/u/Soft-Gas-9909",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/buildinpublic/comments/1wbj836/i_didnt_build_this_to_solve_a_problem_i_built_it/\"> <img src=\"https://preview.redd.it/o3bbnhdbfhoh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=93b7ead0e0431e2dc6eb8541ba7e7f309bb4f406\" alt=\"I didn't build this to solve a problem, I built it to protect a feeling\" title=\"I didn't build this to "
-  },
-  {
-   "title": "AI Agents That Build, Ship, and Make Money - IndeHub Chapter 16",
-   "link": "https://www.reddit.com/r/indehub/comments/1wbhhvr/ai_agents_that_build_ship_and_make_money_indehub/",
-   "date": "2026-09-09T10:13:30+00:00",
-   "author": "/u/fuglyab",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/indehub/comments/1wbhhvr/ai_agents_that_build_ship_and_make_money_indehub/\"> <img src=\"https://preview.redd.it/krwnpp89zgoh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=49c73d84f35e1e7962da6c70b3e48bcb70a392dd\" alt=\"AI Agents That Build, Ship, and Make Money - IndeHub Chapter 16\" title=\"AI Agents That Build, Ship, and Make Money - IndeHub Cha"
-  },
-  {
-   "title": "I built an Android app that turns any EPUB you own into a Duolingo-style reading game",
-   "link": "https://www.reddit.com/r/developersIndia/comments/1wade7h/i_built_an_android_app_that_turns_any_epub_you/",
-   "date": "2026-09-08T03:42:20+00:00",
-   "author": "/u/sumit18_9",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/developersIndia/comments/1wade7h/i_built_an_android_app_that_turns_any_epub_you/\"> <img src=\"https://preview.redd.it/j25y0da5w7oh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=4ff14eed636b424aa05f207b9f2c3a82dcbc4908\" alt=\"I built an Android app that turns any EPUB you own into a Duolingo-style reading game\" title=\"I built a"
-  },
-  {
-   "title": "On Cue is in App Store review. So now I’m making the engine less generic.",
-   "link": "https://www.reddit.com/r/AppBusiness/comments/1w9w7bg/on_cue_is_in_app_store_review_so_now_im_making/",
-   "date": "2026-09-07T16:02:38+00:00",
-   "author": "/u/Tekton-Legacy",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AppBusiness/comments/1w9w7bg/on_cue_is_in_app_store_review_so_now_im_making/\"> <img src=\"https://preview.redd.it/3y7ypi3rf4oh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6b1c2a53397c16ad9dd480a097c3e1bd6d70fd76\" alt=\"On Cue is in App Store review. So now I’m making the engine less generic.\" title=\"On Cue is in App Store review. So now I’m m"
-  },
-  {
-   "title": "Beat my sales target by 300%!!!",
-   "link": "https://www.reddit.com/r/AppBusiness/comments/1w96eji/beat_my_sales_target_by_300/",
-   "date": "2026-09-06T19:55:48+00:00",
-   "author": "/u/Otherwise_Tart3320",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AppBusiness/comments/1w96eji/beat_my_sales_target_by_300/\"> <img src=\"https://preview.redd.it/7ukocmtfgynh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=3295ab0c7158f11abc08bbeb71ebee0f6c036c3f\" alt=\"Beat my sales target by 300%!!!\" title=\"Beat my sales target by 300%!!!\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I shipped <a href=\""
   }
  ]
 }

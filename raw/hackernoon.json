@@ -1,9 +1,16 @@
 {
  "source": "hackernoon",
  "url": "https://hackernoon.com/tagged/shipaton/feed",
- "fetched_at": "2026-09-14T09:30:02Z",
+ "fetched_at": "2026-09-15T09:30:02Z",
  "count": 50,
  "items": [
+  {
+   "title": "What Morrowind Can Teach Us About Learning New Skills",
+   "link": "https://hackernoon.com/what-morrowind-can-teach-us-about-learning-new-skills?source=rss",
+   "date": "Tue, 15 Sep 2026 03:10:16 GMT",
+   "author": "Radu",
+   "summary": ""
+  },
   {
    "title": "Why I'm Building \"Once Upon Today\" for Shipaton 2026",
    "link": "https://hackernoon.com/why-im-building-once-upon-today-for-shipaton-2026?source=rss",
@@ -345,13 +352,6 @@
    "link": "https://hackernoon.com/building-frenby-a-compose-multiplatform-social-app-for-finding-friends-nearby?source=rss",
    "date": "Tue, 01 Sep 2026 20:07:07 GMT",
    "author": "Fawad Jawaid Malik",
-   "summary": ""
-  },
-  {
-   "title": "I Built a Roguelike That Charges You Steps to Play It",
-   "link": "https://hackernoon.com/i-built-a-roguelike-that-charges-you-steps-to-play-it?source=rss",
-   "date": "Tue, 01 Sep 2026 03:00:19 GMT",
-   "author": "SoteriaApps",
    "summary": ""
   }
  ]
