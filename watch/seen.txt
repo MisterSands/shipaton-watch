@@ -289,3 +289,6 @@ https://www.reddit.com/r/TestersCommunity/comments/1wgjv25/urgent_need_for_teste
 https://apps.shipaton.com/app/zenkai-gym-workout-rpg
 https://apps.shipaton.com/app/under-siege-workout-rpg
 https://www.reddit.com/r/AppBusiness/comments/1wgxb2r/shipaton_2026_two_weeks_remaining/
+https://hackernoon.com/building-isolyne-part-6-integrating-revenuecat-without-shady-pay
+https://hackernoon.com/i-built-a-revenuecat-paywall-that-doesnt-hold-the-first-lesson-hostage
+https://hackernoon.com/building-a-local-first-kotlin-app-with-github-actions-and-revenuecat
