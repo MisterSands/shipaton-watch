@@ -1,9 +1,79 @@
 {
  "source": "hackernoon",
  "url": "https://hackernoon.com/tagged/shipaton/feed",
- "fetched_at": "2026-09-15T11:20:13Z",
+ "fetched_at": "2026-09-16T09:30:01Z",
  "count": 50,
  "items": [
+  {
+   "title": "Building Audio Action — From an Idea to an AI-Powered Voice-First To-do App",
+   "link": "https://hackernoon.com/building-audio-action-from-an-idea-to-an-ai-powered-voice-first-to-do-app?source=rss",
+   "date": "Wed, 16 Sep 2026 06:29:42 GMT",
+   "author": "Ruptapas Chakraborty",
+   "summary": ""
+  },
+  {
+   "title": "Identity, Authentication, and Authorization: What Developers Need to Know",
+   "link": "https://hackernoon.com/identity-authentication-and-authorization-what-developers-need-to-know?source=rss",
+   "date": "Wed, 16 Sep 2026 02:54:22 GMT",
+   "author": "Casey",
+   "summary": ""
+  },
+  {
+   "title": "I Ship an AI-Written Detective Case Every Day, but the AI Doesn’t Know Who Did It",
+   "link": "https://hackernoon.com/i-ship-an-ai-written-detective-case-every-day-but-the-ai-doesnt-know-who-did-it?source=rss",
+   "date": "Tue, 15 Sep 2026 22:34:15 GMT",
+   "author": "Patrick Werle",
+   "summary": ""
+  },
+  {
+   "title": "Building Isolyne (Part 6): Integrating RevenueCat Without Shady Pay",
+   "link": "https://hackernoon.com/building-isolyne-part-6-integrating-revenuecat-without-shady-pay?source=rss",
+   "date": "Tue, 15 Sep 2026 22:29:47 GMT",
+   "author": "AMIT KUMAR GUPTA",
+   "summary": ""
+  },
+  {
+   "title": "16 Lessons From Testing iOS and macOS Features on Real Hardware",
+   "link": "https://hackernoon.com/16-lessons-from-testing-ios-and-macos-features-on-real-hardware?source=rss",
+   "date": "Tue, 15 Sep 2026 22:20:02 GMT",
+   "author": "Peter Dongo",
+   "summary": ""
+  },
+  {
+   "title": "How I Designed Once Upon Today’s Entire UI in Google Stitch Before Writing a Line of Code",
+   "link": "https://hackernoon.com/how-i-designed-once-upon-todays-entire-ui-in-google-stitch-before-writing-a-line-of-code?source=rss",
+   "date": "Tue, 15 Sep 2026 22:12:14 GMT",
+   "author": "Abhijith Konnayil",
+   "summary": ""
+  },
+  {
+   "title": "CareBridge Puts Offline Access and Senior-Friendly Design Ahead of Cloud Complexity",
+   "link": "https://hackernoon.com/carebridge-puts-offline-access-and-senior-friendly-design-ahead-of-cloud-complexity?source=rss",
+   "date": "Tue, 15 Sep 2026 22:07:35 GMT",
+   "author": "Hac Phong",
+   "summary": ""
+  },
+  {
+   "title": "I Built a RevenueCat Paywall That Doesn’t Hold the First Lesson Hostage",
+   "link": "https://hackernoon.com/i-built-a-revenuecat-paywall-that-doesnt-hold-the-first-lesson-hostage?source=rss",
+   "date": "Tue, 15 Sep 2026 21:45:34 GMT",
+   "author": "Hulya Masharipov",
+   "summary": ""
+  },
+  {
+   "title": "Amana’s Sky Shader Worked Perfectly, Except It Kept Getting the Weather Wrong",
+   "link": "https://hackernoon.com/amanas-sky-shader-worked-perfectly-except-it-kept-getting-the-weather-wrong?source=rss",
+   "date": "Tue, 15 Sep 2026 21:27:31 GMT",
+   "author": "Amana",
+   "summary": ""
+  },
+  {
+   "title": "Building a Local-First Kotlin App With GitHub Actions and RevenueCat",
+   "link": "https://hackernoon.com/building-a-local-first-kotlin-app-with-github-actions-and-revenuecat?source=rss",
+   "date": "Tue, 15 Sep 2026 21:05:40 GMT",
+   "author": "bobby.buildz",
+   "summary": ""
+  },
   {
    "title": "What Morrowind Can Teach Us About Learning New Skills",
    "link": "https://hackernoon.com/what-morrowind-can-teach-us-about-learning-new-skills?source=rss",
@@ -282,76 +352,6 @@
    "link": "https://hackernoon.com/a-wrong-api-key-and-one-missing-hyphen-almost-broke-my-bible-study-app-after-launch?source=rss",
    "date": "Wed, 02 Sep 2026 14:29:13 GMT",
    "author": "Nanzing Johnmark",
-   "summary": ""
-  },
-  {
-   "title": "We Cut Four of Five Tabs From ROLL Beauty and Shipped Anyway",
-   "link": "https://hackernoon.com/we-cut-four-of-five-tabs-from-roll-beauty-and-shipped-anyway?source=rss",
-   "date": "Wed, 02 Sep 2026 12:26:10 GMT",
-   "author": "Ryu | AMANEKU Studio",
-   "summary": ""
-  },
-  {
-   "title": "Building Isolyne, a Safety Net for Fast-Moving Development Teams",
-   "link": "https://hackernoon.com/building-isolyne-a-safety-net-for-fast-moving-development-teams?source=rss",
-   "date": "Wed, 02 Sep 2026 12:12:10 GMT",
-   "author": "AMIT KUMAR GUPTA",
-   "summary": ""
-  },
-  {
-   "title": "Building Billinox, an Offline-First Invoicing App for Small Businesses",
-   "link": "https://hackernoon.com/building-billinox-an-offline-first-invoicing-app-for-small-businesses?source=rss",
-   "date": "Wed, 02 Sep 2026 11:48:27 GMT",
-   "author": "Jude Iwuji",
-   "summary": ""
-  },
-  {
-   "title": "I Couldn’t Remember the Russian Words I Was Learning, So I Put Them on My Phone Screen",
-   "link": "https://hackernoon.com/i-couldnt-remember-the-russian-words-i-was-learning-so-i-put-them-on-my-phone-screen?source=rss",
-   "date": "Wed, 02 Sep 2026 11:34:41 GMT",
-   "author": "Hulya Masharipov",
-   "summary": ""
-  },
-  {
-   "title": "Securing a Real Time Social Map: The Trust Architecture Behind Beamrove",
-   "link": "https://hackernoon.com/securing-a-real-time-social-map-the-trust-architecture-behind-beamrove?source=rss",
-   "date": "Wed, 02 Sep 2026 11:27:48 GMT",
-   "author": "Furkan Tonyalı",
-   "summary": ""
-  },
-  {
-   "title": "500 Bugs, $22, and a Dream: Bringing PocketVault to Android",
-   "link": "https://hackernoon.com/500-bugs-$22-and-a-dream-bringing-pocketvault-to-android?source=rss",
-   "date": "Wed, 02 Sep 2026 11:15:42 GMT",
-   "author": "Aarav",
-   "summary": ""
-  },
-  {
-   "title": "I Have Two Testers for my App. One of Them is my Wife",
-   "link": "https://hackernoon.com/i-have-two-testers-for-my-app-one-of-them-is-my-wife?source=rss",
-   "date": "Wed, 02 Sep 2026 07:54:04 GMT",
-   "author": "Radu",
-   "summary": ""
-  },
-  {
-   "title": "Can You Give a Hackathon Judge a Free Unlock Before You Submit? No, and Here Is the Exact 409",
-   "link": "https://hackernoon.com/can-you-give-a-hackathon-judge-a-free-unlock-before-you-submit-no-and-here-is-the-exact-409?source=rss",
-   "date": "Tue, 01 Sep 2026 20:39:08 GMT",
-   "author": "Peter Dongo",
-   "summary": ""
-  },
-  {
-   "title": "A Weighted Sum Is Not an AND",
-   "link": "https://hackernoon.com/a-weighted-sum-is-not-an-and?source=rss",
-   "date": "Tue, 01 Sep 2026 20:31:22 GMT",
-   "author": "WubbaLubbaDubDub",
-   "summary": ""
-  },
-  {
-   "title": "Building Frenby, a Compose Multiplatform Social App for Finding Friends Nearby",
-   "link": "https://hackernoon.com/building-frenby-a-compose-multiplatform-social-app-for-finding-friends-nearby?source=rss",
-   "date": "Tue, 01 Sep 2026 20:07:07 GMT",
-   "author": "Fawad Jawaid Malik",
    "summary": ""
   }
  ]
