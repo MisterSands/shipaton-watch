@@ -1,9 +1,23 @@
 {
  "source": "hackernoon",
  "url": "https://hackernoon.com/tagged/shipaton/feed",
- "fetched_at": "2026-09-16T09:30:01Z",
+ "fetched_at": "2026-09-17T09:30:01Z",
  "count": 50,
  "items": [
+  {
+   "title": "How I Tested Amana Across Locations in the iOS Simulator",
+   "link": "https://hackernoon.com/how-i-tested-amana-across-locations-in-the-ios-simulator?source=rss",
+   "date": "Wed, 16 Sep 2026 20:59:59 GMT",
+   "author": "Amana",
+   "summary": ""
+  },
+  {
+   "title": "Suno Turned an 83-Word App Brief Into a Four-Minute Japanese Theme Song for My App",
+   "link": "https://hackernoon.com/suno-turned-an-83-word-app-brief-into-a-four-minute-japanese-theme-song-for-my-app?source=rss",
+   "date": "Wed, 16 Sep 2026 10:59:59 GMT",
+   "author": "Amana",
+   "summary": ""
+  },
   {
    "title": "Building Audio Action — From an Idea to an AI-Powered Voice-First To-do App",
    "link": "https://hackernoon.com/building-audio-action-from-an-idea-to-an-ai-powered-voice-first-to-do-app?source=rss",
@@ -338,20 +352,6 @@
    "link": "https://hackernoon.com/turning-apple-pencil-into-a-reed-pen-how-i-built-and-shipped-qalaris?source=rss",
    "date": "Wed, 02 Sep 2026 14:52:53 GMT",
    "author": "Akif",
-   "summary": ""
-  },
-  {
-   "title": "I Gave an On-Device LLM a Search Tool. It Ignored It and Made Up Data Instead",
-   "link": "https://hackernoon.com/i-gave-an-on-device-llm-a-search-tool-it-ignored-it-and-made-up-data-instead?source=rss",
-   "date": "Wed, 02 Sep 2026 14:46:10 GMT",
-   "author": "Peter Dongo",
-   "summary": ""
-  },
-  {
-   "title": "A Wrong API Key and One Missing Hyphen Almost Broke My Bible Study App After Launch",
-   "link": "https://hackernoon.com/a-wrong-api-key-and-one-missing-hyphen-almost-broke-my-bible-study-app-after-launch?source=rss",
-   "date": "Wed, 02 Sep 2026 14:29:13 GMT",
-   "author": "Nanzing Johnmark",
    "summary": ""
   }
  ]
