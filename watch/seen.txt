@@ -292,3 +292,8 @@ https://www.reddit.com/r/AppBusiness/comments/1wgxb2r/shipaton_2026_two_weeks_re
 https://hackernoon.com/building-isolyne-part-6-integrating-revenuecat-without-shady-pay
 https://hackernoon.com/i-built-a-revenuecat-paywall-that-doesnt-hold-the-first-lesson-hostage
 https://hackernoon.com/building-a-local-first-kotlin-app-with-github-actions-and-revenuecat
+https://hackernoon.com/how-i-tested-amana-across-locations-in-the-ios-simulator
+https://hackernoon.com/suno-turned-an-83-word-app-brief-into-a-four-minute-japanese-theme-song-for-my-app
+https://hackernoon.com/amanas-sky-shader-worked-perfectly-except-it-kept-getting-the-weather-wrong
+https://hackernoon.com/how-i-designed-once-upon-todays-entire-ui-in-google-stitch-before-writing-a-line-of-code
+https://www.shipaton.com/faq
