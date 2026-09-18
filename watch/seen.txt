@@ -297,3 +297,15 @@ https://hackernoon.com/suno-turned-an-83-word-app-brief-into-a-four-minute-japan
 https://hackernoon.com/amanas-sky-shader-worked-perfectly-except-it-kept-getting-the-weather-wrong
 https://hackernoon.com/how-i-designed-once-upon-todays-entire-ui-in-google-stitch-before-writing-a-line-of-code
 https://www.shipaton.com/faq
+https://hackernoon.com/building-audio-action-from-an-idea-to-an-ai-powered-voice-first-to-do-app
+https://hackernoon.com/identity-authentication-and-authorization-what-developers-need-to-know
+https://hackernoon.com/i-ship-an-ai-written-detective-case-every-day-but-the-ai-doesnt-know-who-did-it
+https://hackernoon.com/16-lessons-from-testing-ios-and-macos-features-on-real-hardware
+https://hackernoon.com/carebridge-puts-offline-access-and-senior-friendly-design-ahead-of-cloud-complexity
+https://hackernoon.com/what-morrowind-can-teach-us-about-learning-new-skills
+https://www.reddit.com/r/AppBusiness/comments/1wjihy0/shipaton_2026_weekly_build_in_public_thread/
+https://www.reddit.com/r/AppBusiness/comments/1witl8z/created_glux_for_shipaton_2026_but_not_getting/
+https://www.reddit.com/r/SideProject/comments/1whw7ew/ever_see_a_game_on_tiktok_and_forget_its_name_10/
+https://www.reddit.com/r/iOSDevelopment/comments/1wgrzvp/made_an_iphone_medicine_tracker_for_my_grandma/
+https://www.reddit.com/r/AppBusiness/comments/1wgexl2/app_presentation_video_any_thoughts/
+https://youthinnolab.medium.com/revenuecat-shipaton-2026-95e1cf16f386
