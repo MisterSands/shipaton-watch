@@ -1,12 +1,12 @@
 # Shipaton 2026 — every game in the field
 
-Generated 2026-09-17T09:30:01Z by the local collector from https://apps.shipaton.com/games ∩ /2026. **77 games** · 24 rated · +0 new today · 0 gaining. Sorted by store rating count. ⚠ = genre proximity to HALL PASS. 🆕 = first seen in the last 3 days. Regenerated every run — do not edit by hand.
+Generated 2026-09-18T09:30:01Z by the local collector from https://apps.shipaton.com/games ∩ /2026. **77 games** · 24 rated · +0 new today · 0 gaining. Sorted by store rating count. ⚠ = genre proximity to HALL PASS. 🆕 = first seen in the last 3 days. Regenerated every run — do not edit by hand.
 
 | # | Game | Genres | Developer | Platforms | Rating (n) | Δ 1d | Δ 7d | First seen | Links |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | Nitelore | Games, Action, Racing | Crabware | iPhone | 5.0 (26) | 0 | +1 | 2026-09-02 | [showcase](https://apps.shipaton.com/app/nitelore) · [store](https://apps.apple.com/us/app/nitelore/id6790147739?uo=4) |
+| 1 | Nitelore | Games, Action, Racing | Crabware | iPhone | 5.0 (26) | 0 | 0 | 2026-09-02 | [showcase](https://apps.shipaton.com/app/nitelore) · [store](https://apps.apple.com/us/app/nitelore/id6790147739?uo=4) |
 | 2 | 10+ Games | Games, Family, Casual, Entertainment | SPIRITUAL ME LLC | iPhone | 5.0 (7) | 0 | 0 | 2026-09-02 | [showcase](https://apps.shipaton.com/app/10-games) · [store](https://apps.apple.com/us/app/10-games/id6751342861?uo=4) |
-| 3 | Unlike | Games, Puzzle, Board | Vinicios Cunha | iPhone | 5.0 (7) | 0 | +3 | 2026-09-02 | [showcase](https://apps.shipaton.com/app/unlike) · [store](https://apps.apple.com/us/app/unlike/id6798033409?uo=4) |
+| 3 | Unlike | Games, Puzzle, Board | Vinicios Cunha | iPhone | 5.0 (7) | 0 | +1 | 2026-09-02 | [showcase](https://apps.shipaton.com/app/unlike) · [store](https://apps.apple.com/us/app/unlike/id6798033409?uo=4) |
 | 4 | Offsuit: Blackjack 21 | Games, Card, Casino | Offsuit Games, Inc. | iPhone, Android | 4.5 (4) | 0 | 0 | 2026-09-09 | [showcase](https://apps.shipaton.com/app/offsuit-blackjack-21) · [store](https://apps.apple.com/us/app/offsuit-blackjack-21/id6749341906?uo=4) |
 | 5 | Consoly: Coding Challenges | Games, Education, Trivia, Puzzle | Diego Velasquez Lopez | iPhone, Android | 5.0 (3) | 0 | 0 | 2026-09-02 | [showcase](https://apps.shipaton.com/app/consoly-coding-challenges) · [store](https://apps.apple.com/us/app/consoly-coding-challenges/id6761283615?uo=4) |
 | 6 | NomiKit: Tiny Things You Build | Games, Simulation, Entertainment, Casual | Xiangyu Ren | iPhone | 5.0 (3) | 0 | 0 | 2026-09-09 | [showcase](https://apps.shipaton.com/app/nomikit-tiny-things-you-build) · [store](https://apps.apple.com/us/app/nomikit-tiny-things-you-build/id6798403681?uo=4) |

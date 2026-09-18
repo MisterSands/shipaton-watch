@@ -1,7 +1,7 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "2026-09-17T09:30:01Z",
+ "fetched_at": "2026-09-18T09:30:01Z",
  "count": 24,
  "items": [
   {
@@ -17,6 +17,20 @@
    "date": "2026-08-07T13:46:11+00:00",
    "author": "/u/IamAngusU",
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
+  },
+  {
+   "title": "Shipaton 2026: Weekly Build in Public Thread — Friday, Sep 18, 2026",
+   "link": "https://www.reddit.com/r/AppBusiness/comments/1wjihy0/shipaton_2026_weekly_build_in_public_thread/",
+   "date": "2026-09-18T06:30:48+00:00",
+   "author": "/u/AutoModerator",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Welcome to this week&#39;s <strong>Shipaton Build in Public Thread</strong>! Everyone is welcome to share an update on their current project here. No need to participate in the hackathon to share, but if you decide to enter sharing updates consistently is a great way to increase your chances of winning the <strong>#BuildInPublic</strong> Award</p> <p>Please share "
+  },
+  {
+   "title": "Created Glux for shipaton 2026 : But not getting signups because of high app drop rate",
+   "link": "https://www.reddit.com/r/AppBusiness/comments/1witl8z/created_glux_for_shipaton_2026_but_not_getting/",
+   "date": "2026-09-17T13:10:18+00:00",
+   "author": "/u/Repulsive_Point_3861",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AppBusiness/comments/1witl8z/created_glux_for_shipaton_2026_but_not_getting/\"> <img src=\"https://preview.redd.it/wqglx6ykw2qh1.png?width=140&amp;height=48&amp;auto=webp&amp;s=c0465b7f3f2f4107fdfdad51e12564a22350ff3b\" alt=\"Created Glux for shipaton 2026 : But not getting signups because of high app drop rate\" title=\"Created Glux for shipaton 2026 :"
   },
   {
    "title": "Ever see a game on TikTok and forget its name 10 minutes later? I built an app for that.",
@@ -157,20 +171,6 @@
    "date": "2026-09-10T13:50:06+00:00",
    "author": "/u/hibaabbas1306",
    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/iOSAppsMarketing/comments/1wcjsaq/hangar_deploy_control_is_live_on_the_app/\"> <img src=\"https://preview.redd.it/o523p0ar6poh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9c854ed45f7e4beb15dd61fde7a099b3a19c06b\" alt=\"Hangar: Deploy Control is live on the App Store.Approved on the first submission.\" title=\"Hangar: Deploy Control is live on the"
-  },
-  {
-   "title": "It took Apple nearly 4 weeks to approve my game… yet I get near daily app updates from",
-   "link": "https://www.reddit.com/r/appledevelopers/comments/1wc8u4n/it_took_apple_nearly_4_weeks_to_approve_my_game/",
-   "date": "2026-09-10T04:33:34+00:00",
-   "author": "/u/andrewjneumann",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Some companies who shall not be named. It’s annoying, but keep going, keep building, and keep improving; make sure you respond to rejections with detailed resolutions. </p> <p>Download my fully free to play (forever) city builder for iPad/Mac(M1+). 🤣😉 Digicity!</p> <p>Build 26.9 is getting submitted this week with era’s and scenarios (been busy building during the"
-  },
-  {
-   "title": "Shipaton App Building Event",
-   "link": "https://www.reddit.com/r/CalgaryTech/comments/1wc2o3u/shipaton_app_building_event/",
-   "date": "2026-09-09T23:56:03+00:00",
-   "author": "/u/Lil-booyakasha",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/CalgaryTech/comments/1wc2o3u/shipaton_app_building_event/\"> <img src=\"https://external-preview.redd.it/900ZzUdOg7s8gDwZSCOTCna2zwxVfqBfxaoQuXBrZoE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=53a9c2a407d0efa382165df8b8a7a9f3460fd80c\" alt=\"Shipaton App Building Event\" title=\"Shipaton App Building Event\" /> </a> </td><td> <!-- SC_OFF --><div cl"
   }
  ]
 }
