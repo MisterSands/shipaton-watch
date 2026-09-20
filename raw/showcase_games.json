@@ -1,20 +1,68 @@
 {
- "generated_at": "2026-09-18T09:30:01Z",
- "date": "2026-09-18",
+ "generated_at": "2026-09-20T09:30:01Z",
+ "date": "2026-09-20",
  "stale": false,
  "error": "",
  "warning": "",
  "source": "https://apps.shipaton.com/games",
- "apps_2026": 623,
- "games_all_years": 121,
- "count": 77,
- "rated": 24,
+ "apps_2026": 792,
+ "games_all_years": 140,
+ "count": 96,
+ "rated": 37,
  "new_today": [],
- "gaining": [],
+ "gaining": [
+  "the-last-line-zombie-siege",
+  "nitelore",
+  "unlike",
+  "10-games",
+  "offsuit-blackjack-21",
+  "tapuchino-idle-cafe-tycoon",
+  "chess-coach-play-learn",
+  "chess-rupt-arcade-chess",
+  "carpet-diem-cozy-rug-cleaner",
+  "firmament-is-the-limit",
+  "lms-land-of-magic-spices",
+  "debugger-incident-terminal",
+  "dumpling-galaxy-logic-puzzle",
+  "findshiba",
+  "learn-french-game-cowsmic",
+  "sever"
+ ],
  "failed": 0,
  "games": [
   {
    "rank": 1,
+   "slug": "the-last-line-zombie-siege",
+   "name": "The Last Line: Zombie Siege",
+   "url": "https://apps.shipaton.com/app/the-last-line-zombie-siege",
+   "tagline": "The street fills faster than you can clear it.",
+   "description": "The street fills faster than you can clear it. One barricade stands between them and you. Fight close in third person, or drop into first person behind the wall and aim down the line. Place and repair turrets mid-wave, and fire the mounted flamethrower when they reach the barricade. Hold until sunrise. Then search the city for whatever gets you through tomorrow night. DAY: SEARCH THE CITY Sunrise lifts the camera to a top-down view of the ruins, and the clock starts. Every building you open costs hours out of a limited budget, so the search is always a trade: Scrap for upgrades, Bandages to st",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Adventure",
+    "Action",
+    "Entertainment"
+   ],
+   "seller": "Hakan Erunsal",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": 4.2,
+   "rating_count": 336,
+   "delta_1d": 336,
+   "delta_7d": null,
+   "first_seen": "2026-09-12",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/the-last-line-zombie-siege/id6756308513?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 2,
    "slug": "nitelore",
    "name": "Nitelore",
    "url": "https://apps.shipaton.com/app/nitelore",
@@ -30,20 +78,49 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 5.0,
-   "rating_count": 26,
-   "delta_1d": 0,
-   "delta_7d": 0,
+   "rating": 4.9,
+   "rating_count": 28,
+   "delta_1d": 2,
+   "delta_7d": 2,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
-   "gaining": false,
+   "gaining": true,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4",
    "stale": false
   },
   {
-   "rank": 2,
+   "rank": 3,
+   "slug": "unlike",
+   "name": "Unlike: Logic Puzzles",
+   "url": "https://apps.shipaton.com/app/unlike",
+   "tagline": "Fill every cell.",
+   "description": "Fill every cell. Follow the clues. Find the solution. Unlike is a logic puzzle played with solid and outlined cells. Each number counts its neighbors with the opposite style. Only shared edges count: above, below, left and right. Gold-dot cells are already fixed; every other cell needs a style. LEARN BY PLAYING Four short lessons teach the rule through interactive examples. Open the playing guide during a puzzle, or use a hint to find a clue, understand the deduction and optionally place a cell. KEEP EXPLORING - A 200-level difficulty progression, with more puzzles beyond it. - Daily puzzles a",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Board"
+   ],
+   "seller": "Vinicios Cunha",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 4.8,
+   "rating_count": 19,
+   "delta_1d": 12,
+   "delta_7d": 13,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 4,
    "slug": "10-games",
    "name": "10+ Games",
    "url": "https://apps.shipaton.com/app/10-games",
@@ -60,49 +137,47 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 5.0,
-   "rating_count": 7,
-   "delta_1d": 0,
-   "delta_7d": 0,
+   "rating": 4.5,
+   "rating_count": 8,
+   "delta_1d": 1,
+   "delta_7d": 1,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
-   "gaining": false,
+   "gaining": true,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/10-games/id6751342861?uo=4",
    "stale": false
   },
   {
-   "rank": 3,
-   "slug": "unlike",
-   "name": "Unlike",
-   "url": "https://apps.shipaton.com/app/unlike",
-   "tagline": "Every number counts the neighbours unlike it.",
-   "description": "Every number counts the neighbours unlike it. That is the entire rule. Each square is either solid or outlined, and a numbered square tells you how many of the four squares touching it — above, below, left and right — are the opposite of itself. Everything else follows from reasoning. NEVER A GUESS Every board is generated and then checked before you ever see it: exactly one solution, and that solution reachable by deduction alone. Beginner, Intermediate and Hard boards need nothing but direct logic — never \"suppose this square is solid and see what breaks\". Expert and Impossible boards permit",
-   "category": "Games",
+   "rank": 5,
+   "slug": "my-pet-dino",
+   "name": "My Pet Dino",
+   "url": "https://apps.shipaton.com/app/my-pet-dino",
+   "tagline": "Welcome to My Pet Dino, the ultimate AR dinosaur game and real-world GPS virtual pet simulator!",
+   "description": "Welcome to My Pet Dino, the ultimate AR dinosaur game and real-world GPS virtual pet simulator! The real world is your Jurassic nursery. My Pet Dino transforms your neighborhood, local parks, and city streets into a living, breathing habitat for prehistoric creatures. Use your phone's GPS radar to track down rare dinosaur eggs hidden around you, and use your augmented reality (AR) camera to catch them in real time! Whether you are a casual creature collector or a dedicated dinosaur handler, a new species is always waiting to be discovered. But finding the egg is only the beginning...you have t",
+   "category": "Adventure",
    "genres": [
-    "Games",
-    "Puzzle",
-    "Board"
+    "Adventure"
    ],
-   "seller": "Vinicios Cunha",
+   "seller": "c1im4cu5",
    "platforms": [
-    "iPhone"
+    "Android"
    ],
-   "rating": 5.0,
+   "rating": 3.0,
    "rating_count": 7,
-   "delta_1d": 0,
-   "delta_7d": 1,
-   "first_seen": "2026-09-02",
-   "new": false,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
    "new_today": false,
    "gaining": false,
    "proximity": false,
-   "store": "https://apps.apple.com/us/app/unlike/id6798033409?uo=4",
+   "store": "https://play.google.com/store/apps/details?id=com.climacus.mypetdino",
    "stale": false
   },
   {
-   "rank": 4,
+   "rank": 6,
    "slug": "offsuit-blackjack-21",
    "name": "Offsuit: Blackjack 21",
    "url": "https://apps.shipaton.com/app/offsuit-blackjack-21",
@@ -119,20 +194,110 @@
     "iPhone",
     "Android"
    ],
-   "rating": 4.5,
-   "rating_count": 4,
-   "delta_1d": 0,
-   "delta_7d": 0,
+   "rating": 4.0,
+   "rating_count": 5,
+   "delta_1d": 1,
+   "delta_7d": 1,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
-   "gaining": false,
+   "gaining": true,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/offsuit-blackjack-21/id6749341906?uo=4",
    "stale": false
   },
   {
-   "rank": 5,
+   "rank": 7,
+   "slug": "tapuchino-idle-cafe-tycoon",
+   "name": "Tapuchino: Idle Cafe Tycoon",
+   "url": "https://apps.shipaton.com/app/tapuchino-idle-cafe-tycoon",
+   "tagline": "One grinder.",
+   "description": "One grinder. One brewer. One counter. A queue of impatient customers who want their coffee NOW. Tapuchino is a coffee shop tycoon that starts hands-on. Grind the beans, pull the shots, serve the customers and decide what to buy next. Then hire staff and automate the cafe as your business grows. RUN THE LINE Coffee moves through your cafe one stage at a time: - Tap the grinder to turn beans into fresh grounds - Tap the brewer to turn grounds into a hot cup - Tap the counter to sell that cup to a waiting customer Every machine runs on its own timer. The trick is overlapping them: start another g",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Simulation",
+    "Entertainment",
+    "Casual"
+   ],
+   "seller": "Andrei Karavaichyk",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": 4.2,
+   "rating_count": 5,
+   "delta_1d": 5,
+   "delta_7d": null,
+   "first_seen": "2026-09-14",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/tapuchino-idle-cafe-tycoon/id6793236238?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 8,
+   "slug": "chess-coach-play-learn",
+   "name": "Chess Coach: Play & Learn",
+   "url": "https://apps.shipaton.com/app/chess-coach-play-learn",
+   "tagline": "Learning chess?",
+   "description": "Learning chess? Start here. ChessCoach is built for players who want to actually get better — not just play. Every move you make is graded instantly by Stockfish, a real chess engine, so you know right away whether it was good, and a free hint explains why in plain English. No jargon, no guessing. LEARN, DON'T JUST PLAY New to chess or stuck at the same level? Structured lessons walk you through tactics patterns, endgame basics, and the ideas behind common openings — the \"why,\" not just the \"what.\" IMMEDIATE FEEDBACK ON EVERY MOVE Play a move and instantly see how it graded: brilliant, good, i",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Strategy",
+    "Board"
+   ],
+   "seller": "CORDOC LLC",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 3.7,
+   "rating_count": 3,
+   "delta_1d": 1,
+   "delta_7d": 1,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/chess-coach-play-learn/id6789547867?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 9,
+   "slug": "chess-rupt-arcade-chess",
+   "name": "CHESS/RUPT: Arcade Chess",
+   "url": "https://apps.shipaton.com/app/chess-rupt-arcade-chess",
+   "tagline": "Move a familiar chess piece.",
+   "description": "Move a familiar chess piece. Capture another to change what you can do. Then find a way off a board that is breaking beneath you. CHESS/RUPT turns the moves you already know into fast, tactical runs. Move as the king, queen, rook, bishop, knight, and pawn; transform when you capture; and survive while tiles crack, collapse, and reshape the board. Start with a free Daily Challenge or Daily Puzzle. Everyone gets the same rules that day, so you can solve it your way, protect a streak, and compare scores on optional Game Center leaderboards. Want a longer run? Crown Trials, Puzzle Mode, Free Play,",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Board",
+    "Strategy"
+   ],
+   "seller": "Ankur Gupta LLC",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 3,
+   "delta_1d": 1,
+   "delta_7d": 1,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/chess-rupt-arcade-chess/id6779024949?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 10,
    "slug": "consoly-coding-challenges",
    "name": "Consoly: Coding Challenges",
    "url": "https://apps.shipaton.com/app/consoly-coding-challenges",
@@ -163,7 +328,7 @@
    "stale": false
   },
   {
-   "rank": 6,
+   "rank": 11,
    "slug": "nomikit-tiny-things-you-build",
    "name": "NomiKit: Tiny Things You Build",
    "url": "https://apps.shipaton.com/app/nomikit-tiny-things-you-build",
@@ -193,7 +358,36 @@
    "stale": false
   },
   {
-   "rank": 7,
+   "rank": 12,
+   "slug": "pocketful-daily-puzzles",
+   "name": "Pocketful: Daily Puzzles",
+   "url": "https://apps.shipaton.com/app/pocketful-daily-puzzles",
+   "tagline": "A pocketful of calm logic puzzles.",
+   "description": "A pocketful of calm logic puzzles. Pocketful gathers the classics - Sudoku, Nonograms, and a shelf of beautiful logic games - into one quiet, thoughtfully made app. No lives, no countdowns, no pressure. Just you and a good puzzle. NEW CHALLENGES EVERY DAY Every game gets a fresh daily challenge each day - the same board for everyone, in the difficulty you choose. Finish any one of them to keep your streak alive, and watch your calendar fill up. A SHELF OF GAMES IN ONE APP • Sudoku - the classic, with notes, smart hints, and clean boards • Nonograms - reveal hidden pixel pictures, line by line ",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Board"
+   ],
+   "seller": "Ben Yim",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 3,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/pocketful-daily-puzzles/id6792436106?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 13,
    "slug": "poodoku",
    "name": "Poodoku",
    "url": "https://apps.shipaton.com/app/poodoku",
@@ -222,7 +416,7 @@
    "stale": false
   },
   {
-   "rank": 8,
+   "rank": 14,
    "slug": "tub-pirates-sea-battles",
    "name": "Tub Pirates: Sea Battles",
    "url": "https://apps.shipaton.com/app/tub-pirates-sea-battles",
@@ -251,66 +445,95 @@
    "stale": false
   },
   {
-   "rank": 9,
-   "slug": "chess-coach-play-learn",
-   "name": "Chess Coach: Play & Learn",
-   "url": "https://apps.shipaton.com/app/chess-coach-play-learn",
-   "tagline": "Learning chess?",
-   "description": "Learning chess? Start here. ChessCoach is built for players who want to actually get better — not just play. Every move you make is graded instantly by Stockfish, a real chess engine, so you know right away whether it was good, and a free hint explains why in plain English. No jargon, no guessing. LEARN, DON'T JUST PLAY New to chess or stuck at the same level? Structured lessons walk you through tactics patterns, endgame basics, and the ideas behind common openings — the \"why,\" not just the \"what.\" IMMEDIATE FEEDBACK ON EVERY MOVE Play a move and instantly see how it graded: brilliant, good, i",
+   "rank": 15,
+   "slug": "carpet-diem-cozy-rug-cleaner",
+   "name": "Carpet Diem",
+   "url": "https://apps.shipaton.com/app/carpet-diem-cozy-rug-cleaner",
+   "tagline": "Every carpet you clean is a real painting.",
+   "description": "Every carpet you clean is a real painting. Not a texture. Not a pattern. An actual masterpiece woven into a rug: the Mona Lisa, Starry Night, The Great Wave, The Night Watch, buried under years of grime, waiting for you to bring it back. Scrub. Foam. Squeegee. Watch a 500-year-old face surface out of the dirt under your thumb. RELAX AND SCRUB Drag your finger across the pile and the grime lifts in greyscale. Lay foam and the colour floods back in reds, golds and that impossible blue. There is no timer, no fail state, no one shouting at you. Clean until it feels done, then decide for yourself w",
    "category": "Games",
    "genres": [
     "Games",
-    "Entertainment",
-    "Strategy",
-    "Board"
+    "Casual",
+    "Simulation"
    ],
-   "seller": "CORDOC LLC",
+   "seller": "Farting Pixel",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 4.0,
+   "rating_count": 2,
+   "delta_1d": 2,
+   "delta_7d": null,
+   "first_seen": "2026-09-09",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/carpet-diem/id6788496964?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 16,
+   "slug": "fastest-lap-top-down-racing",
+   "name": "Fastest Lap: Top Down Racing",
+   "url": "https://apps.shipaton.com/app/fastest-lap-top-down-racing",
+   "tagline": "Fastest Lap is a top-down time-attack racer.",
+   "description": "Fastest Lap is a top-down time-attack racer. One car, one circuit, one clean lap. No opponents, no contact, no luck — and nothing to blame. Pick it up in ten seconds. Then spend a month on one corner. NOBODY SAID IT SHOULD BE EASY Every circuit sets a target time, and it is not a generous one. A career round is cleared by a clean lap driven in that session, under that target. A personal best you set last week cannot clear it for you. Clean is not a judgment call. Put a wheel off the road and the lap is gone; it's decided the same way every time — the simulation is deterministic, so the same in",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Sports",
+    "Sports",
+    "Racing"
+   ],
+   "seller": "Maksym Bilan",
    "platforms": [
     "iPhone"
    ],
    "rating": 3.0,
    "rating_count": 2,
-   "delta_1d": 0,
-   "delta_7d": 0,
-   "first_seen": "2026-09-02",
-   "new": false,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
    "new_today": false,
    "gaining": false,
    "proximity": false,
-   "store": "https://apps.apple.com/us/app/chess-coach-play-learn/id6789547867?uo=4",
+   "store": "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974?uo=4",
    "stale": false
   },
   {
-   "rank": 10,
-   "slug": "chess-rupt-arcade-chess",
-   "name": "CHESS/RUPT: Arcade Chess",
-   "url": "https://apps.shipaton.com/app/chess-rupt-arcade-chess",
-   "tagline": "Every move changes the board.",
-   "description": "Every move changes the board. CHESS/RUPT is a turn-based arcade survival game inspired by chess. Move like familiar pieces, transform when the board gives you a chance, and survive as tiles crack, fall away, and reshape the match. Play a fresh Daily Challenge with shared rules for everyone. Push through Crown Trials for a streak score. Explore Free Play across Arcade, Puzzle, and Battle modes. No consumable coins, randomized loot, or advertising. Everyone receives three new plays each day across Free Play, Crown Trials, and Puzzle Mode, while Daily Challenge and Daily Puzzle remain free. The o",
+   "rank": 17,
+   "slug": "firmament-is-the-limit",
+   "name": "Firmament is the Limit",
+   "url": "https://apps.shipaton.com/app/firmament-is-the-limit",
+   "tagline": "Firmament is a calm one-button arcade game about keeping a tiny rocket in the air.",
+   "description": "Firmament is a calm one-button arcade game about keeping a tiny rocket in the air. Hold to thrust. Release to drift. The Firmament is the limit. You cannot cross it, but you can push it further. Manage fuel, skim clouds, collect coins, chase daily challenges, and improve your best distance one run at a time. A small selection of ships gives you different ways to play without changing the simple rhythm.",
    "category": "Games",
    "genres": [
     "Games",
-    "Board",
-    "Strategy"
+    "Action",
+    "Casual"
    ],
-   "seller": "Ankur Gupta LLC",
+   "seller": "SERGEY EPIFANOV",
    "platforms": [
     "iPhone"
    ],
-   "rating": 5.0,
+   "rating": 4.5,
    "rating_count": 2,
-   "delta_1d": 0,
-   "delta_7d": 0,
+   "delta_1d": 1,
+   "delta_7d": 1,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
-   "gaining": false,
+   "gaining": true,
    "proximity": false,
-   "store": "https://apps.apple.com/us/app/chess-rupt-arcade-chess/id6779024949?uo=4",
+   "store": "https://apps.apple.com/us/app/firmament-is-the-limit/id6755933878?uo=4",
    "stale": false
   },
   {
-   "rank": 11,
+   "rank": 18,
    "slug": "inkboxes-dots-lines-boxes",
    "name": "Inkboxes — Dots, Lines, Boxes",
    "url": "https://apps.shipaton.com/app/inkboxes-dots-lines-boxes",
@@ -341,7 +564,7 @@
    "stale": false
   },
   {
-   "rank": 12,
+   "rank": 19,
    "slug": "junction-flows",
    "name": "Junction Flows",
    "url": "https://apps.shipaton.com/app/junction-flows",
@@ -371,7 +594,37 @@
    "stale": false
   },
   {
-   "rank": 13,
+   "rank": 20,
+   "slug": "lms-land-of-magic-spices",
+   "name": "LMS: Land of Magic Spices",
+   "url": "https://apps.shipaton.com/app/lms-land-of-magic-spices",
+   "tagline": "Land of Magic Spices is a choice-driven fantasy visual novel with tabletop-inspired RPG mechanics.",
+   "description": "Land of Magic Spices is a choice-driven fantasy visual novel with tabletop-inspired RPG mechanics. Guide a hero through a dangerous world where luck matters, relationships evolve, and no path is guaranteed. Help the hero escape his master, gain his freedom, and begin a new life. Along the way, meet unlikely allies, take on dangerous quests, face unexpected skill checks, and make decisions whose consequences are not always clear. SHAPE THE STORY • Make choices that change scenes, relationships, and future events • Roll the dice to pass skill checks—and live with the outcome • Discover hidden sc",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Action",
+    "Roleplaying"
+   ],
+   "seller": "Viktor Morozov",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 3.0,
+   "rating_count": 2,
+   "delta_1d": 1,
+   "delta_7d": 1,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": true,
+   "store": "https://apps.apple.com/us/app/lms-land-of-magic-spices/id6787628573?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 21,
    "slug": "brewmancer-roguelike",
    "name": "Brewmancer: Roguelike",
    "url": "https://apps.shipaton.com/app/brewmancer-roguelike",
@@ -400,36 +653,99 @@
    "stale": false
   },
   {
-   "rank": 14,
-   "slug": "firmament-is-the-limit",
-   "name": "Firmament is the Limit",
-   "url": "https://apps.shipaton.com/app/firmament-is-the-limit",
-   "tagline": "Firmament is a calm one-button arcade game about keeping a tiny rocket in the air.",
-   "description": "Firmament is a calm one-button arcade game about keeping a tiny rocket in the air. Hold to thrust. Release to drift. The Firmament is the limit. You cannot cross it, but you can push it further. Manage fuel, skim clouds, collect coins, chase daily challenges, and improve your best distance one run at a time. A small selection of ships gives you different ways to play without changing the simple rhythm.",
+   "rank": 22,
+   "slug": "debugger-incident-terminal",
+   "name": "DEBUGGER: Incident Terminal",
+   "url": "https://apps.shipaton.com/app/debugger-incident-terminal",
+   "tagline": "■ It looks like a terminal.",
+   "description": "■ It looks like a terminal. That's the point. Black screen. Neon green text. System logs scrolling forever. CPU load and memory pressure climbing. To anyone glancing over your shoulder on the train, you are debugging a complex production system. What you are actually doing is connecting three or more matching symbols. ■ How it plays You are an incident response engineer covering 16 data centers around the world. - Pick a degraded node on the world map - Travel there (the farther it is, the longer it takes) - Patch the bugs on site (that's the puzzle) - Earn experience and move to the next inci",
    "category": "Games",
    "genres": [
     "Games",
-    "Action",
-    "Casual"
+    "Puzzle",
+    "Strategy"
    ],
-   "seller": "SERGEY EPIFANOV",
+   "seller": "SUMIRE SAKAMOTO K.K.",
    "platforms": [
-    "iPhone"
+    "iPhone",
+    "Android"
    ],
-   "rating": 5.0,
+   "rating": 2.0,
    "rating_count": 1,
-   "delta_1d": 0,
-   "delta_7d": 0,
+   "delta_1d": 1,
+   "delta_7d": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
-   "gaining": false,
+   "gaining": true,
    "proximity": false,
-   "store": "https://apps.apple.com/us/app/firmament-is-the-limit/id6755933878?uo=4",
+   "store": "https://apps.apple.com/us/app/debugger-incident-terminal/id6797376092?uo=4",
    "stale": false
   },
   {
-   "rank": 15,
+   "rank": 23,
+   "slug": "dumpling-galaxy-logic-puzzle",
+   "name": "Dumpling Galaxy:  Logic Puzzle",
+   "url": "https://apps.shipaton.com/app/dumpling-galaxy-logic-puzzle",
+   "tagline": "Dumpling Galaxy is a cozy logic puzzle game One rule.",
+   "description": "Dumpling Galaxy is a cozy logic puzzle game One rule. Endless grids. Place a dumpling in every row, every column and every coloured zone, and never two side by side. That's the whole game, and it will keep you thinking for months. Tap a square to mark it with a cross, tap again to clear it. Hold to place a dumpling: the grid shows you the square you are aiming at before you let go, so a slip of the finger never costs you. The only lesson is a real grid you solve in under a minute, and you can skip it. No timer to lose to. TRAVEL THE GALAXY Twelve worlds, from Planet Bao to the Ravioli Riviera,",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Strategy",
+    "Puzzle"
+   ],
+   "seller": "Ilan Moatty",
+   "platforms": [
+    "iPhone",
+    "Android",
+    "Galaxy"
+   ],
+   "rating": 2.0,
+   "rating_count": 1,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/dumpling-galaxy-logic-puzzle/id6794290886?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 24,
+   "slug": "findshiba",
+   "name": "FindShiba!",
+   "url": "https://apps.shipaton.com/app/findshiba",
+   "tagline": "FindShiba!",
+   "description": "FindShiba! is a cozy logic puzzle: place every Shiba so each row, column, and colored region has exactly one, and no two Shibas touch — not even at the corners. It is a calm deduction game you can play in a quiet minute or a longer focus session, offline and on iPhone or iPad. HOW TO PLAY • Tap or drag to mark safe cells with × • Double-tap to place a Shiba • Use hearts, undo, and hints when you need a nudge • Finish campaign levels to bank score, earn badges, and climb the Total Score leaderboard FREE FEATURES • Full campaign board with a short, friendly tutorial • Local progress, scores, and",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Lifestyle",
+    "Casual",
+    "Puzzle"
+   ],
+   "seller": "Mario Saputra",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 1.0,
+   "rating_count": 1,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "first_seen": "2026-09-09",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 25,
    "slug": "glow-snake-neon-classic",
    "name": "Glow Snake: Neon Classic",
    "url": "https://apps.shipaton.com/app/glow-snake-neon-classic",
@@ -459,7 +775,7 @@
    "stale": false
   },
   {
-   "rank": 16,
+   "rank": 26,
    "slug": "gotcha-bluff-party-trivia",
    "name": "Gotcha: Bluff Party Trivia",
    "url": "https://apps.shipaton.com/app/gotcha-bluff-party-trivia",
@@ -488,37 +804,33 @@
    "stale": false
   },
   {
-   "rank": 17,
-   "slug": "lms-land-of-magic-spices",
-   "name": "LMS: Land of Magic Spices",
-   "url": "https://apps.shipaton.com/app/lms-land-of-magic-spices",
-   "tagline": "Land of Magic Spices is a choice-driven fantasy visual novel with tabletop-inspired RPG mechanics.",
-   "description": "Land of Magic Spices is a choice-driven fantasy visual novel with tabletop-inspired RPG mechanics. Guide a hero through a dangerous world where luck matters, relationships evolve, and no path is guaranteed. Help the hero escape his master, gain his freedom, and begin a new life. Along the way, meet unlikely allies, take on dangerous quests, face unexpected skill checks, and make decisions whose consequences are not always clear. SHAPE THE STORY • Make choices that change scenes, relationships, and future events • Roll the dice to pass skill checks—and live with the outcome • Discover hidden sc",
+   "rank": 27,
+   "slug": "learn-french-game-cowsmic",
+   "name": "Learn French Game: Cowsmic",
+   "url": "https://apps.shipaton.com/app/learn-french-game-cowsmic",
+   "tagline": "French learning game for beginners.",
+   "description": "French learning game for beginners. Listen, speak and play offline, with no flashcards anywhere. You're an alien field researcher sent to learn French before the invasion. The mothership calls out orders in real spoken French, like \"Apporte la vache,\" and you fly your UFO over a storybook French countryside, listen for the word, and beam up exactly the right specimen. Get it wrong and the farmers come running. Cowsmic is language learning built as a real arcade game first. No flashcards, no matching quizzes, no drilling with a stylus. You fly, you listen, you beam. French is what you're aiming",
    "category": "Games",
-   "genres": [
-    "Games",
-    "Entertainment",
-    "Action",
-    "Roleplaying"
-   ],
-   "seller": "Viktor Morozov",
+   "genres": [],
+   "seller": "JONATHAN DOUGLAS LAI",
    "platforms": [
-    "iPhone"
+    "iPhone",
+    "Android"
    ],
-   "rating": 5.0,
+   "rating": 2.0,
    "rating_count": 1,
-   "delta_1d": 0,
-   "delta_7d": 0,
+   "delta_1d": 1,
+   "delta_7d": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
-   "gaining": false,
-   "proximity": true,
-   "store": "https://apps.apple.com/us/app/lms-land-of-magic-spices/id6787628573?uo=4",
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/learn-french-game-cowsmic/id6799401666?uo=4",
    "stale": false
   },
   {
-   "rank": 18,
+   "rank": 28,
    "slug": "not-your-phone-mystery",
    "name": "Not Your Phone: Mystery",
    "url": "https://apps.shipaton.com/app/not-your-phone-mystery",
@@ -547,7 +859,7 @@
    "stale": false
   },
   {
-   "rank": 19,
+   "rank": 29,
    "slug": "nova-swing",
    "name": "Nova Swing",
    "url": "https://apps.shipaton.com/app/nova-swing",
@@ -576,7 +888,7 @@
    "stale": false
   },
   {
-   "rank": 20,
+   "rank": 30,
    "slug": "phantom-words",
    "name": "Phantom Words",
    "url": "https://apps.shipaton.com/app/phantom-words",
@@ -605,12 +917,42 @@
    "stale": false
   },
   {
-   "rank": 21,
+   "rank": 31,
+   "slug": "sever",
+   "name": "SEVER.",
+   "url": "https://apps.shipaton.com/app/sever",
+   "tagline": "ONE SWIPE.",
+   "description": "ONE SWIPE. EVERYTHING. SEVER is a one-finger action roguelite where a single swipe is your attack, your dash and your dodge — all at once. Draw a line, commit to the cut, and vanish through your enemies before they close in. No virtual joysticks. No button mashing. Just you, one blade, and total commitment to every strike. COMMITTED MELEE COMBAT Every swipe is a dash-slash: you carve through everything on the line and slip through attacks in the same motion. Chain kills to keep momentum — hesitate and the arena punishes you. 15 UNIQUE BLADES From the lightning-fast Dagger to the massive Nodach",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Adventure"
+   ],
+   "seller": "Hristijan Petrovski",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": 1.0,
+   "rating_count": 1,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": true,
+   "store": "https://apps.apple.com/us/app/sever/id6791682247?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 32,
    "slug": "sky-pups-dash",
    "name": "Sky Pups Dash",
    "url": "https://apps.shipaton.com/app/sky-pups-dash",
    "tagline": "Sky Pups Dash — bounce your adorable pups higher and higher into an endless sky!",
-   "description": "Sky Pups Dash — bounce your adorable pups higher and higher into an endless sky! Sky Pups Dash is a one-tap arcade climbing game starring a pack of cute, springy puppies. Tap to jump, land on wobbling platforms, and see how high you can climb before you slip. Every platform behaves differently, so quick thinking and perfect timing are what separate the record-breakers from the rest. SIMPLE TO PLAY, HARD TO MASTER One tap sends your pup flying. Nail a PERFECT landing to arm a double jump, then chain combos that launch you even farther. Easy to pick up in seconds — deep enough to chase forever. ",
+   "description": "Sky Pups Dash — bounce your adorable pups higher and higher into an endless sky! Sky Pups Dash is a one-tap arcade climbing game starring a pack of cute, springy puppies. Tap to jump, land on wobbling platforms, and see how high you can climb before you slip. Every platform behaves differently, so quick thinking and perfect timing are what separate the record-breakers from the rest. ONE TAP TO CLIMB One tap sends your pup flying. Nail a PERFECT landing to arm a double jump, then chain combos that launch you even farther. Fall short? Rewind a few seconds and stay in the run — once per run, with",
    "category": "Games",
    "genres": [
     "Games",
@@ -635,12 +977,41 @@
    "stale": false
   },
   {
-   "rank": 22,
+   "rank": 33,
+   "slug": "terravel-geography-quiz-game",
+   "name": "Terravel: Geography Quiz Game",
+   "url": "https://apps.shipaton.com/app/terravel-geography-quiz-game",
+   "tagline": "Somewhere on Earth, a place most people will never find is waiting for you.",
+   "description": "Somewhere on Earth, a place most people will never find is waiting for you. Terravel reveals a new one every single day. Open the app each morning to a hidden corner of the world — a landscape, a ruin, a village, a wonder you didn't know existed. Before it's revealed, test yourself: guess where in the world it hides. Then uncover the story behind it and add it to your collection. It's a small, quiet ritual — one moment of curiosity and calm before the day begins. HOW IT WORKS • A new hidden place, revealed once a day • Guess the location before the reveal — how well do you know the world? • Le",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Travel",
+    "Trivia"
+   ],
+   "seller": "Hulya Masharipov",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 1,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/terravel-geography-quiz-game/id6787954216?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 34,
    "slug": "velocity-unleashed",
    "name": "Velocity Unleashed",
    "url": "https://apps.shipaton.com/app/velocity-unleashed",
-   "tagline": "Put the hammer down in a polished SceneKit racing experience with real 3D tracks, dynamic lighting, physics-based cars, AI opponents, and a career that rewards ",
-   "description": "Put the hammer down in a polished SceneKit racing experience with real 3D tracks, dynamic lighting, physics-based cars, AI opponents, and a career that rewards every perfect apex. ◆ TRUE 3D, NOT FAKE 2.5D Drive fully rendered cars on sculpted circuits. Chase-cam thrills, boost trails, and high-frame-rate action engineered for modern iPhones with Metal. ◆ FOUR SIGNATURE CIRCUITS • Coastal Circuit — Learn the lines along sunlit cliffs and ocean air • Alpine Pass — Master grip and elevation in the mountains • Neon District — Night racing under cyan and magenta city lights • Sahara Grand — Long de",
+   "tagline": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer.",
+   "description": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer. Invite friends with 1-tap party links, climb Game Center leaderboards, and tune your car for every circuit. Arcade pace with simulator-style handling, built for iPhone and iPad. TRUE 3D RACING Feel every apex at up to 120 FPS, powered by Apple SceneKit and Metal. Precision steering, throttle control, and nitro boost across demanding tracks. FORMULA CARS & TUNING Step into the showroom and build your line-up. Upgrade engine, turbo, downforce, and slicks. From",
    "category": "Games",
    "genres": [
     "Games",
@@ -665,7 +1036,38 @@
    "stale": false
   },
   {
-   "rank": 23,
+   "rank": 35,
+   "slug": "vocaburst-typing-shooter",
+   "name": "VocaBurst: Typing Shooter",
+   "url": "https://apps.shipaton.com/app/vocaburst-typing-shooter",
+   "tagline": "Every word you blast is a word you keep.",
+   "description": "Every word you blast is a word you keep. That's how VocaBurst teaches you a new language. Why does it work? Because your brain holds on to whatever feels like survival. The foreign words you're learning fall from the sky as enemies. Type one, blast it, and it's yours for good. Every enemy is a real word. In Campaign mode you destroy each one twice: first in your language, then in the language you're learning. You play for the high score. The words move in on their own. WHY IT WORKS Spaced repetition decides what falls next. The game brings every word back at the moment you're about to forget i",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Word",
+    "Education"
+   ],
+   "seller": "Przemyslaw Raciborski",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": 5.0,
+   "rating_count": 1,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": true,
+   "store": "https://apps.apple.com/us/app/vocaburst-typing-shooter/id6793843082?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 36,
    "slug": "voltfield-80s-classic-arcade",
    "name": "VOLTFIELD: 80s Classic Arcade",
    "url": "https://apps.shipaton.com/app/voltfield-80s-classic-arcade",
@@ -694,7 +1096,7 @@
    "stale": false
   },
   {
-   "rank": 24,
+   "rank": 37,
    "slug": "word-scourge",
    "name": "Word Scourge",
    "url": "https://apps.shipaton.com/app/word-scourge",
@@ -725,7 +1127,7 @@
    "stale": false
   },
   {
-   "rank": 25,
+   "rank": 38,
    "slug": "ai-chess-coach-3d",
    "name": "AI Chess Coach 3D",
    "url": "https://apps.shipaton.com/app/ai-chess-coach-3d",
@@ -752,7 +1154,35 @@
    "stale": false
   },
   {
-   "rank": 26,
+   "rank": 39,
+   "slug": "auraduel-aura-battles",
+   "name": "AURADUEL: aura battles",
+   "url": "https://apps.shipaton.com/app/auraduel-aura-battles",
+   "tagline": "AURADUEL turns aura battles into a real sport: live AR effects over your real duel, an AI score with the same thresholds for everyone, and a rank you earn battl",
+   "description": "AURADUEL turns aura battles into a real sport: live AR effects over your real duel, an AI score with the same thresholds for everyone, and a rank you earn battle by battle. Free to compete. Paying never improves your result. HOW TO PLAY · Charge your orb: palms forward, pull them apart with speed and control. Flailing breaks the combo. · Unleash your aura: spins, presence, drama. The AI measures your energy live and your sphere charges. · The verdict: golden crown, a rain of stars, and your badge climbs. BATTLE MODES · Face-to-face duel: two challengers, one phone. No account, no sign-up, noth",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action"
+   ],
+   "seller": "Bleiquel Ramon Colina Barriga",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/auraduel-aura-battles/id6804470297?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 40,
    "slug": "b4orafter",
    "name": "B4ORAfter",
    "url": "https://apps.shipaton.com/app/b4orafter",
@@ -781,7 +1211,7 @@
    "stale": false
   },
   {
-   "rank": 27,
+   "rank": 41,
    "slug": "ball-jump-fest",
    "name": "Ball Jump Fest",
    "url": "https://apps.shipaton.com/app/ball-jump-fest",
@@ -809,7 +1239,37 @@
    "stale": false
   },
   {
-   "rank": 28,
+   "rank": 42,
+   "slug": "bawzi-board-games-chat",
+   "name": "Bawzi - Board Games & Chat",
+   "url": "https://apps.shipaton.com/app/bawzi-board-games-chat",
+   "tagline": "Bawzi is the multiplayer game night that fits in your pocket.",
+   "description": "Bawzi is the multiplayer game night that fits in your pocket. Play Chess, Checkers, Ludo, Tic Tac Toe, Color Cards, and 4 more classic board games — with friends or strangers — while chatting in real time. Whether you're killing time on your commute or connecting with someone across the world, Bawzi makes online multiplayer gaming feel like you're in the same room. GAMES YOU'LL LOVE - Chess — classic 1v1 strategy - Checkers — fast, tactical, endlessly competitive - Ludo — the timeless board game race to home - Tic Tac Toe — quick rounds, instant rematches - Lines & Dots — outsmart your opponen",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Social Networking",
+    "Board",
+    "Family"
+   ],
+   "seller": "Abolfazl Arab",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/bawzi-board-games-chat/id6769383968?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 43,
    "slug": "bible-kids-listen-and-play",
    "name": "Bible Kids: Listen and Play",
    "url": "https://apps.shipaton.com/app/bible-kids-listen-and-play",
@@ -840,36 +1300,37 @@
    "stale": false
   },
   {
-   "rank": 29,
-   "slug": "carpet-diem-cozy-rug-cleaner",
-   "name": "Carpet Diem: Cozy Rug Cleaner",
-   "url": "https://apps.shipaton.com/app/carpet-diem-cozy-rug-cleaner",
-   "tagline": "Every carpet you clean is a real painting.",
-   "description": "Every carpet you clean is a real painting. The Mona Lisa, Starry Night, The Great Wave, The Night Watch, buried under years of grime, waiting for you to bring it back. Scrub. Foam. Squeegee. Watch a 500-year-old face surface out of the dirt under your thumb. RELAX AND SCRUB Drag your finger across the pile and the grime lifts in greyscale. Lay foam and the colour floods back in reds, golds and that impossible blue. There is no timer, no fail state, no one shouting at you. Clean until it feels done, then decide for yourself when to hand it back. DAY ONE, AND THEN YOU QUIT You start as an employ",
+   "rank": 44,
+   "slug": "blokka-1v1-block-battle",
+   "name": "Blokka - 1v1 Block Battle",
+   "url": "https://apps.shipaton.com/app/blokka-1v1-block-battle",
+   "tagline": "Blokka is a fast, real-time 1v1 puzzle battle.",
+   "description": "Blokka is a fast, real-time 1v1 puzzle battle. Aim your shots, fire balls at incoming rows of blocks, and clear your side of the field before your opponent clears theirs. Every match is a head-to-head duel: drag to aim, release to fire, and watch your balls bounce, break blocks, and rack up hits. Rows keep marching toward you, so timing and aim both matter - one clean shot down the right lane can turn the tide in seconds. HOW TO PLAY - Drag to aim, release to fire a volley of balls - Break blocks before they reach your wall - Trigger power-ups like Bomb, Laser, Randomizer, and Ball Eater to sw",
    "category": "Games",
    "genres": [
     "Games",
-    "Casual",
-    "Simulation"
+    "Action",
+    "Puzzle"
    ],
-   "seller": "Farting Pixel",
+   "seller": "Yaki Imo LLC",
    "platforms": [
-    "iPhone"
+    "iPhone",
+    "Android"
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "delta_1d": null,
    "delta_7d": null,
-   "first_seen": "2026-09-09",
-   "new": false,
+   "first_seen": "2026-09-19",
+   "new": true,
    "new_today": false,
    "gaining": false,
    "proximity": false,
-   "store": "https://apps.apple.com/us/app/carpet-diem-cozy-rug-cleaner/id6788496964?uo=4",
+   "store": "https://apps.apple.com/us/app/blokka-1v1-block-battle/id6803144384?uo=4",
    "stale": false
   },
   {
-   "rank": 30,
+   "rank": 45,
    "slug": "cat-ninja-crowd",
    "name": "Cat Ninja Crowd",
    "url": "https://apps.shipaton.com/app/cat-ninja-crowd",
@@ -898,7 +1359,7 @@
    "stale": false
   },
   {
-   "rank": 31,
+   "rank": 46,
    "slug": "catoban-pixel-cat-sokoban",
    "name": "Catoban: Pixel Cat Sokoban",
    "url": "https://apps.shipaton.com/app/catoban-pixel-cat-sokoban",
@@ -925,7 +1386,7 @@
    "stale": false
   },
   {
-   "rank": 32,
+   "rank": 47,
    "slug": "ciphersage-word-cryptograms",
    "name": "CipherSage: Word Cryptograms",
    "url": "https://apps.shipaton.com/app/ciphersage-word-cryptograms",
@@ -955,7 +1416,7 @@
    "stale": false
   },
   {
-   "rank": 33,
+   "rank": 48,
    "slug": "coinful",
    "name": "Coinful",
    "url": "https://apps.shipaton.com/app/coinful",
@@ -984,7 +1445,34 @@
    "stale": false
   },
   {
-   "rank": 34,
+   "rank": 49,
+   "slug": "colornest",
+   "name": "ColorNest",
+   "url": "https://apps.shipaton.com/app/colornest",
+   "tagline": "ColorNest is a relaxing coloring and drawing app made for calm creative sessions.",
+   "description": "ColorNest is a relaxing coloring and drawing app made for calm creative sessions. Explore daily coloring pages, generated line-art sheets, cute artwork, cozy scenes, nature designs, animals, simple patterns and more. Use tap-fill coloring, brush tools, erasers, custom colors and gentle background music to complete artwork at your own pace. ColorNest includes: - Tap-fill coloring pages - Daily pages and stage progression - Saved progress and completed artwork - Coins, rewards and unlocks - Brush tools, eraser tools and custom colors - Optional premium pages and remove-ads purchase - Shareable f",
+   "category": "Casual",
+   "genres": [
+    "Casual"
+   ],
+   "seller": "Kalaiselvan P",
+   "platforms": [
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://play.google.com/store/apps/details?id=com.kalai.colornest",
+   "stale": false
+  },
+  {
+   "rank": 50,
    "slug": "colorrush-turf-war",
    "name": "ColorRush: Turf War",
    "url": "https://apps.shipaton.com/app/colorrush-turf-war",
@@ -1013,69 +1501,36 @@
    "stale": false
   },
   {
-   "rank": 35,
-   "slug": "debugger-incident-terminal",
-   "name": "DEBUGGER: Incident Terminal",
-   "url": "https://apps.shipaton.com/app/debugger-incident-terminal",
-   "tagline": "■ It looks like a terminal.",
-   "description": "■ It looks like a terminal. That's the point. Black screen. Neon green text. System logs scrolling forever. CPU load and memory pressure climbing. To anyone glancing over your shoulder on the train, you are debugging a complex production system. What you are actually doing is connecting three or more matching symbols. ■ How it plays You are an incident response engineer covering 16 data centers around the world. - Pick a degraded node on the world map - Travel there (the farther it is, the longer it takes) - Patch the bugs on site (that's the puzzle) - Earn experience and credits, then move to",
+   "rank": 51,
+   "slug": "das-verhor",
+   "name": "Das Verhör",
+   "url": "https://apps.shipaton.com/app/das-verhor",
+   "tagline": "Jeden Tag liegt ein neuer Fall auf dem Tisch.",
+   "description": "Jeden Tag liegt ein neuer Fall auf dem Tisch. Ein Ort, drei Verdächtige, vierzehn Fragen — und ein einziger Widerspruch, der den Fall entscheidet. Das Verhör ist ein tägliches Deduktionsspiel für iPhone. Sie befragen drei Verdächtige, prüfen ihre Aussagen gegen die Fakten am Tatort und entlarven denjenigen, dessen Geschichte nicht standhält. Jede Anklage braucht zwei Dinge: den Täter und den Beweis, der ihn überführt. WIE ES FUNKTIONIERT Jeder Fall ist von Grund auf so gebaut, dass er sich lösen lässt — ohne Rätselraten, ohne Zufall. Jeder Widerspruch trägt seine eigene Begründung, jede Frage ",
    "category": "Games",
    "genres": [
     "Games",
-    "Puzzle",
-    "Strategy"
-   ],
-   "seller": "SUMIRE SAKAMOTO K.K.",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "first_seen": "2026-09-02",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/debugger-incident-terminal/id6797376092?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 36,
-   "slug": "dumpling-galaxy-logic-puzzle",
-   "name": "Dumpling Galaxy:  Logic Puzzle",
-   "url": "https://apps.shipaton.com/app/dumpling-galaxy-logic-puzzle",
-   "tagline": "Dumpling Galaxy is a cozy logic puzzle game One rule.",
-   "description": "Dumpling Galaxy is a cozy logic puzzle game One rule. Endless grids. Place a dumpling in every row, every column and every coloured zone, and never two side by side. That's the whole game, and it will keep you thinking for months. Tap a square to mark it with a cross, tap again to clear it. Hold to place a dumpling: the grid shows you the square you are aiming at before you let go, so a slip of the finger never costs you. The only lesson is a real grid you solve in under a minute, and you can skip it. No timer to lose to. TRAVEL THE GALAXY Twelve worlds, from Planet Bao to the Ravioli Riviera,",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Entertainment",
-    "Strategy",
+    "Trivia",
     "Puzzle"
    ],
-   "seller": "Ilan Moatty",
+   "seller": "Patrick Werle",
    "platforms": [
-    "iPhone",
-    "Android",
-    "Galaxy"
+    "iPhone"
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "delta_1d": null,
    "delta_7d": null,
-   "first_seen": "2026-09-02",
-   "new": false,
+   "first_seen": "2026-09-19",
+   "new": true,
    "new_today": false,
    "gaining": false,
    "proximity": false,
-   "store": "https://apps.apple.com/us/app/dumpling-galaxy-logic-puzzle/id6794290886?uo=4",
+   "store": "https://apps.apple.com/us/app/das-verh%C3%B6r/id6797754222?uo=4",
    "stale": false
   },
   {
-   "rank": 37,
+   "rank": 52,
    "slug": "fifty-cutting-game",
    "name": "Fifty - 50/50 Cutting Game",
    "url": "https://apps.shipaton.com/app/fifty-cutting-game",
@@ -1103,37 +1558,7 @@
    "stale": false
   },
   {
-   "rank": 38,
-   "slug": "findshiba",
-   "name": "FindShiba!",
-   "url": "https://apps.shipaton.com/app/findshiba",
-   "tagline": "FindShiba!",
-   "description": "FindShiba! is a cozy logic puzzle: place every Shiba so each row, column, and colored region has exactly one, and no two Shibas touch — not even at the corners. It is a calm deduction game you can play in a quiet minute or a longer focus session, offline and on iPhone or iPad. HOW TO PLAY • Tap or drag to mark safe cells with × • Double-tap to place a Shiba • Use hearts, undo, and hints when you need a nudge • Finish campaign levels to bank score, earn badges, and climb the Total Score leaderboard FREE FEATURES • Full campaign board with a short, friendly tutorial • Local progress, scores, and",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Lifestyle",
-    "Casual",
-    "Puzzle"
-   ],
-   "seller": "Mario Saputra",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "first_seen": "2026-09-09",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 39,
+   "rank": 53,
    "slug": "firu-firu-games",
    "name": "Firu Firu Games",
    "url": "https://apps.shipaton.com/app/firu-firu-games",
@@ -1163,7 +1588,7 @@
    "stale": false
   },
   {
-   "rank": 40,
+   "rank": 54,
    "slug": "foodie-drop-merge-puzzle",
    "name": "Foodie Drop: Merge Puzzle",
    "url": "https://apps.shipaton.com/app/foodie-drop-merge-puzzle",
@@ -1190,7 +1615,7 @@
    "stale": false
   },
   {
-   "rank": 41,
+   "rank": 55,
    "slug": "frog-crossing-arcade-hopper",
    "name": "Frog Crossing: Arcade Hopper",
    "url": "https://apps.shipaton.com/app/frog-crossing-arcade-hopper",
@@ -1221,7 +1646,7 @@
    "stale": false
   },
   {
-   "rank": 42,
+   "rank": 56,
    "slug": "golden-mile-traffic-racer",
    "name": "Golden Mile: Traffic Racer",
    "url": "https://apps.shipaton.com/app/golden-mile-traffic-racer",
@@ -1250,7 +1675,37 @@
    "stale": false
   },
   {
-   "rank": 43,
+   "rank": 57,
+   "slug": "hexpair-logic-puzzle-game",
+   "name": "Hexpair: Logic Puzzle Game",
+   "url": "https://apps.shipaton.com/app/hexpair-logic-puzzle-game",
+   "tagline": "Two shaded cells in every region.",
+   "description": "Two shaded cells in every region. Pairs never touch. That is the whole rulebook, and it stays fresh for a thousand levels. Hexpair is the Norinori logic puzzle on a hexagonal board. Calm, tactile, and nothing on the puzzle screen but the puzzle. THE RULES • Every region gets exactly two shaded cells • Shaded cells form pairs, and a pair may cross region borders • Two pairs never touch edge to edge Hex makes the rules purer than the classic square version. No diagonals, no exceptions, no fine print. THREE LADDERS • 6×6, 8×8 and 10×10 boards, each with its own ladder • Over a thousand levels per",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Puzzle",
+    "Casual"
+   ],
+   "seller": "INNCODER AS",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/hexpair-logic-puzzle-game/id6809547952?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 58,
    "slug": "impossible-coasters-3d-puzzle",
    "name": "Impossible Coasters: 3D Puzzle",
    "url": "https://apps.shipaton.com/app/impossible-coasters-3d-puzzle",
@@ -1279,7 +1734,7 @@
    "stale": false
   },
   {
-   "rank": 44,
+   "rank": 59,
    "slug": "in-two-lights",
    "name": "In Two Lights",
    "url": "https://apps.shipaton.com/app/in-two-lights",
@@ -1308,7 +1763,7 @@
    "stale": false
   },
   {
-   "rank": 45,
+   "rank": 60,
    "slug": "jianghu-sword-zither",
    "name": "Jianghu: Sword & Zither",
    "url": "https://apps.shipaton.com/app/jianghu-sword-zither",
@@ -1335,33 +1790,7 @@
    "stale": false
   },
   {
-   "rank": 46,
-   "slug": "learn-french-game-cowsmic",
-   "name": "Learn French Game: Cowsmic",
-   "url": "https://apps.shipaton.com/app/learn-french-game-cowsmic",
-   "tagline": "French learning game for beginners.",
-   "description": "French learning game for beginners. Listen, speak and play offline, with no flashcards anywhere. You're an alien field researcher sent to learn French before the invasion. The mothership calls out orders in real spoken French, like \"Apporte la vache,\" and you fly your UFO over a storybook French countryside, listen for the word, and beam up exactly the right specimen. Get it wrong and the farmers come running. Cowsmic is language learning built as a real arcade game first. No flashcards, no matching quizzes, no drilling with a stylus. You fly, you listen, you beam. French is what you're aiming",
-   "category": "Games",
-   "genres": [],
-   "seller": "JONATHAN DOUGLAS LAI",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "first_seen": "2026-09-02",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/learn-french-game-cowsmic/id6799401666?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 47,
+   "rank": 61,
    "slug": "mapzap-geography-games",
    "name": "Mapzap: Geography Games",
    "url": "https://apps.shipaton.com/app/mapzap-geography-games",
@@ -1391,7 +1820,7 @@
    "stale": false
   },
   {
-   "rank": 48,
+   "rank": 62,
    "slug": "minijoy",
    "name": "miniJoy",
    "url": "https://apps.shipaton.com/app/minijoy",
@@ -1421,7 +1850,7 @@
    "stale": false
   },
   {
-   "rank": 49,
+   "rank": 63,
    "slug": "mythika-puzzle-tournament",
    "name": "Mythika: Puzzle Tournament",
    "url": "https://apps.shipaton.com/app/mythika-puzzle-tournament",
@@ -1450,7 +1879,7 @@
    "stale": false
   },
   {
-   "rank": 50,
+   "rank": 64,
    "slug": "networth",
    "name": "NETWORTH",
    "url": "https://apps.shipaton.com/app/networth",
@@ -1477,7 +1906,36 @@
    "stale": false
   },
   {
-   "rank": 51,
+   "rank": 65,
+   "slug": "neverstill",
+   "name": "Neverstill",
+   "url": "https://apps.shipaton.com/app/neverstill",
+   "tagline": "You are not the train.",
+   "description": "You are not the train. You are the one drone above it. Armoured cars fight on their own. You are the only thing that can be anywhere else, and you can only be in one place at a time. Fly the roof. Overcharge the car you are standing over. Stomp the boarders off the deck. Drag the scrap in before it burns out behind the line. Every second you spend holding the rear is a second the engine is alone. TWELVE WAVES TO A TERMINUS Then the line asks how long you want to keep going. Pull in and bank the run, or run on into the next division, where everything that was hard is worse. There is no last sto",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Strategy"
+   ],
+   "seller": "Furkan Donmez",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/neverstill/id6809487773?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 66,
    "slug": "onomatope",
    "name": "Onomatope",
    "url": "https://apps.shipaton.com/app/onomatope",
@@ -1506,12 +1964,12 @@
    "stale": false
   },
   {
-   "rank": 52,
+   "rank": 67,
    "slug": "orbace-sudoku",
-   "name": "Orbace Sudoku",
+   "name": "Orbace Sudoku: Su-Pu Replay",
    "url": "https://apps.shipaton.com/app/orbace-sudoku",
    "tagline": "Every Sudoku solve has a story.",
-   "description": "Every Sudoku solve has a story. Orbace Sudoku preserves that path as a Su-Pu — a move-by-move record of how your puzzle unfolded. Replay placements, notes, corrections, and turning points instead of keeping only the finished grid. REPLAY YOUR SOLVE A completed Sudoku shows the answer. A Su-Pu shows how you arrived there. Replay your solving path move by move. Revisit the moment the puzzle opened up, inspect a difficult decision, or simply keep a solve worth remembering. IMPORT ANY SUDOKU Bring your own Sudoku into Orbace and solve it your way. Imported puzzles can become part of your personal ",
+   "description": "Every Sudoku solve has a story. Orbace Sudoku turns each completed puzzle into a Su-Pu—a replayable, move-by-move record of how your solve unfolded. Revisit placements, notes, corrections, and turning points instead of keeping only the finished grid. Whether you enjoy a calm daily puzzle, want to improve your solving process, or prefer competitive Sudoku, Orbace gives every solve a life beyond the final number. SUDOKU REPLAY WITH SU-PU A completed Sudoku shows the answer. A Su-Pu shows how you arrived there. Replay your solving path move by move. Return to the moment the puzzle opened up, insp",
    "category": "Puzzle",
    "genres": [
     "Puzzle"
@@ -1533,9 +1991,9 @@
    "stale": false
   },
   {
-   "rank": 53,
+   "rank": 68,
    "slug": "ordsnok-snoop-for-words",
-   "name": "Ordsnok: Daily Word Puzzle",
+   "name": "Ordsnok: Guess the Word",
    "url": "https://apps.shipaton.com/app/ordsnok-snoop-for-words",
    "tagline": "One word.",
    "description": "One word. Six guesses. A fresh puzzle every day. Ordsnok is a daily word game: find the hidden word, keep your streak going and compare spoiler-free results with friends. Everyone gets the same daily puzzle, so results are easy to compare without giving the answer away. Want another round? Switch to Random and play five-, six- or seven-letter puzzles whenever you like. Use a hint when you need one, or solve it unaided. DAILY OR RANDOM • One shared daily word with six guesses • Random puzzles in three word lengths • English and Norwegian word lists • Hints when you get stuck PLAY TOGETHER • Pri",
@@ -1559,11 +2017,11 @@
    "new_today": false,
    "gaining": false,
    "proximity": false,
-   "store": "https://apps.apple.com/us/app/ordsnok-daily-word-puzzle/id6797599523?uo=4",
+   "store": "https://apps.apple.com/us/app/ordsnok-guess-the-word/id6797599523?uo=4",
    "stale": false
   },
   {
-   "rank": 54,
+   "rank": 69,
    "slug": "palsta-a-slow-garden",
    "name": "Palsta: A Slow Garden",
    "url": "https://apps.shipaton.com/app/palsta-a-slow-garden",
@@ -1590,7 +2048,59 @@
    "stale": false
   },
   {
-   "rank": 55,
+   "rank": 70,
+   "slug": "planet-hop",
+   "name": "Planet Hop",
+   "url": "https://apps.shipaton.com/app/planet-hop",
+   "tagline": "Welcome to Planet Hop, a fast-paced action survival game where you battle enemies across tiny, dangerous planets.",
+   "description": "Welcome to Planet Hop, a fast-paced action survival game where you battle enemies across tiny, dangerous planets. Jump between worlds, fight endless waves of enemies, and upgrade your character to survive longer in increasingly intense runs. Every planet is a new challenge, with unique layouts, enemies, and combat situations that will test your reflexes and strategy. ⚔️ Game Features • Fast action combat inspired by roguelike survival games • Fight on spherical planets with unique movement and positioning • Simple controls with deep gameplay mastery • Upgrade your character with powerful abili",
+   "category": "Action",
+   "genres": [
+    "Action"
+   ],
+   "seller": "TorQ",
+   "platforms": [
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": true,
+   "store": "https://play.google.com/store/apps/details?id=com.TorQ.PlanetHop",
+   "stale": false
+  },
+  {
+   "rank": 71,
+   "slug": "pocket-dragon-dungeon",
+   "name": "Pocket Dragon Dungeon",
+   "url": "https://apps.shipaton.com/app/pocket-dragon-dungeon",
+   "tagline": "You are a small dragon, and the heroes are coming for your treasury.",
+   "description": "You are a small dragon, and the heroes are coming for your treasury. Pocket Dragon Dungeon is a dungeon defense roguelite built for short sessions. Set your defenses, watch the battle resolve, take an upgrade, repeat. A full run is ten battles — around twenty minutes at the default speed, or around eight if you turn the speed up. ■ HOW A BATTLE WORKS Before each fight you deploy up to three monsters across three defensive rooms, and place your dragon wherever you want it. Then the doors open. Combat runs by itself in real time, and you can raise the speed to 1.5x, 2x or 3x whenever you like — ",
+   "category": "Strategy",
+   "genres": [],
+   "seller": "Bon's Develop Lab",
+   "platforms": [
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": true,
+   "store": "https://play.google.com/store/apps/details?id=io.github.bonkoturyu.pocket_dragon_dungeon",
+   "stale": false
+  },
+  {
+   "rank": 72,
    "slug": "pocket-pet-virtual-companion",
    "name": "Pocket Pet: Virtual Companion",
    "url": "https://apps.shipaton.com/app/pocket-pet-virtual-companion",
@@ -1602,7 +2112,7 @@
     "Casual",
     "Simulation"
    ],
-   "seller": "Project Life Solutions UG (haftungsbeschrankt)",
+   "seller": "Project Life Solutions LLC",
    "platforms": [
     "iPhone",
     "Android"
@@ -1620,7 +2130,7 @@
    "stale": false
   },
   {
-   "rank": 56,
+   "rank": 73,
    "slug": "protect-the-orb",
    "name": "Protect the Orb",
    "url": "https://apps.shipaton.com/app/protect-the-orb",
@@ -1647,7 +2157,7 @@
    "stale": false
   },
   {
-   "rank": 57,
+   "rank": 74,
    "slug": "puking-cat",
    "name": "Puking Cat: Messy Physics Game",
    "url": "https://apps.shipaton.com/app/puking-cat",
@@ -1677,7 +2187,7 @@
    "stale": false
   },
   {
-   "rank": 58,
+   "rank": 75,
    "slug": "pulsegate-echo-shift",
    "name": "PulseGate: Echo Shift",
    "url": "https://apps.shipaton.com/app/pulsegate-echo-shift",
@@ -1706,7 +2216,7 @@
    "stale": false
   },
   {
-   "rank": 59,
+   "rank": 76,
    "slug": "purrzle-sliding-puzzle",
    "name": "Purrzle - Sliding Puzzle",
    "url": "https://apps.shipaton.com/app/purrzle-sliding-puzzle",
@@ -1733,7 +2243,7 @@
    "stale": false
   },
   {
-   "rank": 60,
+   "rank": 77,
    "slug": "raven-storm",
    "name": "Raven Storm",
    "url": "https://apps.shipaton.com/app/raven-storm",
@@ -1760,7 +2270,7 @@
    "stale": false
   },
   {
-   "rank": 61,
+   "rank": 78,
    "slug": "reliquias-sort-story-puzzle",
    "name": "Reliquias: Sort & Story Puzzle",
    "url": "https://apps.shipaton.com/app/reliquias-sort-story-puzzle",
@@ -1787,7 +2297,34 @@
    "stale": false
   },
   {
-   "rank": 62,
+   "rank": 79,
+   "slug": "riverside-files-idle-tycoon",
+   "name": "Riverside Files - Idle Tycoon",
+   "url": "https://apps.shipaton.com/app/riverside-files-idle-tycoon",
+   "tagline": "It's built around the thing your game has that the genre usually doesn't: There is no upgrade list, there is an office — you buy equipment by tapping the equipm",
+   "description": "It's built around the thing your game has that the genre usually doesn't: There is no upgrade list, there is an office — you buy equipment by tapping the equipment. It also leads on the four specialties competing for roster share, and is loud about twelve hours of offline earnings at the full rate with no decay, since DECISIONS.md records the competitor's decaying window as their most-complained-about behaviour.",
+   "category": "Simulation",
+   "genres": [
+    "Simulation"
+   ],
+   "seller": "MadeByMubeen",
+   "platforms": [
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://play.google.com/store/apps/details?id=com.riverside.riverside_files",
+   "stale": false
+  },
+  {
+   "rank": 80,
    "slug": "save-peps",
    "name": "Save Peps",
    "url": "https://apps.shipaton.com/app/save-peps",
@@ -1814,7 +2351,7 @@
    "stale": false
   },
   {
-   "rank": 63,
+   "rank": 81,
    "slug": "secret-fantasy",
    "name": "Secret Fantasy",
    "url": "https://apps.shipaton.com/app/secret-fantasy",
@@ -1845,7 +2382,7 @@
    "stale": false
   },
   {
-   "rank": 64,
+   "rank": 82,
    "slug": "sense-of-wonder-space-puzzle",
    "name": "Sense of Wonder: Space Puzzle",
    "url": "https://apps.shipaton.com/app/sense-of-wonder-space-puzzle",
@@ -1875,48 +2412,21 @@
    "stale": false
   },
   {
-   "rank": 65,
-   "slug": "sever",
-   "name": "SEVER.",
-   "url": "https://apps.shipaton.com/app/sever",
-   "tagline": "ONE SWIPE.",
-   "description": "ONE SWIPE. EVERYTHING. SEVER is a one-finger action roguelite where a single swipe is your attack, your dash and your dodge — all at once. Draw a line, commit to the cut, and vanish through your enemies before they close in. No virtual joysticks. No button mashing. Just you, one blade, and total commitment to every strike. COMMITTED MELEE COMBAT Every swipe is a dash-slash: you carve through everything on the line and slip through attacks in the same motion. Chain kills to keep momentum — hesitate and the arena punishes you. 15 UNIQUE BLADES From the lightning-fast Dagger to the massive Nodach",
+   "rank": 83,
+   "slug": "skip-ad-popup-panic",
+   "name": "SKIP AD: Popup Panic",
+   "url": "https://apps.shipaton.com/app/skip-ad-popup-panic",
+   "tagline": "Your desktop is filling with fake 90s popups.",
+   "description": "Your desktop is filling with fake 90s popups. Find the real green close controls, avoid the red decoys, and keep the pile under control before the dreaded blue screen. SKIP AD is a fast portrait arcade game built for short runs and one-thumb play. Tap, hold and swipe through crowded ads while BLOAT interrupts with suspicious chat messages, unwanted toolbars and free-internet discs. Face five Hijackers, from Punch Monkey and a printer from hell to an overheating CD burner. Between runs, revisit collected ads in Internot Explorer and explore desktop themes, close effects and taskbar pets. A play",
    "category": "Games",
    "genres": [
     "Games",
     "Action",
-    "Adventure"
-   ],
-   "seller": "Hristijan Petrovski",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "first_seen": "2026-09-02",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": true,
-   "store": "https://apps.apple.com/us/app/sever/id6791682247?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 66,
-   "slug": "skip-ad-popup-panic",
-   "name": "SKIP AD: Popup Panic",
-   "url": "https://apps.shipaton.com/app/skip-ad-popup-panic",
-   "tagline": "Your desktop is filling with fake popups.",
-   "description": "Your desktop is filling with fake popups. Find the real close controls, learn each trick, and keep the pile under control before the screen gets buried. SKIP AD is a fast portrait arcade game built for short runs and one-thumb play. It starts with simple close buttons, then introduces holds, swipes, decoys, dodges, countdowns, bosses, and hijacker encounters as each run grows.",
-   "category": "Casual",
-   "genres": [
     "Casual"
    ],
-   "seller": "Ducket",
+   "seller": "Benjamin Tan",
    "platforms": [
+    "iPhone",
     "Android"
    ],
    "rating": null,
@@ -1928,11 +2438,68 @@
    "new_today": false,
    "gaining": false,
    "proximity": false,
-   "store": "https://play.google.com/store/apps/details?id=ai.ducket.skipad",
+   "store": "https://apps.apple.com/us/app/skip-ad-popup-panic/id6810460236?uo=4",
    "stale": false
   },
   {
-   "rank": 67,
+   "rank": 84,
+   "slug": "sonarchy",
+   "name": "Sonarchy",
+   "url": "https://apps.shipaton.com/app/sonarchy",
+   "tagline": "Sonarchy is the music party game where one phone runs the whole room.",
+   "description": "Sonarchy is the music party game where one phone runs the whole room. The host's phone plays the music through your speaker. Everyone else scans a QR code and joins from their browser — no downloads, no accounts, no sign-ups. HOW A ROUND GOES • Pick a category — from singalong anthems to guilty pleasures • Someone's song plays through the speaker • Everyone races to guess it • Then everyone rates it, 1 to 10 • The reveal shows who rated what. Feelings get hurt. It's great. Casey and Walker — two cassette-tape hosts with strong opinions — run the show, call the scores, and keep the room loud. •",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Family",
+    "Music",
+    "Music"
+   ],
+   "seller": "treble Games",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/sonarchy/id6798001087?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 85,
+   "slug": "spot-50",
+   "name": "Spot 50",
+   "url": "https://apps.shipaton.com/app/spot-50",
+   "tagline": "One page.",
+   "description": "One page. Fifty numbers, scrawled everywhere at every size and angle. You're told a number — find it and tap it before your opponent finds theirs. That's the whole game, and it's harder than it sounds. Spot 50 looks like a page torn out of a school exercise book: squared paper, red margin rule, ballpoint ink. It starts in one tap, a round takes about a minute, and nothing about it nags you. FIVE WAYS TO PLAY • Couch — pass one phone. One player hunts, the other scribbles X's until the number's found, then you swap. First grid to fifty wins. • Race — both players hunt at once, each chasing thei",
+   "category": "Puzzle",
+   "genres": [
+    "Puzzle"
+   ],
+   "seller": "PEYN TECHNOLOGIES",
+   "platforms": [
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://play.google.com/store/apps/details?id=com.spot50.app",
+   "stale": false
+  },
+  {
+   "rank": 86,
    "slug": "steppin-stones",
    "name": "Steppin Stones",
    "url": "https://apps.shipaton.com/app/steppin-stones",
@@ -1961,7 +2528,7 @@
    "stale": false
   },
   {
-   "rank": 68,
+   "rank": 87,
    "slug": "synaptic-front-neural-rts",
    "name": "Synaptic Front: Neural RTS",
    "url": "https://apps.shipaton.com/app/synaptic-front-neural-rts",
@@ -1988,7 +2555,7 @@
    "stale": false
   },
   {
-   "rank": 69,
+   "rank": 88,
    "slug": "syncdrive-test-your-reflexes",
    "name": "SyncDrive: Test Your Reflexes",
    "url": "https://apps.shipaton.com/app/syncdrive-test-your-reflexes",
@@ -2017,7 +2584,7 @@
    "stale": false
   },
   {
-   "rank": 70,
+   "rank": 89,
    "slug": "tame-a-pet",
    "name": "Tame a Pet",
    "url": "https://apps.shipaton.com/app/tame-a-pet",
@@ -2047,74 +2614,69 @@
    "stale": false
   },
   {
-   "rank": 71,
-   "slug": "tapuchino-idle-cafe-tycoon",
-   "name": "Tapuchino: Coffee Shop Tycoon",
-   "url": "https://apps.shipaton.com/app/tapuchino-idle-cafe-tycoon",
-   "tagline": "One grinder.",
-   "description": "One grinder. One brewer. One counter. A queue of impatient customers who want their coffee NOW. Tapuchino is a coffee shop tycoon that starts hands-on. Grind the beans, pull the shots, serve the customers and decide what to buy next. Then hire staff and automate the cafe as your business grows. RUN THE LINE Coffee moves through your cafe one stage at a time: - Tap the grinder to turn beans into fresh grounds - Tap the brewer to turn grounds into a hot cup - Tap the counter to sell that cup to a waiting customer Every machine runs on its own timer. The trick is overlapping them: start another g",
+   "rank": 90,
+   "slug": "the-flying-boy-of-vyn-5",
+   "name": "The Flying Boy of VYN-5",
+   "url": "https://apps.shipaton.com/app/the-flying-boy-of-vyn-5",
+   "tagline": "Take flight as Vesper in The Flying Boy of VYN-5, a fast-paced action game where mastering movement is your greatest weapon.",
+   "description": "Take flight as Vesper in The Flying Boy of VYN-5, a fast-paced action game where mastering movement is your greatest weapon. Powered by rocket boots, carve through an endless orbital battlefield. Boost into enemies, brake into a hover, dodge incoming missiles, and turn a close escape into your next attack. MAKE EVERY MOVE COUNT Build momentum, bank through danger, and unleash your laser while staying on the move. Precise flight controls let you switch from sweeping turns to carefully aimed attacks. TURN THE BATTLEFIELD INTO A WEAPON Grab asteroids and incoming missiles, charge your throw, and ",
    "category": "Games",
    "genres": [
     "Games",
-    "Simulation",
-    "Entertainment",
-    "Casual"
-   ],
-   "seller": "Andrei Karavaichyk",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "first_seen": "2026-09-14",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/tapuchino-coffee-shop-tycoon/id6793236238?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 72,
-   "slug": "the-last-line-zombie-siege",
-   "name": "The Last Line: Zombie Siege",
-   "url": "https://apps.shipaton.com/app/the-last-line-zombie-siege",
-   "tagline": "The street fills faster than you can clear it.",
-   "description": "The street fills faster than you can clear it. One barricade stands between them and you. Fight close in third person, or drop into first person behind the wall and aim down the line. Place and repair turrets mid-wave, and fire the mounted flamethrower when they reach the barricade. Hold until sunrise. Then search the city for whatever gets you through tomorrow night. DAY: SEARCH THE CITY Sunrise lifts the camera to a top-down view of the ruins, and the clock starts. Every building you open costs hours out of a limited budget, so the search is always a trade: Scrap for upgrades, Bandages to st",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Adventure",
     "Action",
-    "Entertainment"
+    "Entertainment",
+    "Adventure"
    ],
-   "seller": "Hakan Erunsal",
+   "seller": "Edwin Chan",
    "platforms": [
-    "iPhone",
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "delta_1d": null,
+   "delta_7d": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/the-flying-boy-of-vyn-5/id6808698764?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 91,
+   "slug": "unknown-agi-inspired-puzzle",
+   "name": "UNKNOWN: AGI-Inspired Puzzle",
+   "url": "https://apps.shipaton.com/app/unknown-agi-inspired-puzzle",
+   "tagline": "This game does not explain itself.",
+   "description": "This game does not explain itself. No tutorial, no arrows, no goal marker you can trust. You are given shapes whose names and roles you do not know. You move, you bump into things, you watch what changes, and you start to guess how this world works. That guessing is the game. - 10 worlds x 5 levels: 50 levels in all - Fully turn-based. Nothing moves until you do - Every world runs on a different law: invisible walls, rewired causes, disguised shapes, order that the world remembers, a map you only see for two turns, a goal you must infer, a machine that keeps running - What you work out in one ",
+   "category": "Puzzle",
+   "genres": [
+    "Puzzle"
+   ],
+   "seller": "mizumotter",
+   "platforms": [
     "Android"
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "delta_1d": null,
    "delta_7d": null,
-   "first_seen": "2026-09-12",
-   "new": false,
+   "first_seen": "2026-09-19",
+   "new": true,
    "new_today": false,
    "gaining": false,
    "proximity": false,
-   "store": "https://apps.apple.com/us/app/the-last-line-zombie-siege/id6756308513?uo=4",
+   "store": "https://play.google.com/store/apps/details?id=work.solocamp.unknownworld",
    "stale": false
   },
   {
-   "rank": 73,
+   "rank": 92,
    "slug": "verdara-rescue",
-   "name": "VERDARA RESCUE",
+   "name": "VADA IO",
    "url": "https://apps.shipaton.com/app/verdara-rescue",
-   "tagline": "Drive into the wilds of Verdara in a rover survival game built around rescue, risk, and quick decisions.",
-   "description": "Drive into the wilds of Verdara in a rover survival game built around rescue, risk, and quick decisions. Hold and drag to steer while your weapons fire automatically. Rescue stranded crew to repair your rover and shape your build, then face the hunters drawn to each rescue signal. CHOOSE YOUR CREW Fill two crew seats with engineers, gunners, or navigators. Combine their strengths with the upgrades you earn during each run. FIGHT FOR BOSS CORES Convert a fallen boss core into experience, or carry it to a relay for greater rewards. Rival AI rovers can seize the cargo, and a heavy core slows your",
+   "tagline": "VADA IO is a single-player arena survival shooter with AI opponents.",
+   "description": "VADA IO is a single-player arena survival shooter with AI opponents. Hold and drag to drive your rover while weapons fire automatically. Rescue a two-seat crew, collect boss cores for instant XP, and outlast the shrinking safe zone. BUILD YOUR CREW Fill two crew seats with engineers, gunners, or navigators. Combine their strengths with the upgrades you earn during each run. FIGHT AND GROW Battle rival AI rovers and bosses. Earn XP to level up: your rover visibly grows from a compact vehicle into a larger battle machine. Choose from randomized upgrades to shape each run. Rover size has a cap; u",
    "category": "Games",
    "genres": [
     "Games",
@@ -2133,23 +2695,27 @@
    "new": false,
    "new_today": false,
    "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/verdara-rescue/id6810076187?uo=4",
+   "proximity": true,
+   "store": "https://apps.apple.com/us/app/vada-io/id6810076187?uo=4",
    "stale": false
   },
   {
-   "rank": 74,
+   "rank": 93,
    "slug": "vibestep",
-   "name": "VibeStep",
+   "name": "VibeStep: Dance Maker",
    "url": "https://apps.shipaton.com/app/vibestep",
    "tagline": "Design a dance, one joint at a time.",
    "description": "Design a dance, one joint at a time. VibeStep is a slow social network built around motion. You pose a 2D stick figure frame by frame, give it a beat, and share it. No endless scroll of noise — just moves people actually made. MAKE A DANCE • Drag joints directly to set each keyframe pose • Start with 4 keyframes, expand to 8 or 16 • Doodle a stage behind your dancer, or draw a different backdrop per frame • Dress your dancer with hats, tops, gloves, shoes and more BUILD THE BEAT • Sequence up to 6 instrument tracks on the same grid as your keyframes • Piano, violin, viola, synth, kick, clap, h",
-   "category": "Casual",
+   "category": "Games",
    "genres": [
+    "Games",
+    "Music",
+    "Music",
     "Casual"
    ],
-   "seller": "eyedealist",
+   "seller": "kwoun ukjin",
    "platforms": [
+    "iPhone",
     "Android"
    ],
    "rating": null,
@@ -2161,11 +2727,11 @@
    "new_today": false,
    "gaining": false,
    "proximity": false,
-   "store": "https://play.google.com/store/apps/details?id=com.eyedealisty.vibestep",
+   "store": "https://apps.apple.com/us/app/vibestep-dance-maker/id6808028411?uo=4",
    "stale": false
   },
   {
-   "rank": 75,
+   "rank": 94,
    "slug": "wordscend-daily-word-climb",
    "name": "Wordscend: Daily Word Climb",
    "url": "https://apps.shipaton.com/app/wordscend-daily-word-climb",
@@ -2192,7 +2758,7 @@
    "stale": false
   },
   {
-   "rank": 76,
+   "rank": 95,
    "slug": "zanshin-spirit-leaf-blade",
    "name": "Zanshin Spirit: Leaf Blade",
    "url": "https://apps.shipaton.com/app/zanshin-spirit-leaf-blade",
@@ -2222,7 +2788,7 @@
    "stale": false
   },
   {
-   "rank": 77,
+   "rank": 96,
    "slug": "android-com-petaflo-pawpawarena",
    "name": "멍냥아레나",
    "url": "https://apps.shipaton.com/app/android-com-petaflo-pawpawarena",
@@ -2251,6 +2817,42 @@
  ],
  "apps": [
   {
+   "slug": "the-last-line-zombie-siege",
+   "name": "The Last Line: Zombie Siege",
+   "url": "https://apps.shipaton.com/app/the-last-line-zombie-siege",
+   "tagline": "The street fills faster than you can clear it.",
+   "description": "The street fills faster than you can clear it. One barricade stands between them and you. Fight close in third person, or drop into first person behind the wall and aim down the line. Place and repair turrets mid-wave, and fire the mounted flamethrower when they reach the barricade. Hold until sunrise. Then search the city for whatever gets you through tomorrow night. DAY: SEARCH THE CITY Sunrise lifts the camera to a top-down view of the ruins, and the clock starts. Every building you open costs hours out of a limited budget, so the search is always a trade: Scrap for upgrades, Bandages to st",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Adventure",
+    "Action",
+    "Entertainment"
+   ],
+   "seller": "Hakan Erunsal",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": 4.2,
+   "rating_count": 336,
+   "store": "https://apps.apple.com/us/app/the-last-line-zombie-siege/id6756308513?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/the-last-line-zombie-siege/id6756308513?uo=4",
+    "https://play.google.com/store/apps/details?id=com.rigbak.thelastline",
+    "https://play.google.com/store/apps/details?id=com.rigbak.thelastline&amp;hl=en&amp;gl=us"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-12",
+   "delta_1d": 336,
+   "delta_7d": null,
+   "gaining": true,
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "rank": 1
+  },
+  {
    "slug": "nitelore",
    "name": "Nitelore",
    "url": "https://apps.shipaton.com/app/nitelore",
@@ -2266,21 +2868,53 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 5.0,
-   "rating_count": 26,
+   "rating": 4.9,
+   "rating_count": 28,
    "store": "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4",
    "store_links": [
     "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4"
    ],
    "stale": false,
    "first_seen": "2026-09-02",
-   "delta_1d": 0,
-   "delta_7d": 0,
-   "gaining": false,
+   "delta_1d": 2,
+   "delta_7d": 2,
+   "gaining": true,
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 1
+   "rank": 2
+  },
+  {
+   "slug": "unlike",
+   "name": "Unlike: Logic Puzzles",
+   "url": "https://apps.shipaton.com/app/unlike",
+   "tagline": "Fill every cell.",
+   "description": "Fill every cell. Follow the clues. Find the solution. Unlike is a logic puzzle played with solid and outlined cells. Each number counts its neighbors with the opposite style. Only shared edges count: above, below, left and right. Gold-dot cells are already fixed; every other cell needs a style. LEARN BY PLAYING Four short lessons teach the rule through interactive examples. Open the playing guide during a puzzle, or use a hint to find a clue, understand the deduction and optionally place a cell. KEEP EXPLORING - A 200-level difficulty progression, with more puzzles beyond it. - Daily puzzles a",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Board"
+   ],
+   "seller": "Vinicios Cunha",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 4.8,
+   "rating_count": 19,
+   "store": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-02",
+   "delta_1d": 12,
+   "delta_7d": 13,
+   "gaining": true,
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "rank": 3
   },
   {
    "slug": "10-games",
@@ -2299,53 +2933,52 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 5.0,
-   "rating_count": 7,
+   "rating": 4.5,
+   "rating_count": 8,
    "store": "https://apps.apple.com/us/app/10-games/id6751342861?uo=4",
    "store_links": [
     "https://apps.apple.com/us/app/10-games/id6751342861?uo=4"
    ],
    "stale": false,
    "first_seen": "2026-09-02",
-   "delta_1d": 0,
-   "delta_7d": 0,
-   "gaining": false,
+   "delta_1d": 1,
+   "delta_7d": 1,
+   "gaining": true,
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 2
+   "rank": 4
   },
   {
-   "slug": "unlike",
-   "name": "Unlike",
-   "url": "https://apps.shipaton.com/app/unlike",
-   "tagline": "Every number counts the neighbours unlike it.",
-   "description": "Every number counts the neighbours unlike it. That is the entire rule. Each square is either solid or outlined, and a numbered square tells you how many of the four squares touching it — above, below, left and right — are the opposite of itself. Everything else follows from reasoning. NEVER A GUESS Every board is generated and then checked before you ever see it: exactly one solution, and that solution reachable by deduction alone. Beginner, Intermediate and Hard boards need nothing but direct logic — never \"suppose this square is solid and see what breaks\". Expert and Impossible boards permit",
-   "category": "Games",
+   "slug": "my-pet-dino",
+   "name": "My Pet Dino",
+   "url": "https://apps.shipaton.com/app/my-pet-dino",
+   "tagline": "Welcome to My Pet Dino, the ultimate AR dinosaur game and real-world GPS virtual pet simulator!",
+   "description": "Welcome to My Pet Dino, the ultimate AR dinosaur game and real-world GPS virtual pet simulator! The real world is your Jurassic nursery. My Pet Dino transforms your neighborhood, local parks, and city streets into a living, breathing habitat for prehistoric creatures. Use your phone's GPS radar to track down rare dinosaur eggs hidden around you, and use your augmented reality (AR) camera to catch them in real time! Whether you are a casual creature collector or a dedicated dinosaur handler, a new species is always waiting to be discovered. But finding the egg is only the beginning...you have t",
+   "category": "Adventure",
    "genres": [
-    "Games",
-    "Puzzle",
-    "Board"
+    "Adventure"
    ],
-   "seller": "Vinicios Cunha",
+   "seller": "c1im4cu5",
    "platforms": [
-    "iPhone"
+    "Android"
    ],
-   "rating": 5.0,
+   "rating": 3.0,
    "rating_count": 7,
-   "store": "https://apps.apple.com/us/app/unlike/id6798033409?uo=4",
+   "store": "https://play.google.com/store/apps/details?id=com.climacus.mypetdino",
    "store_links": [
-    "https://apps.apple.com/us/app/unlike/id6798033409?uo=4"
+    "https://play.google.com/store/apps/details?id=com.climacus.mypetdino",
+    "https://play.google.com/store/apps/details?id=com.climacus.mypetdino&amp;hl=en&amp;gl=us"
    ],
    "stale": false,
-   "first_seen": "2026-09-02",
-   "delta_1d": 0,
-   "delta_7d": 1,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
    "gaining": false,
-   "new": false,
+   "new": true,
    "new_today": false,
    "proximity": false,
-   "rank": 3
+   "rank": 5
   },
   {
    "slug": "offsuit-blackjack-21",
@@ -2364,8 +2997,8 @@
     "iPhone",
     "Android"
    ],
-   "rating": 4.5,
-   "rating_count": 4,
+   "rating": 4.0,
+   "rating_count": 5,
    "store": "https://apps.apple.com/us/app/offsuit-blackjack-21/id6749341906?uo=4",
    "store_links": [
     "https://apps.apple.com/us/app/offsuit-blackjack-21/id6749341906?uo=4",
@@ -2374,13 +3007,114 @@
    ],
    "stale": false,
    "first_seen": "2026-09-09",
-   "delta_1d": 0,
-   "delta_7d": 0,
-   "gaining": false,
+   "delta_1d": 1,
+   "delta_7d": 1,
+   "gaining": true,
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 4
+   "rank": 6
+  },
+  {
+   "slug": "tapuchino-idle-cafe-tycoon",
+   "name": "Tapuchino: Idle Cafe Tycoon",
+   "url": "https://apps.shipaton.com/app/tapuchino-idle-cafe-tycoon",
+   "tagline": "One grinder.",
+   "description": "One grinder. One brewer. One counter. A queue of impatient customers who want their coffee NOW. Tapuchino is a coffee shop tycoon that starts hands-on. Grind the beans, pull the shots, serve the customers and decide what to buy next. Then hire staff and automate the cafe as your business grows. RUN THE LINE Coffee moves through your cafe one stage at a time: - Tap the grinder to turn beans into fresh grounds - Tap the brewer to turn grounds into a hot cup - Tap the counter to sell that cup to a waiting customer Every machine runs on its own timer. The trick is overlapping them: start another g",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Simulation",
+    "Entertainment",
+    "Casual"
+   ],
+   "seller": "Andrei Karavaichyk",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": 4.2,
+   "rating_count": 5,
+   "store": "https://apps.apple.com/us/app/tapuchino-idle-cafe-tycoon/id6793236238?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/tapuchino-idle-cafe-tycoon/id6793236238?uo=4",
+    "https://play.google.com/store/apps/details?id=com.tapuchino.time",
+    "https://play.google.com/store/apps/details?id=com.tapuchino.time&amp;hl=en&amp;gl=us"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-14",
+   "delta_1d": 5,
+   "delta_7d": null,
+   "gaining": true,
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "rank": 7
+  },
+  {
+   "slug": "chess-coach-play-learn",
+   "name": "Chess Coach: Play & Learn",
+   "url": "https://apps.shipaton.com/app/chess-coach-play-learn",
+   "tagline": "Learning chess?",
+   "description": "Learning chess? Start here. ChessCoach is built for players who want to actually get better — not just play. Every move you make is graded instantly by Stockfish, a real chess engine, so you know right away whether it was good, and a free hint explains why in plain English. No jargon, no guessing. LEARN, DON'T JUST PLAY New to chess or stuck at the same level? Structured lessons walk you through tactics patterns, endgame basics, and the ideas behind common openings — the \"why,\" not just the \"what.\" IMMEDIATE FEEDBACK ON EVERY MOVE Play a move and instantly see how it graded: brilliant, good, i",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Strategy",
+    "Board"
+   ],
+   "seller": "CORDOC LLC",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 3.7,
+   "rating_count": 3,
+   "store": "https://apps.apple.com/us/app/chess-coach-play-learn/id6789547867?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/chess-coach-play-learn/id6789547867?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-02",
+   "delta_1d": 1,
+   "delta_7d": 1,
+   "gaining": true,
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "rank": 8
+  },
+  {
+   "slug": "chess-rupt-arcade-chess",
+   "name": "CHESS/RUPT: Arcade Chess",
+   "url": "https://apps.shipaton.com/app/chess-rupt-arcade-chess",
+   "tagline": "Move a familiar chess piece.",
+   "description": "Move a familiar chess piece. Capture another to change what you can do. Then find a way off a board that is breaking beneath you. CHESS/RUPT turns the moves you already know into fast, tactical runs. Move as the king, queen, rook, bishop, knight, and pawn; transform when you capture; and survive while tiles crack, collapse, and reshape the board. Start with a free Daily Challenge or Daily Puzzle. Everyone gets the same rules that day, so you can solve it your way, protect a streak, and compare scores on optional Game Center leaderboards. Want a longer run? Crown Trials, Puzzle Mode, Free Play,",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Board",
+    "Strategy"
+   ],
+   "seller": "Ankur Gupta LLC",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 3,
+   "store": "https://apps.apple.com/us/app/chess-rupt-arcade-chess/id6779024949?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/chess-rupt-arcade-chess/id6779024949?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-02",
+   "delta_1d": 1,
+   "delta_7d": 1,
+   "gaining": true,
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "rank": 9
   },
   {
    "slug": "consoly-coding-challenges",
@@ -2416,7 +3150,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 5
+   "rank": 10
   },
   {
    "slug": "nomikit-tiny-things-you-build",
@@ -2449,7 +3183,39 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 6
+   "rank": 11
+  },
+  {
+   "slug": "pocketful-daily-puzzles",
+   "name": "Pocketful: Daily Puzzles",
+   "url": "https://apps.shipaton.com/app/pocketful-daily-puzzles",
+   "tagline": "A pocketful of calm logic puzzles.",
+   "description": "A pocketful of calm logic puzzles. Pocketful gathers the classics - Sudoku, Nonograms, and a shelf of beautiful logic games - into one quiet, thoughtfully made app. No lives, no countdowns, no pressure. Just you and a good puzzle. NEW CHALLENGES EVERY DAY Every game gets a fresh daily challenge each day - the same board for everyone, in the difficulty you choose. Finish any one of them to keep your streak alive, and watch your calendar fill up. A SHELF OF GAMES IN ONE APP • Sudoku - the classic, with notes, smart hints, and clean boards • Nonograms - reveal hidden pixel pictures, line by line ",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Board"
+   ],
+   "seller": "Ben Yim",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 3,
+   "store": "https://apps.apple.com/us/app/pocketful-daily-puzzles/id6792436106?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/pocketful-daily-puzzles/id6792436106?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": false,
+   "rank": 12
   },
   {
    "slug": "poodoku",
@@ -2481,7 +3247,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 7
+   "rank": 13
   },
   {
    "slug": "tub-pirates-sea-battles",
@@ -2513,72 +3279,104 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 8
+   "rank": 14
   },
   {
-   "slug": "chess-coach-play-learn",
-   "name": "Chess Coach: Play & Learn",
-   "url": "https://apps.shipaton.com/app/chess-coach-play-learn",
-   "tagline": "Learning chess?",
-   "description": "Learning chess? Start here. ChessCoach is built for players who want to actually get better — not just play. Every move you make is graded instantly by Stockfish, a real chess engine, so you know right away whether it was good, and a free hint explains why in plain English. No jargon, no guessing. LEARN, DON'T JUST PLAY New to chess or stuck at the same level? Structured lessons walk you through tactics patterns, endgame basics, and the ideas behind common openings — the \"why,\" not just the \"what.\" IMMEDIATE FEEDBACK ON EVERY MOVE Play a move and instantly see how it graded: brilliant, good, i",
+   "slug": "carpet-diem-cozy-rug-cleaner",
+   "name": "Carpet Diem",
+   "url": "https://apps.shipaton.com/app/carpet-diem-cozy-rug-cleaner",
+   "tagline": "Every carpet you clean is a real painting.",
+   "description": "Every carpet you clean is a real painting. Not a texture. Not a pattern. An actual masterpiece woven into a rug: the Mona Lisa, Starry Night, The Great Wave, The Night Watch, buried under years of grime, waiting for you to bring it back. Scrub. Foam. Squeegee. Watch a 500-year-old face surface out of the dirt under your thumb. RELAX AND SCRUB Drag your finger across the pile and the grime lifts in greyscale. Lay foam and the colour floods back in reds, golds and that impossible blue. There is no timer, no fail state, no one shouting at you. Clean until it feels done, then decide for yourself w",
    "category": "Games",
    "genres": [
     "Games",
-    "Entertainment",
-    "Strategy",
-    "Board"
+    "Casual",
+    "Simulation"
    ],
-   "seller": "CORDOC LLC",
+   "seller": "Farting Pixel",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 4.0,
+   "rating_count": 2,
+   "store": "https://apps.apple.com/us/app/carpet-diem/id6788496964?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/carpet-diem/id6788496964?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-09",
+   "delta_1d": 2,
+   "delta_7d": null,
+   "gaining": true,
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "rank": 15
+  },
+  {
+   "slug": "fastest-lap-top-down-racing",
+   "name": "Fastest Lap: Top Down Racing",
+   "url": "https://apps.shipaton.com/app/fastest-lap-top-down-racing",
+   "tagline": "Fastest Lap is a top-down time-attack racer.",
+   "description": "Fastest Lap is a top-down time-attack racer. One car, one circuit, one clean lap. No opponents, no contact, no luck — and nothing to blame. Pick it up in ten seconds. Then spend a month on one corner. NOBODY SAID IT SHOULD BE EASY Every circuit sets a target time, and it is not a generous one. A career round is cleared by a clean lap driven in that session, under that target. A personal best you set last week cannot clear it for you. Clean is not a judgment call. Put a wheel off the road and the lap is gone; it's decided the same way every time — the simulation is deterministic, so the same in",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Sports",
+    "Sports",
+    "Racing"
+   ],
+   "seller": "Maksym Bilan",
    "platforms": [
     "iPhone"
    ],
    "rating": 3.0,
    "rating_count": 2,
-   "store": "https://apps.apple.com/us/app/chess-coach-play-learn/id6789547867?uo=4",
+   "store": "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974?uo=4",
    "store_links": [
-    "https://apps.apple.com/us/app/chess-coach-play-learn/id6789547867?uo=4"
+    "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974?uo=4"
    ],
    "stale": false,
-   "first_seen": "2026-09-02",
-   "delta_1d": 0,
-   "delta_7d": 0,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
    "gaining": false,
-   "new": false,
+   "new": true,
    "new_today": false,
    "proximity": false,
-   "rank": 9
+   "rank": 16
   },
   {
-   "slug": "chess-rupt-arcade-chess",
-   "name": "CHESS/RUPT: Arcade Chess",
-   "url": "https://apps.shipaton.com/app/chess-rupt-arcade-chess",
-   "tagline": "Every move changes the board.",
-   "description": "Every move changes the board. CHESS/RUPT is a turn-based arcade survival game inspired by chess. Move like familiar pieces, transform when the board gives you a chance, and survive as tiles crack, fall away, and reshape the match. Play a fresh Daily Challenge with shared rules for everyone. Push through Crown Trials for a streak score. Explore Free Play across Arcade, Puzzle, and Battle modes. No consumable coins, randomized loot, or advertising. Everyone receives three new plays each day across Free Play, Crown Trials, and Puzzle Mode, while Daily Challenge and Daily Puzzle remain free. The o",
+   "slug": "firmament-is-the-limit",
+   "name": "Firmament is the Limit",
+   "url": "https://apps.shipaton.com/app/firmament-is-the-limit",
+   "tagline": "Firmament is a calm one-button arcade game about keeping a tiny rocket in the air.",
+   "description": "Firmament is a calm one-button arcade game about keeping a tiny rocket in the air. Hold to thrust. Release to drift. The Firmament is the limit. You cannot cross it, but you can push it further. Manage fuel, skim clouds, collect coins, chase daily challenges, and improve your best distance one run at a time. A small selection of ships gives you different ways to play without changing the simple rhythm.",
    "category": "Games",
    "genres": [
     "Games",
-    "Board",
-    "Strategy"
+    "Action",
+    "Casual"
    ],
-   "seller": "Ankur Gupta LLC",
+   "seller": "SERGEY EPIFANOV",
    "platforms": [
     "iPhone"
    ],
-   "rating": 5.0,
+   "rating": 4.5,
    "rating_count": 2,
-   "store": "https://apps.apple.com/us/app/chess-rupt-arcade-chess/id6779024949?uo=4",
+   "store": "https://apps.apple.com/us/app/firmament-is-the-limit/id6755933878?uo=4",
    "store_links": [
-    "https://apps.apple.com/us/app/chess-rupt-arcade-chess/id6779024949?uo=4"
+    "https://apps.apple.com/us/app/firmament-is-the-limit/id6755933878?uo=4"
    ],
    "stale": false,
    "first_seen": "2026-09-02",
-   "delta_1d": 0,
-   "delta_7d": 0,
-   "gaining": false,
+   "delta_1d": 1,
+   "delta_7d": 1,
+   "gaining": true,
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 10
+   "rank": 17
   },
   {
    "slug": "inkboxes-dots-lines-boxes",
@@ -2614,7 +3412,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 11
+   "rank": 18
   },
   {
    "slug": "junction-flows",
@@ -2647,7 +3445,40 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 12
+   "rank": 19
+  },
+  {
+   "slug": "lms-land-of-magic-spices",
+   "name": "LMS: Land of Magic Spices",
+   "url": "https://apps.shipaton.com/app/lms-land-of-magic-spices",
+   "tagline": "Land of Magic Spices is a choice-driven fantasy visual novel with tabletop-inspired RPG mechanics.",
+   "description": "Land of Magic Spices is a choice-driven fantasy visual novel with tabletop-inspired RPG mechanics. Guide a hero through a dangerous world where luck matters, relationships evolve, and no path is guaranteed. Help the hero escape his master, gain his freedom, and begin a new life. Along the way, meet unlikely allies, take on dangerous quests, face unexpected skill checks, and make decisions whose consequences are not always clear. SHAPE THE STORY • Make choices that change scenes, relationships, and future events • Roll the dice to pass skill checks—and live with the outcome • Discover hidden sc",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Action",
+    "Roleplaying"
+   ],
+   "seller": "Viktor Morozov",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 3.0,
+   "rating_count": 2,
+   "store": "https://apps.apple.com/us/app/lms-land-of-magic-spices/id6787628573?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/lms-land-of-magic-spices/id6787628573?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-02",
+   "delta_1d": 1,
+   "delta_7d": 1,
+   "gaining": true,
+   "new": false,
+   "new_today": false,
+   "proximity": true,
+   "rank": 20
   },
   {
    "slug": "brewmancer-roguelike",
@@ -2679,39 +3510,112 @@
    "new": false,
    "new_today": false,
    "proximity": true,
-   "rank": 13
+   "rank": 21
   },
   {
-   "slug": "firmament-is-the-limit",
-   "name": "Firmament is the Limit",
-   "url": "https://apps.shipaton.com/app/firmament-is-the-limit",
-   "tagline": "Firmament is a calm one-button arcade game about keeping a tiny rocket in the air.",
-   "description": "Firmament is a calm one-button arcade game about keeping a tiny rocket in the air. Hold to thrust. Release to drift. The Firmament is the limit. You cannot cross it, but you can push it further. Manage fuel, skim clouds, collect coins, chase daily challenges, and improve your best distance one run at a time. A small selection of ships gives you different ways to play without changing the simple rhythm.",
+   "slug": "debugger-incident-terminal",
+   "name": "DEBUGGER: Incident Terminal",
+   "url": "https://apps.shipaton.com/app/debugger-incident-terminal",
+   "tagline": "■ It looks like a terminal.",
+   "description": "■ It looks like a terminal. That's the point. Black screen. Neon green text. System logs scrolling forever. CPU load and memory pressure climbing. To anyone glancing over your shoulder on the train, you are debugging a complex production system. What you are actually doing is connecting three or more matching symbols. ■ How it plays You are an incident response engineer covering 16 data centers around the world. - Pick a degraded node on the world map - Travel there (the farther it is, the longer it takes) - Patch the bugs on site (that's the puzzle) - Earn experience and move to the next inci",
    "category": "Games",
    "genres": [
     "Games",
-    "Action",
-    "Casual"
+    "Puzzle",
+    "Strategy"
    ],
-   "seller": "SERGEY EPIFANOV",
+   "seller": "SUMIRE SAKAMOTO K.K.",
    "platforms": [
-    "iPhone"
+    "iPhone",
+    "Android"
    ],
-   "rating": 5.0,
+   "rating": 2.0,
    "rating_count": 1,
-   "store": "https://apps.apple.com/us/app/firmament-is-the-limit/id6755933878?uo=4",
+   "store": "https://apps.apple.com/us/app/debugger-incident-terminal/id6797376092?uo=4",
    "store_links": [
-    "https://apps.apple.com/us/app/firmament-is-the-limit/id6755933878?uo=4"
+    "https://apps.apple.com/us/app/debugger-incident-terminal/id6797376092?uo=4",
+    "https://play.google.com/store/apps/details?id=com.sumiredc.debugger",
+    "https://play.google.com/store/apps/details?id=com.sumiredc.debugger&amp;hl=en&amp;gl=us"
    ],
    "stale": false,
    "first_seen": "2026-09-02",
-   "delta_1d": 0,
-   "delta_7d": 0,
-   "gaining": false,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "gaining": true,
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 14
+   "rank": 22
+  },
+  {
+   "slug": "dumpling-galaxy-logic-puzzle",
+   "name": "Dumpling Galaxy:  Logic Puzzle",
+   "url": "https://apps.shipaton.com/app/dumpling-galaxy-logic-puzzle",
+   "tagline": "Dumpling Galaxy is a cozy logic puzzle game One rule.",
+   "description": "Dumpling Galaxy is a cozy logic puzzle game One rule. Endless grids. Place a dumpling in every row, every column and every coloured zone, and never two side by side. That's the whole game, and it will keep you thinking for months. Tap a square to mark it with a cross, tap again to clear it. Hold to place a dumpling: the grid shows you the square you are aiming at before you let go, so a slip of the finger never costs you. The only lesson is a real grid you solve in under a minute, and you can skip it. No timer to lose to. TRAVEL THE GALAXY Twelve worlds, from Planet Bao to the Ravioli Riviera,",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Strategy",
+    "Puzzle"
+   ],
+   "seller": "Ilan Moatty",
+   "platforms": [
+    "iPhone",
+    "Android",
+    "Galaxy"
+   ],
+   "rating": 2.0,
+   "rating_count": 1,
+   "store": "https://apps.apple.com/us/app/dumpling-galaxy-logic-puzzle/id6794290886?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/dumpling-galaxy-logic-puzzle/id6794290886?uo=4",
+    "https://play.google.com/store/apps/details?id=com.dumplinggalaxy.app",
+    "https://play.google.com/store/apps/details?id=com.dumplinggalaxy.app&amp;hl=en&amp;gl=us"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-02",
+   "delta_1d": 1,
+   "delta_7d": null,
+   "gaining": true,
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "rank": 23
+  },
+  {
+   "slug": "findshiba",
+   "name": "FindShiba!",
+   "url": "https://apps.shipaton.com/app/findshiba",
+   "tagline": "FindShiba!",
+   "description": "FindShiba! is a cozy logic puzzle: place every Shiba so each row, column, and colored region has exactly one, and no two Shibas touch — not even at the corners. It is a calm deduction game you can play in a quiet minute or a longer focus session, offline and on iPhone or iPad. HOW TO PLAY • Tap or drag to mark safe cells with × • Double-tap to place a Shiba • Use hearts, undo, and hints when you need a nudge • Finish campaign levels to bank score, earn badges, and climb the Total Score leaderboard FREE FEATURES • Full campaign board with a short, friendly tutorial • Local progress, scores, and",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Lifestyle",
+    "Casual",
+    "Puzzle"
+   ],
+   "seller": "Mario Saputra",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 1.0,
+   "rating_count": 1,
+   "store": "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-09",
+   "delta_1d": 1,
+   "delta_7d": null,
+   "gaining": true,
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "rank": 24
   },
   {
    "slug": "glow-snake-neon-classic",
@@ -2746,7 +3650,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 15
+   "rank": 25
   },
   {
    "slug": "gotcha-bluff-party-trivia",
@@ -2778,40 +3682,38 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 16
+   "rank": 26
   },
   {
-   "slug": "lms-land-of-magic-spices",
-   "name": "LMS: Land of Magic Spices",
-   "url": "https://apps.shipaton.com/app/lms-land-of-magic-spices",
-   "tagline": "Land of Magic Spices is a choice-driven fantasy visual novel with tabletop-inspired RPG mechanics.",
-   "description": "Land of Magic Spices is a choice-driven fantasy visual novel with tabletop-inspired RPG mechanics. Guide a hero through a dangerous world where luck matters, relationships evolve, and no path is guaranteed. Help the hero escape his master, gain his freedom, and begin a new life. Along the way, meet unlikely allies, take on dangerous quests, face unexpected skill checks, and make decisions whose consequences are not always clear. SHAPE THE STORY • Make choices that change scenes, relationships, and future events • Roll the dice to pass skill checks—and live with the outcome • Discover hidden sc",
+   "slug": "learn-french-game-cowsmic",
+   "name": "Learn French Game: Cowsmic",
+   "url": "https://apps.shipaton.com/app/learn-french-game-cowsmic",
+   "tagline": "French learning game for beginners.",
+   "description": "French learning game for beginners. Listen, speak and play offline, with no flashcards anywhere. You're an alien field researcher sent to learn French before the invasion. The mothership calls out orders in real spoken French, like \"Apporte la vache,\" and you fly your UFO over a storybook French countryside, listen for the word, and beam up exactly the right specimen. Get it wrong and the farmers come running. Cowsmic is language learning built as a real arcade game first. No flashcards, no matching quizzes, no drilling with a stylus. You fly, you listen, you beam. French is what you're aiming",
    "category": "Games",
-   "genres": [
-    "Games",
-    "Entertainment",
-    "Action",
-    "Roleplaying"
-   ],
-   "seller": "Viktor Morozov",
+   "genres": [],
+   "seller": "JONATHAN DOUGLAS LAI",
    "platforms": [
-    "iPhone"
+    "iPhone",
+    "Android"
    ],
-   "rating": 5.0,
+   "rating": 2.0,
    "rating_count": 1,
-   "store": "https://apps.apple.com/us/app/lms-land-of-magic-spices/id6787628573?uo=4",
+   "store": "https://apps.apple.com/us/app/learn-french-game-cowsmic/id6799401666?uo=4",
    "store_links": [
-    "https://apps.apple.com/us/app/lms-land-of-magic-spices/id6787628573?uo=4"
+    "https://apps.apple.com/us/app/learn-french-game-cowsmic/id6799401666?uo=4",
+    "https://play.google.com/store/apps/details?id=com.cowsmicgame.french",
+    "https://play.google.com/store/apps/details?id=com.cowsmicgame.french&amp;hl=en&amp;gl=us"
    ],
    "stale": false,
    "first_seen": "2026-09-02",
-   "delta_1d": 0,
-   "delta_7d": 0,
-   "gaining": false,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "gaining": true,
    "new": false,
    "new_today": false,
-   "proximity": true,
-   "rank": 17
+   "proximity": false,
+   "rank": 27
   },
   {
    "slug": "not-your-phone-mystery",
@@ -2843,7 +3745,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 18
+   "rank": 28
   },
   {
    "slug": "nova-swing",
@@ -2875,7 +3777,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 19
+   "rank": 29
   },
   {
    "slug": "phantom-words",
@@ -2907,14 +3809,49 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 20
+   "rank": 30
+  },
+  {
+   "slug": "sever",
+   "name": "SEVER.",
+   "url": "https://apps.shipaton.com/app/sever",
+   "tagline": "ONE SWIPE.",
+   "description": "ONE SWIPE. EVERYTHING. SEVER is a one-finger action roguelite where a single swipe is your attack, your dash and your dodge — all at once. Draw a line, commit to the cut, and vanish through your enemies before they close in. No virtual joysticks. No button mashing. Just you, one blade, and total commitment to every strike. COMMITTED MELEE COMBAT Every swipe is a dash-slash: you carve through everything on the line and slip through attacks in the same motion. Chain kills to keep momentum — hesitate and the arena punishes you. 15 UNIQUE BLADES From the lightning-fast Dagger to the massive Nodach",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Adventure"
+   ],
+   "seller": "Hristijan Petrovski",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": 1.0,
+   "rating_count": 1,
+   "store": "https://apps.apple.com/us/app/sever/id6791682247?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/sever/id6791682247?uo=4",
+    "https://play.google.com/store/apps/details?id=com.pixezia.sever",
+    "https://play.google.com/store/apps/details?id=com.pixezia.sever&amp;hl=en&amp;gl=us"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-02",
+   "delta_1d": 1,
+   "delta_7d": null,
+   "gaining": true,
+   "new": false,
+   "new_today": false,
+   "proximity": true,
+   "rank": 31
   },
   {
    "slug": "sky-pups-dash",
    "name": "Sky Pups Dash",
    "url": "https://apps.shipaton.com/app/sky-pups-dash",
    "tagline": "Sky Pups Dash — bounce your adorable pups higher and higher into an endless sky!",
-   "description": "Sky Pups Dash — bounce your adorable pups higher and higher into an endless sky! Sky Pups Dash is a one-tap arcade climbing game starring a pack of cute, springy puppies. Tap to jump, land on wobbling platforms, and see how high you can climb before you slip. Every platform behaves differently, so quick thinking and perfect timing are what separate the record-breakers from the rest. SIMPLE TO PLAY, HARD TO MASTER One tap sends your pup flying. Nail a PERFECT landing to arm a double jump, then chain combos that launch you even farther. Easy to pick up in seconds — deep enough to chase forever. ",
+   "description": "Sky Pups Dash — bounce your adorable pups higher and higher into an endless sky! Sky Pups Dash is a one-tap arcade climbing game starring a pack of cute, springy puppies. Tap to jump, land on wobbling platforms, and see how high you can climb before you slip. Every platform behaves differently, so quick thinking and perfect timing are what separate the record-breakers from the rest. ONE TAP TO CLIMB One tap sends your pup flying. Nail a PERFECT landing to arm a double jump, then chain combos that launch you even farther. Fall short? Rewind a few seconds and stay in the run — once per run, with",
    "category": "Games",
    "genres": [
     "Games",
@@ -2942,14 +3879,46 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 21
+   "rank": 32
+  },
+  {
+   "slug": "terravel-geography-quiz-game",
+   "name": "Terravel: Geography Quiz Game",
+   "url": "https://apps.shipaton.com/app/terravel-geography-quiz-game",
+   "tagline": "Somewhere on Earth, a place most people will never find is waiting for you.",
+   "description": "Somewhere on Earth, a place most people will never find is waiting for you. Terravel reveals a new one every single day. Open the app each morning to a hidden corner of the world — a landscape, a ruin, a village, a wonder you didn't know existed. Before it's revealed, test yourself: guess where in the world it hides. Then uncover the story behind it and add it to your collection. It's a small, quiet ritual — one moment of curiosity and calm before the day begins. HOW IT WORKS • A new hidden place, revealed once a day • Guess the location before the reveal — how well do you know the world? • Le",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Travel",
+    "Trivia"
+   ],
+   "seller": "Hulya Masharipov",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 1,
+   "store": "https://apps.apple.com/us/app/terravel-geography-quiz-game/id6787954216?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/terravel-geography-quiz-game/id6787954216?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": false,
+   "rank": 33
   },
   {
    "slug": "velocity-unleashed",
    "name": "Velocity Unleashed",
    "url": "https://apps.shipaton.com/app/velocity-unleashed",
-   "tagline": "Put the hammer down in a polished SceneKit racing experience with real 3D tracks, dynamic lighting, physics-based cars, AI opponents, and a career that rewards ",
-   "description": "Put the hammer down in a polished SceneKit racing experience with real 3D tracks, dynamic lighting, physics-based cars, AI opponents, and a career that rewards every perfect apex. ◆ TRUE 3D, NOT FAKE 2.5D Drive fully rendered cars on sculpted circuits. Chase-cam thrills, boost trails, and high-frame-rate action engineered for modern iPhones with Metal. ◆ FOUR SIGNATURE CIRCUITS • Coastal Circuit — Learn the lines along sunlit cliffs and ocean air • Alpine Pass — Master grip and elevation in the mountains • Neon District — Night racing under cyan and magenta city lights • Sahara Grand — Long de",
+   "tagline": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer.",
+   "description": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer. Invite friends with 1-tap party links, climb Game Center leaderboards, and tune your car for every circuit. Arcade pace with simulator-style handling, built for iPhone and iPad. TRUE 3D RACING Feel every apex at up to 120 FPS, powered by Apple SceneKit and Metal. Precision steering, throttle control, and nitro boost across demanding tracks. FORMULA CARS & TUNING Step into the showroom and build your line-up. Upgrade engine, turbo, downforce, and slicks. From",
    "category": "Games",
    "genres": [
     "Games",
@@ -2975,7 +3944,43 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 22
+   "rank": 34
+  },
+  {
+   "slug": "vocaburst-typing-shooter",
+   "name": "VocaBurst: Typing Shooter",
+   "url": "https://apps.shipaton.com/app/vocaburst-typing-shooter",
+   "tagline": "Every word you blast is a word you keep.",
+   "description": "Every word you blast is a word you keep. That's how VocaBurst teaches you a new language. Why does it work? Because your brain holds on to whatever feels like survival. The foreign words you're learning fall from the sky as enemies. Type one, blast it, and it's yours for good. Every enemy is a real word. In Campaign mode you destroy each one twice: first in your language, then in the language you're learning. You play for the high score. The words move in on their own. WHY IT WORKS Spaced repetition decides what falls next. The game brings every word back at the moment you're about to forget i",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Word",
+    "Education"
+   ],
+   "seller": "Przemyslaw Raciborski",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": 5.0,
+   "rating_count": 1,
+   "store": "https://apps.apple.com/us/app/vocaburst-typing-shooter/id6793843082?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/vocaburst-typing-shooter/id6793843082?uo=4",
+    "https://play.google.com/store/apps/details?id=com.vocaburst.app",
+    "https://play.google.com/store/apps/details?id=com.vocaburst.app&amp;hl=en&amp;gl=us"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": true,
+   "rank": 35
   },
   {
    "slug": "voltfield-80s-classic-arcade",
@@ -3007,7 +4012,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 23
+   "rank": 36
   },
   {
    "slug": "word-scourge",
@@ -3043,7 +4048,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 24
+   "rank": 37
   },
   {
    "slug": "ai-chess-coach-3d",
@@ -3074,7 +4079,38 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 25
+   "rank": 38
+  },
+  {
+   "slug": "auraduel-aura-battles",
+   "name": "AURADUEL: aura battles",
+   "url": "https://apps.shipaton.com/app/auraduel-aura-battles",
+   "tagline": "AURADUEL turns aura battles into a real sport: live AR effects over your real duel, an AI score with the same thresholds for everyone, and a rank you earn battl",
+   "description": "AURADUEL turns aura battles into a real sport: live AR effects over your real duel, an AI score with the same thresholds for everyone, and a rank you earn battle by battle. Free to compete. Paying never improves your result. HOW TO PLAY · Charge your orb: palms forward, pull them apart with speed and control. Flailing breaks the combo. · Unleash your aura: spins, presence, drama. The AI measures your energy live and your sphere charges. · The verdict: golden crown, a rain of stars, and your badge climbs. BATTLE MODES · Face-to-face duel: two challengers, one phone. No account, no sign-up, noth",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action"
+   ],
+   "seller": "Bleiquel Ramon Colina Barriga",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://apps.apple.com/us/app/auraduel-aura-battles/id6804470297?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/auraduel-aura-battles/id6804470297?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": false,
+   "rank": 39
   },
   {
    "slug": "b4orafter",
@@ -3106,7 +4142,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 26
+   "rank": 40
   },
   {
    "slug": "ball-jump-fest",
@@ -3137,7 +4173,40 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 27
+   "rank": 41
+  },
+  {
+   "slug": "bawzi-board-games-chat",
+   "name": "Bawzi - Board Games & Chat",
+   "url": "https://apps.shipaton.com/app/bawzi-board-games-chat",
+   "tagline": "Bawzi is the multiplayer game night that fits in your pocket.",
+   "description": "Bawzi is the multiplayer game night that fits in your pocket. Play Chess, Checkers, Ludo, Tic Tac Toe, Color Cards, and 4 more classic board games — with friends or strangers — while chatting in real time. Whether you're killing time on your commute or connecting with someone across the world, Bawzi makes online multiplayer gaming feel like you're in the same room. GAMES YOU'LL LOVE - Chess — classic 1v1 strategy - Checkers — fast, tactical, endlessly competitive - Ludo — the timeless board game race to home - Tic Tac Toe — quick rounds, instant rematches - Lines & Dots — outsmart your opponen",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Social Networking",
+    "Board",
+    "Family"
+   ],
+   "seller": "Abolfazl Arab",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://apps.apple.com/us/app/bawzi-board-games-chat/id6769383968?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/bawzi-board-games-chat/id6769383968?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": false,
+   "rank": 42
   },
   {
    "slug": "bible-kids-listen-and-play",
@@ -3173,39 +4242,42 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 28
+   "rank": 43
   },
   {
-   "slug": "carpet-diem-cozy-rug-cleaner",
-   "name": "Carpet Diem: Cozy Rug Cleaner",
-   "url": "https://apps.shipaton.com/app/carpet-diem-cozy-rug-cleaner",
-   "tagline": "Every carpet you clean is a real painting.",
-   "description": "Every carpet you clean is a real painting. The Mona Lisa, Starry Night, The Great Wave, The Night Watch, buried under years of grime, waiting for you to bring it back. Scrub. Foam. Squeegee. Watch a 500-year-old face surface out of the dirt under your thumb. RELAX AND SCRUB Drag your finger across the pile and the grime lifts in greyscale. Lay foam and the colour floods back in reds, golds and that impossible blue. There is no timer, no fail state, no one shouting at you. Clean until it feels done, then decide for yourself when to hand it back. DAY ONE, AND THEN YOU QUIT You start as an employ",
+   "slug": "blokka-1v1-block-battle",
+   "name": "Blokka - 1v1 Block Battle",
+   "url": "https://apps.shipaton.com/app/blokka-1v1-block-battle",
+   "tagline": "Blokka is a fast, real-time 1v1 puzzle battle.",
+   "description": "Blokka is a fast, real-time 1v1 puzzle battle. Aim your shots, fire balls at incoming rows of blocks, and clear your side of the field before your opponent clears theirs. Every match is a head-to-head duel: drag to aim, release to fire, and watch your balls bounce, break blocks, and rack up hits. Rows keep marching toward you, so timing and aim both matter - one clean shot down the right lane can turn the tide in seconds. HOW TO PLAY - Drag to aim, release to fire a volley of balls - Break blocks before they reach your wall - Trigger power-ups like Bomb, Laser, Randomizer, and Ball Eater to sw",
    "category": "Games",
    "genres": [
     "Games",
-    "Casual",
-    "Simulation"
+    "Action",
+    "Puzzle"
    ],
-   "seller": "Farting Pixel",
+   "seller": "Yaki Imo LLC",
    "platforms": [
-    "iPhone"
+    "iPhone",
+    "Android"
    ],
    "rating": null,
    "rating_count": 0,
-   "store": "https://apps.apple.com/us/app/carpet-diem-cozy-rug-cleaner/id6788496964?uo=4",
+   "store": "https://apps.apple.com/us/app/blokka-1v1-block-battle/id6803144384?uo=4",
    "store_links": [
-    "https://apps.apple.com/us/app/carpet-diem-cozy-rug-cleaner/id6788496964?uo=4"
+    "https://apps.apple.com/us/app/blokka-1v1-block-battle/id6803144384?uo=4",
+    "https://play.google.com/store/apps/details?id=com.yakiimo.blokka",
+    "https://play.google.com/store/apps/details?id=com.yakiimo.blokka&amp;hl=en&amp;gl=us"
    ],
    "stale": false,
-   "first_seen": "2026-09-09",
-   "delta_1d": 0,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
    "delta_7d": null,
    "gaining": false,
-   "new": false,
+   "new": true,
    "new_today": false,
    "proximity": false,
-   "rank": 29
+   "rank": 44
   },
   {
    "slug": "cat-ninja-crowd",
@@ -3237,7 +4309,7 @@
    "new": false,
    "new_today": false,
    "proximity": true,
-   "rank": 30
+   "rank": 45
   },
   {
    "slug": "catoban-pixel-cat-sokoban",
@@ -3268,7 +4340,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 31
+   "rank": 46
   },
   {
    "slug": "ciphersage-word-cryptograms",
@@ -3303,7 +4375,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 32
+   "rank": 47
   },
   {
    "slug": "coinful",
@@ -3335,7 +4407,38 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 33
+   "rank": 48
+  },
+  {
+   "slug": "colornest",
+   "name": "ColorNest",
+   "url": "https://apps.shipaton.com/app/colornest",
+   "tagline": "ColorNest is a relaxing coloring and drawing app made for calm creative sessions.",
+   "description": "ColorNest is a relaxing coloring and drawing app made for calm creative sessions. Explore daily coloring pages, generated line-art sheets, cute artwork, cozy scenes, nature designs, animals, simple patterns and more. Use tap-fill coloring, brush tools, erasers, custom colors and gentle background music to complete artwork at your own pace. ColorNest includes: - Tap-fill coloring pages - Daily pages and stage progression - Saved progress and completed artwork - Coins, rewards and unlocks - Brush tools, eraser tools and custom colors - Optional premium pages and remove-ads purchase - Shareable f",
+   "category": "Casual",
+   "genres": [
+    "Casual"
+   ],
+   "seller": "Kalaiselvan P",
+   "platforms": [
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://play.google.com/store/apps/details?id=com.kalai.colornest",
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.kalai.colornest",
+    "https://play.google.com/store/apps/details?id=com.kalai.colornest&amp;hl=en&amp;gl=us"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": false,
+   "rank": 49
   },
   {
    "slug": "colorrush-turf-war",
@@ -3367,79 +4470,39 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 34
+   "rank": 50
   },
   {
-   "slug": "debugger-incident-terminal",
-   "name": "DEBUGGER: Incident Terminal",
-   "url": "https://apps.shipaton.com/app/debugger-incident-terminal",
-   "tagline": "■ It looks like a terminal.",
-   "description": "■ It looks like a terminal. That's the point. Black screen. Neon green text. System logs scrolling forever. CPU load and memory pressure climbing. To anyone glancing over your shoulder on the train, you are debugging a complex production system. What you are actually doing is connecting three or more matching symbols. ■ How it plays You are an incident response engineer covering 16 data centers around the world. - Pick a degraded node on the world map - Travel there (the farther it is, the longer it takes) - Patch the bugs on site (that's the puzzle) - Earn experience and credits, then move to",
+   "slug": "das-verhor",
+   "name": "Das Verhör",
+   "url": "https://apps.shipaton.com/app/das-verhor",
+   "tagline": "Jeden Tag liegt ein neuer Fall auf dem Tisch.",
+   "description": "Jeden Tag liegt ein neuer Fall auf dem Tisch. Ein Ort, drei Verdächtige, vierzehn Fragen — und ein einziger Widerspruch, der den Fall entscheidet. Das Verhör ist ein tägliches Deduktionsspiel für iPhone. Sie befragen drei Verdächtige, prüfen ihre Aussagen gegen die Fakten am Tatort und entlarven denjenigen, dessen Geschichte nicht standhält. Jede Anklage braucht zwei Dinge: den Täter und den Beweis, der ihn überführt. WIE ES FUNKTIONIERT Jeder Fall ist von Grund auf so gebaut, dass er sich lösen lässt — ohne Rätselraten, ohne Zufall. Jeder Widerspruch trägt seine eigene Begründung, jede Frage ",
    "category": "Games",
    "genres": [
     "Games",
-    "Puzzle",
-    "Strategy"
-   ],
-   "seller": "SUMIRE SAKAMOTO K.K.",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "store": "https://apps.apple.com/us/app/debugger-incident-terminal/id6797376092?uo=4",
-   "store_links": [
-    "https://apps.apple.com/us/app/debugger-incident-terminal/id6797376092?uo=4",
-    "https://play.google.com/store/apps/details?id=com.sumiredc.debugger",
-    "https://play.google.com/store/apps/details?id=com.sumiredc.debugger&amp;hl=en&amp;gl=us"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-02",
-   "delta_1d": 0,
-   "delta_7d": null,
-   "gaining": false,
-   "new": false,
-   "new_today": false,
-   "proximity": false,
-   "rank": 35
-  },
-  {
-   "slug": "dumpling-galaxy-logic-puzzle",
-   "name": "Dumpling Galaxy:  Logic Puzzle",
-   "url": "https://apps.shipaton.com/app/dumpling-galaxy-logic-puzzle",
-   "tagline": "Dumpling Galaxy is a cozy logic puzzle game One rule.",
-   "description": "Dumpling Galaxy is a cozy logic puzzle game One rule. Endless grids. Place a dumpling in every row, every column and every coloured zone, and never two side by side. That's the whole game, and it will keep you thinking for months. Tap a square to mark it with a cross, tap again to clear it. Hold to place a dumpling: the grid shows you the square you are aiming at before you let go, so a slip of the finger never costs you. The only lesson is a real grid you solve in under a minute, and you can skip it. No timer to lose to. TRAVEL THE GALAXY Twelve worlds, from Planet Bao to the Ravioli Riviera,",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Entertainment",
-    "Strategy",
+    "Trivia",
     "Puzzle"
    ],
-   "seller": "Ilan Moatty",
+   "seller": "Patrick Werle",
    "platforms": [
-    "iPhone",
-    "Android",
-    "Galaxy"
+    "iPhone"
    ],
    "rating": null,
    "rating_count": 0,
-   "store": "https://apps.apple.com/us/app/dumpling-galaxy-logic-puzzle/id6794290886?uo=4",
+   "store": "https://apps.apple.com/us/app/das-verh%C3%B6r/id6797754222?uo=4",
    "store_links": [
-    "https://apps.apple.com/us/app/dumpling-galaxy-logic-puzzle/id6794290886?uo=4",
-    "https://play.google.com/store/apps/details?id=com.dumplinggalaxy.app",
-    "https://play.google.com/store/apps/details?id=com.dumplinggalaxy.app&amp;hl=en&amp;gl=us"
+    "https://apps.apple.com/us/app/das-verh%C3%B6r/id6797754222?uo=4"
    ],
    "stale": false,
-   "first_seen": "2026-09-02",
-   "delta_1d": 0,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
    "delta_7d": null,
    "gaining": false,
-   "new": false,
+   "new": true,
    "new_today": false,
    "proximity": false,
-   "rank": 36
+   "rank": 51
   },
   {
    "slug": "fifty-cutting-game",
@@ -3470,40 +4533,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 37
-  },
-  {
-   "slug": "findshiba",
-   "name": "FindShiba!",
-   "url": "https://apps.shipaton.com/app/findshiba",
-   "tagline": "FindShiba!",
-   "description": "FindShiba! is a cozy logic puzzle: place every Shiba so each row, column, and colored region has exactly one, and no two Shibas touch — not even at the corners. It is a calm deduction game you can play in a quiet minute or a longer focus session, offline and on iPhone or iPad. HOW TO PLAY • Tap or drag to mark safe cells with × • Double-tap to place a Shiba • Use hearts, undo, and hints when you need a nudge • Finish campaign levels to bank score, earn badges, and climb the Total Score leaderboard FREE FEATURES • Full campaign board with a short, friendly tutorial • Local progress, scores, and",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Lifestyle",
-    "Casual",
-    "Puzzle"
-   ],
-   "seller": "Mario Saputra",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "store": "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4",
-   "store_links": [
-    "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-09",
-   "delta_1d": 0,
-   "delta_7d": null,
-   "gaining": false,
-   "new": false,
-   "new_today": false,
-   "proximity": false,
-   "rank": 38
+   "rank": 52
   },
   {
    "slug": "firu-firu-games",
@@ -3538,7 +4568,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 39
+   "rank": 53
   },
   {
    "slug": "foodie-drop-merge-puzzle",
@@ -3569,7 +4599,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 40
+   "rank": 54
   },
   {
    "slug": "frog-crossing-arcade-hopper",
@@ -3605,7 +4635,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 41
+   "rank": 55
   },
   {
    "slug": "golden-mile-traffic-racer",
@@ -3637,7 +4667,40 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 42
+   "rank": 56
+  },
+  {
+   "slug": "hexpair-logic-puzzle-game",
+   "name": "Hexpair: Logic Puzzle Game",
+   "url": "https://apps.shipaton.com/app/hexpair-logic-puzzle-game",
+   "tagline": "Two shaded cells in every region.",
+   "description": "Two shaded cells in every region. Pairs never touch. That is the whole rulebook, and it stays fresh for a thousand levels. Hexpair is the Norinori logic puzzle on a hexagonal board. Calm, tactile, and nothing on the puzzle screen but the puzzle. THE RULES • Every region gets exactly two shaded cells • Shaded cells form pairs, and a pair may cross region borders • Two pairs never touch edge to edge Hex makes the rules purer than the classic square version. No diagonals, no exceptions, no fine print. THREE LADDERS • 6×6, 8×8 and 10×10 boards, each with its own ladder • Over a thousand levels per",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Entertainment",
+    "Puzzle",
+    "Casual"
+   ],
+   "seller": "INNCODER AS",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://apps.apple.com/us/app/hexpair-logic-puzzle-game/id6809547952?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/hexpair-logic-puzzle-game/id6809547952?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": false,
+   "rank": 57
   },
   {
    "slug": "impossible-coasters-3d-puzzle",
@@ -3669,7 +4732,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 43
+   "rank": 58
   },
   {
    "slug": "in-two-lights",
@@ -3701,7 +4764,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 44
+   "rank": 59
   },
   {
    "slug": "jianghu-sword-zither",
@@ -3732,38 +4795,7 @@
    "new": false,
    "new_today": false,
    "proximity": true,
-   "rank": 45
-  },
-  {
-   "slug": "learn-french-game-cowsmic",
-   "name": "Learn French Game: Cowsmic",
-   "url": "https://apps.shipaton.com/app/learn-french-game-cowsmic",
-   "tagline": "French learning game for beginners.",
-   "description": "French learning game for beginners. Listen, speak and play offline, with no flashcards anywhere. You're an alien field researcher sent to learn French before the invasion. The mothership calls out orders in real spoken French, like \"Apporte la vache,\" and you fly your UFO over a storybook French countryside, listen for the word, and beam up exactly the right specimen. Get it wrong and the farmers come running. Cowsmic is language learning built as a real arcade game first. No flashcards, no matching quizzes, no drilling with a stylus. You fly, you listen, you beam. French is what you're aiming",
-   "category": "Games",
-   "genres": [],
-   "seller": "JONATHAN DOUGLAS LAI",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "store": "https://apps.apple.com/us/app/learn-french-game-cowsmic/id6799401666?uo=4",
-   "store_links": [
-    "https://apps.apple.com/us/app/learn-french-game-cowsmic/id6799401666?uo=4",
-    "https://play.google.com/store/apps/details?id=com.cowsmicgame.french",
-    "https://play.google.com/store/apps/details?id=com.cowsmicgame.french&amp;hl=en&amp;gl=us"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-02",
-   "delta_1d": 0,
-   "delta_7d": null,
-   "gaining": false,
-   "new": false,
-   "new_today": false,
-   "proximity": false,
-   "rank": 46
+   "rank": 60
   },
   {
    "slug": "mapzap-geography-games",
@@ -3798,7 +4830,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 47
+   "rank": 61
   },
   {
    "slug": "minijoy",
@@ -3833,7 +4865,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 48
+   "rank": 62
   },
   {
    "slug": "mythika-puzzle-tournament",
@@ -3865,7 +4897,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 49
+   "rank": 63
   },
   {
    "slug": "networth",
@@ -3896,7 +4928,39 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 50
+   "rank": 64
+  },
+  {
+   "slug": "neverstill",
+   "name": "Neverstill",
+   "url": "https://apps.shipaton.com/app/neverstill",
+   "tagline": "You are not the train.",
+   "description": "You are not the train. You are the one drone above it. Armoured cars fight on their own. You are the only thing that can be anywhere else, and you can only be in one place at a time. Fly the roof. Overcharge the car you are standing over. Stomp the boarders off the deck. Drag the scrap in before it burns out behind the line. Every second you spend holding the rear is a second the engine is alone. TWELVE WAVES TO A TERMINUS Then the line asks how long you want to keep going. Pull in and bank the run, or run on into the next division, where everything that was hard is worse. There is no last sto",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Strategy"
+   ],
+   "seller": "Furkan Donmez",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://apps.apple.com/us/app/neverstill/id6809487773?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/neverstill/id6809487773?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": false,
+   "rank": 65
   },
   {
    "slug": "onomatope",
@@ -3928,14 +4992,14 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 51
+   "rank": 66
   },
   {
    "slug": "orbace-sudoku",
-   "name": "Orbace Sudoku",
+   "name": "Orbace Sudoku: Su-Pu Replay",
    "url": "https://apps.shipaton.com/app/orbace-sudoku",
    "tagline": "Every Sudoku solve has a story.",
-   "description": "Every Sudoku solve has a story. Orbace Sudoku preserves that path as a Su-Pu — a move-by-move record of how your puzzle unfolded. Replay placements, notes, corrections, and turning points instead of keeping only the finished grid. REPLAY YOUR SOLVE A completed Sudoku shows the answer. A Su-Pu shows how you arrived there. Replay your solving path move by move. Revisit the moment the puzzle opened up, inspect a difficult decision, or simply keep a solve worth remembering. IMPORT ANY SUDOKU Bring your own Sudoku into Orbace and solve it your way. Imported puzzles can become part of your personal ",
+   "description": "Every Sudoku solve has a story. Orbace Sudoku turns each completed puzzle into a Su-Pu—a replayable, move-by-move record of how your solve unfolded. Revisit placements, notes, corrections, and turning points instead of keeping only the finished grid. Whether you enjoy a calm daily puzzle, want to improve your solving process, or prefer competitive Sudoku, Orbace gives every solve a life beyond the final number. SUDOKU REPLAY WITH SU-PU A completed Sudoku shows the answer. A Su-Pu shows how you arrived there. Replay your solving path move by move. Return to the moment the puzzle opened up, insp",
    "category": "Puzzle",
    "genres": [
     "Puzzle"
@@ -3959,11 +5023,11 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 52
+   "rank": 67
   },
   {
    "slug": "ordsnok-snoop-for-words",
-   "name": "Ordsnok: Daily Word Puzzle",
+   "name": "Ordsnok: Guess the Word",
    "url": "https://apps.shipaton.com/app/ordsnok-snoop-for-words",
    "tagline": "One word.",
    "description": "One word. Six guesses. A fresh puzzle every day. Ordsnok is a daily word game: find the hidden word, keep your streak going and compare spoiler-free results with friends. Everyone gets the same daily puzzle, so results are easy to compare without giving the answer away. Want another round? Switch to Random and play five-, six- or seven-letter puzzles whenever you like. Use a hint when you need one, or solve it unaided. DAILY OR RANDOM • One shared daily word with six guesses • Random puzzles in three word lengths • English and Norwegian word lists • Hints when you get stuck PLAY TOGETHER • Pri",
@@ -3980,9 +5044,9 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "store": "https://apps.apple.com/us/app/ordsnok-daily-word-puzzle/id6797599523?uo=4",
+   "store": "https://apps.apple.com/us/app/ordsnok-guess-the-word/id6797599523?uo=4",
    "store_links": [
-    "https://apps.apple.com/us/app/ordsnok-daily-word-puzzle/id6797599523?uo=4",
+    "https://apps.apple.com/us/app/ordsnok-guess-the-word/id6797599523?uo=4",
     "https://play.google.com/store/apps/details?id=no.strangeutvikling.ordsnok",
     "https://play.google.com/store/apps/details?id=no.strangeutvikling.ordsnok&amp;hl=en&amp;gl=us"
    ],
@@ -3994,7 +5058,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 53
+   "rank": 68
   },
   {
    "slug": "palsta-a-slow-garden",
@@ -4025,7 +5089,67 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 54
+   "rank": 69
+  },
+  {
+   "slug": "planet-hop",
+   "name": "Planet Hop",
+   "url": "https://apps.shipaton.com/app/planet-hop",
+   "tagline": "Welcome to Planet Hop, a fast-paced action survival game where you battle enemies across tiny, dangerous planets.",
+   "description": "Welcome to Planet Hop, a fast-paced action survival game where you battle enemies across tiny, dangerous planets. Jump between worlds, fight endless waves of enemies, and upgrade your character to survive longer in increasingly intense runs. Every planet is a new challenge, with unique layouts, enemies, and combat situations that will test your reflexes and strategy. ⚔️ Game Features • Fast action combat inspired by roguelike survival games • Fight on spherical planets with unique movement and positioning • Simple controls with deep gameplay mastery • Upgrade your character with powerful abili",
+   "category": "Action",
+   "genres": [
+    "Action"
+   ],
+   "seller": "TorQ",
+   "platforms": [
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://play.google.com/store/apps/details?id=com.TorQ.PlanetHop",
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.TorQ.PlanetHop",
+    "https://play.google.com/store/apps/details?id=com.TorQ.PlanetHop&amp;hl=en&amp;gl=us"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": true,
+   "rank": 70
+  },
+  {
+   "slug": "pocket-dragon-dungeon",
+   "name": "Pocket Dragon Dungeon",
+   "url": "https://apps.shipaton.com/app/pocket-dragon-dungeon",
+   "tagline": "You are a small dragon, and the heroes are coming for your treasury.",
+   "description": "You are a small dragon, and the heroes are coming for your treasury. Pocket Dragon Dungeon is a dungeon defense roguelite built for short sessions. Set your defenses, watch the battle resolve, take an upgrade, repeat. A full run is ten battles — around twenty minutes at the default speed, or around eight if you turn the speed up. ■ HOW A BATTLE WORKS Before each fight you deploy up to three monsters across three defensive rooms, and place your dragon wherever you want it. Then the doors open. Combat runs by itself in real time, and you can raise the speed to 1.5x, 2x or 3x whenever you like — ",
+   "category": "Strategy",
+   "genres": [],
+   "seller": "Bon's Develop Lab",
+   "platforms": [
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://play.google.com/store/apps/details?id=io.github.bonkoturyu.pocket_dragon_dungeon",
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=io.github.bonkoturyu.pocket_dragon_dungeon",
+    "https://play.google.com/store/apps/details?id=io.github.bonkoturyu.pocket_dragon_dungeon&amp;hl=en&amp;gl=us"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": true,
+   "rank": 71
   },
   {
    "slug": "pocket-pet-virtual-companion",
@@ -4039,7 +5163,7 @@
     "Casual",
     "Simulation"
    ],
-   "seller": "Project Life Solutions UG (haftungsbeschrankt)",
+   "seller": "Project Life Solutions LLC",
    "platforms": [
     "iPhone",
     "Android"
@@ -4060,7 +5184,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 55
+   "rank": 72
   },
   {
    "slug": "protect-the-orb",
@@ -4091,7 +5215,7 @@
    "new": false,
    "new_today": false,
    "proximity": true,
-   "rank": 56
+   "rank": 73
   },
   {
    "slug": "puking-cat",
@@ -4126,7 +5250,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 57
+   "rank": 74
   },
   {
    "slug": "pulsegate-echo-shift",
@@ -4158,7 +5282,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 58
+   "rank": 75
   },
   {
    "slug": "purrzle-sliding-puzzle",
@@ -4189,7 +5313,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 59
+   "rank": 76
   },
   {
    "slug": "raven-storm",
@@ -4220,7 +5344,7 @@
    "new": false,
    "new_today": false,
    "proximity": true,
-   "rank": 60
+   "rank": 77
   },
   {
    "slug": "reliquias-sort-story-puzzle",
@@ -4251,7 +5375,38 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 61
+   "rank": 78
+  },
+  {
+   "slug": "riverside-files-idle-tycoon",
+   "name": "Riverside Files - Idle Tycoon",
+   "url": "https://apps.shipaton.com/app/riverside-files-idle-tycoon",
+   "tagline": "It's built around the thing your game has that the genre usually doesn't: There is no upgrade list, there is an office — you buy equipment by tapping the equipm",
+   "description": "It's built around the thing your game has that the genre usually doesn't: There is no upgrade list, there is an office — you buy equipment by tapping the equipment. It also leads on the four specialties competing for roster share, and is loud about twelve hours of offline earnings at the full rate with no decay, since DECISIONS.md records the competitor's decaying window as their most-complained-about behaviour.",
+   "category": "Simulation",
+   "genres": [
+    "Simulation"
+   ],
+   "seller": "MadeByMubeen",
+   "platforms": [
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://play.google.com/store/apps/details?id=com.riverside.riverside_files",
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.riverside.riverside_files",
+    "https://play.google.com/store/apps/details?id=com.riverside.riverside_files&amp;hl=en&amp;gl=us"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": false,
+   "rank": 79
   },
   {
    "slug": "save-peps",
@@ -4282,7 +5437,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 62
+   "rank": 80
   },
   {
    "slug": "secret-fantasy",
@@ -4318,7 +5473,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 63
+   "rank": 81
   },
   {
    "slug": "sense-of-wonder-space-puzzle",
@@ -4351,61 +5506,30 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 64
+   "rank": 82
   },
   {
-   "slug": "sever",
-   "name": "SEVER.",
-   "url": "https://apps.shipaton.com/app/sever",
-   "tagline": "ONE SWIPE.",
-   "description": "ONE SWIPE. EVERYTHING. SEVER is a one-finger action roguelite where a single swipe is your attack, your dash and your dodge — all at once. Draw a line, commit to the cut, and vanish through your enemies before they close in. No virtual joysticks. No button mashing. Just you, one blade, and total commitment to every strike. COMMITTED MELEE COMBAT Every swipe is a dash-slash: you carve through everything on the line and slip through attacks in the same motion. Chain kills to keep momentum — hesitate and the arena punishes you. 15 UNIQUE BLADES From the lightning-fast Dagger to the massive Nodach",
+   "slug": "skip-ad-popup-panic",
+   "name": "SKIP AD: Popup Panic",
+   "url": "https://apps.shipaton.com/app/skip-ad-popup-panic",
+   "tagline": "Your desktop is filling with fake 90s popups.",
+   "description": "Your desktop is filling with fake 90s popups. Find the real green close controls, avoid the red decoys, and keep the pile under control before the dreaded blue screen. SKIP AD is a fast portrait arcade game built for short runs and one-thumb play. Tap, hold and swipe through crowded ads while BLOAT interrupts with suspicious chat messages, unwanted toolbars and free-internet discs. Face five Hijackers, from Punch Monkey and a printer from hell to an overheating CD burner. Between runs, revisit collected ads in Internot Explorer and explore desktop themes, close effects and taskbar pets. A play",
    "category": "Games",
    "genres": [
     "Games",
     "Action",
-    "Adventure"
+    "Casual"
    ],
-   "seller": "Hristijan Petrovski",
+   "seller": "Benjamin Tan",
    "platforms": [
     "iPhone",
     "Android"
    ],
    "rating": null,
    "rating_count": 0,
-   "store": "https://apps.apple.com/us/app/sever/id6791682247?uo=4",
+   "store": "https://apps.apple.com/us/app/skip-ad-popup-panic/id6810460236?uo=4",
    "store_links": [
-    "https://apps.apple.com/us/app/sever/id6791682247?uo=4",
-    "https://play.google.com/store/apps/details?id=com.pixezia.sever",
-    "https://play.google.com/store/apps/details?id=com.pixezia.sever&amp;hl=en&amp;gl=us"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-02",
-   "delta_1d": 0,
-   "delta_7d": null,
-   "gaining": false,
-   "new": false,
-   "new_today": false,
-   "proximity": true,
-   "rank": 65
-  },
-  {
-   "slug": "skip-ad-popup-panic",
-   "name": "SKIP AD: Popup Panic",
-   "url": "https://apps.shipaton.com/app/skip-ad-popup-panic",
-   "tagline": "Your desktop is filling with fake popups.",
-   "description": "Your desktop is filling with fake popups. Find the real close controls, learn each trick, and keep the pile under control before the screen gets buried. SKIP AD is a fast portrait arcade game built for short runs and one-thumb play. It starts with simple close buttons, then introduces holds, swipes, decoys, dodges, countdowns, bosses, and hijacker encounters as each run grows.",
-   "category": "Casual",
-   "genres": [
-    "Casual"
-   ],
-   "seller": "Ducket",
-   "platforms": [
-    "Android"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "store": "https://play.google.com/store/apps/details?id=ai.ducket.skipad",
-   "store_links": [
+    "https://apps.apple.com/us/app/skip-ad-popup-panic/id6810460236?uo=4",
     "https://play.google.com/store/apps/details?id=ai.ducket.skipad",
     "https://play.google.com/store/apps/details?id=ai.ducket.skipad&amp;hl=en&amp;gl=us"
    ],
@@ -4417,7 +5541,71 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 66
+   "rank": 83
+  },
+  {
+   "slug": "sonarchy",
+   "name": "Sonarchy",
+   "url": "https://apps.shipaton.com/app/sonarchy",
+   "tagline": "Sonarchy is the music party game where one phone runs the whole room.",
+   "description": "Sonarchy is the music party game where one phone runs the whole room. The host's phone plays the music through your speaker. Everyone else scans a QR code and joins from their browser — no downloads, no accounts, no sign-ups. HOW A ROUND GOES • Pick a category — from singalong anthems to guilty pleasures • Someone's song plays through the speaker • Everyone races to guess it • Then everyone rates it, 1 to 10 • The reveal shows who rated what. Feelings get hurt. It's great. Casey and Walker — two cassette-tape hosts with strong opinions — run the show, call the scores, and keep the room loud. •",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Family",
+    "Music",
+    "Music"
+   ],
+   "seller": "treble Games",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://apps.apple.com/us/app/sonarchy/id6798001087?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/sonarchy/id6798001087?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": false,
+   "rank": 84
+  },
+  {
+   "slug": "spot-50",
+   "name": "Spot 50",
+   "url": "https://apps.shipaton.com/app/spot-50",
+   "tagline": "One page.",
+   "description": "One page. Fifty numbers, scrawled everywhere at every size and angle. You're told a number — find it and tap it before your opponent finds theirs. That's the whole game, and it's harder than it sounds. Spot 50 looks like a page torn out of a school exercise book: squared paper, red margin rule, ballpoint ink. It starts in one tap, a round takes about a minute, and nothing about it nags you. FIVE WAYS TO PLAY • Couch — pass one phone. One player hunts, the other scribbles X's until the number's found, then you swap. First grid to fifty wins. • Race — both players hunt at once, each chasing thei",
+   "category": "Puzzle",
+   "genres": [
+    "Puzzle"
+   ],
+   "seller": "PEYN TECHNOLOGIES",
+   "platforms": [
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://play.google.com/store/apps/details?id=com.spot50.app",
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.spot50.app",
+    "https://play.google.com/store/apps/details?id=com.spot50.app&amp;hl=en&amp;gl=us"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": false,
+   "rank": 85
   },
   {
    "slug": "steppin-stones",
@@ -4449,7 +5637,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 67
+   "rank": 86
   },
   {
    "slug": "synaptic-front-neural-rts",
@@ -4480,7 +5668,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 68
+   "rank": 87
   },
   {
    "slug": "syncdrive-test-your-reflexes",
@@ -4512,7 +5700,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 69
+   "rank": 88
   },
   {
    "slug": "tame-a-pet",
@@ -4547,86 +5735,78 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 70
+   "rank": 89
   },
   {
-   "slug": "tapuchino-idle-cafe-tycoon",
-   "name": "Tapuchino: Coffee Shop Tycoon",
-   "url": "https://apps.shipaton.com/app/tapuchino-idle-cafe-tycoon",
-   "tagline": "One grinder.",
-   "description": "One grinder. One brewer. One counter. A queue of impatient customers who want their coffee NOW. Tapuchino is a coffee shop tycoon that starts hands-on. Grind the beans, pull the shots, serve the customers and decide what to buy next. Then hire staff and automate the cafe as your business grows. RUN THE LINE Coffee moves through your cafe one stage at a time: - Tap the grinder to turn beans into fresh grounds - Tap the brewer to turn grounds into a hot cup - Tap the counter to sell that cup to a waiting customer Every machine runs on its own timer. The trick is overlapping them: start another g",
+   "slug": "the-flying-boy-of-vyn-5",
+   "name": "The Flying Boy of VYN-5",
+   "url": "https://apps.shipaton.com/app/the-flying-boy-of-vyn-5",
+   "tagline": "Take flight as Vesper in The Flying Boy of VYN-5, a fast-paced action game where mastering movement is your greatest weapon.",
+   "description": "Take flight as Vesper in The Flying Boy of VYN-5, a fast-paced action game where mastering movement is your greatest weapon. Powered by rocket boots, carve through an endless orbital battlefield. Boost into enemies, brake into a hover, dodge incoming missiles, and turn a close escape into your next attack. MAKE EVERY MOVE COUNT Build momentum, bank through danger, and unleash your laser while staying on the move. Precise flight controls let you switch from sweeping turns to carefully aimed attacks. TURN THE BATTLEFIELD INTO A WEAPON Grab asteroids and incoming missiles, charge your throw, and ",
    "category": "Games",
    "genres": [
     "Games",
-    "Simulation",
-    "Entertainment",
-    "Casual"
-   ],
-   "seller": "Andrei Karavaichyk",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "store": "https://apps.apple.com/us/app/tapuchino-coffee-shop-tycoon/id6793236238?uo=4",
-   "store_links": [
-    "https://apps.apple.com/us/app/tapuchino-coffee-shop-tycoon/id6793236238?uo=4",
-    "https://play.google.com/store/apps/details?id=com.tapuchino.time",
-    "https://play.google.com/store/apps/details?id=com.tapuchino.time&amp;hl=en&amp;gl=us"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-14",
-   "delta_1d": 0,
-   "delta_7d": null,
-   "gaining": false,
-   "new": false,
-   "new_today": false,
-   "proximity": false,
-   "rank": 71
-  },
-  {
-   "slug": "the-last-line-zombie-siege",
-   "name": "The Last Line: Zombie Siege",
-   "url": "https://apps.shipaton.com/app/the-last-line-zombie-siege",
-   "tagline": "The street fills faster than you can clear it.",
-   "description": "The street fills faster than you can clear it. One barricade stands between them and you. Fight close in third person, or drop into first person behind the wall and aim down the line. Place and repair turrets mid-wave, and fire the mounted flamethrower when they reach the barricade. Hold until sunrise. Then search the city for whatever gets you through tomorrow night. DAY: SEARCH THE CITY Sunrise lifts the camera to a top-down view of the ruins, and the clock starts. Every building you open costs hours out of a limited budget, so the search is always a trade: Scrap for upgrades, Bandages to st",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Adventure",
     "Action",
-    "Entertainment"
+    "Entertainment",
+    "Adventure"
    ],
-   "seller": "Hakan Erunsal",
+   "seller": "Edwin Chan",
    "platforms": [
-    "iPhone",
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://apps.apple.com/us/app/the-flying-boy-of-vyn-5/id6808698764?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/the-flying-boy-of-vyn-5/id6808698764?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
+   "delta_7d": null,
+   "gaining": false,
+   "new": true,
+   "new_today": false,
+   "proximity": false,
+   "rank": 90
+  },
+  {
+   "slug": "unknown-agi-inspired-puzzle",
+   "name": "UNKNOWN: AGI-Inspired Puzzle",
+   "url": "https://apps.shipaton.com/app/unknown-agi-inspired-puzzle",
+   "tagline": "This game does not explain itself.",
+   "description": "This game does not explain itself. No tutorial, no arrows, no goal marker you can trust. You are given shapes whose names and roles you do not know. You move, you bump into things, you watch what changes, and you start to guess how this world works. That guessing is the game. - 10 worlds x 5 levels: 50 levels in all - Fully turn-based. Nothing moves until you do - Every world runs on a different law: invisible walls, rewired causes, disguised shapes, order that the world remembers, a map you only see for two turns, a goal you must infer, a machine that keeps running - What you work out in one ",
+   "category": "Puzzle",
+   "genres": [
+    "Puzzle"
+   ],
+   "seller": "mizumotter",
+   "platforms": [
     "Android"
    ],
    "rating": null,
    "rating_count": 0,
-   "store": "https://apps.apple.com/us/app/the-last-line-zombie-siege/id6756308513?uo=4",
+   "store": "https://play.google.com/store/apps/details?id=work.solocamp.unknownworld",
    "store_links": [
-    "https://apps.apple.com/us/app/the-last-line-zombie-siege/id6756308513?uo=4",
-    "https://play.google.com/store/apps/details?id=com.rigbak.thelastline",
-    "https://play.google.com/store/apps/details?id=com.rigbak.thelastline&amp;hl=en&amp;gl=us"
+    "https://play.google.com/store/apps/details?id=work.solocamp.unknownworld",
+    "https://play.google.com/store/apps/details?id=work.solocamp.unknownworld&amp;hl=en&amp;gl=us"
    ],
    "stale": false,
-   "first_seen": "2026-09-12",
-   "delta_1d": 0,
+   "first_seen": "2026-09-19",
+   "delta_1d": null,
    "delta_7d": null,
    "gaining": false,
-   "new": false,
+   "new": true,
    "new_today": false,
    "proximity": false,
-   "rank": 72
+   "rank": 91
   },
   {
    "slug": "verdara-rescue",
-   "name": "VERDARA RESCUE",
+   "name": "VADA IO",
    "url": "https://apps.shipaton.com/app/verdara-rescue",
-   "tagline": "Drive into the wilds of Verdara in a rover survival game built around rescue, risk, and quick decisions.",
-   "description": "Drive into the wilds of Verdara in a rover survival game built around rescue, risk, and quick decisions. Hold and drag to steer while your weapons fire automatically. Rescue stranded crew to repair your rover and shape your build, then face the hunters drawn to each rescue signal. CHOOSE YOUR CREW Fill two crew seats with engineers, gunners, or navigators. Combine their strengths with the upgrades you earn during each run. FIGHT FOR BOSS CORES Convert a fallen boss core into experience, or carry it to a relay for greater rewards. Rival AI rovers can seize the cargo, and a heavy core slows your",
+   "tagline": "VADA IO is a single-player arena survival shooter with AI opponents.",
+   "description": "VADA IO is a single-player arena survival shooter with AI opponents. Hold and drag to drive your rover while weapons fire automatically. Rescue a two-seat crew, collect boss cores for instant XP, and outlast the shrinking safe zone. BUILD YOUR CREW Fill two crew seats with engineers, gunners, or navigators. Combine their strengths with the upgrades you earn during each run. FIGHT AND GROW Battle rival AI rovers and bosses. Earn XP to level up: your rover visibly grows from a compact vehicle into a larger battle machine. Choose from randomized upgrades to shape each run. Rover size has a cap; u",
    "category": "Games",
    "genres": [
     "Games",
@@ -4639,9 +5819,9 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "store": "https://apps.apple.com/us/app/verdara-rescue/id6810076187?uo=4",
+   "store": "https://apps.apple.com/us/app/vada-io/id6810076187?uo=4",
    "store_links": [
-    "https://apps.apple.com/us/app/verdara-rescue/id6810076187?uo=4"
+    "https://apps.apple.com/us/app/vada-io/id6810076187?uo=4"
    ],
    "stale": false,
    "first_seen": "2026-09-14",
@@ -4650,27 +5830,32 @@
    "gaining": false,
    "new": false,
    "new_today": false,
-   "proximity": false,
-   "rank": 73
+   "proximity": true,
+   "rank": 92
   },
   {
    "slug": "vibestep",
-   "name": "VibeStep",
+   "name": "VibeStep: Dance Maker",
    "url": "https://apps.shipaton.com/app/vibestep",
    "tagline": "Design a dance, one joint at a time.",
    "description": "Design a dance, one joint at a time. VibeStep is a slow social network built around motion. You pose a 2D stick figure frame by frame, give it a beat, and share it. No endless scroll of noise — just moves people actually made. MAKE A DANCE • Drag joints directly to set each keyframe pose • Start with 4 keyframes, expand to 8 or 16 • Doodle a stage behind your dancer, or draw a different backdrop per frame • Dress your dancer with hats, tops, gloves, shoes and more BUILD THE BEAT • Sequence up to 6 instrument tracks on the same grid as your keyframes • Piano, violin, viola, synth, kick, clap, h",
-   "category": "Casual",
+   "category": "Games",
    "genres": [
+    "Games",
+    "Music",
+    "Music",
     "Casual"
    ],
-   "seller": "eyedealist",
+   "seller": "kwoun ukjin",
    "platforms": [
+    "iPhone",
     "Android"
    ],
    "rating": null,
    "rating_count": 0,
-   "store": "https://play.google.com/store/apps/details?id=com.eyedealisty.vibestep",
+   "store": "https://apps.apple.com/us/app/vibestep-dance-maker/id6808028411?uo=4",
    "store_links": [
+    "https://apps.apple.com/us/app/vibestep-dance-maker/id6808028411?uo=4",
     "https://play.google.com/store/apps/details?id=com.eyedealisty.vibestep",
     "https://play.google.com/store/apps/details?id=com.eyedealisty.vibestep&amp;hl=en&amp;gl=us"
    ],
@@ -4682,7 +5867,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 74
+   "rank": 93
   },
   {
    "slug": "wordscend-daily-word-climb",
@@ -4713,7 +5898,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "rank": 75
+   "rank": 94
   },
   {
    "slug": "zanshin-spirit-leaf-blade",
@@ -4748,7 +5933,7 @@
    "new": false,
    "new_today": false,
    "proximity": true,
-   "rank": 76
+   "rank": 95
   },
   {
    "slug": "android-com-petaflo-pawpawarena",
@@ -4779,7 +5964,7 @@
    "new": false,
    "new_today": false,
    "proximity": true,
-   "rank": 77
+   "rank": 96
   }
  ]
 }

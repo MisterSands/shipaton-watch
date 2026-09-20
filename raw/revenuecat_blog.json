@@ -1,9 +1,16 @@
 {
  "source": "revenuecat_blog",
  "url": "https://www.revenuecat.com/blog/rss.xml",
- "fetched_at": "2026-09-18T09:30:01Z",
- "count": 4,
+ "fetched_at": "2026-09-20T09:30:01Z",
+ "count": 5,
  "items": [
+  {
+   "title": "Seven more ways to win Shipaton",
+   "link": "https://www.revenuecat.com/blog/company/seven-more-ways-to-win-shipaton",
+   "date": "Fri, 18 Sep 2026 12:42:28 GMT",
+   "author": "Perttu Lähteenlahti",
+   "summary": "You may not need another app. One useful integration, growth experiment, or sharper audience could put the app you're already building in contention for another prize."
+  },
   {
    "title": "Gurwi: How to turn building in public into a Shipaton #BuildInPublic win",
    "link": "https://www.revenuecat.com/blog/company/gurwi-build-in-public-shipaton",

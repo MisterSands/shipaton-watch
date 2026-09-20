@@ -1,9 +1,16 @@
 {
  "source": "medium",
  "url": "https://medium.com/feed/tag/shipaton",
- "fetched_at": "2026-09-18T09:30:01Z",
+ "fetched_at": "2026-09-20T09:30:01Z",
  "count": 10,
  "items": [
+  {
+   "title": "No blockchain: a hash chain, two append-only ledgers, and the 21 rows that failed my own audit",
+   "link": "https://medium.com/@WorldFishingMap/no-blockchain-a-hash-chain-two-append-only-ledgers-and-the-21-rows-that-failed-my-own-audit-08e2e7f5d73b?source=rss------shipaton-5",
+   "date": "Sat, 19 Sep 2026 06:54:25 GMT",
+   "author": "Naoto Yamabe",
+   "summary": "My fishing app gives points for verified catches. Points decide what you can see on the map. So the first question anyone sensible asks is…   Continue reading on Medium »"
+  },
   {
    "title": "RevenueCat Shipaton 2026",
    "link": "https://youthinnolab.medium.com/revenuecat-shipaton-2026-95e1cf16f386?source=rss------shipaton-5",
@@ -66,13 +73,6 @@
    "date": "Fri, 21 Aug 2026 17:58:19 GMT",
    "author": "Naoto Yamabe",
    "summary": "A flatfish has both eyes on one side of its head. It lies on the seabed with that side facing up, and only that side carries colour and…   Continue reading on Medium »"
-  },
-  {
-   "title": "Why RevenueCat Shipaton 2026 might be the best thing to happen to Indie Devs this year?",
-   "link": "https://medium.com/@yourbrownieee/why-revenuecat-shipaton-2026-might-be-the-best-thing-to-happen-to-indie-devs-this-year-2b79220c5699?source=rss------shipaton-5",
-   "date": "Thu, 20 Aug 2026 09:22:39 GMT",
-   "author": "brownieee",
-   "summary": "Most hackathons give you a weekend to build a type nobody ever uses. Shipathon asks you to do one thing that actually matters: ship a real…   Continue reading on Medium »"
   }
  ]
 }

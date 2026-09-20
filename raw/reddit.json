@@ -1,7 +1,7 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "2026-09-18T09:30:01Z",
+ "fetched_at": "2026-09-20T09:30:01Z",
  "count": 24,
  "items": [
   {
@@ -17,6 +17,27 @@
    "date": "2026-08-07T13:46:11+00:00",
    "author": "/u/IamAngusU",
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
+  },
+  {
+   "title": "We're making a focus app. Learning to market it means spending a lot of time on TikTok.",
+   "link": "https://www.reddit.com/r/buildinpublic/comments/1wkgcpk/were_making_a_focus_app_learning_to_market_it/",
+   "date": "2026-09-19T08:12:15+00:00",
+   "author": "/u/AlexBossov",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>There&#39;s a slightly funny part to building a focus app: we&#39;re now trying to get people&#39;s attention on the same platforms people often want a break from.</p> <p>My friend and I are building Momo: ADHD Body Doubling and taking part in Shipaton. We&#39;ve reached 30 users and our first paying subscriber. It&#39;s the first time an app we&#39;ve made has ea"
+  },
+  {
+   "title": "30 users. 1 paying subscriber. My friend and I are probably too happy about this.",
+   "link": "https://www.reddit.com/r/SideProject/comments/1wkgbtp/30_users_1_paying_subscriber_my_friend_and_i_are/",
+   "date": "2026-09-19T08:10:50+00:00",
+   "author": "/u/AlexBossov",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>My friend and I are building Momo: ADHD Body Doubling, a focus app, and we just got our first paying subscriber.</p> <p>We have about 30 users. One of them <strong>paid</strong>. This is the first app we&#39;ve made that&#39;s earned us anything, so yeah, we&#39;re pretty excited.</p> <p>We&#39;re also taking part in Shipaton, RevenueCat&#39;s mobile app hackathon"
+  },
+  {
+   "title": "Looking for unique app ideas for RevenueCat Shipaton 2026 — what would you build?",
+   "link": "https://www.reddit.com/r/AppBusiness/comments/1wjy9dc/looking_for_unique_app_ideas_for_revenuecat/",
+   "date": "2026-09-18T18:29:03+00:00",
+   "author": "/u/starkk46",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p> <p>My team and I are planning to participate in the RevenueCat Shipaton 2026, and we&#39;re currently exploring ideas for a mobile app.</p> <p>The basic requirement is to build a new mobile app and integrate RevenueCat for in-app purchases/subscriptions or RevenueCat Ads.</p> <p>We don&#39;t want to make another generic AI chatbot or simple “AI w"
   },
   {
    "title": "Shipaton 2026: Weekly Build in Public Thread — Friday, Sep 18, 2026",
@@ -150,27 +171,6 @@
    "date": "2026-09-11T06:30:56+00:00",
    "author": "/u/AutoModerator",
    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Welcome to this week&#39;s <strong>Shipaton Build in Public Thread</strong>! Everyone is welcome to share an update on their current project here. No need to participate in the hackathon to share, but if you decide to enter sharing updates consistently is a great way to increase your chances of winning the <strong>#BuildInPublic</strong> Award</p> <p>Please share "
-  },
-  {
-   "title": "[Tester swap] Need 12 testers for a \"which credit card should I actually get\" app — happy to test yours back",
-   "link": "https://www.reddit.com/r/GooglePlayClosedTest/comments/1wcl1o9/tester_swap_need_12_testers_for_a_which_credit/",
-   "date": "2026-09-10T14:37:40+00:00",
-   "author": "/u/yogidreamz",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/GooglePlayClosedTest/comments/1wcl1o9/tester_swap_need_12_testers_for_a_which_credit/\"> <img src=\"https://preview.redd.it/jxoml6hafpoh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=7ae31b301c3d3af619994a7c544b59e7d364428c\" alt=\"[Tester swap] Need 12 testers for a &quot;which credit card should I actually get&quot; app — happ"
-  },
-  {
-   "title": "[Tester swap] Need 12 testers for a \"which credit card should I actually get\" app — happy to test yours back",
-   "link": "https://www.reddit.com/r/AndroidClosedTesting/comments/1wck86b/tester_swap_need_12_testers_for_a_which_credit/",
-   "date": "2026-09-10T14:06:47+00:00",
-   "author": "/u/yogidreamz",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AndroidClosedTesting/comments/1wck86b/tester_swap_need_12_testers_for_a_which_credit/\"> <img src=\"https://preview.redd.it/gjn0196r9poh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=035682a20d7883c6825e68ab47e2b2d17752fda5\" alt=\"[Tester swap] Need 12 testers for a &quot;which credit card should I actually get&quot; app — happ"
-  },
-  {
-   "title": "Hangar: Deploy Control is live on the App Store.Approved on the first submission.",
-   "link": "https://www.reddit.com/r/iOSAppsMarketing/comments/1wcjsaq/hangar_deploy_control_is_live_on_the_app/",
-   "date": "2026-09-10T13:50:06+00:00",
-   "author": "/u/hibaabbas1306",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/iOSAppsMarketing/comments/1wcjsaq/hangar_deploy_control_is_live_on_the_app/\"> <img src=\"https://preview.redd.it/o523p0ar6poh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a9c854ed45f7e4beb15dd61fde7a099b3a19c06b\" alt=\"Hangar: Deploy Control is live on the App Store.Approved on the first submission.\" title=\"Hangar: Deploy Control is live on the"
   }
  ]
 }
