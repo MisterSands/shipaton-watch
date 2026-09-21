@@ -1,7 +1,7 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "2026-09-20T09:30:01Z",
+ "fetched_at": "2026-09-21T09:30:01Z",
  "count": 24,
  "items": [
   {
@@ -17,6 +17,27 @@
    "date": "2026-08-07T13:46:11+00:00",
    "author": "/u/IamAngusU",
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
+  },
+  {
+   "title": "MY APP IS LIVE #shipaton #hackathon",
+   "link": "https://www.reddit.com/r/promoteMyApp/comments/1wlv6it/my_app_is_live_shipaton_hackathon/",
+   "date": "2026-09-20T22:38:31+00:00",
+   "author": "/u/Untold_8128",
+   "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Untold_8128\"> /u/Untold_8128 </a> &#32; to &#32; <a href=\"https://www.reddit.com/r/promoteMyApp/\"> r/promoteMyApp </a> <br/> <span><a href=\"/r/buildinpublic/comments/1wlv65d/my_app_is_live_shipaton_hackathon/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/promoteMyApp/comments/1wlv6it/my_app_is_live_shipaton_hackathon/"
+  },
+  {
+   "title": "MY APP IS LIVE #shipaton #hackathon",
+   "link": "https://www.reddit.com/r/buildinpublic/comments/1wlv65d/my_app_is_live_shipaton_hackathon/",
+   "date": "2026-09-20T22:38:05+00:00",
+   "author": "/u/Untold_8128",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Building an anonymous emotional support app made me rethink why people open up to strangers </p> <p>I&#39;ve been building a project called <strong>Untold</strong>, an anonymous emotional support platform.</p> <p>The idea started with a simple question:</p> <p><strong>Why do some people find it easier to talk to a stranger than someone they know?</strong></p> <p>S"
+  },
+  {
+   "title": "My friend and I are building a focus app where a little raccoon keeps you company. Here's how it looks so far.",
+   "link": "https://www.reddit.com/r/SideProject/comments/1wld22k/my_friend_and_i_are_building_a_focus_app_where_a/",
+   "date": "2026-09-20T10:02:40+00:00",
+   "author": "/u/AlexBossov",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/SideProject/comments/1wld22k/my_friend_and_i_are_building_a_focus_app_where_a/\"> <img src=\"https://external-preview.redd.it/emN4eXh5YXRlbnFoMdkUYJgh9JShpqONVF7e7tMdyFI77KkAQPPb-FNHeaKy.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9cb9b1d22ab1c35f04478cfd7f10b1862361ba9c\" alt=\"My friend and I are building a focus app where a little raccoon keep"
   },
   {
    "title": "We're making a focus app. Learning to market it means spending a lot of time on TikTok.",
@@ -150,27 +171,6 @@
    "date": "2026-09-12T18:21:49+00:00",
    "author": "/u/Untold_8128",
    "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been working on something called Untold.</p> <p>The idea started from a simple observation:</p> <p>Sometimes talking to someone you know is actually harder than talking to a stranger.</p> <p>You worry about being judged, becoming a burden, or having people treat you differently afterward.</p> <p>So we built an anonymous emotional-support platform where pe"
-  },
-  {
-   "title": "We shipped our Shipaton app in 29 days. Now the harder part starts: finding users",
-   "link": "https://www.reddit.com/r/buildinpublic/comments/1weaco8/we_shipped_our_shipaton_app_in_29_days_now_the/",
-   "date": "2026-09-12T11:40:01+00:00",
-   "author": "/u/Sudden-Abalone-7692",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>About a month ago I started building in public because of RevenueCat’s Shipaton. I’d had the idea for 10Goals for a while, but Shipaton was the push to actually build it.</p> <p>10Goals is a goal tracker for people who already use task managers, project tools, calendars and reminders, but still lose sight of their long-term goals.</p> <p>That was my problem too. I"
-  },
-  {
-   "title": "We're building a local-multiplayer party game with no backend. Three architecture calls that shaped the whole app.",
-   "link": "https://www.reddit.com/r/buildinpublic/comments/1wdr6xy/were_building_a_localmultiplayer_party_game_with/",
-   "date": "2026-09-11T20:06:21+00:00",
-   "author": "/u/bernardofens",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Five of us are building an iOS party game for RevenueCat&#39;s Shipaton. Everyone</p> <p>plays in the same physical room, each on their own iPhone. No server, no</p> <p>accounts beyond Sign in with Apple, no chat. That constraint forced a few</p> <p>decisions I haven&#39;t seen discussed much, so here they are.</p> <p>**1. Transport: GameKit → Multipeer → Network "
-  },
-  {
-   "title": "Shipaton 2026: Weekly Build in Public Thread — Friday, Sep 11, 2026",
-   "link": "https://www.reddit.com/r/AppBusiness/comments/1wd89lz/shipaton_2026_weekly_build_in_public_thread/",
-   "date": "2026-09-11T06:30:56+00:00",
-   "author": "/u/AutoModerator",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Welcome to this week&#39;s <strong>Shipaton Build in Public Thread</strong>! Everyone is welcome to share an update on their current project here. No need to participate in the hackathon to share, but if you decide to enter sharing updates consistently is a great way to increase your chances of winning the <strong>#BuildInPublic</strong> Award</p> <p>Please share "
   }
  ]
 }

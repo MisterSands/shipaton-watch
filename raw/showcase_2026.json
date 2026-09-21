@@ -1,35 +1,33 @@
 {
  "source": "showcase_2026",
  "url": "https://apps.shipaton.com/2026",
- "fetched_at": "2026-09-20T09:30:01Z",
+ "fetched_at": "2026-09-21T09:30:01Z",
  "declared_total": 792,
  "count": 792,
  "new_today": [],
  "apps": [
   {
-   "slug": "suppai-ai-supplement-guide",
-   "name": "SuppAI: AI Supplement Guide",
-   "url": "https://apps.shipaton.com/app/suppai-ai-supplement-guide",
-   "category": "Health & Fitness",
-   "developer": "Decent4 LLC",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 5.0,
-   "rating_count": 1,
-   "store_links": [
-    "https://apps.apple.com/us/app/suppai-ai-supplement-guide/id6795253143?uo=4"
-   ],
-   "description": "Supplements, finally personal. SuppAI is a personalized supplement guide and daily supplement tracker built around your goals, diet, sleep, stress, training, medications, labs, budget, and optional Apple Health context. WHAT YOU GET • 4–10 personalized picks ranked by priority, budget, and the strength of published human research • Suggested doses, timing, estimated cost, and cautions for every recommendation • A plain-English reason for every pick • Evidence grades—strong, moderate, or emerging—for each specific use • A “skip for now” list to help you avoid unnecessary products • A week-by-week timeline and daily checklist • Questions about your saved plan answered in context HOW EVIDENCE GRADES WORK Evidence grades summarize published human research for each specific use. Strong means consistent randomized trials or meta-analyses; moderate means mixed or smaller trials; emerging means early or limited evidence. Grades are informational and do not predict individual results. APPLE HEALTH, ON YOUR TERMS On iPhone, Apple Health is optional and read-only. With permission, SuppAI may use age range, biological sex, height, weight, sleep, resting heart rate, heart-rate variability, and ",
-   "first_seen": "2026-09-09",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
    "slug": "terravel-geography-quiz-game",
    "url": "https://apps.shipaton.com/app/terravel-geography-quiz-game",
    "first_seen": "2026-09-19"
+  },
+  {
+   "slug": "travl-country-days-tracker",
+   "name": "Travl: Country Days Tracker",
+   "url": "https://apps.shipaton.com/app/travl-country-days-tracker",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/travl-country-days-tracker/id6797151128?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-12",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
   },
   {
    "slug": "zubdah",
@@ -2252,19 +2250,21 @@
    "gaining": false
   },
   {
-   "slug": "travl-country-days-tracker",
-   "name": "Travl: Country Days Tracker",
-   "url": "https://apps.shipaton.com/app/travl-country-days-tracker",
-   "category": "",
-   "developer": "",
-   "platforms": [],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/travl-country-days-tracker/id6797151128?uo=4"
+   "slug": "suppai-ai-supplement-guide",
+   "name": "SuppAI: AI Supplement Guide",
+   "url": "https://apps.shipaton.com/app/suppai-ai-supplement-guide",
+   "category": "Health & Fitness",
+   "developer": "Decent4 LLC",
+   "platforms": [
+    "iPhone"
    ],
-   "description": "",
-   "first_seen": "2026-09-12",
+   "rating": 5.0,
+   "rating_count": 1,
+   "store_links": [
+    "https://apps.apple.com/us/app/suppai-ai-supplement-guide/id6795253143?uo=4"
+   ],
+   "description": "Supplements, finally personal. SuppAI is a personalized supplement guide and daily supplement tracker built around your goals, diet, sleep, stress, training, medications, labs, budget, and optional Apple Health context. WHAT YOU GET • 4–10 personalized picks ranked by priority, budget, and the strength of published human research • Suggested doses, timing, estimated cost, and cautions for every recommendation • A plain-English reason for every pick • Evidence grades—strong, moderate, or emerging—for each specific use • A “skip for now” list to help you avoid unnecessary products • A week-by-week timeline and daily checklist • Questions about your saved plan answered in context HOW EVIDENCE GRADES WORK Evidence grades summarize published human research for each specific use. Strong means consistent randomized trials or meta-analyses; moderate means mixed or smaller trials; emerging means early or limited evidence. Grades are informational and do not predict individual results. APPLE HEALTH, ON YOUR TERMS On iPhone, Apple Health is optional and read-only. With permission, SuppAI may use age range, biological sex, height, weight, sleep, resting heart rate, heart-rate variability, and ",
+   "first_seen": "2026-09-09",
    "gamey": false,
    "is_game": false,
    "gaining": false
