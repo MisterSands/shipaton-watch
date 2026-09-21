@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T09:30:01Z",
+ "generated_at": "2026-09-21T20:32:47Z",
  "date": "2026-09-21",
  "stale": false,
  "error": "",
@@ -8,10 +8,23 @@
  "apps_2026": 792,
  "games_all_years": 140,
  "count": 96,
- "rated": 37,
+ "rated": 40,
  "new_today": [],
- "gaining": [],
+ "gaining": [
+  "nitelore",
+  "unlike",
+  "pocketful-daily-puzzles",
+  "findshiba",
+  "golden-mile-traffic-racer",
+  "the-flying-boy-of-vyn-5"
+ ],
  "failed": 0,
+ "stores": {
+  "app_store_ok": true,
+  "app_store": 74,
+  "play_tried": 50,
+  "play_failed": 0
+ },
  "games": [
   {
    "rank": 1,
@@ -32,10 +45,27 @@
     "iPhone",
     "Android"
    ],
-   "rating": 4.2,
-   "rating_count": 336,
-   "delta_1d": 0,
+   "rating": 4.22,
+   "rating_count": 343,
+   "ios": {
+    "rating": 3,
+    "count": 2,
+    "released": "2026-09-10",
+    "version": "1.0.0",
+    "url": "https://apps.apple.com/us/app/the-last-line-zombie-siege/id6756308513"
+   },
+   "play": {
+    "rating": 4.23,
+    "count": 341,
+    "installs": "10K+",
+    "url": "https://play.google.com/store/apps/details?id=com.rigbak.thelastline"
+   },
+   "installs": "10K+",
+   "showcase_count": 336,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-12",
    "new": false,
    "new_today": false,
@@ -61,14 +91,26 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 4.9,
-   "rating_count": 28,
-   "delta_1d": 0,
-   "delta_7d": 2,
+   "rating": 4.93,
+   "rating_count": 29,
+   "ios": {
+    "rating": 4.93,
+    "count": 29,
+    "released": "2026-08-15",
+    "version": "1.8",
+    "url": "https://apps.apple.com/us/app/nitelore/id6790147739"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 28,
+   "delta_1d": 1,
+   "delta_7d": 3,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
-   "gaining": false,
+   "gaining": true,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4",
    "stale": false
@@ -90,14 +132,26 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 4.8,
-   "rating_count": 19,
-   "delta_1d": 0,
-   "delta_7d": 13,
+   "rating": 4.84,
+   "rating_count": 25,
+   "ios": {
+    "rating": 4.84,
+    "count": 25,
+    "released": "2026-08-15",
+    "version": "1.08",
+    "url": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 19,
+   "delta_1d": 6,
+   "delta_7d": 19,
+   "delta_1d_ios": 6,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
-   "gaining": false,
+   "gaining": true,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409?uo=4",
    "stale": false
@@ -122,8 +176,20 @@
    ],
    "rating": 4.5,
    "rating_count": 8,
+   "ios": {
+    "rating": 4.5,
+    "count": 8,
+    "released": "2026-08-25",
+    "version": "1.0.0",
+    "url": "https://apps.apple.com/us/app/10-games/id6751342861"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 8,
    "delta_1d": 0,
    "delta_7d": 1,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -149,8 +215,19 @@
    ],
    "rating": 3.0,
    "rating_count": 7,
+   "ios": null,
+   "play": {
+    "rating": 3.0,
+    "count": 7,
+    "installs": "1K+",
+    "url": "https://play.google.com/store/apps/details?id=com.climacus.mypetdino"
+   },
+   "installs": "1K+",
+   "showcase_count": 7,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -178,9 +255,26 @@
     "Android"
    ],
    "rating": 4.0,
-   "rating_count": 5,
-   "delta_1d": 0,
-   "delta_7d": 1,
+   "rating_count": 6,
+   "ios": {
+    "rating": 4,
+    "count": 6,
+    "released": "2026-09-03",
+    "version": "3.0.0",
+    "url": "https://apps.apple.com/us/app/offsuit-blackjack-21/id6749341906"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "100+",
+    "url": "https://play.google.com/store/apps/details?id=com.bjack.app"
+   },
+   "installs": "100+",
+   "showcase_count": 5,
+   "delta_1d": null,
+   "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -210,8 +304,25 @@
    ],
    "rating": 4.2,
    "rating_count": 5,
-   "delta_1d": 0,
+   "ios": {
+    "rating": 4.2,
+    "count": 5,
+    "released": "2026-09-11",
+    "version": "1.6.2",
+    "url": "https://apps.apple.com/us/app/tapuchino-idle-cafe-tycoon/id6793236238"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "50+",
+    "url": "https://play.google.com/store/apps/details?id=com.tapuchino.time"
+   },
+   "installs": "50+",
+   "showcase_count": 5,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-14",
    "new": false,
    "new_today": false,
@@ -222,6 +333,47 @@
   },
   {
    "rank": 8,
+   "slug": "pocketful-daily-puzzles",
+   "name": "Pocketful: Daily Puzzles",
+   "url": "https://apps.shipaton.com/app/pocketful-daily-puzzles",
+   "tagline": "A pocketful of calm logic puzzles.",
+   "description": "A pocketful of calm logic puzzles. Pocketful gathers the classics - Sudoku, Nonograms, and a shelf of beautiful logic games - into one quiet, thoughtfully made app. No lives, no countdowns, no pressure. Just you and a good puzzle. NEW CHALLENGES EVERY DAY Every game gets a fresh daily challenge each day - the same board for everyone, in the difficulty you choose. Finish any one of them to keep your streak alive, and watch your calendar fill up. A SHELF OF GAMES IN ONE APP • Sudoku - the classic, with notes, smart hints, and clean boards • Nonograms - reveal hidden pixel pictures, line by line ",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Board"
+   ],
+   "seller": "Ben Yim",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 4,
+   "ios": {
+    "rating": 5,
+    "count": 4,
+    "released": "2026-08-06",
+    "version": "1.3",
+    "url": "https://apps.apple.com/us/app/pocketful-daily-puzzles/id6792436106"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 3,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/pocketful-daily-puzzles/id6792436106?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 9,
    "slug": "chess-coach-play-learn",
    "name": "Chess Coach: Play & Learn",
    "url": "https://apps.shipaton.com/app/chess-coach-play-learn",
@@ -238,10 +390,22 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 3.7,
+   "rating": 3.67,
    "rating_count": 3,
+   "ios": {
+    "rating": 3.67,
+    "count": 3,
+    "released": "2026-08-05",
+    "version": "1.0.3",
+    "url": "https://apps.apple.com/us/app/chess-coach-play-learn/id6789547867"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 3,
    "delta_1d": 0,
    "delta_7d": 1,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -251,7 +415,7 @@
    "stale": false
   },
   {
-   "rank": 9,
+   "rank": 10,
    "slug": "chess-rupt-arcade-chess",
    "name": "CHESS/RUPT: Arcade Chess",
    "url": "https://apps.shipaton.com/app/chess-rupt-arcade-chess",
@@ -269,8 +433,20 @@
    ],
    "rating": 5.0,
    "rating_count": 3,
+   "ios": {
+    "rating": 5,
+    "count": 3,
+    "released": "2026-08-20",
+    "version": "1.1",
+    "url": "https://apps.apple.com/us/app/chess-rupt-arcade-chess/id6779024949"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 3,
    "delta_1d": 0,
    "delta_7d": 1,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -280,7 +456,7 @@
    "stale": false
   },
   {
-   "rank": 10,
+   "rank": 11,
    "slug": "consoly-coding-challenges",
    "name": "Consoly: Coding Challenges",
    "url": "https://apps.shipaton.com/app/consoly-coding-challenges",
@@ -300,8 +476,25 @@
    ],
    "rating": 5.0,
    "rating_count": 3,
-   "delta_1d": 0,
-   "delta_7d": 0,
+   "ios": {
+    "rating": 5,
+    "count": 3,
+    "released": "2026-04-14",
+    "version": "1.0.98",
+    "url": "https://apps.apple.com/us/app/consoly-coding-challenges/id6761283615"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "1K+",
+    "url": "https://play.google.com/store/apps/details?id=app.consoly"
+   },
+   "installs": "1K+",
+   "showcase_count": 3,
+   "delta_1d": null,
+   "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -311,7 +504,7 @@
    "stale": false
   },
   {
-   "rank": 11,
+   "rank": 12,
    "slug": "nomikit-tiny-things-you-build",
    "name": "NomiKit: Tiny Things You Build",
    "url": "https://apps.shipaton.com/app/nomikit-tiny-things-you-build",
@@ -330,43 +523,26 @@
    ],
    "rating": 5.0,
    "rating_count": 3,
+   "ios": {
+    "rating": 5,
+    "count": 3,
+    "released": "2026-08-21",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/nomikit-tiny-things-you-build/id6798403681"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 3,
    "delta_1d": 0,
    "delta_7d": 0,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/nomikit-tiny-things-you-build/id6798403681?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 12,
-   "slug": "pocketful-daily-puzzles",
-   "name": "Pocketful: Daily Puzzles",
-   "url": "https://apps.shipaton.com/app/pocketful-daily-puzzles",
-   "tagline": "A pocketful of calm logic puzzles.",
-   "description": "A pocketful of calm logic puzzles. Pocketful gathers the classics - Sudoku, Nonograms, and a shelf of beautiful logic games - into one quiet, thoughtfully made app. No lives, no countdowns, no pressure. Just you and a good puzzle. NEW CHALLENGES EVERY DAY Every game gets a fresh daily challenge each day - the same board for everyone, in the difficulty you choose. Finish any one of them to keep your streak alive, and watch your calendar fill up. A SHELF OF GAMES IN ONE APP • Sudoku - the classic, with notes, smart hints, and clean boards • Nonograms - reveal hidden pixel pictures, line by line ",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Puzzle",
-    "Board"
-   ],
-   "seller": "Ben Yim",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 5.0,
-   "rating_count": 3,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "first_seen": "2026-09-19",
-   "new": true,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/pocketful-daily-puzzles/id6792436106?uo=4",
    "stale": false
   },
   {
@@ -388,8 +564,20 @@
    ],
    "rating": 5.0,
    "rating_count": 3,
+   "ios": {
+    "rating": 5,
+    "count": 3,
+    "released": "2026-08-13",
+    "version": "1.2",
+    "url": "https://apps.apple.com/us/app/poodoku/id6788734619"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 3,
    "delta_1d": 0,
    "delta_7d": 0,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -417,8 +605,20 @@
    ],
    "rating": 5.0,
    "rating_count": 3,
+   "ios": {
+    "rating": 5,
+    "count": 3,
+    "released": "2026-08-12",
+    "version": "1.1.1",
+    "url": "https://apps.apple.com/us/app/tub-pirates-sea-battles/id6792769794"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 3,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-12",
    "new": false,
    "new_today": false,
@@ -444,10 +644,22 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 4.0,
+   "rating": 3.0,
    "rating_count": 2,
+   "ios": {
+    "rating": 3,
+    "count": 2,
+    "released": "2026-08-31",
+    "version": "1.9.0",
+    "url": "https://apps.apple.com/us/app/carpet-diem/id6788496964"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 2,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -476,8 +688,20 @@
    ],
    "rating": 3.0,
    "rating_count": 2,
+   "ios": {
+    "rating": 3,
+    "count": 2,
+    "released": "2026-09-08",
+    "version": "1.0.3",
+    "url": "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 2,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -488,6 +712,48 @@
   },
   {
    "rank": 17,
+   "slug": "findshiba",
+   "name": "FindShiba!",
+   "url": "https://apps.shipaton.com/app/findshiba",
+   "tagline": "FindShiba!",
+   "description": "FindShiba! is a cozy logic puzzle: place every Shiba so each row, column, and colored region has exactly one, and no two Shibas touch — not even at the corners. It is a calm deduction game you can play in a quiet minute or a longer focus session, offline and on iPhone or iPad. HOW TO PLAY • Tap or drag to mark safe cells with × • Double-tap to place a Shiba • Use hearts, undo, and hints when you need a nudge • Finish campaign levels to bank score, earn badges, and climb the Total Score leaderboard FREE FEATURES • Full campaign board with a short, friendly tutorial • Local progress, scores, and",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Lifestyle",
+    "Casual",
+    "Puzzle"
+   ],
+   "seller": "Mario Saputra",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 3.0,
+   "rating_count": 2,
+   "ios": {
+    "rating": 3,
+    "count": 2,
+    "released": "2026-09-03",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/findshiba/id6796543267"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 1,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "first_seen": "2026-09-09",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 18,
    "slug": "firmament-is-the-limit",
    "name": "Firmament is the Limit",
    "url": "https://apps.shipaton.com/app/firmament-is-the-limit",
@@ -505,8 +771,20 @@
    ],
    "rating": 4.5,
    "rating_count": 2,
+   "ios": {
+    "rating": 4.5,
+    "count": 2,
+    "released": "2026-08-26",
+    "version": "1.1",
+    "url": "https://apps.apple.com/us/app/firmament-is-the-limit/id6755933878"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 2,
    "delta_1d": 0,
    "delta_7d": 1,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -516,7 +794,7 @@
    "stale": false
   },
   {
-   "rank": 18,
+   "rank": 19,
    "slug": "inkboxes-dots-lines-boxes",
    "name": "Inkboxes — Dots, Lines, Boxes",
    "url": "https://apps.shipaton.com/app/inkboxes-dots-lines-boxes",
@@ -536,8 +814,25 @@
    ],
    "rating": 5.0,
    "rating_count": 2,
-   "delta_1d": 0,
-   "delta_7d": 0,
+   "ios": {
+    "rating": 5,
+    "count": 2,
+    "released": "2026-07-16",
+    "version": "1.2.2",
+    "url": "https://apps.apple.com/us/app/inkboxes-dots-lines-boxes/id6789836170"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.inkboxes.app"
+   },
+   "installs": "10+",
+   "showcase_count": 2,
+   "delta_1d": null,
+   "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -547,7 +842,7 @@
    "stale": false
   },
   {
-   "rank": 19,
+   "rank": 20,
    "slug": "junction-flows",
    "name": "Junction Flows",
    "url": "https://apps.shipaton.com/app/junction-flows",
@@ -566,8 +861,20 @@
    ],
    "rating": 5.0,
    "rating_count": 2,
+   "ios": {
+    "rating": 5,
+    "count": 2,
+    "released": "2026-08-17",
+    "version": "1.01",
+    "url": "https://apps.apple.com/us/app/junction-flows/id6775257050"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 2,
    "delta_1d": 0,
    "delta_7d": 0,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -577,7 +884,7 @@
    "stale": false
   },
   {
-   "rank": 20,
+   "rank": 21,
    "slug": "lms-land-of-magic-spices",
    "name": "LMS: Land of Magic Spices",
    "url": "https://apps.shipaton.com/app/lms-land-of-magic-spices",
@@ -596,8 +903,20 @@
    ],
    "rating": 3.0,
    "rating_count": 2,
+   "ios": {
+    "rating": 3,
+    "count": 2,
+    "released": "2026-08-23",
+    "version": "1.0.2",
+    "url": "https://apps.apple.com/us/app/lms-land-of-magic-spices/id6787628573"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 2,
    "delta_1d": 0,
    "delta_7d": 1,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -607,7 +926,55 @@
    "stale": false
   },
   {
-   "rank": 21,
+   "rank": 22,
+   "slug": "vocaburst-typing-shooter",
+   "name": "VocaBurst: Typing Shooter",
+   "url": "https://apps.shipaton.com/app/vocaburst-typing-shooter",
+   "tagline": "Every word you blast is a word you keep.",
+   "description": "Every word you blast is a word you keep. That's how VocaBurst teaches you a new language. Why does it work? Because your brain holds on to whatever feels like survival. The foreign words you're learning fall from the sky as enemies. Type one, blast it, and it's yours for good. Every enemy is a real word. In Campaign mode you destroy each one twice: first in your language, then in the language you're learning. You play for the high score. The words move in on their own. WHY IT WORKS Spaced repetition decides what falls next. The game brings every word back at the moment you're about to forget i",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Word",
+    "Education"
+   ],
+   "seller": "Przemyslaw Raciborski",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": 5.0,
+   "rating_count": 2,
+   "ios": {
+    "rating": 5,
+    "count": 2,
+    "released": "2026-08-27",
+    "version": "1.2",
+    "url": "https://apps.apple.com/us/app/vocaburst-typing-shooter/id6793843082"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.vocaburst.app"
+   },
+   "installs": "10+",
+   "showcase_count": 1,
+   "delta_1d": null,
+   "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": false,
+   "proximity": true,
+   "store": "https://apps.apple.com/us/app/vocaburst-typing-shooter/id6793843082?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 23,
    "slug": "brewmancer-roguelike",
    "name": "Brewmancer: Roguelike",
    "url": "https://apps.shipaton.com/app/brewmancer-roguelike",
@@ -625,8 +992,20 @@
    ],
    "rating": 5.0,
    "rating_count": 1,
+   "ios": {
+    "rating": 5,
+    "count": 1,
+    "released": "2026-08-20",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/brewmancer-roguelike/id6795646522"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 1,
    "delta_1d": 0,
    "delta_7d": 0,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -636,7 +1015,7 @@
    "stale": false
   },
   {
-   "rank": 22,
+   "rank": 24,
    "slug": "debugger-incident-terminal",
    "name": "DEBUGGER: Incident Terminal",
    "url": "https://apps.shipaton.com/app/debugger-incident-terminal",
@@ -655,8 +1034,25 @@
    ],
    "rating": 2.0,
    "rating_count": 1,
-   "delta_1d": 0,
+   "ios": {
+    "rating": 2,
+    "count": 1,
+    "released": "2026-08-20",
+    "version": "1.8.1",
+    "url": "https://apps.apple.com/us/app/debugger-incident-terminal/id6797376092"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.sumiredc.debugger"
+   },
+   "installs": "10+",
+   "showcase_count": 1,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -666,7 +1062,7 @@
    "stale": false
   },
   {
-   "rank": 23,
+   "rank": 25,
    "slug": "dumpling-galaxy-logic-puzzle",
    "name": "Dumpling Galaxy:  Logic Puzzle",
    "url": "https://apps.shipaton.com/app/dumpling-galaxy-logic-puzzle",
@@ -687,8 +1083,25 @@
    ],
    "rating": 2.0,
    "rating_count": 1,
-   "delta_1d": 0,
+   "ios": {
+    "rating": 2,
+    "count": 1,
+    "released": "2026-08-04",
+    "version": "1.12",
+    "url": "https://apps.apple.com/us/app/dumpling-galaxy-logic-puzzle/id6794290886"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "100+",
+    "url": "https://play.google.com/store/apps/details?id=com.dumplinggalaxy.app"
+   },
+   "installs": "100+",
+   "showcase_count": 1,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -698,37 +1111,54 @@
    "stale": false
   },
   {
-   "rank": 24,
-   "slug": "findshiba",
-   "name": "FindShiba!",
-   "url": "https://apps.shipaton.com/app/findshiba",
-   "tagline": "FindShiba!",
-   "description": "FindShiba! is a cozy logic puzzle: place every Shiba so each row, column, and colored region has exactly one, and no two Shibas touch — not even at the corners. It is a calm deduction game you can play in a quiet minute or a longer focus session, offline and on iPhone or iPad. HOW TO PLAY • Tap or drag to mark safe cells with × • Double-tap to place a Shiba • Use hearts, undo, and hints when you need a nudge • Finish campaign levels to bank score, earn badges, and climb the Total Score leaderboard FREE FEATURES • Full campaign board with a short, friendly tutorial • Local progress, scores, and",
+   "rank": 26,
+   "slug": "firu-firu-games",
+   "name": "Firu Firu Games",
+   "url": "https://apps.shipaton.com/app/firu-firu-games",
+   "tagline": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu!",
+   "description": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu! Enjoy multiple connected arcade games, earn rewards, and watch Firu evolve across 5 awesome visual stages: PAW JUMP: Climb endless vertical platforms! Jump from sunny pirate shores through atmospheric twilight skies all the way into outer space while dodging hazards and collecting treats. BUBBLE PAWS: Classic bubble-breaking arcade action! Tackle 50 handcrafted levels across 5 unique worlds with dynamic combos, power-ups, and exciting boss battles. PROGRESSION & CUSTOMIZATION: - Evol",
    "category": "Games",
    "genres": [
     "Games",
-    "Lifestyle",
-    "Casual",
-    "Puzzle"
+    "Adventure",
+    "Casual"
    ],
-   "seller": "Mario Saputra",
+   "seller": "Eren Ozgumus",
    "platforms": [
-    "iPhone"
+    "iPhone",
+    "Android"
    ],
    "rating": 1.0,
    "rating_count": 1,
-   "delta_1d": 0,
+   "ios": {
+    "rating": 1,
+    "count": 1,
+    "released": "2026-08-31",
+    "version": "1.0.5+12",
+    "url": "https://apps.apple.com/us/app/firu-firu-games-dog-arcade/id6796634241"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.firufirugames.app"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
-   "first_seen": "2026-09-09",
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
+   "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
-   "store": "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4",
+   "store": "https://apps.apple.com/us/app/firu-firu-games/id6796634241?uo=4",
    "stale": false
   },
   {
-   "rank": 25,
+   "rank": 27,
    "slug": "glow-snake-neon-classic",
    "name": "Glow Snake: Neon Classic",
    "url": "https://apps.shipaton.com/app/glow-snake-neon-classic",
@@ -747,8 +1177,25 @@
    ],
    "rating": 5.0,
    "rating_count": 1,
-   "delta_1d": 0,
-   "delta_7d": 0,
+   "ios": {
+    "rating": 5,
+    "count": 1,
+    "released": "2026-07-27",
+    "version": "1.4.0",
+    "url": "https://apps.apple.com/us/app/glow-snake-neon-classic/id6788092787"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.theneonsnake.app"
+   },
+   "installs": "10+",
+   "showcase_count": 1,
+   "delta_1d": null,
+   "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -758,7 +1205,48 @@
    "stale": false
   },
   {
-   "rank": 26,
+   "rank": 28,
+   "slug": "golden-mile-traffic-racer",
+   "name": "Golden Mile: Traffic Racer",
+   "url": "https://apps.shipaton.com/app/golden-mile-traffic-racer",
+   "tagline": "One driver.",
+   "description": "One driver. Ten cities. One wrong lane and it's over. Golden Mile is a 3D traffic racer where every city is drawn in code, not downloaded — Paris at lavender dusk, Tokyo in neon rain, Monaco's cliff hairpins over the sea. There is no health bar. One hit ends it. WORLD TOUR Race the map city by city, Paris to Monaco. Win a city to light the next, then come back on NORMAL and HARD for a tighter line and a faster Gold Time. Every race is authored, never rolled — the same traffic, the same gaps, every single run. A Gold Time is skill, never luck. Thirty races, and a real ending. RUSH HOUR Wrong wa",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Racing",
+    "Action"
+   ],
+   "seller": "ozgur ersil",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 1.0,
+   "rating_count": 1,
+   "ios": {
+    "rating": 1,
+    "count": 1,
+    "released": "2026-08-29",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "first_seen": "2026-09-12",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 29,
    "slug": "gotcha-bluff-party-trivia",
    "name": "Gotcha: Bluff Party Trivia",
    "url": "https://apps.shipaton.com/app/gotcha-bluff-party-trivia",
@@ -776,8 +1264,20 @@
    ],
    "rating": 1.0,
    "rating_count": 1,
+   "ios": {
+    "rating": 1,
+    "count": 1,
+    "released": "2026-08-01",
+    "version": "0.0.10",
+    "url": "https://apps.apple.com/us/app/gotcha-bluff-party-trivia/id6782337044"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 1,
    "delta_1d": 0,
    "delta_7d": 0,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -787,7 +1287,7 @@
    "stale": false
   },
   {
-   "rank": 27,
+   "rank": 30,
    "slug": "learn-french-game-cowsmic",
    "name": "Learn French Game: Cowsmic",
    "url": "https://apps.shipaton.com/app/learn-french-game-cowsmic",
@@ -800,10 +1300,27 @@
     "iPhone",
     "Android"
    ],
-   "rating": 2.0,
+   "rating": 1.0,
    "rating_count": 1,
-   "delta_1d": 0,
+   "ios": {
+    "rating": 1,
+    "count": 1,
+    "released": "2026-08-24",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/learn-french-game-cowsmic/id6799401666"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.cowsmicgame.french"
+   },
+   "installs": "10+",
+   "showcase_count": 1,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -813,7 +1330,7 @@
    "stale": false
   },
   {
-   "rank": 28,
+   "rank": 31,
    "slug": "not-your-phone-mystery",
    "name": "Not Your Phone: Mystery",
    "url": "https://apps.shipaton.com/app/not-your-phone-mystery",
@@ -831,8 +1348,20 @@
    ],
    "rating": 5.0,
    "rating_count": 1,
+   "ios": {
+    "rating": 5,
+    "count": 1,
+    "released": "2026-08-01",
+    "version": "1.3.0",
+    "url": "https://apps.apple.com/us/app/not-your-phone-mystery/id6794144730"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 1,
    "delta_1d": 0,
    "delta_7d": 0,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -842,7 +1371,7 @@
    "stale": false
   },
   {
-   "rank": 29,
+   "rank": 32,
    "slug": "nova-swing",
    "name": "Nova Swing",
    "url": "https://apps.shipaton.com/app/nova-swing",
@@ -860,8 +1389,20 @@
    ],
    "rating": 5.0,
    "rating_count": 1,
+   "ios": {
+    "rating": 5,
+    "count": 1,
+    "released": "2026-09-09",
+    "version": "1.3",
+    "url": "https://apps.apple.com/us/app/nova-swing/id6789703945"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 1,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-12",
    "new": false,
    "new_today": false,
@@ -871,7 +1412,7 @@
    "stale": false
   },
   {
-   "rank": 30,
+   "rank": 33,
    "slug": "phantom-words",
    "name": "Phantom Words",
    "url": "https://apps.shipaton.com/app/phantom-words",
@@ -889,8 +1430,20 @@
    ],
    "rating": 5.0,
    "rating_count": 1,
+   "ios": {
+    "rating": 5,
+    "count": 1,
+    "released": "2026-09-22",
+    "version": "1.2",
+    "url": "https://apps.apple.com/us/app/phantom-words/id6789995017"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 1,
    "delta_1d": 0,
    "delta_7d": 0,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -900,7 +1453,7 @@
    "stale": false
   },
   {
-   "rank": 31,
+   "rank": 34,
    "slug": "sever",
    "name": "SEVER.",
    "url": "https://apps.shipaton.com/app/sever",
@@ -919,8 +1472,25 @@
    ],
    "rating": 1.0,
    "rating_count": 1,
-   "delta_1d": 0,
+   "ios": {
+    "rating": 1,
+    "count": 1,
+    "released": "2026-07-20",
+    "version": "1.2.2",
+    "url": "https://apps.apple.com/us/app/sever/id6791682247"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.pixezia.sever"
+   },
+   "installs": "10+",
+   "showcase_count": 1,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -930,7 +1500,7 @@
    "stale": false
   },
   {
-   "rank": 32,
+   "rank": 35,
    "slug": "sky-pups-dash",
    "name": "Sky Pups Dash",
    "url": "https://apps.shipaton.com/app/sky-pups-dash",
@@ -949,8 +1519,25 @@
    ],
    "rating": 5.0,
    "rating_count": 1,
-   "delta_1d": 0,
-   "delta_7d": 0,
+   "ios": {
+    "rating": 5,
+    "count": 1,
+    "released": "2026-08-20",
+    "version": "1.2.0",
+    "url": "https://apps.apple.com/us/app/sky-pups-dash/id6794240269"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "5K+",
+    "url": "https://play.google.com/store/apps/details?id=com.vegagamelabs.skypupsdash"
+   },
+   "installs": "5K+",
+   "showcase_count": 1,
+   "delta_1d": null,
+   "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -960,7 +1547,7 @@
    "stale": false
   },
   {
-   "rank": 33,
+   "rank": 36,
    "slug": "terravel-geography-quiz-game",
    "name": "Terravel: Geography Quiz Game",
    "url": "https://apps.shipaton.com/app/terravel-geography-quiz-game",
@@ -978,8 +1565,20 @@
    ],
    "rating": 5.0,
    "rating_count": 1,
+   "ios": {
+    "rating": 5,
+    "count": 1,
+    "released": "2026-08-02",
+    "version": "1.0.3",
+    "url": "https://apps.apple.com/us/app/terravel-geography-quiz-game/id6787954216"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 1,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -989,7 +1588,49 @@
    "stale": false
   },
   {
-   "rank": 34,
+   "rank": 37,
+   "slug": "the-flying-boy-of-vyn-5",
+   "name": "The Flying Boy of VYN-5",
+   "url": "https://apps.shipaton.com/app/the-flying-boy-of-vyn-5",
+   "tagline": "Take flight as Vesper in The Flying Boy of VYN-5, a fast-paced action game where mastering movement is your greatest weapon.",
+   "description": "Take flight as Vesper in The Flying Boy of VYN-5, a fast-paced action game where mastering movement is your greatest weapon. Powered by rocket boots, carve through an endless orbital battlefield. Boost into enemies, brake into a hover, dodge incoming missiles, and turn a close escape into your next attack. MAKE EVERY MOVE COUNT Build momentum, bank through danger, and unleash your laser while staying on the move. Precise flight controls let you switch from sweeping turns to carefully aimed attacks. TURN THE BATTLEFIELD INTO A WEAPON Grab asteroids and incoming missiles, charge your throw, and ",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Entertainment",
+    "Adventure"
+   ],
+   "seller": "Edwin Chan",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 1,
+   "ios": {
+    "rating": 5,
+    "count": 1,
+    "released": "2026-09-16",
+    "version": "1.0.1",
+    "url": "https://apps.apple.com/us/app/the-flying-boy-of-vyn-5/id6808698764"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "first_seen": "2026-09-19",
+   "new": true,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/the-flying-boy-of-vyn-5/id6808698764?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 38,
    "slug": "velocity-unleashed",
    "name": "Velocity Unleashed",
    "url": "https://apps.shipaton.com/app/velocity-unleashed",
@@ -1008,8 +1649,20 @@
    ],
    "rating": 1.0,
    "rating_count": 1,
+   "ios": {
+    "rating": 1,
+    "count": 1,
+    "released": "2026-08-12",
+    "version": "2.40.0",
+    "url": "https://apps.apple.com/us/app/velocity-unleashed/id6794736953"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 1,
    "delta_1d": 0,
    "delta_7d": 0,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -1019,38 +1672,7 @@
    "stale": false
   },
   {
-   "rank": 35,
-   "slug": "vocaburst-typing-shooter",
-   "name": "VocaBurst: Typing Shooter",
-   "url": "https://apps.shipaton.com/app/vocaburst-typing-shooter",
-   "tagline": "Every word you blast is a word you keep.",
-   "description": "Every word you blast is a word you keep. That's how VocaBurst teaches you a new language. Why does it work? Because your brain holds on to whatever feels like survival. The foreign words you're learning fall from the sky as enemies. Type one, blast it, and it's yours for good. Every enemy is a real word. In Campaign mode you destroy each one twice: first in your language, then in the language you're learning. You play for the high score. The words move in on their own. WHY IT WORKS Spaced repetition decides what falls next. The game brings every word back at the moment you're about to forget i",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Action",
-    "Word",
-    "Education"
-   ],
-   "seller": "Przemyslaw Raciborski",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": 5.0,
-   "rating_count": 1,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "first_seen": "2026-09-19",
-   "new": true,
-   "new_today": false,
-   "gaining": false,
-   "proximity": true,
-   "store": "https://apps.apple.com/us/app/vocaburst-typing-shooter/id6793843082?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 36,
+   "rank": 39,
    "slug": "voltfield-80s-classic-arcade",
    "name": "VOLTFIELD: 80s Classic Arcade",
    "url": "https://apps.shipaton.com/app/voltfield-80s-classic-arcade",
@@ -1068,8 +1690,20 @@
    ],
    "rating": 5.0,
    "rating_count": 1,
+   "ios": {
+    "rating": 5,
+    "count": 1,
+    "released": "2026-08-08",
+    "version": "1.1.1",
+    "url": "https://apps.apple.com/us/app/voltfield-80s-classic-arcade/id6787507847"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 1,
    "delta_1d": 0,
    "delta_7d": 0,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -1079,7 +1713,7 @@
    "stale": false
   },
   {
-   "rank": 37,
+   "rank": 40,
    "slug": "word-scourge",
    "name": "Word Scourge",
    "url": "https://apps.shipaton.com/app/word-scourge",
@@ -1099,8 +1733,25 @@
    ],
    "rating": 5.0,
    "rating_count": 1,
-   "delta_1d": 0,
+   "ios": {
+    "rating": 5,
+    "count": 1,
+    "released": "2026-09-04",
+    "version": "1.0.8",
+    "url": "https://apps.apple.com/us/app/word-scourge/id6791286064"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.wordscourge.bravo"
+   },
+   "installs": "10+",
+   "showcase_count": 1,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-12",
    "new": false,
    "new_today": false,
@@ -1110,7 +1761,7 @@
    "stale": false
   },
   {
-   "rank": 38,
+   "rank": 41,
    "slug": "ai-chess-coach-3d",
    "name": "AI Chess Coach 3D",
    "url": "https://apps.shipaton.com/app/ai-chess-coach-3d",
@@ -1126,8 +1777,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "5+",
+    "url": "https://play.google.com/store/apps/details?id=io.github.ber4444.chess"
+   },
+   "installs": "5+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -1137,7 +1799,7 @@
    "stale": false
   },
   {
-   "rank": 39,
+   "rank": 42,
    "slug": "auraduel-aura-battles",
    "name": "AURADUEL: aura battles",
    "url": "https://apps.shipaton.com/app/auraduel-aura-battles",
@@ -1154,8 +1816,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-05",
+    "version": "1.1",
+    "url": "https://apps.apple.com/us/app/auraduel-aura-battles/id6804470297"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -1165,7 +1839,7 @@
    "stale": false
   },
   {
-   "rank": 40,
+   "rank": 43,
    "slug": "b4orafter",
    "name": "B4ORAfter",
    "url": "https://apps.shipaton.com/app/b4orafter",
@@ -1183,8 +1857,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-22",
+    "version": "2.10",
+    "url": "https://apps.apple.com/us/app/b4orafter/id6783407308"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -1194,7 +1880,7 @@
    "stale": false
   },
   {
-   "rank": 41,
+   "rank": 44,
    "slug": "ball-jump-fest",
    "name": "Ball Jump Fest",
    "url": "https://apps.shipaton.com/app/ball-jump-fest",
@@ -1211,8 +1897,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-24",
+    "version": "1.0.1",
+    "url": "https://apps.apple.com/us/app/ball-jump-fest/id6802018687"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -1222,7 +1920,7 @@
    "stale": false
   },
   {
-   "rank": 42,
+   "rank": 45,
    "slug": "bawzi-board-games-chat",
    "name": "Bawzi - Board Games & Chat",
    "url": "https://apps.shipaton.com/app/bawzi-board-games-chat",
@@ -1241,8 +1939,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-06-08",
+    "version": "1.1.2",
+    "url": "https://apps.apple.com/us/app/bawzi-board-games-chat/id6769383968"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -1252,7 +1962,7 @@
    "stale": false
   },
   {
-   "rank": 43,
+   "rank": 46,
    "slug": "bible-kids-listen-and-play",
    "name": "Bible Kids: Listen and Play",
    "url": "https://apps.shipaton.com/app/bible-kids-listen-and-play",
@@ -1272,8 +1982,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-02",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/bible-kids-listen-and-play/id6805877845"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "1+",
+    "url": "https://play.google.com/store/apps/details?id=com.sodremr.biblia_kids"
+   },
+   "installs": "1+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-12",
    "new": false,
    "new_today": false,
@@ -1283,7 +2010,7 @@
    "stale": false
   },
   {
-   "rank": 44,
+   "rank": 47,
    "slug": "blokka-1v1-block-battle",
    "name": "Blokka - 1v1 Block Battle",
    "url": "https://apps.shipaton.com/app/blokka-1v1-block-battle",
@@ -1302,8 +2029,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-08",
+    "version": "1.0.2",
+    "url": "https://apps.apple.com/us/app/blokka-1v1-block-battle/id6803144384"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "0+",
+    "url": "https://play.google.com/store/apps/details?id=com.yakiimo.blokka"
+   },
+   "installs": "0+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -1313,7 +2057,7 @@
    "stale": false
   },
   {
-   "rank": 45,
+   "rank": 48,
    "slug": "cat-ninja-crowd",
    "name": "Cat Ninja Crowd",
    "url": "https://apps.shipaton.com/app/cat-ninja-crowd",
@@ -1331,8 +2075,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-24",
+    "version": "1.8",
+    "url": "https://apps.apple.com/us/app/cat-ninja-crowd-horde-run-3d/id6803367530"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-12",
    "new": false,
    "new_today": false,
@@ -1342,7 +2098,7 @@
    "stale": false
   },
   {
-   "rank": 46,
+   "rank": 49,
    "slug": "catoban-pixel-cat-sokoban",
    "name": "Catoban: Pixel Cat Sokoban",
    "url": "https://apps.shipaton.com/app/catoban-pixel-cat-sokoban",
@@ -1358,8 +2114,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.catoban.app"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -1369,7 +2136,7 @@
    "stale": false
   },
   {
-   "rank": 47,
+   "rank": 50,
    "slug": "ciphersage-word-cryptograms",
    "name": "CipherSage: Word Cryptograms",
    "url": "https://apps.shipaton.com/app/ciphersage-word-cryptograms",
@@ -1388,8 +2155,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-19",
+    "version": "1.17",
+    "url": "https://apps.apple.com/us/app/ciphersage-word-cryptograms/id6795965036"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.fuzzydinolabs.ciphersage"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -1399,7 +2183,7 @@
    "stale": false
   },
   {
-   "rank": 48,
+   "rank": 51,
    "slug": "coinful",
    "name": "Coinful",
    "url": "https://apps.shipaton.com/app/coinful",
@@ -1417,8 +2201,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-26",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/coinful/id6799904650"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -1428,7 +2224,7 @@
    "stale": false
   },
   {
-   "rank": 49,
+   "rank": 52,
    "slug": "colornest",
    "name": "ColorNest",
    "url": "https://apps.shipaton.com/app/colornest",
@@ -1444,8 +2240,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.kalai.colornest"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -1455,7 +2262,7 @@
    "stale": false
   },
   {
-   "rank": 50,
+   "rank": 53,
    "slug": "colorrush-turf-war",
    "name": "ColorRush: Turf War",
    "url": "https://apps.shipaton.com/app/colorrush-turf-war",
@@ -1473,8 +2280,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-28",
+    "version": "1.1",
+    "url": "https://apps.apple.com/us/app/colorrush-turf-war/id6657944298"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -1484,7 +2303,7 @@
    "stale": false
   },
   {
-   "rank": 51,
+   "rank": 54,
    "slug": "das-verhor",
    "name": "Das Verhör",
    "url": "https://apps.shipaton.com/app/das-verhor",
@@ -1502,8 +2321,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-29",
+    "version": "1.4",
+    "url": "https://apps.apple.com/us/app/das-verh%C3%B6r/id6797754222"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -1513,7 +2344,7 @@
    "stale": false
   },
   {
-   "rank": 52,
+   "rank": 55,
    "slug": "fifty-cutting-game",
    "name": "Fifty - 50/50 Cutting Game",
    "url": "https://apps.shipaton.com/app/fifty-cutting-game",
@@ -1530,8 +2361,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-14",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/fifty-50-50-cutting-game/id6786352914"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -1541,37 +2384,7 @@
    "stale": false
   },
   {
-   "rank": 53,
-   "slug": "firu-firu-games",
-   "name": "Firu Firu Games",
-   "url": "https://apps.shipaton.com/app/firu-firu-games",
-   "tagline": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu!",
-   "description": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu! Enjoy multiple connected arcade games, earn rewards, and watch Firu evolve across 5 awesome visual stages: PAW JUMP: Climb endless vertical platforms! Jump from sunny pirate shores through atmospheric twilight skies all the way into outer space while dodging hazards and collecting treats. BUBBLE PAWS: Classic bubble-breaking arcade action! Tackle 50 handcrafted levels across 5 unique worlds with dynamic combos, power-ups, and exciting boss battles. PROGRESSION & CUSTOMIZATION: - Evol",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Adventure",
-    "Casual"
-   ],
-   "seller": "Eren Ozgumus",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "first_seen": "2026-09-02",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/firu-firu-games/id6796634241?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 54,
+   "rank": 56,
    "slug": "foodie-drop-merge-puzzle",
    "name": "Foodie Drop: Merge Puzzle",
    "url": "https://apps.shipaton.com/app/foodie-drop-merge-puzzle",
@@ -1587,8 +2400,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "5+",
+    "url": "https://play.google.com/store/apps/details?id=io.foodiedrop.app"
+   },
+   "installs": "5+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -1598,7 +2422,7 @@
    "stale": false
   },
   {
-   "rank": 55,
+   "rank": 57,
    "slug": "frog-crossing-arcade-hopper",
    "name": "Frog Crossing: Arcade Hopper",
    "url": "https://apps.shipaton.com/app/frog-crossing-arcade-hopper",
@@ -1618,8 +2442,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-17",
+    "version": "1.0.4",
+    "url": "https://apps.apple.com/us/app/frog-crossing-arcade-hopper/id6794325921"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.duwittechnologies.frog_cross"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-14",
    "new": false,
    "new_today": false,
@@ -1629,36 +2470,7 @@
    "stale": false
   },
   {
-   "rank": 56,
-   "slug": "golden-mile-traffic-racer",
-   "name": "Golden Mile: Traffic Racer",
-   "url": "https://apps.shipaton.com/app/golden-mile-traffic-racer",
-   "tagline": "One driver.",
-   "description": "One driver. Ten cities. One wrong lane and it's over. Golden Mile is a 3D traffic racer where every city is drawn in code, not downloaded — Paris at lavender dusk, Tokyo in neon rain, Monaco's cliff hairpins over the sea. There is no health bar. One hit ends it. WORLD TOUR Race the map city by city, Paris to Monaco. Win a city to light the next, then come back on NORMAL and HARD for a tighter line and a faster Gold Time. Every race is authored, never rolled — the same traffic, the same gaps, every single run. A Gold Time is skill, never luck. Thirty races, and a real ending. RUSH HOUR Wrong wa",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Racing",
-    "Action"
-   ],
-   "seller": "ozgur ersil",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "first_seen": "2026-09-12",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 57,
+   "rank": 58,
    "slug": "hexpair-logic-puzzle-game",
    "name": "Hexpair: Logic Puzzle Game",
    "url": "https://apps.shipaton.com/app/hexpair-logic-puzzle-game",
@@ -1677,8 +2489,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-16",
+    "version": "1.0.1",
+    "url": "https://apps.apple.com/us/app/hexpair-logic-puzzle-game/id6809547952"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -1688,7 +2512,7 @@
    "stale": false
   },
   {
-   "rank": 58,
+   "rank": 59,
    "slug": "impossible-coasters-3d-puzzle",
    "name": "Impossible Coasters: 3D Puzzle",
    "url": "https://apps.shipaton.com/app/impossible-coasters-3d-puzzle",
@@ -1706,8 +2530,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-15",
+    "version": "1.1",
+    "url": "https://apps.apple.com/us/app/impossible-coasters-3d-puzzle/id6794763174"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -1717,7 +2553,7 @@
    "stale": false
   },
   {
-   "rank": 59,
+   "rank": 60,
    "slug": "in-two-lights",
    "name": "In Two Lights",
    "url": "https://apps.shipaton.com/app/in-two-lights",
@@ -1735,8 +2571,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-18",
+    "version": "1.0.1",
+    "url": "https://apps.apple.com/us/app/in-two-lights/id6797556691"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -1746,7 +2594,7 @@
    "stale": false
   },
   {
-   "rank": 60,
+   "rank": 61,
    "slug": "jianghu-sword-zither",
    "name": "Jianghu: Sword & Zither",
    "url": "https://apps.shipaton.com/app/jianghu-sword-zither",
@@ -1762,8 +2610,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.hdexpanse.qinjianjianghu"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -1773,7 +2632,7 @@
    "stale": false
   },
   {
-   "rank": 61,
+   "rank": 62,
    "slug": "mapzap-geography-games",
    "name": "Mapzap: Geography Games",
    "url": "https://apps.shipaton.com/app/mapzap-geography-games",
@@ -1792,8 +2651,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-29",
+    "version": "1.3.0",
+    "url": "https://apps.apple.com/us/app/mapzap-geography-games/id6792043414"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "1K+",
+    "url": "https://play.google.com/store/apps/details?id=com.lukasehlers.pinit"
+   },
+   "installs": "1K+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-12",
    "new": false,
    "new_today": false,
@@ -1803,7 +2679,7 @@
    "stale": false
   },
   {
-   "rank": 62,
+   "rank": 63,
    "slug": "minijoy",
    "name": "miniJoy",
    "url": "https://apps.shipaton.com/app/minijoy",
@@ -1822,8 +2698,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-04",
+    "version": "1.0.2",
+    "url": "https://apps.apple.com/us/app/minijoy/id6803772345"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "1+",
+    "url": "https://play.google.com/store/apps/details?id=app.schaffer.minijoy"
+   },
+   "installs": "1+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-14",
    "new": false,
    "new_today": false,
@@ -1833,7 +2726,7 @@
    "stale": false
   },
   {
-   "rank": 63,
+   "rank": 64,
    "slug": "mythika-puzzle-tournament",
    "name": "Mythika: Puzzle Tournament",
    "url": "https://apps.shipaton.com/app/mythika-puzzle-tournament",
@@ -1851,8 +2744,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-08",
+    "version": "1.0.2",
+    "url": "https://apps.apple.com/us/app/mythika-puzzle-tournament/id6797512855"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -1862,7 +2767,7 @@
    "stale": false
   },
   {
-   "rank": 64,
+   "rank": 65,
    "slug": "networth",
    "name": "NETWORTH",
    "url": "https://apps.shipaton.com/app/networth",
@@ -1878,8 +2783,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "100+",
+    "url": "https://play.google.com/store/apps/details?id=com.networth.game"
+   },
+   "installs": "100+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -1889,7 +2805,7 @@
    "stale": false
   },
   {
-   "rank": 65,
+   "rank": 66,
    "slug": "neverstill",
    "name": "Neverstill",
    "url": "https://apps.shipaton.com/app/neverstill",
@@ -1907,8 +2823,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-10",
+    "version": "1.3.2",
+    "url": "https://apps.apple.com/us/app/neverstill/id6809487773"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -1918,7 +2846,7 @@
    "stale": false
   },
   {
-   "rank": 66,
+   "rank": 67,
    "slug": "onomatope",
    "name": "Onomatope",
    "url": "https://apps.shipaton.com/app/onomatope",
@@ -1936,8 +2864,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-10",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/onomatope/id6802010360"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-12",
    "new": false,
    "new_today": false,
@@ -1947,7 +2887,7 @@
    "stale": false
   },
   {
-   "rank": 67,
+   "rank": 68,
    "slug": "orbace-sudoku",
    "name": "Orbace Sudoku: Su-Pu Replay",
    "url": "https://apps.shipaton.com/app/orbace-sudoku",
@@ -1963,8 +2903,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.orbace.mobile"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -1974,7 +2925,7 @@
    "stale": false
   },
   {
-   "rank": 68,
+   "rank": 69,
    "slug": "ordsnok-snoop-for-words",
    "name": "Ordsnok: Guess the Word",
    "url": "https://apps.shipaton.com/app/ordsnok-snoop-for-words",
@@ -1993,8 +2944,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-24",
+    "version": "1.5.2",
+    "url": "https://apps.apple.com/us/app/ordsnok-guess-the-word/id6797599523"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=no.strangeutvikling.ordsnok"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2004,7 +2972,7 @@
    "stale": false
   },
   {
-   "rank": 69,
+   "rank": 70,
    "slug": "palsta-a-slow-garden",
    "name": "Palsta: A Slow Garden",
    "url": "https://apps.shipaton.com/app/palsta-a-slow-garden",
@@ -2020,8 +2988,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.apn201.palsta"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -2031,7 +3010,7 @@
    "stale": false
   },
   {
-   "rank": 70,
+   "rank": 71,
    "slug": "planet-hop",
    "name": "Planet Hop",
    "url": "https://apps.shipaton.com/app/planet-hop",
@@ -2047,8 +3026,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.TorQ.PlanetHop"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -2058,7 +3048,7 @@
    "stale": false
   },
   {
-   "rank": 71,
+   "rank": 72,
    "slug": "pocket-dragon-dungeon",
    "name": "Pocket Dragon Dungeon",
    "url": "https://apps.shipaton.com/app/pocket-dragon-dungeon",
@@ -2072,8 +3062,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=io.github.bonkoturyu.pocket_dragon_dungeon"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -2083,7 +3084,7 @@
    "stale": false
   },
   {
-   "rank": 72,
+   "rank": 73,
    "slug": "pocket-pet-virtual-companion",
    "name": "Pocket Pet: Virtual Companion",
    "url": "https://apps.shipaton.com/app/pocket-pet-virtual-companion",
@@ -2102,8 +3103,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-04",
+    "version": "1.1.0",
+    "url": "https://apps.apple.com/us/app/pocket-pet-virtual-companion/id6806778247"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "1+",
+    "url": "https://play.google.com/store/apps/details?id=com.projectlife.pocketpet"
+   },
+   "installs": "1+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-12",
    "new": false,
    "new_today": false,
@@ -2113,7 +3131,7 @@
    "stale": false
   },
   {
-   "rank": 73,
+   "rank": 74,
    "slug": "protect-the-orb",
    "name": "Protect the Orb",
    "url": "https://apps.shipaton.com/app/protect-the-orb",
@@ -2129,8 +3147,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "5+",
+    "url": "https://play.google.com/store/apps/details?id=com.inkrementalspel.protecttheorb"
+   },
+   "installs": "5+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2140,7 +3169,7 @@
    "stale": false
   },
   {
-   "rank": 74,
+   "rank": 75,
    "slug": "puking-cat",
    "name": "Puking Cat: Messy Physics Game",
    "url": "https://apps.shipaton.com/app/puking-cat",
@@ -2159,8 +3188,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-04",
+    "version": "2.6.0",
+    "url": "https://apps.apple.com/us/app/puking-cat-messy-physics-game/id6787404657"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=studio.happycode.puking_cat"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2170,7 +3216,7 @@
    "stale": false
   },
   {
-   "rank": 75,
+   "rank": 76,
    "slug": "pulsegate-echo-shift",
    "name": "PulseGate: Echo Shift",
    "url": "https://apps.shipaton.com/app/pulsegate-echo-shift",
@@ -2188,8 +3234,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-20",
+    "version": "1.2",
+    "url": "https://apps.apple.com/us/app/pulsegate-echo-shift/id6788528869"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2199,7 +3257,7 @@
    "stale": false
   },
   {
-   "rank": 76,
+   "rank": 77,
    "slug": "purrzle-sliding-puzzle",
    "name": "Purrzle - Sliding Puzzle",
    "url": "https://apps.shipaton.com/app/purrzle-sliding-puzzle",
@@ -2215,8 +3273,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "0+",
+    "url": "https://play.google.com/store/apps/details?id=com.catzle"
+   },
+   "installs": "0+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2226,7 +3295,7 @@
    "stale": false
   },
   {
-   "rank": 77,
+   "rank": 78,
    "slug": "raven-storm",
    "name": "Raven Storm",
    "url": "https://apps.shipaton.com/app/raven-storm",
@@ -2242,8 +3311,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.mazestrike.app"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -2253,7 +3333,7 @@
    "stale": false
   },
   {
-   "rank": 78,
+   "rank": 79,
    "slug": "reliquias-sort-story-puzzle",
    "name": "Reliquias: Sort & Story Puzzle",
    "url": "https://apps.shipaton.com/app/reliquias-sort-story-puzzle",
@@ -2269,8 +3349,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.davidgames.reliquias"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2280,7 +3371,7 @@
    "stale": false
   },
   {
-   "rank": 79,
+   "rank": 80,
    "slug": "riverside-files-idle-tycoon",
    "name": "Riverside Files - Idle Tycoon",
    "url": "https://apps.shipaton.com/app/riverside-files-idle-tycoon",
@@ -2296,8 +3387,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.riverside.riverside_files"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -2307,7 +3409,7 @@
    "stale": false
   },
   {
-   "rank": 80,
+   "rank": 81,
    "slug": "save-peps",
    "name": "Save Peps",
    "url": "https://apps.shipaton.com/app/save-peps",
@@ -2323,8 +3425,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=fan.sound.savepeps"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -2334,7 +3447,7 @@
    "stale": false
   },
   {
-   "rank": 81,
+   "rank": 82,
    "slug": "secret-fantasy",
    "name": "Secret Fantasy",
    "url": "https://apps.shipaton.com/app/secret-fantasy",
@@ -2354,8 +3467,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-24",
+    "version": "1.0.0",
+    "url": "https://apps.apple.com/us/app/secret-fantasy/id6796185725"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "5+",
+    "url": "https://play.google.com/store/apps/details?id=com.chinesepowered.fantasy"
+   },
+   "installs": "5+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2365,7 +3495,7 @@
    "stale": false
   },
   {
-   "rank": 82,
+   "rank": 83,
    "slug": "sense-of-wonder-space-puzzle",
    "name": "Sense of Wonder: Space Puzzle",
    "url": "https://apps.shipaton.com/app/sense-of-wonder-space-puzzle",
@@ -2384,8 +3514,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-01",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/sense-of-wonder-space-puzzle/id6790464791"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-14",
    "new": false,
    "new_today": false,
@@ -2395,7 +3537,7 @@
    "stale": false
   },
   {
-   "rank": 83,
+   "rank": 84,
    "slug": "skip-ad-popup-panic",
    "name": "SKIP AD: Popup Panic",
    "url": "https://apps.shipaton.com/app/skip-ad-popup-panic",
@@ -2414,8 +3556,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-16",
+    "version": "0.3.3",
+    "url": "https://apps.apple.com/us/app/skip-ad-popup-panic/id6810460236"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "1+",
+    "url": "https://play.google.com/store/apps/details?id=ai.ducket.skipad"
+   },
+   "installs": "1+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -2425,7 +3584,7 @@
    "stale": false
   },
   {
-   "rank": 84,
+   "rank": 85,
    "slug": "sonarchy",
    "name": "Sonarchy",
    "url": "https://apps.shipaton.com/app/sonarchy",
@@ -2444,8 +3603,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-03",
+    "version": "1.0.2",
+    "url": "https://apps.apple.com/us/app/sonarchy/id6798001087"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -2455,7 +3626,7 @@
    "stale": false
   },
   {
-   "rank": 85,
+   "rank": 86,
    "slug": "spot-50",
    "name": "Spot 50",
    "url": "https://apps.shipaton.com/app/spot-50",
@@ -2471,8 +3642,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "1+",
+    "url": "https://play.google.com/store/apps/details?id=com.spot50.app"
+   },
+   "installs": "1+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -2482,7 +3664,7 @@
    "stale": false
   },
   {
-   "rank": 86,
+   "rank": 87,
    "slug": "steppin-stones",
    "name": "Steppin Stones",
    "url": "https://apps.shipaton.com/app/steppin-stones",
@@ -2500,8 +3682,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2025-10-20",
+    "version": "Bugs and general improvements!",
+    "url": "https://apps.apple.com/us/app/steppin-stones/id6752832708"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2511,7 +3705,7 @@
    "stale": false
   },
   {
-   "rank": 87,
+   "rank": 88,
    "slug": "synaptic-front-neural-rts",
    "name": "Synaptic Front: Neural RTS",
    "url": "https://apps.shipaton.com/app/synaptic-front-neural-rts",
@@ -2527,8 +3721,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=me.vasylchenko.synapticfront"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2538,7 +3743,7 @@
    "stale": false
   },
   {
-   "rank": 88,
+   "rank": 89,
    "slug": "syncdrive-test-your-reflexes",
    "name": "SyncDrive: Test Your Reflexes",
    "url": "https://apps.shipaton.com/app/syncdrive-test-your-reflexes",
@@ -2556,8 +3761,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-25",
+    "version": "1.0.2",
+    "url": "https://apps.apple.com/us/app/syncdrive-test-your-reflexes/id6790588824"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2567,7 +3784,7 @@
    "stale": false
   },
   {
-   "rank": 89,
+   "rank": 90,
    "slug": "tame-a-pet",
    "name": "Tame a Pet",
    "url": "https://apps.shipaton.com/app/tame-a-pet",
@@ -2586,44 +3803,31 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-14",
+    "version": "1.1.5",
+    "url": "https://apps.apple.com/us/app/tame-a-pet/id6797038191"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "1K+",
+    "url": "https://play.google.com/store/apps/details?id=com.tameapet"
+   },
+   "installs": "1K+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/tame-a-pet/id6797038191?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 90,
-   "slug": "the-flying-boy-of-vyn-5",
-   "name": "The Flying Boy of VYN-5",
-   "url": "https://apps.shipaton.com/app/the-flying-boy-of-vyn-5",
-   "tagline": "Take flight as Vesper in The Flying Boy of VYN-5, a fast-paced action game where mastering movement is your greatest weapon.",
-   "description": "Take flight as Vesper in The Flying Boy of VYN-5, a fast-paced action game where mastering movement is your greatest weapon. Powered by rocket boots, carve through an endless orbital battlefield. Boost into enemies, brake into a hover, dodge incoming missiles, and turn a close escape into your next attack. MAKE EVERY MOVE COUNT Build momentum, bank through danger, and unleash your laser while staying on the move. Precise flight controls let you switch from sweeping turns to carefully aimed attacks. TURN THE BATTLEFIELD INTO A WEAPON Grab asteroids and incoming missiles, charge your throw, and ",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Action",
-    "Entertainment",
-    "Adventure"
-   ],
-   "seller": "Edwin Chan",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": null,
-   "rating_count": 0,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "first_seen": "2026-09-19",
-   "new": true,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/the-flying-boy-of-vyn-5/id6808698764?uo=4",
    "stale": false
   },
   {
@@ -2643,8 +3847,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "1+",
+    "url": "https://play.google.com/store/apps/details?id=work.solocamp.unknownworld"
+   },
+   "installs": "1+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-19",
    "new": true,
    "new_today": false,
@@ -2672,8 +3887,20 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-11",
+    "version": "1.0.2",
+    "url": "https://apps.apple.com/us/app/vada-io/id6810076187"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": null,
    "first_seen": "2026-09-14",
    "new": false,
    "new_today": false,
@@ -2703,8 +3930,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-09-14",
+    "version": "1.1.1",
+    "url": "https://apps.apple.com/us/app/vibestep-dance-maker/id6808028411"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "0+",
+    "url": "https://play.google.com/store/apps/details?id=com.eyedealisty.vibestep"
+   },
+   "installs": "0+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
@@ -2730,8 +3974,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "url": "https://play.google.com/store/apps/details?id=com.kennguyen.wordscend"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2760,8 +4015,25 @@
    ],
    "rating": null,
    "rating_count": 0,
-   "delta_1d": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-19",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/zanshin-spirit-leaf-blade/id6799004346"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "1+",
+    "url": "https://play.google.com/store/apps/details?id=com.haroworks.leavescatch"
+   },
+   "installs": "1+",
+   "showcase_count": 0,
+   "delta_1d": null,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": null,
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
@@ -2787,8 +4059,19 @@
    ],
    "rating": null,
    "rating_count": 0,
+   "ios": null,
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "0+",
+    "url": "https://play.google.com/store/apps/details?id=com.petaflo.pawpawarena"
+   },
+   "installs": "0+",
+   "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
+   "delta_1d_ios": null,
+   "delta_1d_play": 0,
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,

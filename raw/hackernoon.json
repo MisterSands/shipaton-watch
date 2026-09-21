@@ -1,9 +1,30 @@
 {
  "source": "hackernoon",
  "url": "https://hackernoon.com/tagged/shipaton/feed",
- "fetched_at": "2026-09-21T09:30:01Z",
+ "fetched_at": "2026-09-21T20:32:47Z",
  "count": 50,
  "items": [
+  {
+   "title": "My AI Agent Distorted the Truth in Three Different Ways, but Only One Was a Hallucination",
+   "link": "https://hackernoon.com/my-ai-agent-distorted-the-truth-in-three-different-ways-but-only-one-was-a-hallucination?source=rss",
+   "date": "Mon, 21 Sep 2026 20:28:08 GMT",
+   "author": "BON",
+   "summary": ""
+  },
+  {
+   "title": "Building Isolyne (Part 7): Designing Dark Mode for High-Velocity Dev Teams",
+   "link": "https://hackernoon.com/building-isolyne-part-7-designing-dark-mode-for-high-velocity-dev-teams?source=rss",
+   "date": "Mon, 21 Sep 2026 20:14:18 GMT",
+   "author": "AMIT KUMAR GUPTA",
+   "summary": ""
+  },
+  {
+   "title": "Designing “Memory Rescue” With OneSignal (Without Turning Slovo Into a Notification Machine)",
+   "link": "https://hackernoon.com/designing-memory-rescue-with-onesignal-without-turning-slovo-into-a-notification-machine?source=rss",
+   "date": "Mon, 21 Sep 2026 20:01:41 GMT",
+   "author": "Hulya Masharipov",
+   "summary": ""
+  },
   {
    "title": "How I Tested Amana Across Locations in the iOS Simulator",
    "link": "https://hackernoon.com/how-i-tested-amana-across-locations-in-the-ios-simulator?source=rss",
@@ -331,27 +352,6 @@
    "link": "https://hackernoon.com/from-rejection-to-release-how-the-pinoy-made-app-todochi-got-on-google-play?source=rss",
    "date": "Thu, 03 Sep 2026 07:59:59 GMT",
    "author": "Todochi",
-   "summary": ""
-  },
-  {
-   "title": "Four Weeks of Building Buildhorn for Shipaton 2026",
-   "link": "https://hackernoon.com/four-weeks-of-building-buildhorn-for-shipaton-2026?source=rss",
-   "date": "Wed, 02 Sep 2026 16:45:33 GMT",
-   "author": "Darryl Bayliss",
-   "summary": ""
-  },
-  {
-   "title": "The HackerNoon Newsletter: I Have Two Testers for my App. One of Them is my Wife (9/2/2026)",
-   "link": "https://hackernoon.com/9-2-2026-newsletter?source=rss",
-   "date": "Wed, 02 Sep 2026 16:05:25 GMT",
-   "author": "Noonification",
-   "summary": ""
-  },
-  {
-   "title": "Turning Apple Pencil Into a Reed Pen: How I Built and Shipped Qalaris",
-   "link": "https://hackernoon.com/turning-apple-pencil-into-a-reed-pen-how-i-built-and-shipped-qalaris?source=rss",
-   "date": "Wed, 02 Sep 2026 14:52:53 GMT",
-   "author": "Akif",
    "summary": ""
   }
  ]

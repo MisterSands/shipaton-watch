@@ -1,9 +1,16 @@
 {
  "source": "devto",
  "url": "https://dev.to/feed/tag/shipaton",
- "fetched_at": "2026-09-21T09:30:01Z",
+ "fetched_at": "2026-09-21T20:32:47Z",
  "count": 12,
  "items": [
+  {
+   "title": "Building NICHLYST: Eight Waves, One Canon — How 40 Days of Script Survived a Strict State Machine",
+   "link": "https://dev.to/koztechie/building-nichlyst-eight-waves-one-canon-how-40-days-of-script-survived-a-strict-state-machine-4gn3",
+   "date": "Mon, 21 Sep 2026 19:55:09 +0000",
+   "author": "Eugene Kozlovsky",
+   "summary": "<p>It is Monday, September 21, 2026. Day 11 of the 14-day Google Play closed testing anabiosis. The clock runs on Google's terms, not mine. Outside the window in Kyiv, the air siren has just ended its third cycle of the morning. Inside, on an aging AMD A4 laptop with 4 GB of RAM, the terminal holds its breath. The bundle compiled. The state machine holds. There is nothing to add today, and that re"
+  },
   {
    "title": "Building NICHLYST: The 14-Day Clock, the \"Web App\" Illusion, and Hardening the Archive",
    "link": "https://dev.to/koztechie/building-nichlyst-the-14-day-clock-the-web-app-illusion-and-hardening-the-archive-4a6c",
@@ -80,13 +87,6 @@
    "date": "Mon, 24 Aug 2026 10:38:04 +0000",
    "author": "Ronak Mahajan",
    "summary": "<p>My first UI iteration for Sprout Atlas crammed entire botanical profiles into single scroll views. It was a disaster. In this post, I break down how I refactored heavy food safety data into modular, card-based layouts using clean typography and strict spacing rules.</p>"
-  },
-  {
-   "title": "When Local Environments Lie: How I Survived Firebase Sandbox Glitches",
-   "link": "https://dev.to/ronak1311/when-local-environments-lie-how-i-survived-firebase-sandbox-glitches-5gno",
-   "date": "Mon, 24 Aug 2026 10:30:51 +0000",
-   "author": "Ronak Mahajan",
-   "summary": "<p>When Local Environments Lie: How I Survived Firebase Sandbox Glitches</p>\n\n<p>Setting up Firebase for Sprout Atlas seemed easy until the local sandbox environment decided to stop processing authentication states and data syncs. When your testing environment breaks, print statements become your best friend. Here's how I isolated the pipeline failures and got our data layer running reliably again"
   }
  ]
 }

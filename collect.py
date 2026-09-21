@@ -10,6 +10,12 @@ Two jobs:
               history -> watch/games.json (what hallpass.cc/watcher.html renders) and
               watch/competitors.md. Deterministic: no LLM touches the games list.
 
+Ratings come from the stores, not the showcase (which prints one number of unstated
+origin): App Store via Apple's iTunes Lookup API (one batched call, US storefront),
+Google Play via the public app detail page's ld+json. Play's robots.txt allows
+/store/apps/details and disallows /store/getreviews, so reviews are never fetched there.
+rating_count = App Store + Google Play; per-store series live in raw/store_history.json.
+
 Games = slugs on /games (all years, server-rendered) intersected with slugs on /2026.
 Detail pages stream their body through React Suspense, so fields are parsed from the
 whole document's text, not <main>. A run that finds zero games never overwrites a
@@ -257,6 +263,72 @@ def count_on_or_before(hist, day):
     return hist[days[-1]] if days else None
 
 
+APPLE_ID = re.compile(r"apps\.apple\.com/[^\s\"']*?id(\d+)")
+PLAY_ID = re.compile(r"play\.google\.com/store/apps/details\?id=([A-Za-z0-9._]+)")
+
+
+def store_ids(rec, old):
+    # yesterday's store urls ride along so a blank or failed showcase fetch doesn't drop a store
+    links = " ".join((rec.get("store_links") or []) + [rec.get("store") or ""]
+                     + [(old.get(k) or {}).get("url", "") for k in ("ios", "play")])
+    a, g = APPLE_ID.search(links), PLAY_ID.search(links)
+    return (a.group(1) if a else None), (g.group(1) if g else None)
+
+
+def apple_ratings(ids):
+    """Every App Store id in one iTunes Lookup call per 150 (Apple's documented public API).
+    US storefront. Ids missing from the result are not sold in the US."""
+    out, ids = {}, sorted(set(ids))
+    for i in range(0, len(ids), 150):
+        data = json.loads(fetch("https://itunes.apple.com/lookup?country=us&id=" + ",".join(ids[i:i + 150])))
+        for a in data.get("results", []):
+            avg = a.get("averageUserRating")
+            out[str(a.get("trackId"))] = {
+                "rating": round(avg, 2) if avg else None,
+                "count": int(a.get("userRatingCount") or 0),
+                "released": (a.get("releaseDate") or "")[:10],
+                "version": a.get("version") or "",
+                "url": (a.get("trackViewUrl") or "").split("?")[0],
+            }
+        time.sleep(DELAY)
+    return out
+
+
+def play_ratings(pkg):
+    """Rating, rating count and install band from the public Google Play detail page."""
+    url = f"https://play.google.com/store/apps/details?id={pkg}"
+    doc = fetch(url + "&hl=en_US&gl=US")
+    app = None
+    for m in re.finditer(r'<script type="application/ld\+json"[^>]*>(.*?)</script>', doc, re.S):
+        try:
+            j = json.loads(m.group(1))
+        except Exception:
+            continue
+        if isinstance(j, dict) and ("aggregateRating" in j or j.get("@type") == "SoftwareApplication"):
+            app = j
+            break
+    if app is None:
+        raise ValueError("no ld+json app block")
+    agg = app.get("aggregateRating") or {}
+    inst = re.search(r"([0-9][0-9.,]*[KMB]?\+)\s*Downloads", page_text(doc))
+    val = float(agg.get("ratingValue") or 0)
+    return {"rating": round(val, 2) if val else None, "count": int(agg.get("ratingCount") or 0),
+            "installs": inst.group(1) if inst else "", "url": url}
+
+
+def store_delta(sh, key, n, day):
+    """Growth of one store's count since its last reading on or before `day`; None without one."""
+    if n is None:
+        return None
+    days = sorted(d for d, v in sh.items() if d <= day and v.get(key) is not None)
+    return (n - sh[days[-1]][key]) if days else None
+
+
+def add(*vals):
+    got = [v for v in vals if v is not None]
+    return sum(got) if got else None
+
+
 def backfill_history():
     """First run only: rebuild per-day rating counts from this repo's git history of
     raw/showcase_2026.json, so the page has real 1-day and 7-day deltas immediately."""
@@ -288,7 +360,7 @@ def mark_stale(prev, path, stamp, err):
 
 def fmt_delta(n):
     if n is None:
-        return "—"
+        return "·"
     return f"+{n}" if n > 0 else str(n)
 
 
@@ -301,20 +373,26 @@ def write_competitors(p):
     for g in p["games"]:
         mark = "⚠ " if g["proximity"] else ""
         new = " 🆕" if g["new"] else ""
-        rat = f"{g['rating']} ({g['rating_count']})" if g.get("rating_count") else "—"
-        links = f"[showcase]({g['url']})" + (f" · [store]({g['store']})" if g.get("store") else "")
+        def cell(st):
+            if not st:
+                return "·"
+            return f"[{st['rating'] or '–'} ({st['count']})]({st['url']})" if st.get("url") else f"({st['count']})"
+        links = f"[showcase]({g['url']})"
         rows.append(
             f"| {g['rank']} | {mark}{md(g['name'])}{new} | {md(', '.join(g['genres']) or g['category'])} | "
-            f"{md(g['seller'])} | {', '.join(g['platforms'])} | {rat} | {fmt_delta(g['delta_1d'])} | "
+            f"{md(g['seller'])} | {cell(g.get('ios'))} | {cell(g.get('play'))} | {g.get('installs') or '·'} | "
+            f"{g.get('rating_count') or 0} | {fmt_delta(g['delta_1d'])} | "
             f"{fmt_delta(g['delta_7d'])} | {g['first_seen']} | {links} |")
     head = (
-        "# Shipaton 2026 — every game in the field\n\n"
+        "# Shipaton 2026: every game in the field\n\n"
         f"Generated {p['generated_at']} by the local collector from {SHOWCASE}/games ∩ /2026. "
         f"**{p['count']} games** · {p['rated']} rated · +{len(p['new_today'])} new today · "
-        f"{len(p['gaining'])} gaining. Sorted by store rating count. ⚠ = genre proximity to HALL PASS. "
-        "🆕 = first seen in the last 3 days. Regenerated every run — do not edit by hand.\n\n"
-        "| # | Game | Genres | Developer | Platforms | Rating (n) | Δ 1d | Δ 7d | First seen | Links |\n"
-        "|---|---|---|---|---|---|---|---|---|---|\n")
+        f"{len(p['gaining'])} gaining. Ratings read from the stores (App Store US + Google Play), "
+        "sorted by their total. ⚠ = genre proximity to HALL PASS. "
+        "🆕 = first seen in the last 3 days. Regenerated every run. Do not edit by hand.\n\n"
+        "| # | Game | Genres | Developer | App Store ★ (n) | Google Play ★ (n) | Installs | Total | "
+        "Δ 1d | Δ 7d | First seen | Links |\n"
+        "|---|---|---|---|---|---|---|---|---|---|---|---|\n")
     with open(os.path.join(WATCH, "competitors.md"), "w", encoding="utf-8") as f:
         f.write(head + "\n".join(rows) + "\n")
 
@@ -329,6 +407,8 @@ def collect_games(stamp, today, status):
     history = load_json(hist_path, None)
     if history is None:
         history = backfill_history()
+    shist_path = os.path.join(RAW, "store_history.json")
+    shist = load_json(shist_path, {})
 
     try:
         idx = fetch(SHOWCASE + "/2026")
@@ -359,7 +439,7 @@ def collect_games(stamp, today, status):
 
     if not slugs:
         msg = (f"FAIL 0 games in /games ∩ /2026 ({len(gall)} game slugs all-years, {len(y26)} 2026 apps) "
-               "— showcase layout may have changed")
+               "(showcase layout may have changed)")
         status["showcase_games"] = msg
         mark_stale(prev, games_path, stamp, msg)
         return
@@ -388,31 +468,79 @@ def collect_games(stamp, today, status):
             continue
         seen = prev_by.get(s) or roster.get(s) or {}
         rec["first_seen"] = seen.get("first_seen") or today
-        h = history.setdefault(s, {})
-        n = rec.get("rating_count") or 0
-        before1 = count_on_or_before(h, yday)
-        before7 = count_on_or_before(h, wk)
         if not rec["stale"]:
-            h[today] = n
-        rec["delta_1d"] = (n - before1) if before1 is not None else None
-        rec["delta_7d"] = (n - before7) if before7 is not None else None
-        rec["gaining"] = bool(rec["delta_1d"] and rec["delta_1d"] > 0)
+            history.setdefault(s, {})[today] = rec.get("rating_count") or 0   # showcase's own number
         rec["new"] = rec["first_seen"] >= new_cut
         rec["new_today"] = rec["first_seen"] == today
         rec["proximity"] = bool(PROXIMITY.search(
             " ".join([rec["name"], rec.get("description", ""), " ".join(rec.get("genres", []))])))
         games.append(rec)
 
+    # Store ratings. App Store: one batched lookup. Google Play: one page per app.
+    ids = {g["slug"]: store_ids(g, prev_by.get(g["slug"], {})) for g in games}
+    try:
+        apple, apple_ok = apple_ratings(a for a, _ in ids.values() if a), True
+    except Exception as e:
+        apple, apple_ok = {}, False
+        log(f"apple lookup FAIL {type(e).__name__} {getattr(e, 'code', '')}")
+    play_tried = play_failed = 0
+    for g in games:
+        s, old = g["slug"], prev_by.get(g["slug"], {})
+        a_id, p_id = ids[s]
+        ios = apple.get(a_id) if a_id else None
+        ios_fresh = ios is not None
+        if a_id and not apple_ok:
+            ios = old.get("ios")
+        play, play_fresh = None, False
+        if p_id:
+            play_tried += 1
+            try:
+                play, play_fresh = play_ratings(p_id), True
+            except Exception:
+                play_failed += 1
+                play = old.get("play")
+            time.sleep(DELAY)
+
+        sh = shist.get(s)
+        if sh is None:
+            # single-store games inherit the showcase series: it could only have been that store
+            sh = shist[s] = {}
+            only = "ios" if (a_id and not p_id) else "play" if (p_id and not a_id) else None
+            if only:
+                for d, n in history.get(s, {}).items():
+                    if d < today:
+                        sh[d] = {only: n}
+
+        ic = ios["count"] if ios else None
+        pc = play["count"] if play else None
+        g["showcase_count"] = g.get("rating_count") or 0
+        if ic is not None or pc is not None:
+            g["rating_count"] = (ic or 0) + (pc or 0)
+            w = [(x["rating"], x["count"]) for x in (ios, play) if x and x.get("rating") and x.get("count")]
+            g["rating"] = round(sum(r * c for r, c in w) / sum(c for _, c in w), 2) if w else None
+        fresh = {"ios": ic if ios_fresh else None, "play": pc if play_fresh else None}
+        g["delta_1d_ios"] = store_delta(sh, "ios", fresh["ios"], yday)
+        g["delta_1d_play"] = store_delta(sh, "play", fresh["play"], yday)
+        g["delta_1d"] = add(g["delta_1d_ios"], g["delta_1d_play"])
+        g["delta_7d"] = add(store_delta(sh, "ios", fresh["ios"], wk), store_delta(sh, "play", fresh["play"], wk))
+        g["gaining"] = bool(g["delta_1d"] and g["delta_1d"] > 0)
+        row = {k: v for k, v in fresh.items() if v is not None}
+        if row:
+            sh[today] = dict(sh.get(today, {}), **row)
+        g["ios"], g["play"] = ios, play
+        g["installs"] = (play or {}).get("installs", "")
+
     parsed = [g for g in games if not g["stale"]]
     empties = sum(1 for g in parsed if not g.get("genres") and not g.get("seller"))
     warning = ""
     if parsed and empties > len(parsed) * 0.5:
-        warning = (f"{empties}/{len(parsed)} games parsed without genres or developer — "
+        warning = (f"{empties}/{len(parsed)} games parsed without genres or developer: "
                    "showcase detail layout may have changed")
 
     games.sort(key=lambda g: (-(g.get("rating_count") or 0), g["name"].lower()))
     keep = ("rank", "slug", "name", "url", "tagline", "description", "category", "genres", "seller",
-            "platforms", "rating", "rating_count", "delta_1d", "delta_7d", "first_seen", "new",
+            "platforms", "rating", "rating_count", "ios", "play", "installs", "showcase_count",
+            "delta_1d", "delta_7d", "delta_1d_ios", "delta_1d_play", "first_seen", "new",
             "new_today", "gaining", "proximity", "store", "stale")
     for i, g in enumerate(games, 1):
         g["rank"] = i
@@ -426,15 +554,19 @@ def collect_games(stamp, today, status):
         "new_today": [g["slug"] for g in games if g["new_today"]],
         "gaining": [g["slug"] for g in games if g["gaining"]],
         "failed": failed,
+        "stores": {"app_store_ok": apple_ok, "app_store": len(apple), "play_tried": play_tried,
+                   "play_failed": play_failed},
         "games": [{k: g.get(k) for k in keep} for g in games],
     }
     write_json(games_path, payload)
     write_json(os.path.join(RAW, "showcase_games.json"), dict(payload, apps=games))
     write_json(hist_path, history)
+    write_json(shist_path, shist)
     write_competitors(payload)
     status["showcase_games"] = (
         f"ok {len(games)} games · {payload['rated']} rated · +{len(payload['new_today'])} new · "
         f"{len(payload['gaining'])} gaining" + (f" · {failed} failed" if failed else "")
+        + f" · app store {'ok' if apple_ok else 'FAIL'} {len(apple)} · play {play_tried - play_failed}/{play_tried}"
         + (f" · WARNING {warning}" if warning else ""))
 
 
