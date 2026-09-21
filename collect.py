@@ -265,6 +265,12 @@ def count_on_or_before(hist, day):
 
 APPLE_ID = re.compile(r"apps\.apple\.com/[^\s\"']*?id(\d+)")
 PLAY_ID = re.compile(r"play\.google\.com/store/apps/details\?id=([A-Za-z0-9._]+)")
+PLAY_RELEASE = re.compile(r'\["([A-Z][a-z]{2} \d{1,2}, 20\d\d)",\[(\d{9,11}),\d+\]\],null,null,'
+                          r'\["[\d,]+\+",\d+,(\d+),"([^"]+)"\]')
+# Shipaton 2026 counts an app only if its FIRST store release falls in Aug 1 to Sep 30 (FAQ:
+# live on one store before Aug 1, then launched on another, does not qualify). One day of
+# slack for time zones.
+WINDOW_OPENS = "2026-07-31"
 
 
 def store_ids(rec, old):
@@ -312,8 +318,15 @@ def play_ratings(pkg):
     agg = app.get("aggregateRating") or {}
     inst = re.search(r"([0-9][0-9.,]*[KMB]?\+)\s*Downloads", page_text(doc))
     val = float(agg.get("ratingValue") or 0)
+    # The page's data blob carries ["Dec 24, 2025",[<unix>,..]],null,null,["10,000+",10000,20654,"10K+"]:
+    # the listing's release date, then the install band with the exact install count.
+    rel = PLAY_RELEASE.search(doc)
     return {"rating": round(val, 2) if val else None, "count": int(agg.get("ratingCount") or 0),
-            "installs": inst.group(1) if inst else "", "url": url}
+            "installs": (rel.group(4) if rel else "") or (inst.group(1) if inst else ""),
+            "installs_exact": int(rel.group(3)) if rel else None,
+            "released": (datetime.fromtimestamp(int(rel.group(2)), timezone.utc).strftime("%Y-%m-%d")
+                         if rel else ""),
+            "url": url}
 
 
 def store_delta(sh, key, n, day):
@@ -378,21 +391,24 @@ def write_competitors(p):
                 return "·"
             return f"[{st['rating'] or '–'} ({st['count']})]({st['url']})" if st.get("url") else f"({st['count']})"
         links = f"[showcase]({g['url']})"
+        rel = g.get("first_release") or "·"
+        if g.get("pre_window"):
+            rel = f"**{rel}** ({g['first_release_store']}, before Aug 1)"
         rows.append(
             f"| {g['rank']} | {mark}{md(g['name'])}{new} | {md(', '.join(g['genres']) or g['category'])} | "
             f"{md(g['seller'])} | {cell(g.get('ios'))} | {cell(g.get('play'))} | {g.get('installs') or '·'} | "
             f"{g.get('rating_count') or 0} | {fmt_delta(g['delta_1d'])} | "
-            f"{fmt_delta(g['delta_7d'])} | {g['first_seen']} | {links} |")
+            f"{fmt_delta(g['delta_7d'])} | {rel} | {g['first_seen']} | {links} |")
     head = (
         "# Shipaton 2026: every game in the field\n\n"
         f"Generated {p['generated_at']} by the local collector from {SHOWCASE}/games ∩ /2026. "
         f"**{p['count']} games** · {p['rated']} rated · +{len(p['new_today'])} new today · "
         f"{len(p['gaining'])} gaining. Ratings read from the stores (App Store US + Google Play), "
-        "sorted by their total. ⚠ = genre proximity to HALL PASS. "
+        "sorted by their total. First store release is the earlier of the two stores' own release dates. ⚠ = genre proximity to HALL PASS. "
         "🆕 = first seen in the last 3 days. Regenerated every run. Do not edit by hand.\n\n"
         "| # | Game | Genres | Developer | App Store ★ (n) | Google Play ★ (n) | Installs | Total | "
-        "Δ 1d | Δ 7d | First seen | Links |\n"
-        "|---|---|---|---|---|---|---|---|---|---|---|---|\n")
+        "Δ 1d | Δ 7d | First store release | First seen | Links |\n"
+        "|---|---|---|---|---|---|---|---|---|---|---|---|---|\n")
     with open(os.path.join(WATCH, "competitors.md"), "w", encoding="utf-8") as f:
         f.write(head + "\n".join(rows) + "\n")
 
@@ -529,6 +545,12 @@ def collect_games(stamp, today, status):
             sh[today] = dict(sh.get(today, {}), **row)
         g["ios"], g["play"] = ios, play
         g["installs"] = (play or {}).get("installs", "")
+        g["installs_exact"] = (play or {}).get("installs_exact")
+        rels = {k: st["released"] for k, st in (("App Store", ios), ("Google Play", play))
+                if st and st.get("released")}
+        g["first_release"] = min(rels.values()) if rels else ""
+        g["first_release_store"] = min(rels, key=rels.get) if rels else ""
+        g["pre_window"] = bool(rels) and g["first_release"] < WINDOW_OPENS
 
     parsed = [g for g in games if not g["stale"]]
     empties = sum(1 for g in parsed if not g.get("genres") and not g.get("seller"))
@@ -540,7 +562,8 @@ def collect_games(stamp, today, status):
     games.sort(key=lambda g: (-(g.get("rating_count") or 0), g["name"].lower()))
     keep = ("rank", "slug", "name", "url", "tagline", "description", "category", "genres", "seller",
             "platforms", "rating", "rating_count", "ios", "play", "installs", "showcase_count",
-            "delta_1d", "delta_7d", "delta_1d_ios", "delta_1d_play", "first_seen", "new",
+            "delta_1d", "delta_7d", "delta_1d_ios", "delta_1d_play", "installs_exact", "first_release",
+            "first_release_store", "pre_window", "first_seen", "new",
             "new_today", "gaining", "proximity", "store", "stale")
     for i, g in enumerate(games, 1):
         g["rank"] = i
@@ -553,6 +576,7 @@ def collect_games(stamp, today, status):
         "rated": sum(1 for g in games if g.get("rating_count")),
         "new_today": [g["slug"] for g in games if g["new_today"]],
         "gaining": [g["slug"] for g in games if g["gaining"]],
+        "pre_window": [g["slug"] for g in games if g.get("pre_window")],
         "failed": failed,
         "stores": {"app_store_ok": apple_ok, "app_store": len(apple), "play_tried": play_tried,
                    "play_failed": play_failed},

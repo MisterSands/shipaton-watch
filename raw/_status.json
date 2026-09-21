@@ -1,10 +1,10 @@
 {
- "fetched_at": "2026-09-21T20:32:47Z",
+ "fetched_at": "2026-09-21T23:06:05Z",
  "sources": {
   "hackernoon": "ok 50",
   "devto": "ok 12",
   "reddit": "ok 24",
-  "reddit_shipaton": "ok 3",
+  "reddit_shipaton": "FAIL HTTPError 429",
   "revenuecat_blog": "ok 5",
   "shipaton_blog": "ok 18",
   "medium": "ok 10",

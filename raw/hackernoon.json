@@ -1,9 +1,16 @@
 {
  "source": "hackernoon",
  "url": "https://hackernoon.com/tagged/shipaton/feed",
- "fetched_at": "2026-09-21T20:32:47Z",
+ "fetched_at": "2026-09-21T23:06:05Z",
  "count": 50,
  "items": [
+  {
+   "title": "Three iOS WebKit Traps That Blacked Out My AR Game, and How I Caught Them",
+   "link": "https://hackernoon.com/three-ios-webkit-traps-that-blacked-out-my-ar-game-and-how-i-caught-them?source=rss",
+   "date": "Mon, 21 Sep 2026 20:39:08 GMT",
+   "author": "bleiquel",
+   "summary": ""
+  },
   {
    "title": "My AI Agent Distorted the Truth in Three Different Ways, but Only One Was a Hallucination",
    "link": "https://hackernoon.com/my-ai-agent-distorted-the-truth-in-three-different-ways-but-only-one-was-a-hallucination?source=rss",
@@ -345,13 +352,6 @@
    "link": "https://hackernoon.com/my-safety-checks-were-monuments-to-bugs-i-had-already-fixed?source=rss",
    "date": "Thu, 03 Sep 2026 09:14:59 GMT",
    "author": "Ushio Hoshino",
-   "summary": ""
-  },
-  {
-   "title": "From Rejection to Release: How the Pinoy-Made App Todochi Got on Google Play",
-   "link": "https://hackernoon.com/from-rejection-to-release-how-the-pinoy-made-app-todochi-got-on-google-play?source=rss",
-   "date": "Thu, 03 Sep 2026 07:59:59 GMT",
-   "author": "Todochi",
    "summary": ""
   }
  ]
