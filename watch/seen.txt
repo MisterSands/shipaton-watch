@@ -320,3 +320,8 @@ https://www.reddit.com/r/promoteMyApp/comments/1wlv6it/my_app_is_live_shipaton_h
 https://www.reddit.com/r/buildinpublic/comments/1wlv65d/my_app_is_live_shipaton_hackathon/
 https://www.reddit.com/r/SideProject/comments/1wld22k/my_friend_and_i_are_building_a_focus_app_where_a/
 https://www.youtube.com/watch?v=IhTT4opOypE
+https://dev.to/koztechie/building-nichlyst-eight-waves-one-canon-how-40-days-of-script-survived-a-strict-state-machine-4gn3
+https://hackernoon.com/three-ios-webkit-traps-that-blacked-out-my-ar-game-and-how-i-caught-them
+https://hackernoon.com/designing-memory-rescue-with-onesignal-without-turning-slovo-into-a-notification-machine
+https://hackernoon.com/building-isolyne-part-7-designing-dark-mode-for-high-velocity-dev-teams
+https://hackernoon.com/my-ai-agent-distorted-the-truth-in-three-different-ways-but-only-one-was-a-hallucination
