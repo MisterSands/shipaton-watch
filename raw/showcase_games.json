@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-21T23:06:05Z",
- "date": "2026-09-21",
+ "generated_at": "2026-09-22T09:30:01Z",
+ "date": "2026-09-22",
  "stale": false,
  "error": "",
  "warning": "",
@@ -8,16 +8,9 @@
  "apps_2026": 792,
  "games_all_years": 140,
  "count": 96,
- "rated": 40,
+ "rated": 37,
  "new_today": [],
- "gaining": [
-  "nitelore",
-  "unlike",
-  "pocketful-daily-puzzles",
-  "findshiba",
-  "golden-mile-traffic-racer",
-  "the-flying-boy-of-vyn-5"
- ],
+ "gaining": [],
  "pre_window": [
   "the-last-line-zombie-siege",
   "consoly-coding-challenges",
@@ -76,10 +69,10 @@
    },
    "installs": "10K+",
    "showcase_count": 336,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 20654,
    "first_release": "2025-12-24",
    "first_release_store": "Google Play",
@@ -121,9 +114,9 @@
    "play": null,
    "installs": "",
    "showcase_count": 28,
-   "delta_1d": 1,
+   "delta_1d": 0,
    "delta_7d": 3,
-   "delta_1d_ios": 1,
+   "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
    "first_release": "2026-08-15",
@@ -132,7 +125,7 @@
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
-   "gaining": true,
+   "gaining": false,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4",
    "stale": false
@@ -154,11 +147,11 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 4.84,
-   "rating_count": 25,
+   "rating": 4.83,
+   "rating_count": 24,
    "ios": {
-    "rating": 4.84,
-    "count": 25,
+    "rating": 4.83,
+    "count": 24,
     "released": "2026-08-15",
     "version": "1.08",
     "url": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409"
@@ -166,9 +159,9 @@
    "play": null,
    "installs": "",
    "showcase_count": 19,
-   "delta_1d": 6,
-   "delta_7d": 19,
-   "delta_1d_ios": 6,
+   "delta_1d": -1,
+   "delta_7d": 17,
+   "delta_1d_ios": -1,
    "delta_1d_play": null,
    "installs_exact": null,
    "first_release": "2026-08-15",
@@ -177,7 +170,7 @@
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
-   "gaining": true,
+   "gaining": false,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409?uo=4",
    "stale": false
@@ -265,7 +258,7 @@
    "first_release_store": "Google Play",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -309,10 +302,10 @@
    },
    "installs": "100+",
    "showcase_count": 5,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 170,
    "first_release": "2026-08-23",
    "first_release_store": "Google Play",
@@ -363,10 +356,10 @@
    },
    "installs": "50+",
    "showcase_count": 5,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 72,
    "first_release": "2026-08-31",
    "first_release_store": "Google Play",
@@ -408,18 +401,18 @@
    "play": null,
    "installs": "",
    "showcase_count": 3,
-   "delta_1d": 1,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": 1,
+   "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
    "first_release": "2026-08-06",
    "first_release_store": "App Store",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
-   "gaining": true,
+   "gaining": false,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/pocketful-daily-puzzles/id6792436106?uo=4",
    "stale": false
@@ -553,10 +546,10 @@
    },
    "installs": "1K+",
    "showcase_count": 3,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 4783,
    "first_release": "2026-04-13",
    "first_release_store": "Google Play",
@@ -690,7 +683,7 @@
    "installs": "",
    "showcase_count": 3,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -735,7 +728,7 @@
    "installs": "",
    "showcase_count": 2,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 2,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -789,7 +782,7 @@
    "first_release_store": "App Store",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -826,9 +819,9 @@
    "play": null,
    "installs": "",
    "showcase_count": 1,
-   "delta_1d": 1,
-   "delta_7d": null,
-   "delta_1d_ios": 1,
+   "delta_1d": 0,
+   "delta_7d": 2,
+   "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
    "first_release": "2026-09-03",
@@ -837,7 +830,7 @@
    "first_seen": "2026-09-09",
    "new": false,
    "new_today": false,
-   "gaining": true,
+   "gaining": false,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4",
    "stale": false
@@ -925,10 +918,10 @@
    },
    "installs": "10+",
    "showcase_count": 2,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 11,
    "first_release": "2026-07-16",
    "first_release_store": "App Store",
@@ -1071,16 +1064,16 @@
    },
    "installs": "10+",
    "showcase_count": 1,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 25,
    "first_release": "2026-08-17",
    "first_release_store": "Google Play",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": true,
@@ -1169,10 +1162,10 @@
    },
    "installs": "10+",
    "showcase_count": 1,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 44,
    "first_release": "2026-08-01",
    "first_release_store": "Google Play",
@@ -1224,10 +1217,10 @@
    },
    "installs": "100+",
    "showcase_count": 1,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 125,
    "first_release": "2026-07-27",
    "first_release_store": "Google Play",
@@ -1242,59 +1235,6 @@
   },
   {
    "rank": 26,
-   "slug": "firu-firu-games",
-   "name": "Firu Firu Games",
-   "url": "https://apps.shipaton.com/app/firu-firu-games",
-   "tagline": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu!",
-   "description": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu! Enjoy multiple connected arcade games, earn rewards, and watch Firu evolve across 5 awesome visual stages: PAW JUMP: Climb endless vertical platforms! Jump from sunny pirate shores through atmospheric twilight skies all the way into outer space while dodging hazards and collecting treats. BUBBLE PAWS: Classic bubble-breaking arcade action! Tackle 50 handcrafted levels across 5 unique worlds with dynamic combos, power-ups, and exciting boss battles. PROGRESSION & CUSTOMIZATION: - Evol",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Adventure",
-    "Casual"
-   ],
-   "seller": "Eren Ozgumus",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": 1.0,
-   "rating_count": 1,
-   "ios": {
-    "rating": 1,
-    "count": 1,
-    "released": "2026-08-31",
-    "version": "1.0.5+12",
-    "url": "https://apps.apple.com/us/app/firu-firu-games-dog-arcade/id6796634241"
-   },
-   "play": {
-    "rating": null,
-    "count": 0,
-    "installs": "10+",
-    "installs_exact": 11,
-    "released": "2026-08-19",
-    "url": "https://play.google.com/store/apps/details?id=com.firufirugames.app"
-   },
-   "installs": "10+",
-   "showcase_count": 0,
-   "delta_1d": null,
-   "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "installs_exact": 11,
-   "first_release": "2026-08-19",
-   "first_release_store": "Google Play",
-   "pre_window": false,
-   "first_seen": "2026-09-02",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/firu-firu-games/id6796634241?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 27,
    "slug": "glow-snake-neon-classic",
    "name": "Glow Snake: Neon Classic",
    "url": "https://apps.shipaton.com/app/glow-snake-neon-classic",
@@ -1330,10 +1270,10 @@
    },
    "installs": "10+",
    "showcase_count": 1,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 16,
    "first_release": "2026-07-27",
    "first_release_store": "App Store",
@@ -1347,52 +1287,7 @@
    "stale": false
   },
   {
-   "rank": 28,
-   "slug": "golden-mile-traffic-racer",
-   "name": "Golden Mile: Traffic Racer",
-   "url": "https://apps.shipaton.com/app/golden-mile-traffic-racer",
-   "tagline": "One driver.",
-   "description": "One driver. Ten cities. One wrong lane and it's over. Golden Mile is a 3D traffic racer where every city is drawn in code, not downloaded — Paris at lavender dusk, Tokyo in neon rain, Monaco's cliff hairpins over the sea. There is no health bar. One hit ends it. WORLD TOUR Race the map city by city, Paris to Monaco. Win a city to light the next, then come back on NORMAL and HARD for a tighter line and a faster Gold Time. Every race is authored, never rolled — the same traffic, the same gaps, every single run. A Gold Time is skill, never luck. Thirty races, and a real ending. RUSH HOUR Wrong wa",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Racing",
-    "Action"
-   ],
-   "seller": "ozgur ersil",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 1.0,
-   "rating_count": 1,
-   "ios": {
-    "rating": 1,
-    "count": 1,
-    "released": "2026-08-29",
-    "version": "1.0",
-    "url": "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287"
-   },
-   "play": null,
-   "installs": "",
-   "showcase_count": 0,
-   "delta_1d": 1,
-   "delta_7d": null,
-   "delta_1d_ios": 1,
-   "delta_1d_play": null,
-   "installs_exact": null,
-   "first_release": "2026-08-29",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "first_seen": "2026-09-12",
-   "new": false,
-   "new_today": false,
-   "gaining": true,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 29,
+   "rank": 27,
    "slug": "gotcha-bluff-party-trivia",
    "name": "Gotcha: Bluff Party Trivia",
    "url": "https://apps.shipaton.com/app/gotcha-bluff-party-trivia",
@@ -1437,7 +1332,7 @@
    "stale": false
   },
   {
-   "rank": 30,
+   "rank": 28,
    "slug": "learn-french-game-cowsmic",
    "name": "Learn French Game: Cowsmic",
    "url": "https://apps.shipaton.com/app/learn-french-game-cowsmic",
@@ -1469,10 +1364,10 @@
    },
    "installs": "10+",
    "showcase_count": 1,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 14,
    "first_release": "2026-08-21",
    "first_release_store": "Google Play",
@@ -1486,7 +1381,7 @@
    "stale": false
   },
   {
-   "rank": 31,
+   "rank": 29,
    "slug": "not-your-phone-mystery",
    "name": "Not Your Phone: Mystery",
    "url": "https://apps.shipaton.com/app/not-your-phone-mystery",
@@ -1531,7 +1426,7 @@
    "stale": false
   },
   {
-   "rank": 32,
+   "rank": 30,
    "slug": "nova-swing",
    "name": "Nova Swing",
    "url": "https://apps.shipaton.com/app/nova-swing",
@@ -1560,7 +1455,7 @@
    "installs": "",
    "showcase_count": 1,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -1576,7 +1471,7 @@
    "stale": false
   },
   {
-   "rank": 33,
+   "rank": 31,
    "slug": "phantom-words",
    "name": "Phantom Words",
    "url": "https://apps.shipaton.com/app/phantom-words",
@@ -1621,7 +1516,7 @@
    "stale": false
   },
   {
-   "rank": 34,
+   "rank": 32,
    "slug": "sever",
    "name": "SEVER.",
    "url": "https://apps.shipaton.com/app/sever",
@@ -1657,10 +1552,10 @@
    },
    "installs": "10+",
    "showcase_count": 1,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 49,
    "first_release": "2026-07-20",
    "first_release_store": "App Store",
@@ -1674,7 +1569,7 @@
    "stale": false
   },
   {
-   "rank": 35,
+   "rank": 33,
    "slug": "sky-pups-dash",
    "name": "Sky Pups Dash",
    "url": "https://apps.shipaton.com/app/sky-pups-dash",
@@ -1710,10 +1605,10 @@
    },
    "installs": "5K+",
    "showcase_count": 1,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 5654,
    "first_release": "2026-08-02",
    "first_release_store": "Google Play",
@@ -1727,7 +1622,7 @@
    "stale": false
   },
   {
-   "rank": 36,
+   "rank": 34,
    "slug": "terravel-geography-quiz-game",
    "name": "Terravel: Geography Quiz Game",
    "url": "https://apps.shipaton.com/app/terravel-geography-quiz-game",
@@ -1764,7 +1659,7 @@
    "first_release_store": "App Store",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -1772,7 +1667,7 @@
    "stale": false
   },
   {
-   "rank": 37,
+   "rank": 35,
    "slug": "the-flying-boy-of-vyn-5",
    "name": "The Flying Boy of VYN-5",
    "url": "https://apps.shipaton.com/app/the-flying-boy-of-vyn-5",
@@ -1801,70 +1696,24 @@
    "play": null,
    "installs": "",
    "showcase_count": 0,
-   "delta_1d": 1,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": 1,
+   "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
    "first_release": "2026-09-16",
    "first_release_store": "App Store",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
-   "gaining": true,
+   "gaining": false,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/the-flying-boy-of-vyn-5/id6808698764?uo=4",
    "stale": false
   },
   {
-   "rank": 38,
-   "slug": "velocity-unleashed",
-   "name": "Velocity Unleashed",
-   "url": "https://apps.shipaton.com/app/velocity-unleashed",
-   "tagline": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer.",
-   "description": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer. Invite friends with 1-tap party links, climb Game Center leaderboards, and tune your car for every circuit. Arcade pace with simulator-style handling, built for iPhone and iPad. TRUE 3D RACING Feel every apex at up to 120 FPS, powered by Apple SceneKit and Metal. Precision steering, throttle control, and nitro boost across demanding tracks. FORMULA CARS & TUNING Step into the showroom and build your line-up. Upgrade engine, turbo, downforce, and slicks. From",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Racing",
-    "Casual",
-    "Sports"
-   ],
-   "seller": "Omer Younus",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 1.0,
-   "rating_count": 1,
-   "ios": {
-    "rating": 1,
-    "count": 1,
-    "released": "2026-08-12",
-    "version": "2.40.0",
-    "url": "https://apps.apple.com/us/app/velocity-unleashed/id6794736953"
-   },
-   "play": null,
-   "installs": "",
-   "showcase_count": 1,
-   "delta_1d": 0,
-   "delta_7d": 0,
-   "delta_1d_ios": 0,
-   "delta_1d_play": null,
-   "installs_exact": null,
-   "first_release": "2026-08-12",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "first_seen": "2026-09-02",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/velocity-unleashed/id6794736953?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 39,
+   "rank": 36,
    "slug": "voltfield-80s-classic-arcade",
    "name": "VOLTFIELD: 80s Classic Arcade",
    "url": "https://apps.shipaton.com/app/voltfield-80s-classic-arcade",
@@ -1909,7 +1758,7 @@
    "stale": false
   },
   {
-   "rank": 40,
+   "rank": 37,
    "slug": "word-scourge",
    "name": "Word Scourge",
    "url": "https://apps.shipaton.com/app/word-scourge",
@@ -1946,10 +1795,10 @@
    },
    "installs": "10+",
    "showcase_count": 1,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 16,
    "first_release": "2026-09-03",
    "first_release_store": "Google Play",
@@ -1963,7 +1812,7 @@
    "stale": false
   },
   {
-   "rank": 41,
+   "rank": 38,
    "slug": "ai-chess-coach-3d",
    "name": "AI Chess Coach 3D",
    "url": "https://apps.shipaton.com/app/ai-chess-coach-3d",
@@ -1991,7 +1840,7 @@
    "installs": "5+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": null,
@@ -2007,7 +1856,7 @@
    "stale": false
   },
   {
-   "rank": 42,
+   "rank": 39,
    "slug": "auraduel-aura-battles",
    "name": "AURADUEL: aura battles",
    "url": "https://apps.shipaton.com/app/auraduel-aura-battles",
@@ -2043,7 +1892,7 @@
    "first_release_store": "App Store",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -2051,7 +1900,7 @@
    "stale": false
   },
   {
-   "rank": 43,
+   "rank": 40,
    "slug": "b4orafter",
    "name": "B4ORAfter",
    "url": "https://apps.shipaton.com/app/b4orafter",
@@ -2080,7 +1929,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -2096,7 +1945,7 @@
    "stale": false
   },
   {
-   "rank": 44,
+   "rank": 41,
    "slug": "ball-jump-fest",
    "name": "Ball Jump Fest",
    "url": "https://apps.shipaton.com/app/ball-jump-fest",
@@ -2124,7 +1973,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -2140,7 +1989,7 @@
    "stale": false
   },
   {
-   "rank": 45,
+   "rank": 42,
    "slug": "bawzi-board-games-chat",
    "name": "Bawzi - Board Games & Chat",
    "url": "https://apps.shipaton.com/app/bawzi-board-games-chat",
@@ -2178,7 +2027,7 @@
    "first_release_store": "App Store",
    "pre_window": true,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -2186,7 +2035,7 @@
    "stale": false
   },
   {
-   "rank": 46,
+   "rank": 43,
    "slug": "bible-kids-listen-and-play",
    "name": "Bible Kids: Listen and Play",
    "url": "https://apps.shipaton.com/app/bible-kids-listen-and-play",
@@ -2223,10 +2072,10 @@
    },
    "installs": "1+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 1,
    "first_release": "2026-08-27",
    "first_release_store": "Google Play",
@@ -2240,7 +2089,7 @@
    "stale": false
   },
   {
-   "rank": 47,
+   "rank": 44,
    "slug": "blokka-1v1-block-battle",
    "name": "Blokka - 1v1 Block Battle",
    "url": "https://apps.shipaton.com/app/blokka-1v1-block-battle",
@@ -2276,16 +2125,16 @@
    },
    "installs": "0+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 0,
    "first_release": "2026-09-08",
    "first_release_store": "App Store",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -2293,7 +2142,7 @@
    "stale": false
   },
   {
-   "rank": 48,
+   "rank": 45,
    "slug": "cat-ninja-crowd",
    "name": "Cat Ninja Crowd",
    "url": "https://apps.shipaton.com/app/cat-ninja-crowd",
@@ -2322,7 +2171,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -2338,7 +2187,7 @@
    "stale": false
   },
   {
-   "rank": 49,
+   "rank": 46,
    "slug": "catoban-pixel-cat-sokoban",
    "name": "Catoban: Pixel Cat Sokoban",
    "url": "https://apps.shipaton.com/app/catoban-pixel-cat-sokoban",
@@ -2366,7 +2215,7 @@
    "installs": "10+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 22,
@@ -2382,7 +2231,7 @@
    "stale": false
   },
   {
-   "rank": 50,
+   "rank": 47,
    "slug": "ciphersage-word-cryptograms",
    "name": "CipherSage: Word Cryptograms",
    "url": "https://apps.shipaton.com/app/ciphersage-word-cryptograms",
@@ -2418,10 +2267,10 @@
    },
    "installs": "10+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 36,
    "first_release": "2026-07-30",
    "first_release_store": "Google Play",
@@ -2435,7 +2284,7 @@
    "stale": false
   },
   {
-   "rank": 51,
+   "rank": 48,
    "slug": "coinful",
    "name": "Coinful",
    "url": "https://apps.shipaton.com/app/coinful",
@@ -2464,7 +2313,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -2480,7 +2329,7 @@
    "stale": false
   },
   {
-   "rank": 52,
+   "rank": 49,
    "slug": "colornest",
    "name": "ColorNest",
    "url": "https://apps.shipaton.com/app/colornest",
@@ -2516,7 +2365,7 @@
    "first_release_store": "Google Play",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -2524,7 +2373,7 @@
    "stale": false
   },
   {
-   "rank": 53,
+   "rank": 50,
    "slug": "colorrush-turf-war",
    "name": "ColorRush: Turf War",
    "url": "https://apps.shipaton.com/app/colorrush-turf-war",
@@ -2553,7 +2402,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -2569,7 +2418,7 @@
    "stale": false
   },
   {
-   "rank": 54,
+   "rank": 51,
    "slug": "das-verhor",
    "name": "Das Verhör",
    "url": "https://apps.shipaton.com/app/das-verhor",
@@ -2606,7 +2455,7 @@
    "first_release_store": "App Store",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -2614,7 +2463,7 @@
    "stale": false
   },
   {
-   "rank": 55,
+   "rank": 52,
    "slug": "fifty-cutting-game",
    "name": "Fifty - 50/50 Cutting Game",
    "url": "https://apps.shipaton.com/app/fifty-cutting-game",
@@ -2642,7 +2491,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -2658,7 +2507,60 @@
    "stale": false
   },
   {
-   "rank": 56,
+   "rank": 53,
+   "slug": "firu-firu-games",
+   "name": "Firu Firu Games",
+   "url": "https://apps.shipaton.com/app/firu-firu-games",
+   "tagline": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu!",
+   "description": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu! Enjoy multiple connected arcade games, earn rewards, and watch Firu evolve across 5 awesome visual stages: PAW JUMP: Climb endless vertical platforms! Jump from sunny pirate shores through atmospheric twilight skies all the way into outer space while dodging hazards and collecting treats. BUBBLE PAWS: Classic bubble-breaking arcade action! Tackle 50 handcrafted levels across 5 unique worlds with dynamic combos, power-ups, and exciting boss battles. PROGRESSION & CUSTOMIZATION: - Evol",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Adventure",
+    "Casual"
+   ],
+   "seller": "Eren Ozgumus",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-31",
+    "version": "1.0.5+12",
+    "url": "https://apps.apple.com/us/app/firu-firu-games-dog-arcade/id6796634241"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "installs_exact": 11,
+    "released": "2026-08-19",
+    "url": "https://play.google.com/store/apps/details?id=com.firufirugames.app"
+   },
+   "installs": "10+",
+   "showcase_count": 0,
+   "delta_1d": -1,
+   "delta_7d": null,
+   "delta_1d_ios": -1,
+   "delta_1d_play": 0,
+   "installs_exact": 11,
+   "first_release": "2026-08-19",
+   "first_release_store": "Google Play",
+   "pre_window": false,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/firu-firu-games/id6796634241?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 54,
    "slug": "foodie-drop-merge-puzzle",
    "name": "Foodie Drop: Merge Puzzle",
    "url": "https://apps.shipaton.com/app/foodie-drop-merge-puzzle",
@@ -2686,7 +2588,7 @@
    "installs": "5+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 6,
@@ -2702,7 +2604,7 @@
    "stale": false
   },
   {
-   "rank": 57,
+   "rank": 55,
    "slug": "frog-crossing-arcade-hopper",
    "name": "Frog Crossing: Arcade Hopper",
    "url": "https://apps.shipaton.com/app/frog-crossing-arcade-hopper",
@@ -2739,10 +2641,10 @@
    },
    "installs": "10+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 39,
    "first_release": "2026-08-05",
    "first_release_store": "Google Play",
@@ -2756,7 +2658,52 @@
    "stale": false
   },
   {
-   "rank": 58,
+   "rank": 56,
+   "slug": "golden-mile-traffic-racer",
+   "name": "Golden Mile: Traffic Racer",
+   "url": "https://apps.shipaton.com/app/golden-mile-traffic-racer",
+   "tagline": "One driver.",
+   "description": "One driver. Ten cities. One wrong lane and it's over. Golden Mile is a 3D traffic racer where every city is drawn in code, not downloaded — Paris at lavender dusk, Tokyo in neon rain, Monaco's cliff hairpins over the sea. There is no health bar. One hit ends it. WORLD TOUR Race the map city by city, Paris to Monaco. Win a city to light the next, then come back on NORMAL and HARD for a tighter line and a faster Gold Time. Every race is authored, never rolled — the same traffic, the same gaps, every single run. A Gold Time is skill, never luck. Thirty races, and a real ending. RUSH HOUR Wrong wa",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Racing",
+    "Action"
+   ],
+   "seller": "ozgur ersil",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-29",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
+   "delta_1d": -1,
+   "delta_7d": 0,
+   "delta_1d_ios": -1,
+   "delta_1d_play": null,
+   "installs_exact": null,
+   "first_release": "2026-08-29",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "first_seen": "2026-09-12",
+   "new": false,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 57,
    "slug": "hexpair-logic-puzzle-game",
    "name": "Hexpair: Logic Puzzle Game",
    "url": "https://apps.shipaton.com/app/hexpair-logic-puzzle-game",
@@ -2779,7 +2726,7 @@
     "rating": null,
     "count": 0,
     "released": "2026-09-16",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://apps.apple.com/us/app/hexpair-logic-puzzle-game/id6809547952"
    },
    "play": null,
@@ -2794,7 +2741,7 @@
    "first_release_store": "App Store",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -2802,7 +2749,7 @@
    "stale": false
   },
   {
-   "rank": 59,
+   "rank": 58,
    "slug": "impossible-coasters-3d-puzzle",
    "name": "Impossible Coasters: 3D Puzzle",
    "url": "https://apps.shipaton.com/app/impossible-coasters-3d-puzzle",
@@ -2831,7 +2778,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -2847,7 +2794,7 @@
    "stale": false
   },
   {
-   "rank": 60,
+   "rank": 59,
    "slug": "in-two-lights",
    "name": "In Two Lights",
    "url": "https://apps.shipaton.com/app/in-two-lights",
@@ -2876,7 +2823,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -2892,7 +2839,7 @@
    "stale": false
   },
   {
-   "rank": 61,
+   "rank": 60,
    "slug": "jianghu-sword-zither",
    "name": "Jianghu: Sword & Zither",
    "url": "https://apps.shipaton.com/app/jianghu-sword-zither",
@@ -2920,7 +2867,7 @@
    "installs": "10+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 24,
@@ -2936,7 +2883,7 @@
    "stale": false
   },
   {
-   "rank": 62,
+   "rank": 61,
    "slug": "mapzap-geography-games",
    "name": "Mapzap: Geography Games",
    "url": "https://apps.shipaton.com/app/mapzap-geography-games",
@@ -2972,10 +2919,10 @@
    },
    "installs": "1K+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 2568,
    "first_release": "2026-08-28",
    "first_release_store": "Google Play",
@@ -2989,7 +2936,7 @@
    "stale": false
   },
   {
-   "rank": 63,
+   "rank": 62,
    "slug": "minijoy",
    "name": "miniJoy",
    "url": "https://apps.shipaton.com/app/minijoy",
@@ -3025,10 +2972,10 @@
    },
    "installs": "1+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 1,
    "first_release": "2026-09-03",
    "first_release_store": "Google Play",
@@ -3042,7 +2989,7 @@
    "stale": false
   },
   {
-   "rank": 64,
+   "rank": 63,
    "slug": "mythika-puzzle-tournament",
    "name": "Mythika: Puzzle Tournament",
    "url": "https://apps.shipaton.com/app/mythika-puzzle-tournament",
@@ -3071,7 +3018,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -3087,7 +3034,7 @@
    "stale": false
   },
   {
-   "rank": 65,
+   "rank": 64,
    "slug": "networth",
    "name": "NETWORTH",
    "url": "https://apps.shipaton.com/app/networth",
@@ -3115,7 +3062,7 @@
    "installs": "100+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 218,
@@ -3131,7 +3078,7 @@
    "stale": false
   },
   {
-   "rank": 66,
+   "rank": 65,
    "slug": "neverstill",
    "name": "Neverstill",
    "url": "https://apps.shipaton.com/app/neverstill",
@@ -3168,7 +3115,7 @@
    "first_release_store": "App Store",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -3176,7 +3123,7 @@
    "stale": false
   },
   {
-   "rank": 67,
+   "rank": 66,
    "slug": "onomatope",
    "name": "Onomatope",
    "url": "https://apps.shipaton.com/app/onomatope",
@@ -3205,7 +3152,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -3221,7 +3168,7 @@
    "stale": false
   },
   {
-   "rank": 68,
+   "rank": 67,
    "slug": "orbace-sudoku",
    "name": "Orbace Sudoku: Su-Pu Replay",
    "url": "https://apps.shipaton.com/app/orbace-sudoku",
@@ -3249,7 +3196,7 @@
    "installs": "10+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 10,
@@ -3265,7 +3212,7 @@
    "stale": false
   },
   {
-   "rank": 69,
+   "rank": 68,
    "slug": "ordsnok-snoop-for-words",
    "name": "Ordsnok: Guess the Word",
    "url": "https://apps.shipaton.com/app/ordsnok-snoop-for-words",
@@ -3301,10 +3248,10 @@
    },
    "installs": "10+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 11,
    "first_release": "2026-08-13",
    "first_release_store": "Google Play",
@@ -3318,7 +3265,7 @@
    "stale": false
   },
   {
-   "rank": 70,
+   "rank": 69,
    "slug": "palsta-a-slow-garden",
    "name": "Palsta: A Slow Garden",
    "url": "https://apps.shipaton.com/app/palsta-a-slow-garden",
@@ -3346,7 +3293,7 @@
    "installs": "10+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 16,
@@ -3362,7 +3309,7 @@
    "stale": false
   },
   {
-   "rank": 71,
+   "rank": 70,
    "slug": "planet-hop",
    "name": "Planet Hop",
    "url": "https://apps.shipaton.com/app/planet-hop",
@@ -3398,7 +3345,7 @@
    "first_release_store": "",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": true,
@@ -3406,7 +3353,7 @@
    "stale": false
   },
   {
-   "rank": 72,
+   "rank": 71,
    "slug": "pocket-dragon-dungeon",
    "name": "Pocket Dragon Dungeon",
    "url": "https://apps.shipaton.com/app/pocket-dragon-dungeon",
@@ -3440,7 +3387,7 @@
    "first_release_store": "Google Play",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": true,
@@ -3448,7 +3395,7 @@
    "stale": false
   },
   {
-   "rank": 73,
+   "rank": 72,
    "slug": "pocket-pet-virtual-companion",
    "name": "Pocket Pet: Virtual Companion",
    "url": "https://apps.shipaton.com/app/pocket-pet-virtual-companion",
@@ -3484,10 +3431,10 @@
    },
    "installs": "1+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 3,
    "first_release": "2026-09-01",
    "first_release_store": "Google Play",
@@ -3501,7 +3448,7 @@
    "stale": false
   },
   {
-   "rank": 74,
+   "rank": 73,
    "slug": "protect-the-orb",
    "name": "Protect the Orb",
    "url": "https://apps.shipaton.com/app/protect-the-orb",
@@ -3529,7 +3476,7 @@
    "installs": "5+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 5,
@@ -3545,7 +3492,7 @@
    "stale": false
   },
   {
-   "rank": 75,
+   "rank": 74,
    "slug": "puking-cat",
    "name": "Puking Cat: Messy Physics Game",
    "url": "https://apps.shipaton.com/app/puking-cat",
@@ -3581,10 +3528,10 @@
    },
    "installs": "10+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 16,
    "first_release": "2026-08-01",
    "first_release_store": "Google Play",
@@ -3598,7 +3545,7 @@
    "stale": false
   },
   {
-   "rank": 76,
+   "rank": 75,
    "slug": "pulsegate-echo-shift",
    "name": "PulseGate: Echo Shift",
    "url": "https://apps.shipaton.com/app/pulsegate-echo-shift",
@@ -3627,7 +3574,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -3643,7 +3590,7 @@
    "stale": false
   },
   {
-   "rank": 77,
+   "rank": 76,
    "slug": "purrzle-sliding-puzzle",
    "name": "Purrzle - Sliding Puzzle",
    "url": "https://apps.shipaton.com/app/purrzle-sliding-puzzle",
@@ -3671,7 +3618,7 @@
    "installs": "0+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 0,
@@ -3687,7 +3634,7 @@
    "stale": false
   },
   {
-   "rank": 78,
+   "rank": 77,
    "slug": "raven-storm",
    "name": "Raven Storm",
    "url": "https://apps.shipaton.com/app/raven-storm",
@@ -3715,7 +3662,7 @@
    "installs": "10+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 32,
@@ -3731,7 +3678,7 @@
    "stale": false
   },
   {
-   "rank": 79,
+   "rank": 78,
    "slug": "reliquias-sort-story-puzzle",
    "name": "Reliquias: Sort & Story Puzzle",
    "url": "https://apps.shipaton.com/app/reliquias-sort-story-puzzle",
@@ -3759,7 +3706,7 @@
    "installs": "10+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 28,
@@ -3775,7 +3722,7 @@
    "stale": false
   },
   {
-   "rank": 80,
+   "rank": 79,
    "slug": "riverside-files-idle-tycoon",
    "name": "Riverside Files - Idle Tycoon",
    "url": "https://apps.shipaton.com/app/riverside-files-idle-tycoon",
@@ -3811,7 +3758,7 @@
    "first_release_store": "Google Play",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -3819,7 +3766,7 @@
    "stale": false
   },
   {
-   "rank": 81,
+   "rank": 80,
    "slug": "save-peps",
    "name": "Save Peps",
    "url": "https://apps.shipaton.com/app/save-peps",
@@ -3847,7 +3794,7 @@
    "installs": "10+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 20,
@@ -3863,7 +3810,7 @@
    "stale": false
   },
   {
-   "rank": 82,
+   "rank": 81,
    "slug": "secret-fantasy",
    "name": "Secret Fantasy",
    "url": "https://apps.shipaton.com/app/secret-fantasy",
@@ -3900,10 +3847,10 @@
    },
    "installs": "5+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 8,
    "first_release": "2026-08-15",
    "first_release_store": "Google Play",
@@ -3917,7 +3864,7 @@
    "stale": false
   },
   {
-   "rank": 83,
+   "rank": 82,
    "slug": "sense-of-wonder-space-puzzle",
    "name": "Sense of Wonder: Space Puzzle",
    "url": "https://apps.shipaton.com/app/sense-of-wonder-space-puzzle",
@@ -3947,7 +3894,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -3963,7 +3910,7 @@
    "stale": false
   },
   {
-   "rank": 84,
+   "rank": 83,
    "slug": "skip-ad-popup-panic",
    "name": "SKIP AD: Popup Panic",
    "url": "https://apps.shipaton.com/app/skip-ad-popup-panic",
@@ -3999,10 +3946,10 @@
    },
    "installs": "1+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 1,
    "first_release": "2026-08-28",
    "first_release_store": "Google Play",
@@ -4016,7 +3963,7 @@
    "stale": false
   },
   {
-   "rank": 85,
+   "rank": 84,
    "slug": "sonarchy",
    "name": "Sonarchy",
    "url": "https://apps.shipaton.com/app/sonarchy",
@@ -4054,7 +4001,7 @@
    "first_release_store": "App Store",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -4062,7 +4009,7 @@
    "stale": false
   },
   {
-   "rank": 86,
+   "rank": 85,
    "slug": "spot-50",
    "name": "Spot 50",
    "url": "https://apps.shipaton.com/app/spot-50",
@@ -4098,7 +4045,7 @@
    "first_release_store": "Google Play",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -4106,7 +4053,7 @@
    "stale": false
   },
   {
-   "rank": 87,
+   "rank": 86,
    "slug": "steppin-stones",
    "name": "Steppin Stones",
    "url": "https://apps.shipaton.com/app/steppin-stones",
@@ -4135,7 +4082,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -4151,7 +4098,7 @@
    "stale": false
   },
   {
-   "rank": 88,
+   "rank": 87,
    "slug": "synaptic-front-neural-rts",
    "name": "Synaptic Front: Neural RTS",
    "url": "https://apps.shipaton.com/app/synaptic-front-neural-rts",
@@ -4179,7 +4126,7 @@
    "installs": "10+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 30,
@@ -4195,7 +4142,7 @@
    "stale": false
   },
   {
-   "rank": 89,
+   "rank": 88,
    "slug": "syncdrive-test-your-reflexes",
    "name": "SyncDrive: Test Your Reflexes",
    "url": "https://apps.shipaton.com/app/syncdrive-test-your-reflexes",
@@ -4224,7 +4171,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -4240,7 +4187,7 @@
    "stale": false
   },
   {
-   "rank": 90,
+   "rank": 89,
    "slug": "tame-a-pet",
    "name": "Tame a Pet",
    "url": "https://apps.shipaton.com/app/tame-a-pet",
@@ -4276,10 +4223,10 @@
    },
    "installs": "1K+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 2256,
    "first_release": "2026-08-04",
    "first_release_store": "Google Play",
@@ -4293,7 +4240,7 @@
    "stale": false
   },
   {
-   "rank": 91,
+   "rank": 90,
    "slug": "unknown-agi-inspired-puzzle",
    "name": "UNKNOWN: AGI-Inspired Puzzle",
    "url": "https://apps.shipaton.com/app/unknown-agi-inspired-puzzle",
@@ -4329,7 +4276,7 @@
    "first_release_store": "Google Play",
    "pre_window": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "gaining": false,
    "proximity": false,
@@ -4337,7 +4284,7 @@
    "stale": false
   },
   {
-   "rank": 92,
+   "rank": 91,
    "slug": "verdara-rescue",
    "name": "VADA IO",
    "url": "https://apps.shipaton.com/app/verdara-rescue",
@@ -4366,7 +4313,7 @@
    "installs": "",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "installs_exact": null,
@@ -4379,6 +4326,52 @@
    "gaining": false,
    "proximity": true,
    "store": "https://apps.apple.com/us/app/vada-io/id6810076187?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 92,
+   "slug": "velocity-unleashed",
+   "name": "Velocity Unleashed",
+   "url": "https://apps.shipaton.com/app/velocity-unleashed",
+   "tagline": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer.",
+   "description": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer. Invite friends with 1-tap party links, climb Game Center leaderboards, and tune your car for every circuit. Arcade pace with simulator-style handling, built for iPhone and iPad. TRUE 3D RACING Feel every apex at up to 120 FPS, powered by Apple SceneKit and Metal. Precision steering, throttle control, and nitro boost across demanding tracks. FORMULA CARS & TUNING Step into the showroom and build your line-up. Upgrade engine, turbo, downforce, and slicks. From",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Racing",
+    "Casual",
+    "Sports"
+   ],
+   "seller": "Omer Younus",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-12",
+    "version": "2.40.0",
+    "url": "https://apps.apple.com/us/app/velocity-unleashed/id6794736953"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 1,
+   "delta_1d": -1,
+   "delta_7d": -1,
+   "delta_1d_ios": -1,
+   "delta_1d_play": null,
+   "installs_exact": null,
+   "first_release": "2026-08-12",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "gaining": false,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/velocity-unleashed/id6794736953?uo=4",
    "stale": false
   },
   {
@@ -4406,7 +4399,7 @@
     "rating": null,
     "count": 0,
     "released": "2026-09-14",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "url": "https://apps.apple.com/us/app/vibestep-dance-maker/id6808028411"
    },
    "play": {
@@ -4419,10 +4412,10 @@
    },
    "installs": "0+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 0,
    "first_release": "2026-09-04",
    "first_release_store": "Google Play",
@@ -4464,7 +4457,7 @@
    "installs": "10+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": 16,
@@ -4516,10 +4509,10 @@
    },
    "installs": "1+",
    "showcase_count": 0,
-   "delta_1d": null,
+   "delta_1d": 0,
    "delta_7d": null,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
    "installs_exact": 2,
    "first_release": "2026-08-15",
    "first_release_store": "Google Play",
@@ -4561,7 +4554,7 @@
    "installs": "0+",
    "showcase_count": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "installs_exact": null,
@@ -4610,9 +4603,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 336,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -4665,11 +4658,11 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 28,
-   "delta_1d_ios": 1,
+   "delta_1d_ios": 0,
    "delta_1d_play": null,
-   "delta_1d": 1,
+   "delta_1d": 0,
    "delta_7d": 3,
-   "gaining": true,
+   "gaining": false,
    "ios": {
     "rating": 4.93,
     "count": 29,
@@ -4701,8 +4694,8 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 4.84,
-   "rating_count": 25,
+   "rating": 4.83,
+   "rating_count": 24,
    "store": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409?uo=4",
    "store_links": [
     "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409?uo=4"
@@ -4713,14 +4706,14 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 19,
-   "delta_1d_ios": 6,
+   "delta_1d_ios": -1,
    "delta_1d_play": null,
-   "delta_1d": 6,
-   "delta_7d": 19,
-   "gaining": true,
+   "delta_1d": -1,
+   "delta_7d": 17,
+   "gaining": false,
    "ios": {
-    "rating": 4.84,
-    "count": 25,
+    "rating": 4.83,
+    "count": 24,
     "released": "2026-08-15",
     "version": "1.08",
     "url": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409"
@@ -4805,7 +4798,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 7,
@@ -4861,9 +4854,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 5,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -4920,9 +4913,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 5,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -4971,15 +4964,15 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 3,
-   "delta_1d_ios": 1,
+   "delta_1d_ios": 0,
    "delta_1d_play": null,
-   "delta_1d": 1,
+   "delta_1d": 0,
    "delta_7d": null,
-   "gaining": true,
+   "gaining": false,
    "ios": {
     "rating": 5,
     "count": 4,
@@ -5124,9 +5117,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 3,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -5279,7 +5272,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": 5,
@@ -5327,7 +5320,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 2,
    "gaining": false,
    "ios": {
     "rating": 3,
@@ -5369,7 +5362,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 2,
@@ -5422,11 +5415,11 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 1,
-   "delta_1d_ios": 1,
+   "delta_1d_ios": 0,
    "delta_1d_play": null,
-   "delta_1d": 1,
-   "delta_7d": null,
-   "gaining": true,
+   "delta_1d": 0,
+   "delta_7d": 2,
+   "gaining": false,
    "ios": {
     "rating": 3,
     "count": 2,
@@ -5522,9 +5515,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 2,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -5675,13 +5668,13 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": true,
    "showcase_count": 1,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -5785,9 +5778,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 1,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -5845,9 +5838,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 1,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -5871,64 +5864,6 @@
    "first_release_store": "Google Play",
    "pre_window": true,
    "rank": 25
-  },
-  {
-   "slug": "firu-firu-games",
-   "name": "Firu Firu Games",
-   "url": "https://apps.shipaton.com/app/firu-firu-games",
-   "tagline": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu!",
-   "description": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu! Enjoy multiple connected arcade games, earn rewards, and watch Firu evolve across 5 awesome visual stages: PAW JUMP: Climb endless vertical platforms! Jump from sunny pirate shores through atmospheric twilight skies all the way into outer space while dodging hazards and collecting treats. BUBBLE PAWS: Classic bubble-breaking arcade action! Tackle 50 handcrafted levels across 5 unique worlds with dynamic combos, power-ups, and exciting boss battles. PROGRESSION & CUSTOMIZATION: - Evol",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Adventure",
-    "Casual"
-   ],
-   "seller": "Eren Ozgumus",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": 1.0,
-   "rating_count": 1,
-   "store": "https://apps.apple.com/us/app/firu-firu-games/id6796634241?uo=4",
-   "store_links": [
-    "https://apps.apple.com/us/app/firu-firu-games/id6796634241?uo=4",
-    "https://play.google.com/store/apps/details?id=com.firufirugames.app",
-    "https://play.google.com/store/apps/details?id=com.firufirugames.app&amp;hl=en&amp;gl=us"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-02",
-   "new": false,
-   "new_today": false,
-   "proximity": false,
-   "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
-   "delta_7d": null,
-   "gaining": false,
-   "ios": {
-    "rating": 1,
-    "count": 1,
-    "released": "2026-08-31",
-    "version": "1.0.5+12",
-    "url": "https://apps.apple.com/us/app/firu-firu-games-dog-arcade/id6796634241"
-   },
-   "play": {
-    "rating": null,
-    "count": 0,
-    "installs": "10+",
-    "installs_exact": 11,
-    "released": "2026-08-19",
-    "url": "https://play.google.com/store/apps/details?id=com.firufirugames.app"
-   },
-   "installs": "10+",
-   "installs_exact": 11,
-   "first_release": "2026-08-19",
-   "first_release_store": "Google Play",
-   "pre_window": false,
-   "rank": 26
   },
   {
    "slug": "glow-snake-neon-classic",
@@ -5961,9 +5896,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 1,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -5986,55 +5921,7 @@
    "first_release": "2026-07-27",
    "first_release_store": "App Store",
    "pre_window": true,
-   "rank": 27
-  },
-  {
-   "slug": "golden-mile-traffic-racer",
-   "name": "Golden Mile: Traffic Racer",
-   "url": "https://apps.shipaton.com/app/golden-mile-traffic-racer",
-   "tagline": "One driver.",
-   "description": "One driver. Ten cities. One wrong lane and it's over. Golden Mile is a 3D traffic racer where every city is drawn in code, not downloaded — Paris at lavender dusk, Tokyo in neon rain, Monaco's cliff hairpins over the sea. There is no health bar. One hit ends it. WORLD TOUR Race the map city by city, Paris to Monaco. Win a city to light the next, then come back on NORMAL and HARD for a tighter line and a faster Gold Time. Every race is authored, never rolled — the same traffic, the same gaps, every single run. A Gold Time is skill, never luck. Thirty races, and a real ending. RUSH HOUR Wrong wa",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Racing",
-    "Action"
-   ],
-   "seller": "ozgur ersil",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 1.0,
-   "rating_count": 1,
-   "store": "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287?uo=4",
-   "store_links": [
-    "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287?uo=4"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-12",
-   "new": false,
-   "new_today": false,
-   "proximity": false,
-   "showcase_count": 0,
-   "delta_1d_ios": 1,
-   "delta_1d_play": null,
-   "delta_1d": 1,
-   "delta_7d": null,
-   "gaining": true,
-   "ios": {
-    "rating": 1,
-    "count": 1,
-    "released": "2026-08-29",
-    "version": "1.0",
-    "url": "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287"
-   },
-   "play": null,
-   "installs": "",
-   "installs_exact": null,
-   "first_release": "2026-08-29",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "rank": 28
+   "rank": 26
   },
   {
    "slug": "gotcha-bluff-party-trivia",
@@ -6082,7 +5969,7 @@
    "first_release": "2026-08-01",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 29
+   "rank": 27
   },
   {
    "slug": "learn-french-game-cowsmic",
@@ -6111,9 +5998,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 1,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -6136,7 +6023,7 @@
    "first_release": "2026-08-21",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 30
+   "rank": 28
   },
   {
    "slug": "not-your-phone-mystery",
@@ -6184,7 +6071,7 @@
    "first_release": "2026-08-01",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 31
+   "rank": 29
   },
   {
    "slug": "nova-swing",
@@ -6217,7 +6104,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": 5,
@@ -6232,7 +6119,7 @@
    "first_release": "2026-09-09",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 32
+   "rank": 30
   },
   {
    "slug": "phantom-words",
@@ -6280,7 +6167,7 @@
    "first_release": "2026-09-22",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 33
+   "rank": 31
   },
   {
    "slug": "sever",
@@ -6313,9 +6200,9 @@
    "new_today": false,
    "proximity": true,
    "showcase_count": 1,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -6338,7 +6225,7 @@
    "first_release": "2026-07-20",
    "first_release_store": "App Store",
    "pre_window": true,
-   "rank": 34
+   "rank": 32
   },
   {
    "slug": "sky-pups-dash",
@@ -6371,9 +6258,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 1,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -6396,7 +6283,7 @@
    "first_release": "2026-08-02",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 35
+   "rank": 33
   },
   {
    "slug": "terravel-geography-quiz-game",
@@ -6422,7 +6309,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 1,
@@ -6444,7 +6331,7 @@
    "first_release": "2026-08-02",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 36
+   "rank": 34
   },
   {
    "slug": "the-flying-boy-of-vyn-5",
@@ -6471,15 +6358,15 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": 1,
+   "delta_1d_ios": 0,
    "delta_1d_play": null,
-   "delta_1d": 1,
+   "delta_1d": 0,
    "delta_7d": null,
-   "gaining": true,
+   "gaining": false,
    "ios": {
     "rating": 5,
     "count": 1,
@@ -6493,56 +6380,7 @@
    "first_release": "2026-09-16",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 37
-  },
-  {
-   "slug": "velocity-unleashed",
-   "name": "Velocity Unleashed",
-   "url": "https://apps.shipaton.com/app/velocity-unleashed",
-   "tagline": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer.",
-   "description": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer. Invite friends with 1-tap party links, climb Game Center leaderboards, and tune your car for every circuit. Arcade pace with simulator-style handling, built for iPhone and iPad. TRUE 3D RACING Feel every apex at up to 120 FPS, powered by Apple SceneKit and Metal. Precision steering, throttle control, and nitro boost across demanding tracks. FORMULA CARS & TUNING Step into the showroom and build your line-up. Upgrade engine, turbo, downforce, and slicks. From",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Racing",
-    "Casual",
-    "Sports"
-   ],
-   "seller": "Omer Younus",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 1.0,
-   "rating_count": 1,
-   "store": "https://apps.apple.com/us/app/velocity-unleashed/id6794736953?uo=4",
-   "store_links": [
-    "https://apps.apple.com/us/app/velocity-unleashed/id6794736953?uo=4"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-02",
-   "new": false,
-   "new_today": false,
-   "proximity": false,
-   "showcase_count": 1,
-   "delta_1d_ios": 0,
-   "delta_1d_play": null,
-   "delta_1d": 0,
-   "delta_7d": 0,
-   "gaining": false,
-   "ios": {
-    "rating": 1,
-    "count": 1,
-    "released": "2026-08-12",
-    "version": "2.40.0",
-    "url": "https://apps.apple.com/us/app/velocity-unleashed/id6794736953"
-   },
-   "play": null,
-   "installs": "",
-   "installs_exact": null,
-   "first_release": "2026-08-12",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "rank": 38
+   "rank": 35
   },
   {
    "slug": "voltfield-80s-classic-arcade",
@@ -6590,7 +6428,7 @@
    "first_release": "2026-08-08",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 39
+   "rank": 36
   },
   {
    "slug": "word-scourge",
@@ -6624,9 +6462,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 1,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -6649,7 +6487,7 @@
    "first_release": "2026-09-03",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 40
+   "rank": 37
   },
   {
    "slug": "ai-chess-coach-3d",
@@ -6681,7 +6519,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -6697,7 +6535,7 @@
    "first_release": "",
    "first_release_store": "",
    "pre_window": false,
-   "rank": 41
+   "rank": 38
   },
   {
    "slug": "auraduel-aura-battles",
@@ -6722,7 +6560,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
@@ -6744,7 +6582,7 @@
    "first_release": "2026-09-05",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 42
+   "rank": 39
   },
   {
    "slug": "b4orafter",
@@ -6777,7 +6615,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -6792,7 +6630,7 @@
    "first_release": "2026-08-22",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 43
+   "rank": 40
   },
   {
    "slug": "ball-jump-fest",
@@ -6824,7 +6662,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -6839,7 +6677,7 @@
    "first_release": "2026-08-24",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 44
+   "rank": 41
   },
   {
    "slug": "bawzi-board-games-chat",
@@ -6866,7 +6704,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
@@ -6888,7 +6726,7 @@
    "first_release": "2026-06-08",
    "first_release_store": "App Store",
    "pre_window": true,
-   "rank": 45
+   "rank": 42
   },
   {
    "slug": "bible-kids-listen-and-play",
@@ -6922,9 +6760,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -6947,7 +6785,7 @@
    "first_release": "2026-08-27",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 46
+   "rank": 43
   },
   {
    "slug": "blokka-1v1-block-battle",
@@ -6976,13 +6814,13 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -7005,7 +6843,7 @@
    "first_release": "2026-09-08",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 47
+   "rank": 44
   },
   {
    "slug": "cat-ninja-crowd",
@@ -7038,7 +6876,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -7053,7 +6891,7 @@
    "first_release": "2026-08-24",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 48
+   "rank": 45
   },
   {
    "slug": "catoban-pixel-cat-sokoban",
@@ -7085,7 +6923,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -7101,7 +6939,7 @@
    "first_release": "2026-08-19",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 49
+   "rank": 46
   },
   {
    "slug": "ciphersage-word-cryptograms",
@@ -7134,9 +6972,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -7159,7 +6997,7 @@
    "first_release": "2026-07-30",
    "first_release_store": "Google Play",
    "pre_window": true,
-   "rank": 50
+   "rank": 47
   },
   {
    "slug": "coinful",
@@ -7192,7 +7030,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -7207,7 +7045,7 @@
    "first_release": "2026-08-26",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 51
+   "rank": 48
   },
   {
    "slug": "colornest",
@@ -7232,7 +7070,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
@@ -7255,7 +7093,7 @@
    "first_release": "2026-09-10",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 52
+   "rank": 49
   },
   {
    "slug": "colorrush-turf-war",
@@ -7288,7 +7126,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -7303,7 +7141,7 @@
    "first_release": "2026-08-28",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 53
+   "rank": 50
   },
   {
    "slug": "das-verhor",
@@ -7329,7 +7167,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
@@ -7351,7 +7189,7 @@
    "first_release": "2026-08-29",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 54
+   "rank": 51
   },
   {
    "slug": "fifty-cutting-game",
@@ -7383,7 +7221,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -7398,7 +7236,65 @@
    "first_release": "2026-08-14",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 55
+   "rank": 52
+  },
+  {
+   "slug": "firu-firu-games",
+   "name": "Firu Firu Games",
+   "url": "https://apps.shipaton.com/app/firu-firu-games",
+   "tagline": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu!",
+   "description": "Welcome to Firu Firu Games - an exciting casual arcade game hub inspired by our real-life Cocker Spaniel, Firu! Enjoy multiple connected arcade games, earn rewards, and watch Firu evolve across 5 awesome visual stages: PAW JUMP: Climb endless vertical platforms! Jump from sunny pirate shores through atmospheric twilight skies all the way into outer space while dodging hazards and collecting treats. BUBBLE PAWS: Classic bubble-breaking arcade action! Tackle 50 handcrafted levels across 5 unique worlds with dynamic combos, power-ups, and exciting boss battles. PROGRESSION & CUSTOMIZATION: - Evol",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Adventure",
+    "Casual"
+   ],
+   "seller": "Eren Ozgumus",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://apps.apple.com/us/app/firu-firu-games/id6796634241?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/firu-firu-games/id6796634241?uo=4",
+    "https://play.google.com/store/apps/details?id=com.firufirugames.app",
+    "https://play.google.com/store/apps/details?id=com.firufirugames.app&amp;hl=en&amp;gl=us"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "showcase_count": 0,
+   "delta_1d_ios": -1,
+   "delta_1d_play": 0,
+   "delta_1d": -1,
+   "delta_7d": null,
+   "gaining": false,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-31",
+    "version": "1.0.5+12",
+    "url": "https://apps.apple.com/us/app/firu-firu-games-dog-arcade/id6796634241"
+   },
+   "play": {
+    "rating": null,
+    "count": 0,
+    "installs": "10+",
+    "installs_exact": 11,
+    "released": "2026-08-19",
+    "url": "https://play.google.com/store/apps/details?id=com.firufirugames.app"
+   },
+   "installs": "10+",
+   "installs_exact": 11,
+   "first_release": "2026-08-19",
+   "first_release_store": "Google Play",
+   "pre_window": false,
+   "rank": 53
   },
   {
    "slug": "foodie-drop-merge-puzzle",
@@ -7430,7 +7326,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -7446,7 +7342,7 @@
    "first_release": "2026-08-20",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 56
+   "rank": 54
   },
   {
    "slug": "frog-crossing-arcade-hopper",
@@ -7480,9 +7376,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -7505,7 +7401,55 @@
    "first_release": "2026-08-05",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 57
+   "rank": 55
+  },
+  {
+   "slug": "golden-mile-traffic-racer",
+   "name": "Golden Mile: Traffic Racer",
+   "url": "https://apps.shipaton.com/app/golden-mile-traffic-racer",
+   "tagline": "One driver.",
+   "description": "One driver. Ten cities. One wrong lane and it's over. Golden Mile is a 3D traffic racer where every city is drawn in code, not downloaded — Paris at lavender dusk, Tokyo in neon rain, Monaco's cliff hairpins over the sea. There is no health bar. One hit ends it. WORLD TOUR Race the map city by city, Paris to Monaco. Win a city to light the next, then come back on NORMAL and HARD for a tighter line and a faster Gold Time. Every race is authored, never rolled — the same traffic, the same gaps, every single run. A Gold Time is skill, never luck. Thirty races, and a real ending. RUSH HOUR Wrong wa",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Racing",
+    "Action"
+   ],
+   "seller": "ozgur ersil",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-12",
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "showcase_count": 0,
+   "delta_1d_ios": -1,
+   "delta_1d_play": null,
+   "delta_1d": -1,
+   "delta_7d": 0,
+   "gaining": false,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-29",
+    "version": "1.0",
+    "url": "https://apps.apple.com/us/app/golden-mile-traffic-racer/id6798661287"
+   },
+   "play": null,
+   "installs": "",
+   "installs_exact": null,
+   "first_release": "2026-08-29",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "rank": 56
   },
   {
    "slug": "hexpair-logic-puzzle-game",
@@ -7532,7 +7476,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
@@ -7545,7 +7489,7 @@
     "rating": null,
     "count": 0,
     "released": "2026-09-16",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "url": "https://apps.apple.com/us/app/hexpair-logic-puzzle-game/id6809547952"
    },
    "play": null,
@@ -7554,7 +7498,7 @@
    "first_release": "2026-09-16",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 58
+   "rank": 57
   },
   {
    "slug": "impossible-coasters-3d-puzzle",
@@ -7587,7 +7531,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -7602,7 +7546,7 @@
    "first_release": "2026-09-15",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 59
+   "rank": 58
   },
   {
    "slug": "in-two-lights",
@@ -7635,7 +7579,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -7650,7 +7594,7 @@
    "first_release": "2026-08-18",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 60
+   "rank": 59
   },
   {
    "slug": "jianghu-sword-zither",
@@ -7682,7 +7626,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -7698,7 +7642,7 @@
    "first_release": "2026-08-19",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 61
+   "rank": 60
   },
   {
    "slug": "mapzap-geography-games",
@@ -7731,9 +7675,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -7756,7 +7700,7 @@
    "first_release": "2026-08-28",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 62
+   "rank": 61
   },
   {
    "slug": "minijoy",
@@ -7789,9 +7733,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -7814,7 +7758,7 @@
    "first_release": "2026-09-03",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 63
+   "rank": 62
   },
   {
    "slug": "mythika-puzzle-tournament",
@@ -7847,7 +7791,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -7862,7 +7806,7 @@
    "first_release": "2026-09-08",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 64
+   "rank": 63
   },
   {
    "slug": "networth",
@@ -7894,7 +7838,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -7910,7 +7854,7 @@
    "first_release": "2026-08-30",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 65
+   "rank": 64
   },
   {
    "slug": "neverstill",
@@ -7936,7 +7880,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
@@ -7958,7 +7902,7 @@
    "first_release": "2026-09-10",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 66
+   "rank": 65
   },
   {
    "slug": "onomatope",
@@ -7991,7 +7935,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -8006,7 +7950,7 @@
    "first_release": "2026-09-10",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 67
+   "rank": 66
   },
   {
    "slug": "orbace-sudoku",
@@ -8038,7 +7982,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -8054,7 +7998,7 @@
    "first_release": "2026-08-28",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 68
+   "rank": 67
   },
   {
    "slug": "ordsnok-snoop-for-words",
@@ -8087,9 +8031,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -8112,7 +8056,7 @@
    "first_release": "2026-08-13",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 69
+   "rank": 68
   },
   {
    "slug": "palsta-a-slow-garden",
@@ -8144,7 +8088,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -8160,7 +8104,7 @@
    "first_release": "2026-08-31",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 70
+   "rank": 69
   },
   {
    "slug": "planet-hop",
@@ -8185,7 +8129,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": true,
    "showcase_count": 0,
@@ -8208,7 +8152,7 @@
    "first_release": "",
    "first_release_store": "",
    "pre_window": false,
-   "rank": 71
+   "rank": 70
   },
   {
    "slug": "pocket-dragon-dungeon",
@@ -8231,7 +8175,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": true,
    "showcase_count": 0,
@@ -8254,7 +8198,7 @@
    "first_release": "2026-09-13",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 72
+   "rank": 71
   },
   {
    "slug": "pocket-pet-virtual-companion",
@@ -8287,9 +8231,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -8312,7 +8256,7 @@
    "first_release": "2026-09-01",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 73
+   "rank": 72
   },
   {
    "slug": "protect-the-orb",
@@ -8344,7 +8288,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -8360,7 +8304,7 @@
    "first_release": "2026-07-30",
    "first_release_store": "Google Play",
    "pre_window": true,
-   "rank": 74
+   "rank": 73
   },
   {
    "slug": "puking-cat",
@@ -8393,9 +8337,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -8418,7 +8362,7 @@
    "first_release": "2026-08-01",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 75
+   "rank": 74
   },
   {
    "slug": "pulsegate-echo-shift",
@@ -8451,7 +8395,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -8466,7 +8410,7 @@
    "first_release": "2026-08-20",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 76
+   "rank": 75
   },
   {
    "slug": "purrzle-sliding-puzzle",
@@ -8498,7 +8442,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -8514,7 +8458,7 @@
    "first_release": "2026-08-23",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 77
+   "rank": 76
   },
   {
    "slug": "raven-storm",
@@ -8546,7 +8490,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -8562,7 +8506,7 @@
    "first_release": "2026-08-18",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 78
+   "rank": 77
   },
   {
    "slug": "reliquias-sort-story-puzzle",
@@ -8594,7 +8538,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -8610,7 +8554,7 @@
    "first_release": "2026-08-23",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 79
+   "rank": 78
   },
   {
    "slug": "riverside-files-idle-tycoon",
@@ -8635,7 +8579,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
@@ -8658,7 +8602,7 @@
    "first_release": "2026-09-10",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 80
+   "rank": 79
   },
   {
    "slug": "save-peps",
@@ -8690,7 +8634,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -8706,7 +8650,7 @@
    "first_release": "2026-08-30",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 81
+   "rank": 80
   },
   {
    "slug": "secret-fantasy",
@@ -8740,9 +8684,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -8765,7 +8709,7 @@
    "first_release": "2026-08-15",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 82
+   "rank": 81
   },
   {
    "slug": "sense-of-wonder-space-puzzle",
@@ -8799,7 +8743,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -8814,7 +8758,7 @@
    "first_release": "2026-09-01",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 83
+   "rank": 82
   },
   {
    "slug": "skip-ad-popup-panic",
@@ -8847,9 +8791,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -8872,7 +8816,7 @@
    "first_release": "2026-08-28",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 84
+   "rank": 83
   },
   {
    "slug": "sonarchy",
@@ -8899,7 +8843,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
@@ -8921,7 +8865,7 @@
    "first_release": "2026-09-03",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 85
+   "rank": 84
   },
   {
    "slug": "spot-50",
@@ -8946,7 +8890,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
@@ -8969,7 +8913,7 @@
    "first_release": "2026-09-03",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 86
+   "rank": 85
   },
   {
    "slug": "steppin-stones",
@@ -9002,7 +8946,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -9017,7 +8961,7 @@
    "first_release": "2025-10-20",
    "first_release_store": "App Store",
    "pre_window": true,
-   "rank": 87
+   "rank": 86
   },
   {
    "slug": "synaptic-front-neural-rts",
@@ -9049,7 +8993,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -9065,7 +9009,7 @@
    "first_release": "2026-08-19",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 88
+   "rank": 87
   },
   {
    "slug": "syncdrive-test-your-reflexes",
@@ -9098,7 +9042,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -9113,7 +9057,7 @@
    "first_release": "2026-08-25",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 89
+   "rank": 88
   },
   {
    "slug": "tame-a-pet",
@@ -9146,9 +9090,9 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -9171,7 +9115,7 @@
    "first_release": "2026-08-04",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 90
+   "rank": 89
   },
   {
    "slug": "unknown-agi-inspired-puzzle",
@@ -9196,7 +9140,7 @@
    ],
    "stale": false,
    "first_seen": "2026-09-19",
-   "new": true,
+   "new": false,
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
@@ -9219,7 +9163,7 @@
    "first_release": "2026-09-16",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 91
+   "rank": 90
   },
   {
    "slug": "verdara-rescue",
@@ -9252,7 +9196,7 @@
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": {
     "rating": null,
@@ -9265,6 +9209,55 @@
    "installs": "",
    "installs_exact": null,
    "first_release": "2026-09-11",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "rank": 91
+  },
+  {
+   "slug": "velocity-unleashed",
+   "name": "Velocity Unleashed",
+   "url": "https://apps.shipaton.com/app/velocity-unleashed",
+   "tagline": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer.",
+   "description": "Race, drift, and duel on 4 signature 3D tracks in Velocity Unleashed — a native iOS Formula-style racing game with real-time multiplayer. Invite friends with 1-tap party links, climb Game Center leaderboards, and tune your car for every circuit. Arcade pace with simulator-style handling, built for iPhone and iPad. TRUE 3D RACING Feel every apex at up to 120 FPS, powered by Apple SceneKit and Metal. Precision steering, throttle control, and nitro boost across demanding tracks. FORMULA CARS & TUNING Step into the showroom and build your line-up. Upgrade engine, turbo, downforce, and slicks. From",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Racing",
+    "Casual",
+    "Sports"
+   ],
+   "seller": "Omer Younus",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": 0,
+   "store": "https://apps.apple.com/us/app/velocity-unleashed/id6794736953?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/velocity-unleashed/id6794736953?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "showcase_count": 1,
+   "delta_1d_ios": -1,
+   "delta_1d_play": null,
+   "delta_1d": -1,
+   "delta_7d": -1,
+   "gaining": false,
+   "ios": {
+    "rating": null,
+    "count": 0,
+    "released": "2026-08-12",
+    "version": "2.40.0",
+    "url": "https://apps.apple.com/us/app/velocity-unleashed/id6794736953"
+   },
+   "play": null,
+   "installs": "",
+   "installs_exact": null,
+   "first_release": "2026-08-12",
    "first_release_store": "App Store",
    "pre_window": false,
    "rank": 92
@@ -9301,16 +9294,16 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
     "rating": null,
     "count": 0,
     "released": "2026-09-14",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "url": "https://apps.apple.com/us/app/vibestep-dance-maker/id6808028411"
    },
    "play": {
@@ -9358,7 +9351,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {
@@ -9407,9 +9400,9 @@
    "new_today": false,
    "proximity": true,
    "showcase_count": 0,
-   "delta_1d_ios": null,
-   "delta_1d_play": null,
-   "delta_1d": null,
+   "delta_1d_ios": 0,
+   "delta_1d_play": 0,
+   "delta_1d": 0,
    "delta_7d": null,
    "gaining": false,
    "ios": {
@@ -9464,7 +9457,7 @@
    "delta_1d_ios": null,
    "delta_1d_play": 0,
    "delta_1d": 0,
-   "delta_7d": null,
+   "delta_7d": 0,
    "gaining": false,
    "ios": null,
    "play": {

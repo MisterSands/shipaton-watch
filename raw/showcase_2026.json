@@ -1,16 +1,11 @@
 {
  "source": "showcase_2026",
  "url": "https://apps.shipaton.com/2026",
- "fetched_at": "2026-09-21T23:06:05Z",
+ "fetched_at": "2026-09-22T09:30:01Z",
  "declared_total": 792,
  "count": 792,
  "new_today": [],
  "apps": [
-  {
-   "slug": "terravel-geography-quiz-game",
-   "url": "https://apps.shipaton.com/app/terravel-geography-quiz-game",
-   "first_seen": "2026-09-19"
-  },
   {
    "slug": "travl-country-days-tracker",
    "name": "Travl: Country Days Tracker",
@@ -28,6 +23,11 @@
    "gamey": false,
    "is_game": false,
    "gaining": false
+  },
+  {
+   "slug": "vocaburst-typing-shooter",
+   "url": "https://apps.shipaton.com/app/vocaburst-typing-shooter",
+   "first_seen": "2026-09-19"
   },
   {
    "slug": "zubdah",
@@ -2270,8 +2270,8 @@
    "gaining": false
   },
   {
-   "slug": "vocaburst-typing-shooter",
-   "url": "https://apps.shipaton.com/app/vocaburst-typing-shooter",
+   "slug": "terravel-geography-quiz-game",
+   "url": "https://apps.shipaton.com/app/terravel-geography-quiz-game",
    "first_seen": "2026-09-19"
   },
   {
