@@ -1,9 +1,72 @@
 {
  "source": "hackernoon",
  "url": "https://hackernoon.com/tagged/shipaton/feed",
- "fetched_at": "2026-09-22T09:30:01Z",
+ "fetched_at": "2026-09-23T09:30:02Z",
  "count": 50,
  "items": [
+  {
+   "title": "My Fishing App’s Tamper-Proof Ledger Failed Its First Real Audit",
+   "link": "https://hackernoon.com/my-fishing-apps-tamper-proof-ledger-failed-its-first-real-audit?source=rss",
+   "date": "Wed, 23 Sep 2026 04:58:32 GMT",
+   "author": "Naoto Yamabe",
+   "summary": ""
+  },
+  {
+   "title": "Buildhorn Week 7: Surviving Apple App Review",
+   "link": "https://hackernoon.com/buildhorn-week-7-surviving-apple-app-review?source=rss",
+   "date": "Wed, 23 Sep 2026 04:57:58 GMT",
+   "author": "Darryl Bayliss",
+   "summary": ""
+  },
+  {
+   "title": "Swift 6 Gave Me Zero Warnings, but Two Objective-C Callbacks Still Crashed at Runtime",
+   "link": "https://hackernoon.com/swift-6-gave-me-zero-warnings-but-two-objective-c-callbacks-still-crashed-at-runtime?source=rss",
+   "date": "Tue, 22 Sep 2026 14:42:05 GMT",
+   "author": "Amana",
+   "summary": ""
+  },
+  {
+   "title": "Building Isolyne (Part 8): \"Show Your Work\" — Verbatim Signal Tracing on Mobile Cards",
+   "link": "https://hackernoon.com/building-isolyne-part-8-show-your-work-verbatim-signal-tracing-on-mobile-cards?source=rss",
+   "date": "Tue, 22 Sep 2026 14:36:22 GMT",
+   "author": "AMIT KUMAR GUPTA",
+   "summary": ""
+  },
+  {
+   "title": "I Refused to Fake AURADUEL’s Crowd for Its 117-Second Shipaton Demo Video",
+   "link": "https://hackernoon.com/i-refused-to-fake-auraduels-crowd-for-its-117-second-shipaton-demo-video?source=rss",
+   "date": "Tue, 22 Sep 2026 14:14:59 GMT",
+   "author": "bleiquel",
+   "summary": ""
+  },
+  {
+   "title": "We Built a Cricket Speed Gun From a Phone Camera and Got the Physics Wrong",
+   "link": "https://hackernoon.com/we-built-a-cricket-speed-gun-from-a-phone-camera-and-got-the-physics-wrong?source=rss",
+   "date": "Tue, 22 Sep 2026 14:02:54 GMT",
+   "author": "AbdulBasit",
+   "summary": ""
+  },
+  {
+   "title": "How Mobbin Helped Me Redesign Slovo Without Copying Another App",
+   "link": "https://hackernoon.com/how-mobbin-helped-me-redesign-slovo-without-copying-another-app?source=rss",
+   "date": "Tue, 22 Sep 2026 12:59:59 GMT",
+   "author": "Hulya Masharipov",
+   "summary": ""
+  },
+  {
+   "title": "Automating App Store Screenshots With Swift Launch Arguments",
+   "link": "https://hackernoon.com/automating-app-store-screenshots-with-swift-launch-arguments?source=rss",
+   "date": "Tue, 22 Sep 2026 12:56:06 GMT",
+   "author": "Peter Dongo",
+   "summary": ""
+  },
+  {
+   "title": "I'm Building Book of Me, a Journal That Won’t Let You Rewrite the Past",
+   "link": "https://hackernoon.com/im-building-book-of-me-a-journal-that-wont-let-you-rewrite-the-past?source=rss",
+   "date": "Tue, 22 Sep 2026 12:29:14 GMT",
+   "author": "Muhammad Abdullah",
+   "summary": ""
+  },
   {
    "title": "Three iOS WebKit Traps That Blacked Out My AR Game, and How I Caught Them",
    "link": "https://hackernoon.com/three-ios-webkit-traps-that-blacked-out-my-ar-game-and-how-i-caught-them?source=rss",
@@ -289,69 +352,6 @@
    "link": "https://hackernoon.com/i-built-the-game-now-i-need-to-find-out-if-anyone-wants-it?source=rss",
    "date": "Tue, 08 Sep 2026 19:37:07 GMT",
    "author": "Niv",
-   "summary": ""
-  },
-  {
-   "title": "How Cloud Policies and Store Verification Delayed My Mobile App Release",
-   "link": "https://hackernoon.com/how-cloud-policies-and-store-verification-delayed-my-mobile-app-release?source=rss",
-   "date": "Tue, 08 Sep 2026 16:32:42 GMT",
-   "author": "Ushio Hoshino",
-   "summary": ""
-  },
-  {
-   "title": "On-Device Body Tracking in a PWA: How AURADUEL Scores an Aura Battle Without a Server",
-   "link": "https://hackernoon.com/on-device-body-tracking-in-a-pwa-how-auraduel-scores-an-aura-battle-without-a-server?source=rss",
-   "date": "Tue, 08 Sep 2026 14:29:59 GMT",
-   "author": "bleiquel",
-   "summary": ""
-  },
-  {
-   "title": "Building an On-Device AR Game With MediaPipe, PixiJS, and Capacitor",
-   "link": "https://hackernoon.com/building-an-on-device-ar-game-with-mediapipe-pixijs-and-capacitor?source=rss",
-   "date": "Mon, 07 Sep 2026 20:42:04 GMT",
-   "author": "bleiquel",
-   "summary": ""
-  },
-  {
-   "title": "How I Built a Real-World Kotlin Multiplatform App",
-   "link": "https://hackernoon.com/how-i-built-a-real-world-kotlin-multiplatform-app?source=rss",
-   "date": "Fri, 04 Sep 2026 02:01:46 GMT",
-   "author": "Casey",
-   "summary": ""
-  },
-  {
-   "title": "Why I Refuse to Sell My App’s Most Valuable Feature",
-   "link": "https://hackernoon.com/why-i-refuse-to-sell-my-apps-most-valuable-feature?source=rss",
-   "date": "Fri, 04 Sep 2026 01:49:07 GMT",
-   "author": "Naoto Yamabe",
-   "summary": ""
-  },
-  {
-   "title": "I Posted Two TikToks With No Link to My App and I Still Got a Paid Subscriber",
-   "link": "https://hackernoon.com/i-posted-two-tiktoks-with-no-link-to-my-app-and-i-still-got-a-paid-subscriber?source=rss",
-   "date": "Thu, 03 Sep 2026 11:59:59 GMT",
-   "author": "Kirill Semenov",
-   "summary": ""
-  },
-  {
-   "title": "How to Stop Burning Revenue on Bootstrapped SaaS",
-   "link": "https://hackernoon.com/how-to-stop-burning-revenue-on-bootstrapped-saas?source=rss",
-   "date": "Thu, 03 Sep 2026 10:59:59 GMT",
-   "author": "CSKaron",
-   "summary": ""
-  },
-  {
-   "title": "Five Times Pixbu’s Tests Measured the Wrong Thing",
-   "link": "https://hackernoon.com/five-times-pixbus-tests-measured-the-wrong-thing?source=rss",
-   "date": "Thu, 03 Sep 2026 09:59:59 GMT",
-   "author": "dedemavci",
-   "summary": ""
-  },
-  {
-   "title": "My Safety Checks Were Monuments to Bugs I Had Already Fixed",
-   "link": "https://hackernoon.com/my-safety-checks-were-monuments-to-bugs-i-had-already-fixed?source=rss",
-   "date": "Thu, 03 Sep 2026 09:14:59 GMT",
-   "author": "Ushio Hoshino",
    "summary": ""
   }
  ]
