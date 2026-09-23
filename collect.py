@@ -16,7 +16,8 @@ Google Play via the public app detail page's ld+json. Play's robots.txt allows
 /store/apps/details and disallows /store/getreviews, so reviews are never fetched there.
 rating_count = App Store + Google Play; per-store series live in raw/store_history.json.
 
-Games = slugs on /games (all years, server-rendered) intersected with slugs on /2026.
+Games = slugs on /games (all years) intersected with slugs on /2026. Both listings are paginated
+("Page 1 of N", ?page=2..N) since 2026-09-23; fetch_listing walks every page.
 Detail pages stream their body through React Suspense, so fields are parsed from the
 whole document's text, not <main>. A run that finds zero games never overwrites a
 good list: it keeps the last one and flags the page stale.
@@ -196,6 +197,32 @@ def app_slugs(doc):
         if s not in out:
             out.append(s)
     return out
+
+
+def fetch_listing(path):
+    """Every app slug on a paginated showcase listing, in listing order.
+    Pages read 'N apps ... Page 1 of P' and link '?page=2'. Returns (slugs, declared, pages)."""
+    first = fetch(SHOWCASE + path)
+    time.sleep(DELAY)
+    t = page_text(first)
+    pm = re.search(r"Page 1 of (\d+)", t)
+    pages = int(pm.group(1)) if pm else 1
+    dm = re.search(r"\b(\d+) apps\b", t)
+    slugs = app_slugs(first)
+    for n in range(2, pages + 1):
+        for attempt in (1, 2):
+            try:
+                doc = fetch(f"{SHOWCASE}{path}?page={n}")
+                break
+            except Exception:
+                if attempt == 2:
+                    raise
+                time.sleep(5)
+        time.sleep(DELAY)
+        for s in app_slugs(doc):
+            if s not in slugs:
+                slugs.append(s)
+    return slugs, (int(dm.group(1)) if dm else None), pages
 
 
 def parse_detail(doc, slug):
@@ -427,31 +454,30 @@ def collect_games(stamp, today, status):
     shist = load_json(shist_path, {})
 
     try:
-        idx = fetch(SHOWCASE + "/2026")
-        time.sleep(DELAY)
-        gdoc = fetch(SHOWCASE + "/games")
-        time.sleep(DELAY)
+        y26, total, pages26 = fetch_listing("/2026")
+        gall, gdecl, pagesg = fetch_listing("/games")
     except Exception as e:
         msg = f"FAIL index fetch {type(e).__name__} {getattr(e, 'code', '')}"
         status["showcase_games"] = msg
         mark_stale(prev, games_path, stamp, msg)
         return
-
-    y26 = app_slugs(idx)
-    total = re.search(r"Explore all (\d+) published apps", idx)
-    gall = app_slugs(gdoc)
-    gdecl = re.search(r"\b(\d+) games\b", page_text(gdoc))
     in26 = set(y26)
     slugs = [s for s in gall if s in in26]
 
-    # all-apps roster: new slugs recorded with first_seen; cheap, no detail fetch
+    # A listing that came back well short of its own declared total must never shrink the
+    # roster: keep every previously known app and say so. (Sep 23: the showcase went to
+    # paginated listings and the collector kept 50 of 906 apps.)
+    short = total and len(y26) < 0.9 * total
     new_apps = [s for s in y26 if s not in roster]
     for s in new_apps:
         roster[s] = {"slug": s, "url": f"{SHOWCASE}/app/{s}", "first_seen": today}
+    keep = y26 + ([s for s in roster if s not in in26] if short else [])
     write_json(all_path, {"source": "showcase_2026", "url": SHOWCASE + "/2026", "fetched_at": stamp,
-                          "declared_total": int(total.group(1)) if total else len(y26), "count": len(y26),
-                          "new_today": new_apps, "apps": [roster[s] for s in y26 if s in roster]})
-    status["showcase_2026"] = f"ok {len(y26)} apps (+{len(new_apps)} new)"
+                          "declared_total": total or len(y26), "count": len(y26), "pages": pages26,
+                          "incomplete": bool(short), "new_today": new_apps,
+                          "apps": [roster[s] for s in keep if s in roster]})
+    status["showcase_2026"] = (f"ok {len(y26)} apps over {pages26} pages (+{len(new_apps)} new)"
+                               + (f" · WARNING listing short of declared {total}" if short else ""))
 
     if not slugs:
         msg = (f"FAIL 0 games in /games ∩ /2026 ({len(gall)} game slugs all-years, {len(y26)} 2026 apps) "
@@ -570,8 +596,8 @@ def collect_games(stamp, today, status):
     payload = {
         "generated_at": stamp, "date": today, "stale": False, "error": "", "warning": warning,
         "source": SHOWCASE + "/games",
-        "apps_2026": int(total.group(1)) if total else len(y26),
-        "games_all_years": int(gdecl.group(1)) if gdecl else len(gall),
+        "apps_2026": total or len(y26),
+        "games_all_years": gdecl or len(gall),
         "count": len(games),
         "rated": sum(1 for g in games if g.get("rating_count")),
         "new_today": [g["slug"] for g in games if g["new_today"]],
