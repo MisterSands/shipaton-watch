@@ -1,7 +1,7 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "2026-09-23T13:12:01Z",
+ "fetched_at": "2026-09-24T09:30:02Z",
  "count": 24,
  "items": [
   {
@@ -17,6 +17,34 @@
    "date": "2026-08-07T13:46:11+00:00",
    "author": "/u/IamAngusU",
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
+  },
+  {
+   "title": "My Shipaton app was approved by Apple on the first attempt",
+   "link": "https://www.reddit.com/r/ReplitBuilders/comments/1wolrl0/my_shipaton_app_was_approved_by_apple_on_the/",
+   "date": "2026-09-23T23:32:13+00:00",
+   "author": "/u/FudgeImpossible385",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/ReplitBuilders/comments/1wolrl0/my_shipaton_app_was_approved_by_apple_on_the/\"> <img src=\"https://external-preview.redd.it/n8GInm4iE9m5WOjDSVfniBbqmr6g4PNeKXkhWre2bpE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=22b773fad6fe1f9c1dcea2581a688a0b5b80d60f\" alt=\"My Shipaton app was approved by Apple on the first attempt\" title=\"My Shipaton app wa"
+  },
+  {
+   "title": "My Shipaton app was approved by Apple on the first attempt",
+   "link": "https://www.reddit.com/r/replit/comments/1wolqxu/my_shipaton_app_was_approved_by_apple_on_the/",
+   "date": "2026-09-23T23:31:23+00:00",
+   "author": "/u/FudgeImpossible385",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I’m participating in my first ever hackathon - Shipaton - and today Apple approved my app on the first review attempt 🎉</p> <p>I built it in Replit, and this was also my first app with notifications and in-app purchases. I integrated OneSignal as well.</p> <p>When I only had the idea for the app, I had no idea how paywalls worked, how to set up notifications, or h"
+  },
+  {
+   "title": "Almost at the 100 user mark for my first app! Here’s my story:",
+   "link": "https://www.reddit.com/r/appmarketing/comments/1wo9fhe/almost_at_the_100_user_mark_for_my_first_app/",
+   "date": "2026-09-23T15:38:57+00:00",
+   "author": "/u/JamieDevelops",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I created this mobile app as part of the RevenueCat Shipaton and I’m super pleased with it. I’m from Glasgow and in my city we have some absolutely stunning architecture but it too often gets overlooked, or, if you’re like me, when you walk pat it everyday it can be easily taken for granted.</p> <p>I realised I didn’t actually know what all of the various architec"
+  },
+  {
+   "title": "I built a social app for cosplayers. Now asking cosplayers what to build next",
+   "link": "https://www.reddit.com/r/SideProject/comments/1wo5vmd/i_built_a_social_app_for_cosplayers_now_asking/",
+   "date": "2026-09-23T13:22:18+00:00",
+   "author": "/u/Sarkanyfuarus",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m a solo dev and I&#39;m building Cossy, a social app for cosplayers, in public for RevenueCat&#39;s Shipaton hackathon.</p> <p>Why: cosplayers plan builds across notes apps, Pinterest boards and spreadsheets, then share the result on Instagram or TikTok, where the build process gets lost. I wanted one place for both.</p> <p>Stack: Flutter, RevenueCat for su"
   },
   {
    "title": "I launched my first product on ProductHunt today, it’s called LookUp: Explore Your City",
@@ -143,34 +171,6 @@
    "date": "2026-09-13T07:19:57+00:00",
    "author": "/u/daria_dev04",
    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p> <p>For RevenueCat’s <strong>#Shipaton</strong>, I built an app called <strong>10Goals</strong>. It’s my 8th iOS app, and it’s already live on the <a href=\"https://apps.apple.com/us/app/10goals-goal-tracker/id6799881924\">App Store.</a></p> <p>I built it because I used to keep my long-term goals in <strong>ClickUp</strong>, but it always felt a bit"
-  },
-  {
-   "title": "Built my 8th iOS app for RevenueCat Shipaton — looking for feedback",
-   "link": "https://www.reddit.com/r/iosdev/comments/1wf0na4/built_my_8th_ios_app_for_revenuecat_shipaton/",
-   "date": "2026-09-13T07:07:08+00:00",
-   "author": "/u/daria_dev04",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/iosdev/comments/1wf0na4/built_my_8th_ios_app_for_revenuecat_shipaton/\"> <img src=\"https://preview.redd.it/0oqqalsqk8ph1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9a2015a31a854ecb3a80a931a1f34a9803de7967\" alt=\"Built my 8th iOS app for RevenueCat Shipaton — looking for feedback\" title=\"Built my 8th iOS app for RevenueCat Shipaton — looking fo"
-  },
-  {
-   "title": "What if you could send someone a song for the exact moment they need it?",
-   "link": "https://www.reddit.com/r/buildinpublic/comments/1weq4lp/what_if_you_could_send_someone_a_song_for_the/",
-   "date": "2026-09-12T22:23:30+00:00",
-   "author": "/u/Tekton-Legacy",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/buildinpublic/comments/1weq4lp/what_if_you_could_send_someone_a_song_for_the/\"> <img src=\"https://external-preview.redd.it/N3M0ZjludzcwNnBoMTcDYFNK8ZjbfC-ICukSq0Ix0dR5FJZSyfEUm0zwNBMY.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f5c022ca410ea3f73b6deaa401982f788cc33e51\" alt=\"What if you could send someone a song for the exact moment they need"
-  },
-  {
-   "title": "Untold — Anonymous Emotional Support Platform | Shipaton 2026",
-   "link": "https://www.reddit.com/r/alphaandbetausers/comments/1wek3js/untold_anonymous_emotional_support_platform/",
-   "date": "2026-09-12T18:24:55+00:00",
-   "author": "/u/Untold_8128",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m looking for a small group of people to test an app I&#39;ve been building called <strong>Untold</strong>.</p> <p>It&#39;s an anonymous emotional-support platform where you can:</p> <p>→ Talk with an AI listener<br/> → Connect anonymously with peers<br/> → Explore shared thoughts<br/> → Keep a private journal<br/> → Find and book professional support</p> <p"
-  },
-  {
-   "title": "Untold — Anonymous Emotional Support Platform | Shipaton 2026",
-   "link": "https://www.reddit.com/r/promoteMyApp/comments/1wek0n8/untold_anonymous_emotional_support_platform/",
-   "date": "2026-09-12T18:21:49+00:00",
-   "author": "/u/Untold_8128",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been working on something called Untold.</p> <p>The idea started from a simple observation:</p> <p>Sometimes talking to someone you know is actually harder than talking to a stranger.</p> <p>You worry about being judged, becoming a burden, or having people treat you differently afterward.</p> <p>So we built an anonymous emotional-support platform where pe"
   }
  ]
 }

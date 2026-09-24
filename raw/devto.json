@@ -1,9 +1,16 @@
 {
  "source": "devto",
  "url": "https://dev.to/feed/tag/shipaton",
- "fetched_at": "2026-09-23T13:12:01Z",
+ "fetched_at": "2026-09-24T09:30:02Z",
  "count": 12,
  "items": [
+  {
+   "title": "Building NICHLYST: The Architecture of Afterlife — Designing Post-Final UI Decay in CSS",
+   "link": "https://dev.to/koztechie/building-nichlyst-the-architecture-of-afterlife-designing-post-final-ui-decay-in-css-1cd3",
+   "date": "Wed, 23 Sep 2026 22:35:52 +0000",
+   "author": "Eugene Kozlovsky",
+   "summary": "<p>Most video games treat the user interface as immortal chrome. The HUD sits above the world, pristine and unaffected by whatever apocalypse unfolds beneath it. The interface is the one thing that never dies.</p>\n\n<p>NICHLYST rejects that premise entirely.</p>\n\n<p>In NICHLYST, you spend forty days cataloguing the final archive of a dead language in a damp basement. The interface is not a sterile "
+  },
   {
    "title": "Building NICHLYST: Eight Waves, One Canon — How 40 Days of Script Survived a Strict State Machine",
    "link": "https://dev.to/koztechie/building-nichlyst-eight-waves-one-canon-how-40-days-of-script-survived-a-strict-state-machine-4gn3",
@@ -80,13 +87,6 @@
    "date": "Mon, 24 Aug 2026 10:45:59 +0000",
    "author": "Ronak Mahajan",
    "summary": "<p>Mobile keyboards are prone to typos, especially in busy grocery aisles. I walked through refactoring our Firestore search queries and client-side logic so queries like \"brocoli\" or \"avcado\" instantly resolve to the correct botanical entries without throwing empty states.</p>"
-  },
-  {
-   "title": "Stop Showing Users Textbooks: Redesigning Sprout Atlas Data Cards",
-   "link": "https://dev.to/ronak1311/stop-showing-users-textbooks-redesigning-sprout-atlas-data-cards-23ge",
-   "date": "Mon, 24 Aug 2026 10:38:04 +0000",
-   "author": "Ronak Mahajan",
-   "summary": "<p>My first UI iteration for Sprout Atlas crammed entire botanical profiles into single scroll views. It was a disaster. In this post, I break down how I refactored heavy food safety data into modular, card-based layouts using clean typography and strict spacing rules.</p>"
   }
  ]
 }
