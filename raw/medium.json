@@ -1,9 +1,16 @@
 {
  "source": "medium",
  "url": "https://medium.com/feed/tag/shipaton",
- "fetched_at": "2026-09-24T09:30:02Z",
+ "fetched_at": "2026-09-25T11:43:00Z",
  "count": 10,
  "items": [
+  {
+   "title": "101 days to two app stores, in numbers — including the ones I would rather round up",
+   "link": "https://medium.com/@WorldFishingMap/101-days-to-two-app-stores-in-numbers-including-the-ones-i-would-rather-round-up-aea84a19075b?source=rss------shipaton-5",
+   "date": "Thu, 24 Sep 2026 21:34:41 GMT",
+   "author": "Naoto Yamabe",
+   "summary": "On 13 June I typed the first prompt for a fishing app into Claude Code. On 2 September it went live on Google Play. On 22 September Apple…   Continue reading on Medium »"
+  },
   {
    "title": "No blockchain: a hash chain, two append-only ledgers, and the 21 rows that failed my own audit",
    "link": "https://medium.com/@WorldFishingMap/no-blockchain-a-hash-chain-two-append-only-ledgers-and-the-21-rows-that-failed-my-own-audit-08e2e7f5d73b?source=rss------shipaton-5",
@@ -66,13 +73,6 @@
    "date": "Fri, 21 Aug 2026 19:06:04 GMT",
    "author": "brownieee",
    "summary": "RevenueCat brings in top creators to judge apps built for their specific niches. It’s a massive W for devs because they get to build tools…   Continue reading on Medium »"
-  },
-  {
-   "title": "I audited 53 flatfish illustrations for which eye faces up",
-   "link": "https://medium.com/@WorldFishingMap/i-audited-53-flatfish-illustrations-for-which-eye-faces-up-2b833fdc4072?source=rss------shipaton-5",
-   "date": "Fri, 21 Aug 2026 17:58:19 GMT",
-   "author": "Naoto Yamabe",
-   "summary": "A flatfish has both eyes on one side of its head. It lies on the seabed with that side facing up, and only that side carries colour and…   Continue reading on Medium »"
   }
  ]
 }

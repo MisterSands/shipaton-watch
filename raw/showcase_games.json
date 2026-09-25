@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-24T09:30:02Z",
- "date": "2026-09-24",
+ "generated_at": "2026-09-25T11:43:00Z",
+ "date": "2026-09-25",
  "stale": false,
  "error": "",
  "warning": "",
@@ -11,7 +11,13 @@
  "rated": 43,
  "new_today": [],
  "gaining": [
-  "the-last-line-zombie-siege"
+  "the-last-line-zombie-siege",
+  "unlike",
+  "nitelore",
+  "tapuchino-idle-cafe-tycoon",
+  "fastest-lap-top-down-racing",
+  "neverstill",
+  "phantom-words"
  ],
  "pre_window": [
   "the-last-line-zombie-siege",
@@ -53,7 +59,7 @@
     "Android"
    ],
    "rating": 4.25,
-   "rating_count": 348,
+   "rating_count": 350,
    "ios": {
     "rating": 3,
     "count": 2,
@@ -63,7 +69,7 @@
    },
    "play": {
     "rating": 4.26,
-    "count": 346,
+    "count": 348,
     "installs": "10K+",
     "installs_exact": 20654,
     "released": "2025-12-24",
@@ -71,10 +77,10 @@
    },
    "installs": "10K+",
    "showcase_count": 336,
-   "delta_1d": 4,
+   "delta_1d": 2,
    "delta_7d": null,
    "delta_1d_ios": 0,
-   "delta_1d_play": 4,
+   "delta_1d_play": 2,
    "installs_exact": 20654,
    "first_release": "2025-12-24",
    "first_release_store": "Google Play",
@@ -89,51 +95,6 @@
   },
   {
    "rank": 2,
-   "slug": "nitelore",
-   "name": "Nitelore",
-   "url": "https://apps.shipaton.com/app/nitelore",
-   "tagline": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space.",
-   "description": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space. Nitelore is extreme anti-gravity racing with explosive combat, rival pilots and constantly escalating challenges. Conquer Grand Prix seasons, chase the perfect lap, survive brutal eliminations and destroy your opponents in all-out death races. ENDLESS RACING - Compete across multiple cups, zones and full Grand Prix seasons. - Rise through the leagues and race for the championship. - Master every track, upgrade your ships and keep pushing for faster times. MULTIPLE GAME MODES - Grand Prix - Battle through ",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Action",
-    "Racing"
-   ],
-   "seller": "Crabware",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 4.96,
-   "rating_count": 28,
-   "ios": {
-    "rating": 4.96,
-    "count": 28,
-    "released": "2026-08-15",
-    "version": "1.9",
-    "url": "https://apps.apple.com/us/app/nitelore/id6790147739"
-   },
-   "play": null,
-   "installs": "",
-   "showcase_count": 28,
-   "delta_1d": 0,
-   "delta_7d": 2,
-   "delta_1d_ios": 0,
-   "delta_1d_play": null,
-   "installs_exact": null,
-   "first_release": "2026-08-15",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "first_seen": "2026-09-02",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 3,
    "slug": "unlike",
    "name": "Unlike: Logic Puzzles",
    "url": "https://apps.shipaton.com/app/unlike",
@@ -149,11 +110,11 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 4.84,
-   "rating_count": 25,
+   "rating": 4.87,
+   "rating_count": 30,
    "ios": {
-    "rating": 4.84,
-    "count": 25,
+    "rating": 4.87,
+    "count": 30,
     "released": "2026-08-15",
     "version": "1.10",
     "url": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409"
@@ -161,9 +122,9 @@
    "play": null,
    "installs": "",
    "showcase_count": 19,
-   "delta_1d": 0,
-   "delta_7d": 18,
-   "delta_1d_ios": 0,
+   "delta_1d": 5,
+   "delta_7d": 23,
+   "delta_1d_ios": 5,
    "delta_1d_play": null,
    "installs_exact": null,
    "first_release": "2026-08-15",
@@ -172,9 +133,54 @@
    "first_seen": "2026-09-02",
    "new": false,
    "new_today": false,
-   "gaining": false,
+   "gaining": true,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 3,
+   "slug": "nitelore",
+   "name": "Nitelore",
+   "url": "https://apps.shipaton.com/app/nitelore",
+   "tagline": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space.",
+   "description": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space. Nitelore is extreme anti-gravity racing with explosive combat, rival pilots and constantly escalating challenges. Conquer Grand Prix seasons, chase the perfect lap, survive brutal eliminations and destroy your opponents in all-out death races. ENDLESS RACING - Compete across multiple cups, zones and full Grand Prix seasons. - Rise through the leagues and race for the championship. - Master every track, upgrade your ships and keep pushing for faster times. MULTIPLE GAME MODES - Grand Prix - Battle through ",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Racing"
+   ],
+   "seller": "Crabware",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 4.93,
+   "rating_count": 29,
+   "ios": {
+    "rating": 4.93,
+    "count": 29,
+    "released": "2026-08-15",
+    "version": "1.9",
+    "url": "https://apps.apple.com/us/app/nitelore/id6790147739"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 28,
+   "delta_1d": 1,
+   "delta_7d": 3,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "installs_exact": null,
+   "first_release": "2026-08-15",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4",
    "stale": false
   },
   {
@@ -245,7 +251,7 @@
     "rating": 3.0,
     "count": 7,
     "installs": "1K+",
-    "installs_exact": 1703,
+    "installs_exact": 1720,
     "released": "2026-08-08",
     "url": "https://play.google.com/store/apps/details?id=com.climacus.mypetdino"
    },
@@ -255,7 +261,7 @@
    "delta_7d": null,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
-   "installs_exact": 1703,
+   "installs_exact": 1720,
    "first_release": "2026-08-08",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -291,14 +297,14 @@
     "rating": 4,
     "count": 6,
     "released": "2026-09-03",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "url": "https://apps.apple.com/us/app/offsuit-blackjack-21/id6749341906"
    },
    "play": {
     "rating": null,
     "count": 0,
     "installs": "100+",
-    "installs_exact": 225,
+    "installs_exact": 238,
     "released": "2026-08-23",
     "url": "https://play.google.com/store/apps/details?id=com.bjack.app"
    },
@@ -308,7 +314,7 @@
    "delta_7d": null,
    "delta_1d_ios": 0,
    "delta_1d_play": 0,
-   "installs_exact": 225,
+   "installs_exact": 238,
    "first_release": "2026-08-23",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -339,13 +345,13 @@
     "iPhone",
     "Android"
    ],
-   "rating": 4.2,
-   "rating_count": 5,
+   "rating": 4.33,
+   "rating_count": 6,
    "ios": {
-    "rating": 4.2,
-    "count": 5,
+    "rating": 4.33,
+    "count": 6,
     "released": "2026-09-11",
-    "version": "1.6.2",
+    "version": "1.7.0",
     "url": "https://apps.apple.com/us/app/tapuchino-idle-cafe-tycoon/id6793236238"
    },
    "play": {
@@ -358,9 +364,9 @@
    },
    "installs": "100+",
    "showcase_count": 5,
-   "delta_1d": 0,
+   "delta_1d": 1,
    "delta_7d": null,
-   "delta_1d_ios": 0,
+   "delta_1d_ios": 1,
    "delta_1d_play": 0,
    "installs_exact": 150,
    "first_release": "2026-08-31",
@@ -369,7 +375,7 @@
    "first_seen": "2026-09-14",
    "new": false,
    "new_today": false,
-   "gaining": false,
+   "gaining": true,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/tapuchino-idle-cafe-tycoon/id6793236238?uo=4",
    "stale": false
@@ -448,7 +454,7 @@
    },
    "play": null,
    "installs": "",
-   "showcase_count": 2,
+   "showcase_count": 3,
    "delta_1d": 0,
    "delta_7d": 1,
    "delta_1d_ios": 0,
@@ -542,7 +548,7 @@
     "rating": null,
     "count": 0,
     "installs": "1K+",
-    "installs_exact": 4783,
+    "installs_exact": 4790,
     "released": "2026-04-13",
     "url": "https://play.google.com/store/apps/details?id=app.consoly"
    },
@@ -552,7 +558,7 @@
    "delta_7d": null,
    "delta_1d_ios": 0,
    "delta_1d_play": 0,
-   "installs_exact": 4783,
+   "installs_exact": 4790,
    "first_release": "2026-04-13",
    "first_release_store": "Google Play",
    "pre_window": true,
@@ -566,6 +572,52 @@
   },
   {
    "rank": 12,
+   "slug": "fastest-lap-top-down-racing",
+   "name": "Fastest Lap: Top Down Racing",
+   "url": "https://apps.shipaton.com/app/fastest-lap-top-down-racing",
+   "tagline": "Fastest Lap is a top-down time-attack racer.",
+   "description": "Fastest Lap is a top-down time-attack racer. One car, one circuit, one clean lap. No opponents, no contact, no luck — and nothing to blame. Pick it up in ten seconds. Then spend a month on one corner. NOBODY SAID IT SHOULD BE EASY Every circuit sets a target time, and it is not a generous one. A career round is cleared by a clean lap driven in that session, under that target. A personal best you set last week cannot clear it for you. Clean is not a judgment call. Put a wheel off the road and the lap is gone; it's decided the same way every time — the simulation is deterministic, so the same in",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Sports",
+    "Sports",
+    "Racing"
+   ],
+   "seller": "Maksym Bilan",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 3.67,
+   "rating_count": 3,
+   "ios": {
+    "rating": 3.67,
+    "count": 3,
+    "released": "2026-09-08",
+    "version": "1.0.3",
+    "url": "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 2,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "installs_exact": null,
+   "first_release": "2026-09-08",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "first_seen": "2026-09-19",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 13,
    "slug": "lms-land-of-magic-spices",
    "name": "LMS: Land of Magic Spices",
    "url": "https://apps.shipaton.com/app/lms-land-of-magic-spices",
@@ -611,7 +663,7 @@
    "stale": false
   },
   {
-   "rank": 13,
+   "rank": 14,
    "slug": "nomikit-tiny-things-you-build",
    "name": "NomiKit: Tiny Things You Build",
    "url": "https://apps.shipaton.com/app/nomikit-tiny-things-you-build",
@@ -657,7 +709,7 @@
    "stale": false
   },
   {
-   "rank": 14,
+   "rank": 15,
    "slug": "poodoku",
    "name": "Poodoku",
    "url": "https://apps.shipaton.com/app/poodoku",
@@ -702,7 +754,7 @@
    "stale": false
   },
   {
-   "rank": 15,
+   "rank": 16,
    "slug": "tub-pirates-sea-battles",
    "name": "Tub Pirates: Sea Battles",
    "url": "https://apps.shipaton.com/app/tub-pirates-sea-battles",
@@ -724,7 +776,7 @@
     "rating": 5,
     "count": 3,
     "released": "2026-08-12",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "url": "https://apps.apple.com/us/app/tub-pirates-sea-battles/id6792769794"
    },
    "play": null,
@@ -747,7 +799,7 @@
    "stale": false
   },
   {
-   "rank": 16,
+   "rank": 17,
    "slug": "carpet-diem-cozy-rug-cleaner",
    "name": "Carpet Diem",
    "url": "https://apps.shipaton.com/app/carpet-diem-cozy-rug-cleaner",
@@ -792,7 +844,7 @@
    "stale": false
   },
   {
-   "rank": 17,
+   "rank": 18,
    "slug": "cosmic-merge-planet-evolution",
    "name": "Cosmic Merge: Planet Evolution",
    "url": "https://apps.shipaton.com/app/cosmic-merge-planet-evolution",
@@ -834,52 +886,6 @@
    "gaining": false,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/cosmic-merge-planet-evolution/id6782748497?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 18,
-   "slug": "fastest-lap-top-down-racing",
-   "name": "Fastest Lap: Top Down Racing",
-   "url": "https://apps.shipaton.com/app/fastest-lap-top-down-racing",
-   "tagline": "Fastest Lap is a top-down time-attack racer.",
-   "description": "Fastest Lap is a top-down time-attack racer. One car, one circuit, one clean lap. No opponents, no contact, no luck — and nothing to blame. Pick it up in ten seconds. Then spend a month on one corner. NOBODY SAID IT SHOULD BE EASY Every circuit sets a target time, and it is not a generous one. A career round is cleared by a clean lap driven in that session, under that target. A personal best you set last week cannot clear it for you. Clean is not a judgment call. Put a wheel off the road and the lap is gone; it's decided the same way every time — the simulation is deterministic, so the same in",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Sports",
-    "Sports",
-    "Racing"
-   ],
-   "seller": "Maksym Bilan",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 3.0,
-   "rating_count": 2,
-   "ios": {
-    "rating": 3,
-    "count": 2,
-    "released": "2026-09-08",
-    "version": "1.0.3",
-    "url": "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974"
-   },
-   "play": null,
-   "installs": "",
-   "showcase_count": 2,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "delta_1d_ios": 0,
-   "delta_1d_play": null,
-   "installs_exact": null,
-   "first_release": "2026-09-08",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "first_seen": "2026-09-19",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974?uo=4",
    "stale": false
   },
   {
@@ -956,7 +962,7 @@
    },
    "play": null,
    "installs": "",
-   "showcase_count": 1,
+   "showcase_count": 2,
    "delta_1d": 0,
    "delta_7d": 1,
    "delta_1d_ios": 0,
@@ -1005,7 +1011,7 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 11,
+    "installs_exact": 12,
     "released": "2026-07-19",
     "url": "https://play.google.com/store/apps/details?id=com.inkboxes.app"
    },
@@ -1015,7 +1021,7 @@
    "delta_7d": null,
    "delta_1d_ios": 0,
    "delta_1d_play": 0,
-   "installs_exact": 11,
+   "installs_exact": 12,
    "first_release": "2026-07-16",
    "first_release_store": "App Store",
    "pre_window": true,
@@ -1128,6 +1134,96 @@
   },
   {
    "rank": 24,
+   "slug": "neverstill",
+   "name": "Neverstill",
+   "url": "https://apps.shipaton.com/app/neverstill",
+   "tagline": "You are not the train.",
+   "description": "You are not the train. You are the one drone above it. Armoured cars fight on their own. You are the only thing that can be anywhere else, and you can only be in one place at a time. Fly the roof. Overcharge the car you are standing over. Stomp the boarders off the deck. Drag the scrap in before it burns out behind the line. Every second you spend holding the rear is a second the engine is alone. TWELVE WAVES TO A TERMINUS Then the line asks how long you want to keep going. Pull in and bank the run, or run on into the next division, where everything that was hard is worse. There is no last sto",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Strategy"
+   ],
+   "seller": "Furkan Donmez",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 3.0,
+   "rating_count": 2,
+   "ios": {
+    "rating": 3,
+    "count": 2,
+    "released": "2026-09-10",
+    "version": "1.5.1",
+    "url": "https://apps.apple.com/us/app/neverstill/id6809487773"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 0,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "installs_exact": null,
+   "first_release": "2026-09-10",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "first_seen": "2026-09-19",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/neverstill/id6809487773?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 25,
+   "slug": "phantom-words",
+   "name": "Phantom Words",
+   "url": "https://apps.shipaton.com/app/phantom-words",
+   "tagline": "We made Phantom Words for anyone who loves that small, satisfying moment when a jumble of letters suddenly turns into a word.",
+   "description": "We made Phantom Words for anyone who loves that small, satisfying moment when a jumble of letters suddenly turns into a word. Each board begins scrambled, with most of the letters hidden behind ghost tiles. Slide rows and columns like a 2D Rubik’s Cube, then look for words running across or down the board. Whenever you make one using a tile for the first time, another letter appears. Once every tile is used, the puzzle is complete. Longer words are worth more, while tiles lose value each time you use them. Yellow means a tile is nearly spent; red means you’ve leaned on it too often. Later boar",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Word"
+   ],
+   "seller": "Fleon Labs",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 2,
+   "ios": {
+    "rating": 5,
+    "count": 2,
+    "released": "2026-09-22",
+    "version": "1.2",
+    "url": "https://apps.apple.com/us/app/phantom-words/id6789995017"
+   },
+   "play": null,
+   "installs": "",
+   "showcase_count": 1,
+   "delta_1d": 1,
+   "delta_7d": 1,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "installs_exact": null,
+   "first_release": "2026-09-22",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "first_seen": "2026-09-09",
+   "new": false,
+   "new_today": false,
+   "gaining": true,
+   "proximity": false,
+   "store": "https://apps.apple.com/us/app/phantom-words/id6789995017?uo=4",
+   "stale": false
+  },
+  {
+   "rank": 26,
    "slug": "toilet-brain-games-einstool",
    "name": "Toilet Brain Games: Einstool",
    "url": "https://apps.shipaton.com/app/toilet-brain-games-einstool",
@@ -1172,7 +1268,7 @@
    "stale": false
   },
   {
-   "rank": 25,
+   "rank": 27,
    "slug": "vocaburst-typing-shooter",
    "name": "VocaBurst: Typing Shooter",
    "url": "https://apps.shipaton.com/app/vocaburst-typing-shooter",
@@ -1226,7 +1322,7 @@
    "stale": false
   },
   {
-   "rank": 26,
+   "rank": 28,
    "slug": "word-scourge",
    "name": "Word Scourge",
    "url": "https://apps.shipaton.com/app/word-scourge",
@@ -1280,7 +1376,7 @@
    "stale": false
   },
   {
-   "rank": 27,
+   "rank": 29,
    "slug": "brewmancer-roguelike",
    "name": "Brewmancer: Roguelike",
    "url": "https://apps.shipaton.com/app/brewmancer-roguelike",
@@ -1325,7 +1421,7 @@
    "stale": false
   },
   {
-   "rank": 28,
+   "rank": 30,
    "slug": "bricolang",
    "name": "bricolang",
    "url": "https://apps.shipaton.com/app/bricolang",
@@ -1371,7 +1467,7 @@
    "stale": false
   },
   {
-   "rank": 29,
+   "rank": 31,
    "slug": "debugger-incident-terminal",
    "name": "DEBUGGER: Incident Terminal",
    "url": "https://apps.shipaton.com/app/debugger-incident-terminal",
@@ -1424,7 +1520,7 @@
    "stale": false
   },
   {
-   "rank": 30,
+   "rank": 32,
    "slug": "dumpling-galaxy-logic-puzzle",
    "name": "Dumpling Galaxy:  Logic Puzzle",
    "url": "https://apps.shipaton.com/app/dumpling-galaxy-logic-puzzle",
@@ -1456,7 +1552,7 @@
     "rating": null,
     "count": 0,
     "installs": "100+",
-    "installs_exact": 129,
+    "installs_exact": 131,
     "released": "2026-07-27",
     "url": "https://play.google.com/store/apps/details?id=com.dumplinggalaxy.app"
    },
@@ -1466,7 +1562,7 @@
    "delta_7d": null,
    "delta_1d_ios": 0,
    "delta_1d_play": 0,
-   "installs_exact": 129,
+   "installs_exact": 131,
    "first_release": "2026-07-27",
    "first_release_store": "Google Play",
    "pre_window": true,
@@ -1479,7 +1575,7 @@
    "stale": false
   },
   {
-   "rank": 31,
+   "rank": 33,
    "slug": "glow-snake-neon-classic",
    "name": "Glow Snake: Neon Classic",
    "url": "https://apps.shipaton.com/app/glow-snake-neon-classic",
@@ -1532,7 +1628,7 @@
    "stale": false
   },
   {
-   "rank": 32,
+   "rank": 34,
    "slug": "gotcha-bluff-party-trivia",
    "name": "Gotcha: Bluff Party Trivia",
    "url": "https://apps.shipaton.com/app/gotcha-bluff-party-trivia",
@@ -1577,7 +1673,7 @@
    "stale": false
   },
   {
-   "rank": 33,
+   "rank": 35,
    "slug": "hexpair-logic-puzzle-game",
    "name": "Hexpair: Logic Puzzle Game",
    "url": "https://apps.shipaton.com/app/hexpair-logic-puzzle-game",
@@ -1600,7 +1696,7 @@
     "rating": 5,
     "count": 1,
     "released": "2026-09-16",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "url": "https://apps.apple.com/us/app/hexpair-logic-puzzle-game/id6809547952"
    },
    "play": null,
@@ -1623,7 +1719,7 @@
    "stale": false
   },
   {
-   "rank": 34,
+   "rank": 36,
    "slug": "learn-french-game-cowsmic",
    "name": "Learn French Game: Cowsmic",
    "url": "https://apps.shipaton.com/app/learn-french-game-cowsmic",
@@ -1677,52 +1773,7 @@
    "stale": false
   },
   {
-   "rank": 35,
-   "slug": "neverstill",
-   "name": "Neverstill",
-   "url": "https://apps.shipaton.com/app/neverstill",
-   "tagline": "You are not the train.",
-   "description": "You are not the train. You are the one drone above it. Armoured cars fight on their own. You are the only thing that can be anywhere else, and you can only be in one place at a time. Fly the roof. Overcharge the car you are standing over. Stomp the boarders off the deck. Drag the scrap in before it burns out behind the line. Every second you spend holding the rear is a second the engine is alone. TWELVE WAVES TO A TERMINUS Then the line asks how long you want to keep going. Pull in and bank the run, or run on into the next division, where everything that was hard is worse. There is no last sto",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Action",
-    "Strategy"
-   ],
-   "seller": "Furkan Donmez",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 1.0,
-   "rating_count": 1,
-   "ios": {
-    "rating": 1,
-    "count": 1,
-    "released": "2026-09-10",
-    "version": "1.3.2",
-    "url": "https://apps.apple.com/us/app/neverstill/id6809487773"
-   },
-   "play": null,
-   "installs": "",
-   "showcase_count": 0,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "delta_1d_ios": 0,
-   "delta_1d_play": null,
-   "installs_exact": null,
-   "first_release": "2026-09-10",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "first_seen": "2026-09-19",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/neverstill/id6809487773?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 36,
+   "rank": 37,
    "slug": "not-your-phone-mystery",
    "name": "Not Your Phone: Mystery",
    "url": "https://apps.shipaton.com/app/not-your-phone-mystery",
@@ -1767,7 +1818,7 @@
    "stale": false
   },
   {
-   "rank": 37,
+   "rank": 38,
    "slug": "nova-swing",
    "name": "Nova Swing",
    "url": "https://apps.shipaton.com/app/nova-swing",
@@ -1809,51 +1860,6 @@
    "gaining": false,
    "proximity": false,
    "store": "https://apps.apple.com/us/app/nova-swing/id6789703945?uo=4",
-   "stale": false
-  },
-  {
-   "rank": 38,
-   "slug": "phantom-words",
-   "name": "Phantom Words",
-   "url": "https://apps.shipaton.com/app/phantom-words",
-   "tagline": "We made Phantom Words for anyone who loves that small, satisfying moment when a jumble of letters suddenly turns into a word.",
-   "description": "We made Phantom Words for anyone who loves that small, satisfying moment when a jumble of letters suddenly turns into a word. Each board begins scrambled, with most of the letters hidden behind ghost tiles. Slide rows and columns like a 2D Rubik’s Cube, then look for words running across or down the board. Whenever you make one using a tile for the first time, another letter appears. Once every tile is used, the puzzle is complete. Longer words are worth more, while tiles lose value each time you use them. Yellow means a tile is nearly spent; red means you’ve leaned on it too often. Later boar",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Puzzle",
-    "Word"
-   ],
-   "seller": "Fleon Labs",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 5.0,
-   "rating_count": 1,
-   "ios": {
-    "rating": 5,
-    "count": 1,
-    "released": "2026-09-22",
-    "version": "1.2",
-    "url": "https://apps.apple.com/us/app/phantom-words/id6789995017"
-   },
-   "play": null,
-   "installs": "",
-   "showcase_count": 1,
-   "delta_1d": 0,
-   "delta_7d": 0,
-   "delta_1d_ios": 0,
-   "delta_1d_play": null,
-   "installs_exact": null,
-   "first_release": "2026-09-22",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "first_seen": "2026-09-09",
-   "new": false,
-   "new_today": false,
-   "gaining": false,
-   "proximity": false,
-   "store": "https://apps.apple.com/us/app/phantom-words/id6789995017?uo=4",
    "stale": false
   },
   {
@@ -2119,12 +2125,12 @@
    "play": {
     "rating": null,
     "count": 0,
-    "installs": "5+",
+    "installs": "10+",
     "installs_exact": null,
     "released": "",
     "url": "https://play.google.com/store/apps/details?id=io.github.ber4444.chess"
    },
-   "installs": "5+",
+   "installs": "10+",
    "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": 0,
@@ -2451,7 +2457,7 @@
     "rating": null,
     "count": 0,
     "installs": "1+",
-    "installs_exact": 1,
+    "installs_exact": 2,
     "released": "2026-08-27",
     "url": "https://play.google.com/store/apps/details?id=com.sodremr.biblia_kids"
    },
@@ -2461,7 +2467,7 @@
    "delta_7d": null,
    "delta_1d_ios": 0,
    "delta_1d_play": 0,
-   "installs_exact": 1,
+   "installs_exact": 2,
    "first_release": "2026-08-27",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -2646,7 +2652,7 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 34,
+    "installs_exact": 37,
     "released": "2026-09-03",
     "url": "https://play.google.com/store/apps/details?id=com.catalinmiron.chalk"
    },
@@ -2656,7 +2662,7 @@
    "delta_7d": null,
    "delta_1d_ios": 0,
    "delta_1d_play": 0,
-   "installs_exact": 34,
+   "installs_exact": 37,
    "first_release": "2026-09-03",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -2742,18 +2748,18 @@
    "play": {
     "rating": null,
     "count": 0,
-    "installs": "10+",
-    "installs_exact": 36,
+    "installs": "50+",
+    "installs_exact": 76,
     "released": "2026-07-30",
     "url": "https://play.google.com/store/apps/details?id=com.fuzzydinolabs.ciphersage"
    },
-   "installs": "10+",
+   "installs": "50+",
    "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
    "delta_1d_ios": 0,
    "delta_1d_play": 0,
-   "installs_exact": 36,
+   "installs_exact": 76,
    "first_release": "2026-07-30",
    "first_release_store": "Google Play",
    "pre_window": true,
@@ -2965,7 +2971,7 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 33,
+    "installs_exact": 36,
     "released": "2026-09-05",
     "url": "https://play.google.com/store/apps/details?id=com.taplinko.autodefinidosdiarios"
    },
@@ -2975,7 +2981,7 @@
    "delta_7d": null,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
-   "installs_exact": 33,
+   "installs_exact": 36,
    "first_release": "2026-09-05",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -3618,7 +3624,7 @@
     "rating": null,
     "count": 0,
     "installs": "1K+",
-    "installs_exact": 3070,
+    "installs_exact": 3188,
     "released": "2026-08-28",
     "url": "https://play.google.com/store/apps/details?id=com.lukasehlers.pinit"
    },
@@ -3628,7 +3634,7 @@
    "delta_7d": null,
    "delta_1d_ios": 0,
    "delta_1d_play": 0,
-   "installs_exact": 3070,
+   "installs_exact": 3188,
    "first_release": "2026-08-28",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -3717,7 +3723,7 @@
     "rating": null,
     "count": 0,
     "released": "2026-09-21",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "url": "https://apps.apple.com/us/app/murdoria-murder-sudoku/id6811812178"
    },
    "play": null,
@@ -3859,7 +3865,7 @@
     "rating": null,
     "count": 0,
     "installs": "100+",
-    "installs_exact": 328,
+    "installs_exact": 353,
     "released": "2026-08-30",
     "url": "https://play.google.com/store/apps/details?id=com.networth.game"
    },
@@ -3869,7 +3875,7 @@
    "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
-   "installs_exact": 328,
+   "installs_exact": 353,
    "first_release": "2026-08-30",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -4045,7 +4051,7 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 16,
+    "installs_exact": 22,
     "released": "2026-08-31",
     "url": "https://play.google.com/store/apps/details?id=com.apn201.palsta"
    },
@@ -4055,7 +4061,7 @@
    "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
-   "installs_exact": 16,
+   "installs_exact": 22,
    "first_release": "2026-08-31",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -4593,7 +4599,7 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 47,
+    "installs_exact": 49,
     "released": "2026-09-10",
     "url": "https://play.google.com/store/apps/details?id=com.riverside.riverside_files"
    },
@@ -4603,7 +4609,7 @@
    "delta_7d": null,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
-   "installs_exact": 47,
+   "installs_exact": 49,
    "first_release": "2026-09-10",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -4836,7 +4842,7 @@
     "rating": null,
     "count": 0,
     "installs": "1+",
-    "installs_exact": 1,
+    "installs_exact": 2,
     "released": "2026-08-28",
     "url": "https://play.google.com/store/apps/details?id=ai.ducket.skipad"
    },
@@ -4846,7 +4852,7 @@
    "delta_7d": null,
    "delta_1d_ios": 0,
    "delta_1d_play": 0,
-   "installs_exact": 1,
+   "installs_exact": 2,
    "first_release": "2026-08-28",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -4882,7 +4888,7 @@
     "rating": null,
     "count": 0,
     "released": "2026-09-03",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "url": "https://apps.apple.com/us/app/sonarchy/id6798001087"
    },
    "play": null,
@@ -5113,7 +5119,7 @@
     "rating": null,
     "count": 0,
     "installs": "1K+",
-    "installs_exact": 2357,
+    "installs_exact": 2397,
     "released": "2026-08-04",
     "url": "https://play.google.com/store/apps/details?id=com.tameapet"
    },
@@ -5123,7 +5129,7 @@
    "delta_7d": null,
    "delta_1d_ios": 0,
    "delta_1d_play": 0,
-   "installs_exact": 2357,
+   "installs_exact": 2397,
    "first_release": "2026-08-04",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -5200,18 +5206,18 @@
    "play": {
     "rating": null,
     "count": 0,
-    "installs": "1+",
-    "installs_exact": 4,
+    "installs": "5+",
+    "installs_exact": 5,
     "released": "2026-09-16",
     "url": "https://play.google.com/store/apps/details?id=work.solocamp.unknownworld"
    },
-   "installs": "1+",
+   "installs": "5+",
    "showcase_count": 0,
    "delta_1d": 0,
    "delta_7d": null,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
-   "installs_exact": 4,
+   "installs_exact": 5,
    "first_release": "2026-09-16",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -5339,7 +5345,7 @@
     "rating": null,
     "count": 0,
     "released": "2026-09-14",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "url": "https://apps.apple.com/us/app/vibestep-dance-maker/id6808028411"
    },
    "play": {
@@ -5436,7 +5442,7 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 16,
+    "installs_exact": 17,
     "released": "2026-08-28",
     "url": "https://play.google.com/store/apps/details?id=com.kennguyen.wordscend"
    },
@@ -5446,7 +5452,7 @@
    "delta_7d": 0,
    "delta_1d_ios": null,
    "delta_1d_play": 0,
-   "installs_exact": 16,
+   "installs_exact": 17,
    "first_release": "2026-08-28",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -5489,7 +5495,7 @@
     "rating": null,
     "count": 0,
     "installs": "1+",
-    "installs_exact": 2,
+    "installs_exact": 4,
     "released": "2026-08-15",
     "url": "https://play.google.com/store/apps/details?id=com.haroworks.leavescatch"
    },
@@ -5499,7 +5505,7 @@
    "delta_7d": null,
    "delta_1d_ios": 0,
    "delta_1d_play": 0,
-   "installs_exact": 2,
+   "installs_exact": 4,
    "first_release": "2026-08-15",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -5621,7 +5627,7 @@
     "Android"
    ],
    "rating": 4.25,
-   "rating_count": 348,
+   "rating_count": 350,
    "store": "https://apps.apple.com/us/app/the-last-line-zombie-siege/id6756308513?uo=4",
    "store_links": [
     "https://apps.apple.com/us/app/the-last-line-zombie-siege/id6756308513?uo=4",
@@ -5636,8 +5642,8 @@
    "proximity": false,
    "showcase_count": 336,
    "delta_1d_ios": 0,
-   "delta_1d_play": 4,
-   "delta_1d": 4,
+   "delta_1d_play": 2,
+   "delta_1d": 2,
    "delta_7d": null,
    "gaining": true,
    "ios": {
@@ -5649,7 +5655,7 @@
    },
    "play": {
     "rating": 4.26,
-    "count": 346,
+    "count": 348,
     "installs": "10K+",
     "installs_exact": 20654,
     "released": "2025-12-24",
@@ -5661,54 +5667,6 @@
    "first_release_store": "Google Play",
    "pre_window": true,
    "rank": 1
-  },
-  {
-   "slug": "nitelore",
-   "name": "Nitelore",
-   "url": "https://apps.shipaton.com/app/nitelore",
-   "tagline": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space.",
-   "description": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space. Nitelore is extreme anti-gravity racing with explosive combat, rival pilots and constantly escalating challenges. Conquer Grand Prix seasons, chase the perfect lap, survive brutal eliminations and destroy your opponents in all-out death races. ENDLESS RACING - Compete across multiple cups, zones and full Grand Prix seasons. - Rise through the leagues and race for the championship. - Master every track, upgrade your ships and keep pushing for faster times. MULTIPLE GAME MODES - Grand Prix - Battle through ",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Action",
-    "Racing"
-   ],
-   "seller": "Crabware",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 4.96,
-   "rating_count": 28,
-   "store": "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4",
-   "store_links": [
-    "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-02",
-   "new": false,
-   "new_today": false,
-   "proximity": false,
-   "showcase_count": 28,
-   "delta_1d_ios": 0,
-   "delta_1d_play": null,
-   "delta_1d": 0,
-   "delta_7d": 2,
-   "gaining": false,
-   "ios": {
-    "rating": 4.96,
-    "count": 28,
-    "released": "2026-08-15",
-    "version": "1.9",
-    "url": "https://apps.apple.com/us/app/nitelore/id6790147739"
-   },
-   "play": null,
-   "installs": "",
-   "installs_exact": null,
-   "first_release": "2026-08-15",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "rank": 2
   },
   {
    "slug": "unlike",
@@ -5726,8 +5684,8 @@
    "platforms": [
     "iPhone"
    ],
-   "rating": 4.84,
-   "rating_count": 25,
+   "rating": 4.87,
+   "rating_count": 30,
    "store": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409?uo=4",
    "store_links": [
     "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409?uo=4"
@@ -5738,17 +5696,65 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 19,
-   "delta_1d_ios": 0,
+   "delta_1d_ios": 5,
    "delta_1d_play": null,
-   "delta_1d": 0,
-   "delta_7d": 18,
-   "gaining": false,
+   "delta_1d": 5,
+   "delta_7d": 23,
+   "gaining": true,
    "ios": {
-    "rating": 4.84,
-    "count": 25,
+    "rating": 4.87,
+    "count": 30,
     "released": "2026-08-15",
     "version": "1.10",
     "url": "https://apps.apple.com/us/app/unlike-logic-puzzles/id6798033409"
+   },
+   "play": null,
+   "installs": "",
+   "installs_exact": null,
+   "first_release": "2026-08-15",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "rank": 2
+  },
+  {
+   "slug": "nitelore",
+   "name": "Nitelore",
+   "url": "https://apps.shipaton.com/app/nitelore",
+   "tagline": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space.",
+   "description": "Race at impossible speeds across cities, volcanoes, alien worlds and the depths of space. Nitelore is extreme anti-gravity racing with explosive combat, rival pilots and constantly escalating challenges. Conquer Grand Prix seasons, chase the perfect lap, survive brutal eliminations and destroy your opponents in all-out death races. ENDLESS RACING - Compete across multiple cups, zones and full Grand Prix seasons. - Rise through the leagues and race for the championship. - Master every track, upgrade your ships and keep pushing for faster times. MULTIPLE GAME MODES - Grand Prix - Battle through ",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Racing"
+   ],
+   "seller": "Crabware",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 4.93,
+   "rating_count": 29,
+   "store": "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/nitelore/id6790147739?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-02",
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "showcase_count": 28,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "delta_1d": 1,
+   "delta_7d": 3,
+   "gaining": true,
+   "ios": {
+    "rating": 4.93,
+    "count": 29,
+    "released": "2026-08-15",
+    "version": "1.9",
+    "url": "https://apps.apple.com/us/app/nitelore/id6790147739"
    },
    "play": null,
    "installs": "",
@@ -5845,12 +5851,12 @@
     "rating": 3.0,
     "count": 7,
     "installs": "1K+",
-    "installs_exact": 1703,
+    "installs_exact": 1720,
     "released": "2026-08-08",
     "url": "https://play.google.com/store/apps/details?id=com.climacus.mypetdino"
    },
    "installs": "1K+",
-   "installs_exact": 1703,
+   "installs_exact": 1720,
    "first_release": "2026-08-08",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -5897,19 +5903,19 @@
     "rating": 4,
     "count": 6,
     "released": "2026-09-03",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "url": "https://apps.apple.com/us/app/offsuit-blackjack-21/id6749341906"
    },
    "play": {
     "rating": null,
     "count": 0,
     "installs": "100+",
-    "installs_exact": 225,
+    "installs_exact": 238,
     "released": "2026-08-23",
     "url": "https://play.google.com/store/apps/details?id=com.bjack.app"
    },
    "installs": "100+",
-   "installs_exact": 225,
+   "installs_exact": 238,
    "first_release": "2026-08-23",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -5933,8 +5939,8 @@
     "iPhone",
     "Android"
    ],
-   "rating": 4.2,
-   "rating_count": 5,
+   "rating": 4.33,
+   "rating_count": 6,
    "store": "https://apps.apple.com/us/app/tapuchino-idle-cafe-tycoon/id6793236238?uo=4",
    "store_links": [
     "https://apps.apple.com/us/app/tapuchino-idle-cafe-tycoon/id6793236238?uo=4",
@@ -5948,16 +5954,16 @@
    "new_today": false,
    "proximity": false,
    "showcase_count": 5,
-   "delta_1d_ios": 0,
+   "delta_1d_ios": 1,
    "delta_1d_play": 0,
-   "delta_1d": 0,
+   "delta_1d": 1,
    "delta_7d": null,
-   "gaining": false,
+   "gaining": true,
    "ios": {
-    "rating": 4.2,
-    "count": 5,
+    "rating": 4.33,
+    "count": 6,
     "released": "2026-09-11",
-    "version": "1.6.2",
+    "version": "1.7.0",
     "url": "https://apps.apple.com/us/app/tapuchino-idle-cafe-tycoon/id6793236238"
    },
    "play": {
@@ -6051,7 +6057,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "showcase_count": 2,
+   "showcase_count": 3,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
@@ -6169,16 +6175,65 @@
     "rating": null,
     "count": 0,
     "installs": "1K+",
-    "installs_exact": 4783,
+    "installs_exact": 4790,
     "released": "2026-04-13",
     "url": "https://play.google.com/store/apps/details?id=app.consoly"
    },
    "installs": "1K+",
-   "installs_exact": 4783,
+   "installs_exact": 4790,
    "first_release": "2026-04-13",
    "first_release_store": "Google Play",
    "pre_window": true,
    "rank": 11
+  },
+  {
+   "slug": "fastest-lap-top-down-racing",
+   "name": "Fastest Lap: Top Down Racing",
+   "url": "https://apps.shipaton.com/app/fastest-lap-top-down-racing",
+   "tagline": "Fastest Lap is a top-down time-attack racer.",
+   "description": "Fastest Lap is a top-down time-attack racer. One car, one circuit, one clean lap. No opponents, no contact, no luck — and nothing to blame. Pick it up in ten seconds. Then spend a month on one corner. NOBODY SAID IT SHOULD BE EASY Every circuit sets a target time, and it is not a generous one. A career round is cleared by a clean lap driven in that session, under that target. A personal best you set last week cannot clear it for you. Clean is not a judgment call. Put a wheel off the road and the lap is gone; it's decided the same way every time — the simulation is deterministic, so the same in",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Sports",
+    "Sports",
+    "Racing"
+   ],
+   "seller": "Maksym Bilan",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 3.67,
+   "rating_count": 3,
+   "store": "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "showcase_count": 2,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "gaining": true,
+   "ios": {
+    "rating": 3.67,
+    "count": 3,
+    "released": "2026-09-08",
+    "version": "1.0.3",
+    "url": "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974"
+   },
+   "play": null,
+   "installs": "",
+   "installs_exact": null,
+   "first_release": "2026-09-08",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "rank": 12
   },
   {
    "slug": "lms-land-of-magic-spices",
@@ -6227,7 +6282,7 @@
    "first_release": "2026-08-23",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 12
+   "rank": 13
   },
   {
    "slug": "nomikit-tiny-things-you-build",
@@ -6276,7 +6331,7 @@
    "first_release": "2026-08-21",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 13
+   "rank": 14
   },
   {
    "slug": "poodoku",
@@ -6324,7 +6379,7 @@
    "first_release": "2026-08-13",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 14
+   "rank": 15
   },
   {
    "slug": "tub-pirates-sea-battles",
@@ -6363,7 +6418,7 @@
     "rating": 5,
     "count": 3,
     "released": "2026-08-12",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "url": "https://apps.apple.com/us/app/tub-pirates-sea-battles/id6792769794"
    },
    "play": null,
@@ -6372,7 +6427,7 @@
    "first_release": "2026-08-12",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 15
+   "rank": 16
   },
   {
    "slug": "carpet-diem-cozy-rug-cleaner",
@@ -6420,7 +6475,7 @@
    "first_release": "2026-08-31",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 16
+   "rank": 17
   },
   {
    "slug": "cosmic-merge-planet-evolution",
@@ -6466,55 +6521,6 @@
    "installs": "",
    "installs_exact": null,
    "first_release": "2026-09-05",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "rank": 17
-  },
-  {
-   "slug": "fastest-lap-top-down-racing",
-   "name": "Fastest Lap: Top Down Racing",
-   "url": "https://apps.shipaton.com/app/fastest-lap-top-down-racing",
-   "tagline": "Fastest Lap is a top-down time-attack racer.",
-   "description": "Fastest Lap is a top-down time-attack racer. One car, one circuit, one clean lap. No opponents, no contact, no luck — and nothing to blame. Pick it up in ten seconds. Then spend a month on one corner. NOBODY SAID IT SHOULD BE EASY Every circuit sets a target time, and it is not a generous one. A career round is cleared by a clean lap driven in that session, under that target. A personal best you set last week cannot clear it for you. Clean is not a judgment call. Put a wheel off the road and the lap is gone; it's decided the same way every time — the simulation is deterministic, so the same in",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Sports",
-    "Sports",
-    "Racing"
-   ],
-   "seller": "Maksym Bilan",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 3.0,
-   "rating_count": 2,
-   "store": "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974?uo=4",
-   "store_links": [
-    "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974?uo=4"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-19",
-   "new": false,
-   "new_today": false,
-   "proximity": false,
-   "showcase_count": 2,
-   "delta_1d_ios": 0,
-   "delta_1d_play": null,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "gaining": false,
-   "ios": {
-    "rating": 3,
-    "count": 2,
-    "released": "2026-09-08",
-    "version": "1.0.3",
-    "url": "https://apps.apple.com/us/app/fastest-lap-top-down-racing/id6795142974"
-   },
-   "play": null,
-   "installs": "",
-   "installs_exact": null,
-   "first_release": "2026-09-08",
    "first_release_store": "App Store",
    "pre_window": false,
    "rank": 18
@@ -6595,7 +6601,7 @@
    "new": false,
    "new_today": false,
    "proximity": false,
-   "showcase_count": 1,
+   "showcase_count": 2,
    "delta_1d_ios": 0,
    "delta_1d_play": null,
    "delta_1d": 0,
@@ -6665,12 +6671,12 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 11,
+    "installs_exact": 12,
     "released": "2026-07-19",
     "url": "https://play.google.com/store/apps/details?id=com.inkboxes.app"
    },
    "installs": "10+",
-   "installs_exact": 11,
+   "installs_exact": 12,
    "first_release": "2026-07-16",
    "first_release_store": "App Store",
    "pre_window": true,
@@ -6785,6 +6791,102 @@
    "rank": 23
   },
   {
+   "slug": "neverstill",
+   "name": "Neverstill",
+   "url": "https://apps.shipaton.com/app/neverstill",
+   "tagline": "You are not the train.",
+   "description": "You are not the train. You are the one drone above it. Armoured cars fight on their own. You are the only thing that can be anywhere else, and you can only be in one place at a time. Fly the roof. Overcharge the car you are standing over. Stomp the boarders off the deck. Drag the scrap in before it burns out behind the line. Every second you spend holding the rear is a second the engine is alone. TWELVE WAVES TO A TERMINUS Then the line asks how long you want to keep going. Pull in and bank the run, or run on into the next division, where everything that was hard is worse. There is no last sto",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Action",
+    "Strategy"
+   ],
+   "seller": "Furkan Donmez",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 3.0,
+   "rating_count": 2,
+   "store": "https://apps.apple.com/us/app/neverstill/id6809487773?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/neverstill/id6809487773?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-19",
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "showcase_count": 0,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "delta_1d": 1,
+   "delta_7d": null,
+   "gaining": true,
+   "ios": {
+    "rating": 3,
+    "count": 2,
+    "released": "2026-09-10",
+    "version": "1.5.1",
+    "url": "https://apps.apple.com/us/app/neverstill/id6809487773"
+   },
+   "play": null,
+   "installs": "",
+   "installs_exact": null,
+   "first_release": "2026-09-10",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "rank": 24
+  },
+  {
+   "slug": "phantom-words",
+   "name": "Phantom Words",
+   "url": "https://apps.shipaton.com/app/phantom-words",
+   "tagline": "We made Phantom Words for anyone who loves that small, satisfying moment when a jumble of letters suddenly turns into a word.",
+   "description": "We made Phantom Words for anyone who loves that small, satisfying moment when a jumble of letters suddenly turns into a word. Each board begins scrambled, with most of the letters hidden behind ghost tiles. Slide rows and columns like a 2D Rubik’s Cube, then look for words running across or down the board. Whenever you make one using a tile for the first time, another letter appears. Once every tile is used, the puzzle is complete. Longer words are worth more, while tiles lose value each time you use them. Yellow means a tile is nearly spent; red means you’ve leaned on it too often. Later boar",
+   "category": "Games",
+   "genres": [
+    "Games",
+    "Puzzle",
+    "Word"
+   ],
+   "seller": "Fleon Labs",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 2,
+   "store": "https://apps.apple.com/us/app/phantom-words/id6789995017?uo=4",
+   "store_links": [
+    "https://apps.apple.com/us/app/phantom-words/id6789995017?uo=4"
+   ],
+   "stale": false,
+   "first_seen": "2026-09-09",
+   "new": false,
+   "new_today": false,
+   "proximity": false,
+   "showcase_count": 1,
+   "delta_1d_ios": 1,
+   "delta_1d_play": null,
+   "delta_1d": 1,
+   "delta_7d": 1,
+   "gaining": true,
+   "ios": {
+    "rating": 5,
+    "count": 2,
+    "released": "2026-09-22",
+    "version": "1.2",
+    "url": "https://apps.apple.com/us/app/phantom-words/id6789995017"
+   },
+   "play": null,
+   "installs": "",
+   "installs_exact": null,
+   "first_release": "2026-09-22",
+   "first_release_store": "App Store",
+   "pre_window": false,
+   "rank": 25
+  },
+  {
    "slug": "toilet-brain-games-einstool",
    "name": "Toilet Brain Games: Einstool",
    "url": "https://apps.shipaton.com/app/toilet-brain-games-einstool",
@@ -6830,7 +6932,7 @@
    "first_release": "2026-08-07",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 24
+   "rank": 26
   },
   {
    "slug": "vocaburst-typing-shooter",
@@ -6890,7 +6992,7 @@
    "first_release": "2026-08-17",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 25
+   "rank": 27
   },
   {
    "slug": "word-scourge",
@@ -6950,7 +7052,7 @@
    "first_release": "2026-09-03",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 26
+   "rank": 28
   },
   {
    "slug": "brewmancer-roguelike",
@@ -6998,7 +7100,7 @@
    "first_release": "2026-08-20",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 27
+   "rank": 29
   },
   {
    "slug": "bricolang",
@@ -7047,7 +7149,7 @@
    "first_release": "2026-09-09",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 28
+   "rank": 30
   },
   {
    "slug": "debugger-incident-terminal",
@@ -7106,7 +7208,7 @@
    "first_release": "2026-08-01",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 29
+   "rank": 31
   },
   {
    "slug": "dumpling-galaxy-logic-puzzle",
@@ -7158,16 +7260,16 @@
     "rating": null,
     "count": 0,
     "installs": "100+",
-    "installs_exact": 129,
+    "installs_exact": 131,
     "released": "2026-07-27",
     "url": "https://play.google.com/store/apps/details?id=com.dumplinggalaxy.app"
    },
    "installs": "100+",
-   "installs_exact": 129,
+   "installs_exact": 131,
    "first_release": "2026-07-27",
    "first_release_store": "Google Play",
    "pre_window": true,
-   "rank": 30
+   "rank": 32
   },
   {
    "slug": "glow-snake-neon-classic",
@@ -7226,7 +7328,7 @@
    "first_release": "2026-07-27",
    "first_release_store": "App Store",
    "pre_window": true,
-   "rank": 31
+   "rank": 33
   },
   {
    "slug": "gotcha-bluff-party-trivia",
@@ -7274,7 +7376,7 @@
    "first_release": "2026-08-01",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 32
+   "rank": 34
   },
   {
    "slug": "hexpair-logic-puzzle-game",
@@ -7314,7 +7416,7 @@
     "rating": 5,
     "count": 1,
     "released": "2026-09-16",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "url": "https://apps.apple.com/us/app/hexpair-logic-puzzle-game/id6809547952"
    },
    "play": null,
@@ -7323,7 +7425,7 @@
    "first_release": "2026-09-16",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 33
+   "rank": 35
   },
   {
    "slug": "learn-french-game-cowsmic",
@@ -7383,55 +7485,7 @@
    "first_release": "2026-08-21",
    "first_release_store": "Google Play",
    "pre_window": false,
-   "rank": 34
-  },
-  {
-   "slug": "neverstill",
-   "name": "Neverstill",
-   "url": "https://apps.shipaton.com/app/neverstill",
-   "tagline": "You are not the train.",
-   "description": "You are not the train. You are the one drone above it. Armoured cars fight on their own. You are the only thing that can be anywhere else, and you can only be in one place at a time. Fly the roof. Overcharge the car you are standing over. Stomp the boarders off the deck. Drag the scrap in before it burns out behind the line. Every second you spend holding the rear is a second the engine is alone. TWELVE WAVES TO A TERMINUS Then the line asks how long you want to keep going. Pull in and bank the run, or run on into the next division, where everything that was hard is worse. There is no last sto",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Action",
-    "Strategy"
-   ],
-   "seller": "Furkan Donmez",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 1.0,
-   "rating_count": 1,
-   "store": "https://apps.apple.com/us/app/neverstill/id6809487773?uo=4",
-   "store_links": [
-    "https://apps.apple.com/us/app/neverstill/id6809487773?uo=4"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-19",
-   "new": false,
-   "new_today": false,
-   "proximity": false,
-   "showcase_count": 0,
-   "delta_1d_ios": 0,
-   "delta_1d_play": null,
-   "delta_1d": 0,
-   "delta_7d": null,
-   "gaining": false,
-   "ios": {
-    "rating": 1,
-    "count": 1,
-    "released": "2026-09-10",
-    "version": "1.3.2",
-    "url": "https://apps.apple.com/us/app/neverstill/id6809487773"
-   },
-   "play": null,
-   "installs": "",
-   "installs_exact": null,
-   "first_release": "2026-09-10",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "rank": 35
+   "rank": 36
   },
   {
    "slug": "not-your-phone-mystery",
@@ -7479,7 +7533,7 @@
    "first_release": "2026-08-01",
    "first_release_store": "App Store",
    "pre_window": false,
-   "rank": 36
+   "rank": 37
   },
   {
    "slug": "nova-swing",
@@ -7525,54 +7579,6 @@
    "installs": "",
    "installs_exact": null,
    "first_release": "2026-09-09",
-   "first_release_store": "App Store",
-   "pre_window": false,
-   "rank": 37
-  },
-  {
-   "slug": "phantom-words",
-   "name": "Phantom Words",
-   "url": "https://apps.shipaton.com/app/phantom-words",
-   "tagline": "We made Phantom Words for anyone who loves that small, satisfying moment when a jumble of letters suddenly turns into a word.",
-   "description": "We made Phantom Words for anyone who loves that small, satisfying moment when a jumble of letters suddenly turns into a word. Each board begins scrambled, with most of the letters hidden behind ghost tiles. Slide rows and columns like a 2D Rubik’s Cube, then look for words running across or down the board. Whenever you make one using a tile for the first time, another letter appears. Once every tile is used, the puzzle is complete. Longer words are worth more, while tiles lose value each time you use them. Yellow means a tile is nearly spent; red means you’ve leaned on it too often. Later boar",
-   "category": "Games",
-   "genres": [
-    "Games",
-    "Puzzle",
-    "Word"
-   ],
-   "seller": "Fleon Labs",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 5.0,
-   "rating_count": 1,
-   "store": "https://apps.apple.com/us/app/phantom-words/id6789995017?uo=4",
-   "store_links": [
-    "https://apps.apple.com/us/app/phantom-words/id6789995017?uo=4"
-   ],
-   "stale": false,
-   "first_seen": "2026-09-09",
-   "new": false,
-   "new_today": false,
-   "proximity": false,
-   "showcase_count": 1,
-   "delta_1d_ios": 0,
-   "delta_1d_play": null,
-   "delta_1d": 0,
-   "delta_7d": 0,
-   "gaining": false,
-   "ios": {
-    "rating": 5,
-    "count": 1,
-    "released": "2026-09-22",
-    "version": "1.2",
-    "url": "https://apps.apple.com/us/app/phantom-words/id6789995017"
-   },
-   "play": null,
-   "installs": "",
-   "installs_exact": null,
-   "first_release": "2026-09-22",
    "first_release_store": "App Store",
    "pre_window": false,
    "rank": 38
@@ -7877,12 +7883,12 @@
    "play": {
     "rating": null,
     "count": 0,
-    "installs": "5+",
+    "installs": "10+",
     "installs_exact": null,
     "released": "",
     "url": "https://play.google.com/store/apps/details?id=io.github.ber4444.chess"
    },
-   "installs": "5+",
+   "installs": "10+",
    "installs_exact": null,
    "first_release": "",
    "first_release_store": "",
@@ -8238,12 +8244,12 @@
     "rating": null,
     "count": 0,
     "installs": "1+",
-    "installs_exact": 1,
+    "installs_exact": 2,
     "released": "2026-08-27",
     "url": "https://play.google.com/store/apps/details?id=com.sodremr.biblia_kids"
    },
    "installs": "1+",
-   "installs_exact": 1,
+   "installs_exact": 2,
    "first_release": "2026-08-27",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -8453,12 +8459,12 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 34,
+    "installs_exact": 37,
     "released": "2026-09-03",
     "url": "https://play.google.com/store/apps/details?id=com.catalinmiron.chalk"
    },
    "installs": "10+",
-   "installs_exact": 34,
+   "installs_exact": 37,
    "first_release": "2026-09-03",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -8560,13 +8566,13 @@
    "play": {
     "rating": null,
     "count": 0,
-    "installs": "10+",
-    "installs_exact": 36,
+    "installs": "50+",
+    "installs_exact": 76,
     "released": "2026-07-30",
     "url": "https://play.google.com/store/apps/details?id=com.fuzzydinolabs.ciphersage"
    },
-   "installs": "10+",
-   "installs_exact": 36,
+   "installs": "50+",
+   "installs_exact": 76,
    "first_release": "2026-07-30",
    "first_release_store": "Google Play",
    "pre_window": true,
@@ -8804,12 +8810,12 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 33,
+    "installs_exact": 36,
     "released": "2026-09-05",
     "url": "https://play.google.com/store/apps/details?id=com.taplinko.autodefinidosdiarios"
    },
    "installs": "10+",
-   "installs_exact": 33,
+   "installs_exact": 36,
    "first_release": "2026-09-05",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -9512,12 +9518,12 @@
     "rating": null,
     "count": 0,
     "installs": "1K+",
-    "installs_exact": 3070,
+    "installs_exact": 3188,
     "released": "2026-08-28",
     "url": "https://play.google.com/store/apps/details?id=com.lukasehlers.pinit"
    },
    "installs": "1K+",
-   "installs_exact": 3070,
+   "installs_exact": 3188,
    "first_release": "2026-08-28",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -9620,7 +9626,7 @@
     "rating": null,
     "count": 0,
     "released": "2026-09-21",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "url": "https://apps.apple.com/us/app/murdoria-murder-sudoku/id6811812178"
    },
    "play": null,
@@ -9776,12 +9782,12 @@
     "rating": null,
     "count": 0,
     "installs": "100+",
-    "installs_exact": 328,
+    "installs_exact": 353,
     "released": "2026-08-30",
     "url": "https://play.google.com/store/apps/details?id=com.networth.game"
    },
    "installs": "100+",
-   "installs_exact": 328,
+   "installs_exact": 353,
    "first_release": "2026-08-30",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -9981,12 +9987,12 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 16,
+    "installs_exact": 22,
     "released": "2026-08-31",
     "url": "https://play.google.com/store/apps/details?id=com.apn201.palsta"
    },
    "installs": "10+",
-   "installs_exact": 16,
+   "installs_exact": 22,
    "first_release": "2026-08-31",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -10587,12 +10593,12 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 47,
+    "installs_exact": 49,
     "released": "2026-09-10",
     "url": "https://play.google.com/store/apps/details?id=com.riverside.riverside_files"
    },
    "installs": "10+",
-   "installs_exact": 47,
+   "installs_exact": 49,
    "first_release": "2026-09-10",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -10853,12 +10859,12 @@
     "rating": null,
     "count": 0,
     "installs": "1+",
-    "installs_exact": 1,
+    "installs_exact": 2,
     "released": "2026-08-28",
     "url": "https://play.google.com/store/apps/details?id=ai.ducket.skipad"
    },
    "installs": "1+",
-   "installs_exact": 1,
+   "installs_exact": 2,
    "first_release": "2026-08-28",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -10902,7 +10908,7 @@
     "rating": null,
     "count": 0,
     "released": "2026-09-03",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "url": "https://apps.apple.com/us/app/sonarchy/id6798001087"
    },
    "play": null,
@@ -11155,12 +11161,12 @@
     "rating": null,
     "count": 0,
     "installs": "1K+",
-    "installs_exact": 2357,
+    "installs_exact": 2397,
     "released": "2026-08-04",
     "url": "https://play.google.com/store/apps/details?id=com.tameapet"
    },
    "installs": "1K+",
-   "installs_exact": 2357,
+   "installs_exact": 2397,
    "first_release": "2026-08-04",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -11252,13 +11258,13 @@
    "play": {
     "rating": null,
     "count": 0,
-    "installs": "1+",
-    "installs_exact": 4,
+    "installs": "5+",
+    "installs_exact": 5,
     "released": "2026-09-16",
     "url": "https://play.google.com/store/apps/details?id=work.solocamp.unknownworld"
    },
-   "installs": "1+",
-   "installs_exact": 4,
+   "installs": "5+",
+   "installs_exact": 5,
    "first_release": "2026-09-16",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -11403,7 +11409,7 @@
     "rating": null,
     "count": 0,
     "released": "2026-09-14",
-    "version": "1.2.0",
+    "version": "1.3.0",
     "url": "https://apps.apple.com/us/app/vibestep-dance-maker/id6808028411"
    },
    "play": {
@@ -11508,12 +11514,12 @@
     "rating": null,
     "count": 0,
     "installs": "10+",
-    "installs_exact": 16,
+    "installs_exact": 17,
     "released": "2026-08-28",
     "url": "https://play.google.com/store/apps/details?id=com.kennguyen.wordscend"
    },
    "installs": "10+",
-   "installs_exact": 16,
+   "installs_exact": 17,
    "first_release": "2026-08-28",
    "first_release_store": "Google Play",
    "pre_window": false,
@@ -11567,12 +11573,12 @@
     "rating": null,
     "count": 0,
     "installs": "1+",
-    "installs_exact": 2,
+    "installs_exact": 4,
     "released": "2026-08-15",
     "url": "https://play.google.com/store/apps/details?id=com.haroworks.leavescatch"
    },
    "installs": "1+",
-   "installs_exact": 2,
+   "installs_exact": 4,
    "first_release": "2026-08-15",
    "first_release_store": "Google Play",
    "pre_window": false,

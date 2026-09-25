@@ -1,18 +1,13 @@
 {
  "source": "showcase_2026",
  "url": "https://apps.shipaton.com/2026",
- "fetched_at": "2026-09-24T09:30:02Z",
+ "fetched_at": "2026-09-25T11:43:00Z",
  "declared_total": 906,
  "count": 906,
  "pages": 19,
  "incomplete": false,
  "new_today": [],
  "apps": [
-  {
-   "slug": "sunnook",
-   "url": "https://apps.shipaton.com/app/sunnook",
-   "first_seen": "2026-09-19"
-  },
   {
    "slug": "surfmatch-ai-surf-forecast",
    "name": "SurfMatch: AI Surf Forecast           Scan to open  Google Play       Showcase                         2026  Shipaton     Category                 Weather     Developer           SurfMatch                                 Today                Games            Apps                  Winners            Browse        Explore the showcase  Browse   Done    Collections          iOS Apps            Android Apps              Unreleased Apps      Years                          2026                          2025                          2024      Categories              Entertainment            Social Networking              Lifestyle          Photo & Video            Education          Health & Fitness          Productivity                          Utilities          Books                  Sports          Music              Business            Graphics & Design        Navigation          Ratings   $RS=function(a,b){a=document.getElementById(a);b=document.getElementById(b);for(a.parentNode.removeChild(a);a.firstChild;)b.parentNode.insertBefore(a.firstChild,b);b.parentNode.removeChild(b)};$RS(\"S:4\",\"P:4\")   —  Not yet rated   $RS(\"S:5\",\"P:5\")    Android                                    $RS(\"S:6\",\"P:6\")     About this app  A note from Cory, founder & surfer: Most surf apps are cluttered with confusing graphs and aggressive ads. SurfMatch is built by surfers who wanted a better way. We combine powerful marine data, modern generative AI, and community feedback to help you score more waves and suffer fewer skunkings.\n\n\n\n🌍 300+ Curated Breaks (And Growing Fast!)\n\nWe currently track over 300 highly curated surf spots across 5 continents, and we are actively building out hundreds more every week. If you download the app and don't see your local break on the map yet, let us know! Use the \"Request a Spot\" feature in the app or reach out directly to info@surfmatchapp.com, and we’ll add it to the top of our development queue.\n\n\n\nStop checking five different apps to figure out where to paddle out.\n\n• True Surf Face Math: We translate deepwater buoy data into the actual rideable wave height based on local bathymetry.\n\n• SurfMatch Score: A strict 0-5 rating tailored to the unique mechanics of each spot.\n\n• Dynamic Strike Zones: Perfectly timed sessions with interactive tidal tracking.\n\n• Live Telemetry: Real-time wave tracking and size boosts from global offshore stations.\n\n\n\nWhat You Get For Free:\n\n\n💯 The SurfMatch Score:\n\nStop doing mental math with wind angles and swell periods. Our algorithm synthesizes the data to rate every hour.\n\n\n📍 3-Day Forecasts:\n\nGet hyper-local windows for your nearest breaks.\n\n\n🌎 Interactive Map Cues:\n\nRead the lineup with intuitive map arrows (Blue for Swell, Pink for Wind) aligned to oceanographic flow standards.\n\n\n📉 Simple, Clean Interface:\n\nGet the essential data—Est. Surf Face, wave energy, wind direction, and tide tracking—in a premium interface designed for actual surfers, not meteorologists.\n\n\n⭐ Save Your Spots:\n\nSave up to 3 of your go-to breaks and sync conditions across devices.\n\n\n\nUnlock SurfMatch Pro (7-Day Free Trial)\n\nTry it free for 7 days, then $6.99/month or $59.99/year. Cancel anytime.\n\nUpgrade to our premium tier to unlock the ultimate forecasting toolkit:\n\n\n📍 Live Telemetry & Buoy Boosts:\n\nStop relying exclusively on outdated weather models. See exactly what is happening in the water right now with dedicated tracking cards and real-time size and period boosts.\n\n\n🤖 SurfMatch Intelligence™\n\nYour personal AI surf coach and travel agent. Ask for quiver matches and lineup tactics, or plan global strike missions with live flight prices and wave dossiers sent directly to your inbox.\n\n\n🎯 Dynamic Strike Zones:\n\nNever miss the window. Our interactive tide graph highlights the exact hour the optimal tide pushes in for your specific break.\n\n\n📆 14-Day Outlook\n\nPlan your sessions, road trips, and global strike missions up to two weeks in advance.\n\n\n⭐ Unlimited Favorites\n\nSave your entire local hit-list in a day-by-day matrix sorted by live conditions.\n\n\n\nDownload SurfMatch today and know before you go.    Information    Seller  SurfMatch    Compatibility  Android    Genres  Weather       $RS(\"S:7\",\"P:7\")    You might also like          Rain Alert & Radar: Gonna Rain    2025",
@@ -28,6 +23,24 @@
    ],
    "description": "",
    "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "survkit-offline-emergency",
+   "name": "SURVKIT – Offline Emergency",
+   "url": "https://apps.shipaton.com/app/survkit-offline-emergency",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/survkit-offline-emergency/id6762569881?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -12119,22 +12132,9 @@
    "first_seen": "2026-09-23"
   },
   {
-   "slug": "survkit-offline-emergency",
-   "name": "SURVKIT – Offline Emergency",
-   "url": "https://apps.shipaton.com/app/survkit-offline-emergency",
-   "category": "",
-   "developer": "",
-   "platforms": [],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/survkit-offline-emergency/id6762569881?uo=4"
-   ],
-   "description": "",
-   "first_seen": "2026-09-14",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
+   "slug": "sunnook",
+   "url": "https://apps.shipaton.com/app/sunnook",
+   "first_seen": "2026-09-19"
   },
   {
    "slug": "svastha-upanishads-wellness",

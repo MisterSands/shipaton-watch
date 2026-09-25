@@ -1,7 +1,7 @@
 {
  "source": "reddit",
  "url": "https://www.reddit.com/search.rss?q=shipaton&sort=new",
- "fetched_at": "2026-09-24T09:30:02Z",
+ "fetched_at": "2026-09-25T11:43:00Z",
  "count": 24,
  "items": [
   {
@@ -17,6 +17,41 @@
    "date": "2026-08-07T13:46:11+00:00",
    "author": "/u/IamAngusU",
    "summary": "<div> Unofficial Shipaton 2026 build log and progress corner. Share updates, screenshots, failures, fixes, launch notes and weird things you learned while shipping. </div> <div> <a href=\"https://www.reddit.com/r/shipaton/\">[link]</a> </div>"
+  },
+  {
+   "title": "Food + Food merge mobile game",
+   "link": "https://www.reddit.com/r/hobbygamedev/comments/1wpt2ec/food_food_merge_mobile_game/",
+   "date": "2026-09-25T10:46:13+00:00",
+   "author": "/u/macronancer",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>This is a first mobile game that I have launched. It was built in about 2 weeks for the Shipaton hackathon on Devpost, and went live today.</p> <p>The competition forced me into an incredible time crunch, but it was an amazing learning experience because the prize structure pretty much laid out the path for building and promoting a finished product. </p> <p>I woul"
+  },
+  {
+   "title": "Shipaton 2026: Weekly Build in Public Thread — Friday, Sep 25, 2026",
+   "link": "https://www.reddit.com/r/AppBusiness/comments/1wpp1b8/shipaton_2026_weekly_build_in_public_thread/",
+   "date": "2026-09-25T06:30:31+00:00",
+   "author": "/u/AutoModerator",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Welcome to this week&#39;s <strong>Shipaton Build in Public Thread</strong>! Everyone is welcome to share an update on their current project here. No need to participate in the hackathon to share, but if you decide to enter sharing updates consistently is a great way to increase your chances of winning the <strong>#BuildInPublic</strong> Award</p> <p>Please share "
+  },
+  {
+   "title": "Food + Food merge mobile game",
+   "link": "https://www.reddit.com/r/SoloDev/comments/1wpebne/food_food_merge_mobile_game/",
+   "date": "2026-09-24T21:33:56+00:00",
+   "author": "/u/macronancer",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/SoloDev/comments/1wpebne/food_food_merge_mobile_game/\"> <img src=\"https://external-preview.redd.it/rbVkfoR9g7xeVeBA9uz-RdMZmMtjeSMYKw9IwpbE99c.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a687158c10c51b9d4b18aa04e35df6e76bbb112c\" alt=\"Food + Food merge mobile game\" title=\"Food + Food merge mobile game\" /> </a> </td><td> <!-- SC_OFF --><div cla"
+  },
+  {
+   "title": "My short journey so far and what I’ve learned that’s actually been helpful",
+   "link": "https://www.reddit.com/r/appledevelopers/comments/1wp2ghm/my_short_journey_so_far_and_what_ive_learned/",
+   "date": "2026-09-24T14:01:03+00:00",
+   "author": "/u/JamieDevelops",
+   "summary": "<!-- SC_OFF --><div class=\"md\"><p>I created this mobile app as part of the RevenueCat Shipaton and I’m super pleased with it. I’m from Glasgow and in my city we have some absolutely stunning architecture but it too often gets overlooked, or, if you’re like me, when you walk pat it everyday it can be easily taken for granted.</p> <p>I realised I didn’t actually know what all of the various architec"
+  },
+  {
+   "title": "Food + Food merge mobile game",
+   "link": "https://www.reddit.com/r/IndieGaming/comments/1wp11b1/food_food_merge_mobile_game/",
+   "date": "2026-09-24T13:01:47+00:00",
+   "author": "/u/macronancer",
+   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/IndieGaming/comments/1wp11b1/food_food_merge_mobile_game/\"> <img src=\"https://external-preview.redd.it/rbVkfoR9g7xeVeBA9uz-RdMZmMtjeSMYKw9IwpbE99c.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=a687158c10c51b9d4b18aa04e35df6e76bbb112c\" alt=\"Food + Food merge mobile game\" title=\"Food + Food merge mobile game\" /> </a> </td><td> <!-- SC_OFF --><div"
   },
   {
    "title": "My Shipaton app was approved by Apple on the first attempt",
@@ -136,41 +171,6 @@
    "date": "2026-09-14T23:39:26+00:00",
    "author": "/u/sparkfire27",
    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I’m a 17 year old who just created an app that teaches you how to draw. It’s 100% offline, meaning that images are <strong>not</strong> sent to AI models. I’m looking for testers, and I’m on a tight deadline (#shipaton). I’d really appreciate any help, and I’m more than willing to reciprocate (I’ve helped 3 apps get published). </p> <p>Step 1 - Join "
-  },
-  {
-   "title": "Urgent need for testers!!!",
-   "link": "https://www.reddit.com/r/AndroidTesting/comments/1wgjwnr/urgent_need_for_testers/",
-   "date": "2026-09-14T23:38:18+00:00",
-   "author": "/u/sparkfire27",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I’m a 17 year old who just created an app that teaches you how to draw. It’s 100% offline, meaning that images are <strong>not</strong> sent to AI models. I’m looking for testers, and I’m on a tight deadline (#shipaton). I’d really appreciate any help, and I’m more than willing to reciprocate (I’ve helped 3 apps get published). </p> <p>Step 1 - Join "
-  },
-  {
-   "title": "Urgent need for testers!",
-   "link": "https://www.reddit.com/r/AndroidAppTesters/comments/1wgjvpu/urgent_need_for_testers/",
-   "date": "2026-09-14T23:37:08+00:00",
-   "author": "/u/sparkfire27",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I’m a 17 year old who just created an app that teaches you how to draw. It’s 100% offline, meaning that images are <strong>not</strong> sent to AI models. I’m looking for testers, and I’m on a tight deadline (#shipaton). I’d really appreciate any help, and I’m more than willing to reciprocate (I’ve helped 3 apps get published). </p> <p>Step 1 - Join "
-  },
-  {
-   "title": "Urgent need for testers !",
-   "link": "https://www.reddit.com/r/TestersCommunity/comments/1wgjv25/urgent_need_for_testers/",
-   "date": "2026-09-14T23:36:19+00:00",
-   "author": "/u/sparkfire27",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone, I’m a 17 year old who just created an app that teaches you how to draw. It’s 100% offline, meaning that images are <strong>not</strong> sent to AI models. I’m looking for testers, and I’m on a tight deadline (#shipaton). I’d really appreciate any help, and I’m more than willing to reciprocate (I’ve helped 3 apps get published). </p> <p>Step 1 - Join "
-  },
-  {
-   "title": "App presentation video - Any thoughts?",
-   "link": "https://www.reddit.com/r/AppBusiness/comments/1wgexl2/app_presentation_video_any_thoughts/",
-   "date": "2026-09-14T20:21:44+00:00",
-   "author": "/u/MattLima1",
-   "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/AppBusiness/comments/1wgexl2/app_presentation_video_any_thoughts/\"> <img src=\"https://external-preview.redd.it/b6vDiEt5UGKIDN1eY2BL8JXGDoVDXGJQYWTwo9v0xGs.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=bc0b9e199aed16cc49e0c56f5e460f5739d44bcf\" alt=\"App presentation video - Any thoughts?\" title=\"App presentation video - Any thoughts?\" /> </a> </"
-  },
-  {
-   "title": "Just launched my iOS app for RevenueCat Shipaton!",
-   "link": "https://www.reddit.com/r/iOSDevelopment/comments/1wf0vds/just_launched_my_ios_app_for_revenuecat_shipaton/",
-   "date": "2026-09-13T07:19:57+00:00",
-   "author": "/u/daria_dev04",
-   "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone!</p> <p>For RevenueCat’s <strong>#Shipaton</strong>, I built an app called <strong>10Goals</strong>. It’s my 8th iOS app, and it’s already live on the <a href=\"https://apps.apple.com/us/app/10goals-goal-tracker/id6799881924\">App Store.</a></p> <p>I built it because I used to keep my long-term goals in <strong>ClickUp</strong>, but it always felt a bit"
   }
  ]
 }
