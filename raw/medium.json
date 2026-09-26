@@ -1,9 +1,16 @@
 {
  "source": "medium",
  "url": "https://medium.com/feed/tag/shipaton",
- "fetched_at": "2026-09-25T11:43:00Z",
+ "fetched_at": "2026-09-26T09:30:02Z",
  "count": 10,
  "items": [
+  {
+   "title": "Building a 2D Stealth Heist Game for Android & iOS with Kotlin Multiplatform",
+   "link": "https://medium.com/@malithabandara05/building-a-2d-stealth-heist-game-for-android-ios-with-kotlin-multiplatform-4122904a4c94?source=rss------shipaton-5",
+   "date": "Fri, 25 Sep 2026 20:00:08 GMT",
+   "author": "Malithabandara",
+   "summary": "How we broke out of the typical “CRUD app” mold to build Infiltrate: Shadow Heist — featuring a hybrid Compose Multiplatform UI…   Continue reading on Medium »"
+  },
   {
    "title": "101 days to two app stores, in numbers — including the ones I would rather round up",
    "link": "https://medium.com/@WorldFishingMap/101-days-to-two-app-stores-in-numbers-including-the-ones-i-would-rather-round-up-aea84a19075b?source=rss------shipaton-5",
@@ -66,13 +73,6 @@
    "date": "Thu, 27 Aug 2026 18:42:58 GMT",
    "author": "brownieee",
    "summary": "From unlocking Mobbin Pro via ShipKit to wiring up Supabase Auth and Brevo, here is how we built our first onboarding flow.   Continue reading on Medium »"
-  },
-  {
-   "title": "RevenueCat Shipaton: Letting Creators Cook! ‍",
-   "link": "https://medium.com/@yourbrownieee/revenuecat-shipaton-letting-creators-cook-5d5ca7a6492e?source=rss------shipaton-5",
-   "date": "Fri, 21 Aug 2026 19:06:04 GMT",
-   "author": "brownieee",
-   "summary": "RevenueCat brings in top creators to judge apps built for their specific niches. It’s a massive W for devs because they get to build tools…   Continue reading on Medium »"
   }
  ]
 }

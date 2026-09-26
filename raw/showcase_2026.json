@@ -1,7 +1,7 @@
 {
  "source": "showcase_2026",
  "url": "https://apps.shipaton.com/2026",
- "fetched_at": "2026-09-25T11:43:00Z",
+ "fetched_at": "2026-09-26T09:30:02Z",
  "declared_total": 906,
  "count": 906,
  "pages": 19,
@@ -87,6 +87,25 @@
    "gaining": false
   },
   {
+   "slug": "one4home-launcher-themes",
+   "name": "One4Home: Launcher & Themes",
+   "url": "https://apps.shipaton.com/app/one4home-launcher-themes",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://play.google.com/store/apps/details?id=com.one4studio.one4home",
+    "https://play.google.com/store/apps/details?id=com.one4studio.one4home&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-12",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "pokenotify-tcg-restock-alerts",
    "name": "PokeNotify: TCG Restock Alerts",
    "url": "https://apps.shipaton.com/app/pokenotify-tcg-restock-alerts",
@@ -105,25 +124,6 @@
    ],
    "description": "The drop happens. PokeNotify tells you where and when. Track TCG products across 100+ retailers with fast online restock alerts, nearby in-store reports, release calendars, and personalized notifications—all in one app. Built by collectors who were tired of constantly refreshing product pages and digging through crowded notification channels. FAST ONLINE RESTOCK ALERTS Get a push notification when supported products go live, return to stock, or enter a queue. Open the alert and head directly to the product listing. PokeNotify brings updates from supported retailers into one organized feed, helping you react quickly when the products you want become available. ALERTS BUILT AROUND YOU Choose the games, products, retailers, prices, and locations that matter to you. • Follow specific TCGs and product categories • Filter by retailer and product type • Set price limits • Mute alerts you do not want • Customize notifications by product and retailer Instead of receiving every alert, you only see the drops that match how you collect. KNOW BEFORE YOU DRIVE Set your ZIP code and alert radius to find inventory activity near you. View community-reported shelf sightings on the In-Store Finds map",
    "first_seen": "2026-09-02",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "one4home-launcher-themes",
-   "name": "One4Home: Launcher & Themes",
-   "url": "https://apps.shipaton.com/app/one4home-launcher-themes",
-   "category": "",
-   "developer": "",
-   "platforms": [],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://play.google.com/store/apps/details?id=com.one4studio.one4home",
-    "https://play.google.com/store/apps/details?id=com.one4studio.one4home&amp;hl=en&amp;gl=us"
-   ],
-   "description": "",
-   "first_seen": "2026-09-12",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -400,6 +400,26 @@
    "gaining": false
   },
   {
+   "slug": "3-minute-ai-learn-ai-skills",
+   "name": "3 Minute AI: Learn AI Skills",
+   "url": "https://apps.shipaton.com/app/3-minute-ai-learn-ai-skills",
+   "category": "Education",
+   "developer": "Amply Insights LLC",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 1.0,
+   "rating_count": 1,
+   "store_links": [
+    "https://apps.apple.com/us/app/3-minute-ai-learn-ai-skills/id6787471647?uo=4"
+   ],
+   "description": "AI is changing how everyone works, writes, plans, and creates. 3 Minute AI helps you keep up — in just 3 minutes a day. No jargon. No overwhelm. Just short, practical daily lessons that show you exactly how to use today's best AI tools — and how to put them to work in your real life, starting on day one. WHY 3 MINUTE AI Most AI courses are hours of theory. We do the opposite: every lesson is bite-sized, hands-on, and built around one practical win you can use immediately. Take the quick quiz when you start, and we'll build a learning path matched to your goals and experience level. WHAT YOU'LL LEARN • ChatGPT, Claude, and Gemini — what each one is best at, and how to get great answers • Prompting that actually works — simple frameworks, no technical background needed • AI images, video, and audio — create visuals, clips, and voiceovers step by step • Save hours every week — hand off emails, planning, research, and busywork to AI • Write anything fast — messages, posts, documents, and more with an AI assistant • Everyday AI wins — plan travel, navigate health info, spot scams, build an AI routine • Vibecoding and automations — build simple tools and workflows, even as a beginner FEA",
+   "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "iread-read-aloud-epub-reader",
    "name": "iRead: Read Aloud EPUB Reader",
    "url": "https://apps.shipaton.com/app/iread-read-aloud-epub-reader",
@@ -441,6 +461,11 @@
    "slug": "family-meal-planner-our-meals",
    "url": "https://apps.shipaton.com/app/family-meal-planner-our-meals",
    "first_seen": "2026-09-23"
+  },
+  {
+   "slug": "pepperjack-grocery-list",
+   "url": "https://apps.shipaton.com/app/pepperjack-grocery-list",
+   "first_seen": "2026-09-19"
   },
   {
    "slug": "empathy-safe-listening-space",
@@ -526,30 +551,6 @@
    "gaining": false
   },
   {
-   "slug": "10-games",
-   "name": "10+ Games",
-   "url": "https://apps.shipaton.com/app/10-games",
-   "category": "",
-   "developer": "",
-   "platforms": [],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/10-games/id6751342861?uo=4"
-   ],
-   "description": "",
-   "first_seen": "2026-09-02",
-   "rating_count_prev": 7,
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "pepperjack-grocery-list",
-   "url": "https://apps.shipaton.com/app/pepperjack-grocery-list",
-   "first_seen": "2026-09-19"
-  },
-  {
    "slug": "precursor-hourly-screen-time",
    "name": "Precursor: Hourly Screen Time",
    "url": "https://apps.shipaton.com/app/precursor-hourly-screen-time",
@@ -575,9 +576,68 @@
    "first_seen": "2026-09-19"
   },
   {
+   "slug": "10-games",
+   "name": "10+ Games",
+   "url": "https://apps.shipaton.com/app/10-games",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/10-games/id6751342861?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-02",
+   "rating_count_prev": 7,
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "hitoiro",
+   "name": "Hitoiro",
+   "url": "https://apps.shipaton.com/app/hitoiro",
+   "category": "Lifestyle",
+   "developer": "Kodai Aoyama",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/hitoiro/id6800390469?uo=4"
+   ],
+   "description": "Mix five pigments to match a traditional Japanese color each day. Hitoiro is a hands-on color craft that takes just a few minutes. Make a color, see how closely it matches, and slowly dye the creature of the month. No art or paint experience is needed. YOUR COLOR OF THE DAY A color tied to Japan's seasonal almanac and 72 microseasons arrives each morning. Read its name and story, choose pigments from the palette, drop them into a dish, and stir with your finger. Lay down a single brushstroke. As the paint dries, your matching score and a small clue appear. ONE MONTH, ONE CREATURE Every color you make dyes one part of the month's creature. The colors build with the season until a one-of-a-kind creature comes to rest on your folding screen. Your Book keeps each day's color sample and result. Days you miss remain blank—because the blank space is part of your month too. MIX FREELY IN ZEN Explore subtractive color mixing without scores or goals. It is a quiet place for mindful play with color, like a short meditation. A MINDFUL DAILY HABIT • The daily experience, records, monthly creature, and sharing are free • No account required • The daily ritual works offline; only purchases and re",
+   "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "my-pet-dino",
    "url": "https://apps.shipaton.com/app/my-pet-dino",
    "first_seen": "2026-09-19"
+  },
+  {
+   "slug": "clear-food-produkt-scanner",
+   "name": "Clear Food – Food Scanner",
+   "url": "https://apps.shipaton.com/app/clear-food-produkt-scanner",
+   "category": "Health & Fitness",
+   "developer": "Annika Blendl",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": 5.0,
+   "rating_count": 1,
+   "store_links": [
+    "https://apps.apple.com/us/app/clear-food-food-scanner/id6779364653?uo=4"
+   ],
+   "description": "Clear Food scans any food or product and tells you exactly what it does to your skin, face, and look. Most people treat acne, dark circles, and puffiness as skin problems. They're not. They're nutrition problems. Clear Food shows you the connection — instantly. HOW IT WORKS Point your camera at any food, snack, or product. Clear Food's AI analyzes it and gives you: • A score from 1–100 for your personal skin & look goals • What helps and what hurts — specific and honest • Healthier swaps or simple fixes for what you're eating BUILT FOR YOUR GOALS Tell Clear Food what matters to you — clearer skin, less puffiness, better jawline definition, reduced inflammation. Every scan is scored against your profile, not a generic standard. WHY FOOD MATTERS MORE THAN SERUMS Acne breakouts. Puffy face in the morning. Dark circles that won't go away. Oily skin. These aren't random — they're often caused by what you eat. Clear Food helps you spot the culprits and fix them at the source. FEATURES • AI-powered food scanner with instant skin & look scoring • Personal goal profiles — acne, inflammation, bloating, glow, jawline • Healthier alternatives suggested on every scan • Habit & streak tracking t",
+   "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
   },
   {
    "slug": "vigil-personal-meditations",
@@ -618,6 +678,47 @@
    ],
    "description": "In todays world it's extremely easy to find Bible content but at times we all struggle to be known. You can read a devotional every morning for a year and still feel like a stranger to your own faith. The words are true. They're just not for you. Not for the marriage that's straining. Not for the doubt you never say out loud. Not for the season you can't quite name. Rooted was built for that gap. Why we made this Spiritual formation has always happened in relationship. A mentor who remembers your last conversation. A pastor who knows your history. A friend who asks the second question, not just the first. That kind of attention changes people. But most of us don't have it. Not on a Tuesday morning. Not at 11pm when the ache shows up. Rooted is our attempt to bring that kind of attentive presence into the ordinary rhythm of a life but not to replace the needed connection with human community. But if we were all honest there are times in life where you need and want to process the storms before sharing. This aims at giving you that space while bringing truth into the context. Where we stand on AI We'll say it plainly. Rooted uses AI, and we think that's good. Not because technology i",
    "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "tapuchino-idle-cafe-tycoon",
+   "name": "Tapuchino: Coffee Shop Tycoon",
+   "url": "https://apps.shipaton.com/app/tapuchino-idle-cafe-tycoon",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/tapuchino-coffee-shop-tycoon/id6793236238?uo=4",
+    "https://play.google.com/store/apps/details?id=com.tapuchino.time",
+    "https://play.google.com/store/apps/details?id=com.tapuchino.time&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "offsuit-blackjack-21",
+   "name": "Offsuit: Blackjack 21",
+   "url": "https://apps.shipaton.com/app/offsuit-blackjack-21",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/offsuit-blackjack-21/id6749341906?uo=4",
+    "https://play.google.com/store/apps/details?id=com.bjack.app",
+    "https://play.google.com/store/apps/details?id=com.bjack.app&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-09",
+   "rating_count_prev": 4,
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -732,42 +833,44 @@
    "gaining": false
   },
   {
-   "slug": "tapuchino-idle-cafe-tycoon",
-   "name": "Tapuchino: Coffee Shop Tycoon",
-   "url": "https://apps.shipaton.com/app/tapuchino-idle-cafe-tycoon",
-   "category": "",
-   "developer": "",
-   "platforms": [],
+   "slug": "missuo-couples-widget-love",
+   "name": "Missuo: Couples Widget & Love",
+   "url": "https://apps.shipaton.com/app/missuo-couples-widget-love",
+   "category": "Utilities",
+   "developer": "BSEK Apps",
+   "platforms": [
+    "iPhone"
+   ],
    "rating": null,
    "rating_count": null,
    "store_links": [
-    "https://apps.apple.com/us/app/tapuchino-coffee-shop-tycoon/id6793236238?uo=4",
-    "https://play.google.com/store/apps/details?id=com.tapuchino.time",
-    "https://play.google.com/store/apps/details?id=com.tapuchino.time&amp;hl=en&amp;gl=us"
+    "https://apps.apple.com/us/app/missuo-couples-widget-love/id6796360734?uo=4"
    ],
-   "description": "",
-   "first_seen": "2026-09-14",
+   "description": "Missuo: The Couples App for Staying Close Turn your relationship into a shared space you can see, feel, and grow daily. Missuo is a couples app with home screen widgets, daily questions, shared memories, and mood check-ins. Whether you are together or in a long distance relationship, Missuo helps you celebrate your love, understand each other, and make small moments meaningful. COUPLES WIDGETS FOR YOUR HOME SCREEN Keep your partner and favorite memories close with relationship widgets: • Polaroid Widget: See your partner's photo on your home screen. • Love Notes Widget: Send private messages, good morning notes, and sweet reminders. • Love Jar Widget: Add hearts to a shared jar and watch your love grow. • Love Pulse Widget: See a gentle glow when you are both online. • Distance Widget: View the distance between you and your partner. • Hug Meter: Track the days since you last met in person. • Days Together Counter: Celebrate every day of your relationship. • Anniversary Countdown: Count down to anniversaries and milestones. Send a hug, heart, or miss-you reaction and your partner receives an instant notification and in-app animation. DAILY QUESTIONS FOR COUPLES Discover something ne",
+   "first_seen": "2026-09-02",
    "gamey": false,
    "is_game": false,
    "gaining": false
   },
   {
-   "slug": "offsuit-blackjack-21",
-   "name": "Offsuit: Blackjack 21",
-   "url": "https://apps.shipaton.com/app/offsuit-blackjack-21",
-   "category": "",
-   "developer": "",
-   "platforms": [],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/offsuit-blackjack-21/id6749341906?uo=4",
-    "https://play.google.com/store/apps/details?id=com.bjack.app",
-    "https://play.google.com/store/apps/details?id=com.bjack.app&amp;hl=en&amp;gl=us"
+   "slug": "buma-baby-pregnancy-tracker",
+   "name": "Buma: Baby & Pregnancy Tracker",
+   "url": "https://apps.shipaton.com/app/buma-baby-pregnancy-tracker",
+   "category": "Medical",
+   "developer": "Martynas Narijauskas",
+   "platforms": [
+    "iPhone",
+    "Android"
    ],
-   "description": "",
+   "rating": 3.0,
+   "rating_count": 2,
+   "store_links": [
+    "https://apps.apple.com/us/app/buma-baby-pregnancy-tracker/id6795849269?uo=4",
+    "https://play.google.com/store/apps/details?id=com.mnm.buma",
+    "https://play.google.com/store/apps/details?id=com.mnm.buma&amp;hl=en&amp;gl=us"
+   ],
+   "description": "Buma tracks your pregnancy, then your baby—on one timeline, in one app, that both parents can write in. Most pregnancy apps end at birth and leave you to start again somewhere else. Buma doesn't. The day you tap \"baby is born,\" everything you logged while you were expecting stays exactly where it is, and the same app becomes the tracker that gets you through the next two years. WHILE YOU'RE EXPECTING • Count kicks with a ten-movement timer • Time contractions—how long they last and the gap between, which is the part that matters • Follow your week: how big they are now, and what is changing • Save bump photos alongside scans and appointments • Log weight, symptoms, and the questions you want to remember to ask • Your partner sees the same week, the same kicks, the same photos—from day one The contraction timer runs on your partner's lock screen too, so they can follow along from the next room or the front seat. THEN, THE DAY THEY ARRIVE Tap \"baby is born,\" add a name and a birth time, and the timeline simply continues. Nothing to export, nothing to re-enter, nothing left behind in an app you have stopped opening. PREDICT THE NEXT NAP • Track naps and nighttime sleep with simple tim",
    "first_seen": "2026-09-09",
-   "rating_count_prev": 4,
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -807,26 +910,6 @@
     "https://apps.apple.com/us/app/chronocast-ai/id6797961864?uo=4"
    ],
    "description": "Photograph anywhere. Watch it become a comic. Point your camera at a ruin, a street corner, a café, or your own kitchen. ChronoCast reads the photograph, works out where and when it is, and hands you a sentence you can edit. Then it draws — four to six illustrated panels about that exact place, narrated aloud in a voice you choose. YOUR PHOTO, NOT A GENERIC SCENE Most AI tools treat your picture as a suggestion and hand back something beautiful about nowhere. ChronoCast sends your photograph to the illustrator with every single panel. The geometry, the landmarks, the vantage point stay recognisable underneath the artwork — so the comic is unmistakably about the place you were standing in. FOUR WORLDS • Socratic Anime — the figures who lived in this exact place, mid-argument about something that mattered to them. Warm, cel-shaded, theatrical. • Future-Sketch — the same corner in 2150, described by someone who watched it happen. Neon, rain, and a tired voice. • Noir — whatever happened here, it happened at night. Hand-inked black and white, hard shadows through window blinds, and a tired detective telling you how it went. • Pet's-Eye View — narrated by whoever actually lives there. T",
-   "first_seen": "2026-09-02",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "clear-food-produkt-scanner",
-   "name": "Clear Food – Food Scanner",
-   "url": "https://apps.shipaton.com/app/clear-food-produkt-scanner",
-   "category": "Health & Fitness",
-   "developer": "Annika Blendl",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 5.0,
-   "rating_count": 1,
-   "store_links": [
-    "https://apps.apple.com/us/app/clear-food-food-scanner/id6779364653?uo=4"
-   ],
-   "description": "Clear Food scans any food or product and tells you exactly what it does to your skin, face, and look. Most people treat acne, dark circles, and puffiness as skin problems. They're not. They're nutrition problems. Clear Food shows you the connection — instantly. HOW IT WORKS Point your camera at any food, snack, or product. Clear Food's AI analyzes it and gives you: • A score from 1–100 for your personal skin & look goals • What helps and what hurts — specific and honest • Healthier swaps or simple fixes for what you're eating BUILT FOR YOUR GOALS Tell Clear Food what matters to you — clearer skin, less puffiness, better jawline definition, reduced inflammation. Every scan is scored against your profile, not a generic standard. WHY FOOD MATTERS MORE THAN SERUMS Acne breakouts. Puffy face in the morning. Dark circles that won't go away. Oily skin. These aren't random — they're often caused by what you eat. Clear Food helps you spot the culprits and fix them at the source. FEATURES • AI-powered food scanner with instant skin & look scoring • Personal goal profiles — acne, inflammation, bloating, glow, jawline • Healthier alternatives suggested on every scan • Habit & streak tracking t",
    "first_seen": "2026-09-02",
    "gamey": false,
    "is_game": false,
@@ -878,6 +961,11 @@
    "first_seen": "2026-09-23"
   },
   {
+   "slug": "pocketful-daily-puzzles",
+   "url": "https://apps.shipaton.com/app/pocketful-daily-puzzles",
+   "first_seen": "2026-09-19"
+  },
+  {
    "slug": "video-game-tracker-nook",
    "name": "Video Game Tracker - Nook",
    "url": "https://apps.shipaton.com/app/video-game-tracker-nook",
@@ -898,24 +986,9 @@
    "gaining": false
   },
   {
-   "slug": "hitoiro",
-   "name": "Hitoiro",
-   "url": "https://apps.shipaton.com/app/hitoiro",
-   "category": "Lifestyle",
-   "developer": "Kodai Aoyama",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/hitoiro/id6800390469?uo=4"
-   ],
-   "description": "Mix five pigments to match a traditional Japanese color each day. Hitoiro is a hands-on color craft that takes just a few minutes. Make a color, see how closely it matches, and slowly dye the creature of the month. No art or paint experience is needed. YOUR COLOR OF THE DAY A color tied to Japan's seasonal almanac and 72 microseasons arrives each morning. Read its name and story, choose pigments from the palette, drop them into a dish, and stir with your finger. Lay down a single brushstroke. As the paint dries, your matching score and a small clue appear. ONE MONTH, ONE CREATURE Every color you make dyes one part of the month's creature. The colors build with the season until a one-of-a-kind creature comes to rest on your folding screen. Your Book keeps each day's color sample and result. Days you miss remain blank—because the blank space is part of your month too. MIX FREELY IN ZEN Explore subtractive color mixing without scores or goals. It is a quiet place for mindful play with color, like a short meditation. A MINDFUL DAILY HABIT • The daily experience, records, monthly creature, and sharing are free • No account required • The daily ritual works offline; only purchases and re",
-   "first_seen": "2026-09-09",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
+   "slug": "ai-grass-identifier-lawnlens",
+   "url": "https://apps.shipaton.com/app/ai-grass-identifier-lawnlens",
+   "first_seen": "2026-09-19"
   },
   {
    "slug": "stash-fast-add-to-clipboard",
@@ -933,49 +1006,6 @@
    ],
    "description": "Stash is the fastest place to put the things you'll need again. Save a snippet of text, a link, a photo, a GIF, or any file, from the share sheet, the clipboard, a drag and drop, or a Shortcut, and Stash keeps it one tap from your clipboard on iPhone, iPad, Mac, and Apple Vision Pro. SAVE FROM ANYWHERE • Share to Stash from any app. Text, links, images, and files are sorted into the right category automatically. • One-tap \"Add from Clipboard\" button, no \"Allow Paste?\" prompt. • Drag anything onto the Stash window on Mac or iPad. • Save a photo or GIF from a direct image URL. • Save whatever's on your clipboard straight from Control Center, on the Lock Screen, or with the Action button, and tag it on the way in. COPY IN ONE TAP • Tap any item to copy it. Photos, GIFs, and files copy as the real thing, ready to paste into Messages, Mail, Notes, or anywhere else. • Select several items and copy them together. • Quick Look any file without leaving Stash. STAY ORGANIZED • Five categories, Text Snippets, Links, Photos, GIFs, Documents, plus your own color-coded tags. • Recents gathers new saves until you've reviewed them. Clear it with one tap, or let tagged items age out on their own. •",
    "first_seen": "2026-09-02",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "3-minute-ai-learn-ai-skills",
-   "name": "3 Minute AI: Learn AI Skills",
-   "url": "https://apps.shipaton.com/app/3-minute-ai-learn-ai-skills",
-   "category": "Education",
-   "developer": "Amply Insights LLC",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": 1.0,
-   "rating_count": 1,
-   "store_links": [
-    "https://apps.apple.com/us/app/3-minute-ai-learn-ai-skills/id6787471647?uo=4"
-   ],
-   "description": "AI is changing how everyone works, writes, plans, and creates. 3 Minute AI helps you keep up — in just 3 minutes a day. No jargon. No overwhelm. Just short, practical daily lessons that show you exactly how to use today's best AI tools — and how to put them to work in your real life, starting on day one. WHY 3 MINUTE AI Most AI courses are hours of theory. We do the opposite: every lesson is bite-sized, hands-on, and built around one practical win you can use immediately. Take the quick quiz when you start, and we'll build a learning path matched to your goals and experience level. WHAT YOU'LL LEARN • ChatGPT, Claude, and Gemini — what each one is best at, and how to get great answers • Prompting that actually works — simple frameworks, no technical background needed • AI images, video, and audio — create visuals, clips, and voiceovers step by step • Save hours every week — hand off emails, planning, research, and busywork to AI • Write anything fast — messages, posts, documents, and more with an AI assistant • Everyday AI wins — plan travel, navigate health info, spot scams, build an AI routine • Vibecoding and automations — build simple tools and workflows, even as a beginner FEA",
-   "first_seen": "2026-09-02",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "buma-baby-pregnancy-tracker",
-   "name": "Buma: Baby & Pregnancy Tracker",
-   "url": "https://apps.shipaton.com/app/buma-baby-pregnancy-tracker",
-   "category": "Medical",
-   "developer": "Martynas Narijauskas",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": 3.0,
-   "rating_count": 2,
-   "store_links": [
-    "https://apps.apple.com/us/app/buma-baby-pregnancy-tracker/id6795849269?uo=4",
-    "https://play.google.com/store/apps/details?id=com.mnm.buma",
-    "https://play.google.com/store/apps/details?id=com.mnm.buma&amp;hl=en&amp;gl=us"
-   ],
-   "description": "Buma tracks your pregnancy, then your baby—on one timeline, in one app, that both parents can write in. Most pregnancy apps end at birth and leave you to start again somewhere else. Buma doesn't. The day you tap \"baby is born,\" everything you logged while you were expecting stays exactly where it is, and the same app becomes the tracker that gets you through the next two years. WHILE YOU'RE EXPECTING • Count kicks with a ten-movement timer • Time contractions—how long they last and the gap between, which is the part that matters • Follow your week: how big they are now, and what is changing • Save bump photos alongside scans and appointments • Log weight, symptoms, and the questions you want to remember to ask • Your partner sees the same week, the same kicks, the same photos—from day one The contraction timer runs on your partner's lock screen too, so they can follow along from the next room or the front seat. THEN, THE DAY THEY ARRIVE Tap \"baby is born,\" add a name and a birth time, and the timeline simply continues. Nothing to export, nothing to re-enter, nothing left behind in an app you have stopped opening. PREDICT THE NEXT NAP • Track naps and nighttime sleep with simple tim",
-   "first_seen": "2026-09-09",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -1004,6 +1034,26 @@
    "gaining": false
   },
   {
+   "slug": "envisioned",
+   "name": "Envisioned",
+   "url": "https://apps.shipaton.com/app/envisioned",
+   "category": "Productivity",
+   "developer": "Anna Routledge",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/envisioned/id6791249850?uo=4"
+   ],
+   "description": "Envisioned — Turn Your Vision Into Progress Have you ever set a goal with the best intentions, only to forget about it a few weeks later? Envisioned is a quiet, beautiful goal tracker built to help you turn your vision into something real. Instead of overwhelming you with complex dashboards or endless to-do lists, Envisioned gives you a clear path from where you are to where you want to be. Built around a simple OKR-inspired framework, Envisioned breaks your goals down into three layers: VISIONS: the big picture. The dreams, ambitions, and goals that give you direction. Add photos and inspiration to make your vision feel real. MILESTONES: measurable steps that show you're getting there. Set targets, deadlines, and track your progress as your vision takes shape. ACTIONS: the things you can do today. Create one-time tasks and repeating habits that turn your milestones into consistent progress. Everything connects, so the small things you do today add up to something bigger. - Photo-led visions that make your goals feel real - Milestones with deadlines, targets, and progress rings - Daily actions and habits in one calm, focused view - Insights that show how your progress adds up - wee",
+   "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "agemaxx",
    "name": "Agemaxx",
    "url": "https://apps.shipaton.com/app/agemaxx",
@@ -1020,11 +1070,6 @@
    "gamey": false,
    "is_game": false,
    "gaining": false
-  },
-  {
-   "slug": "ai-grass-identifier-lawnlens",
-   "url": "https://apps.shipaton.com/app/ai-grass-identifier-lawnlens",
-   "first_seen": "2026-09-19"
   },
   {
    "slug": "amble-step-counter-race",
@@ -1097,26 +1142,6 @@
    "first_seen": "2026-09-19"
   },
   {
-   "slug": "missuo-couples-widget-love",
-   "name": "Missuo: Couples Widget & Love",
-   "url": "https://apps.shipaton.com/app/missuo-couples-widget-love",
-   "category": "Utilities",
-   "developer": "BSEK Apps",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/missuo-couples-widget-love/id6796360734?uo=4"
-   ],
-   "description": "Missuo: The Couples App for Staying Close Turn your relationship into a shared space you can see, feel, and grow daily. Missuo is a couples app with home screen widgets, daily questions, shared memories, and mood check-ins. Whether you are together or in a long distance relationship, Missuo helps you celebrate your love, understand each other, and make small moments meaningful. COUPLES WIDGETS FOR YOUR HOME SCREEN Keep your partner and favorite memories close with relationship widgets: • Polaroid Widget: See your partner's photo on your home screen. • Love Notes Widget: Send private messages, good morning notes, and sweet reminders. • Love Jar Widget: Add hearts to a shared jar and watch your love grow. • Love Pulse Widget: See a gentle glow when you are both online. • Distance Widget: View the distance between you and your partner. • Hug Meter: Track the days since you last met in person. • Days Together Counter: Celebrate every day of your relationship. • Anniversary Countdown: Count down to anniversaries and milestones. Send a hug, heart, or miss-you reaction and your partner receives an instant notification and in-app animation. DAILY QUESTIONS FOR COUPLES Discover something ne",
-   "first_seen": "2026-09-02",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
    "slug": "nomikit-tiny-things-you-build",
    "name": "NomiKit: Tiny Things You Build",
    "url": "https://apps.shipaton.com/app/nomikit-tiny-things-you-build",
@@ -1184,8 +1209,8 @@
    "gaining": false
   },
   {
-   "slug": "pocketful-daily-puzzles",
-   "url": "https://apps.shipaton.com/app/pocketful-daily-puzzles",
+   "slug": "pill-reminder-pillpal",
+   "url": "https://apps.shipaton.com/app/pill-reminder-pillpal",
    "first_seen": "2026-09-19"
   },
   {
@@ -1338,6 +1363,30 @@
    "gaining": false
   },
   {
+   "slug": "fastest-lap-top-down-racing",
+   "url": "https://apps.shipaton.com/app/fastest-lap-top-down-racing",
+   "first_seen": "2026-09-19"
+  },
+  {
+   "slug": "lms-land-of-magic-spices",
+   "name": "LMS: Land of Magic Spices",
+   "url": "https://apps.shipaton.com/app/lms-land-of-magic-spices",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/lms-land-of-magic-spices/id6787628573?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-02",
+   "rating_count_prev": 1,
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "dive-log-scuba-logbook-sealog",
    "url": "https://apps.shipaton.com/app/dive-log-scuba-logbook-sealog",
    "first_seen": "2026-09-23"
@@ -1432,6 +1481,11 @@
    "first_seen": "2026-09-23"
   },
   {
+   "slug": "journeydeck",
+   "url": "https://apps.shipaton.com/app/journeydeck",
+   "first_seen": "2026-09-19"
+  },
+  {
    "slug": "junction-flows",
    "name": "Junction Flows",
    "url": "https://apps.shipaton.com/app/junction-flows",
@@ -1487,11 +1541,6 @@
    "gaining": false
   },
   {
-   "slug": "pill-reminder-pillpal",
-   "url": "https://apps.shipaton.com/app/pill-reminder-pillpal",
-   "first_seen": "2026-09-19"
-  },
-  {
    "slug": "roofy-ai",
    "name": "Roofy AI",
    "url": "https://apps.shipaton.com/app/roofy-ai",
@@ -1517,6 +1566,16 @@
    "first_seen": "2026-09-23"
   },
   {
+   "slug": "storytrek",
+   "url": "https://apps.shipaton.com/app/storytrek",
+   "first_seen": "2026-09-19"
+  },
+  {
+   "slug": "the-lede-read-later",
+   "url": "https://apps.shipaton.com/app/the-lede-read-later",
+   "first_seen": "2026-09-19"
+  },
+  {
    "slug": "toilet-brain-games-einstool",
    "url": "https://apps.shipaton.com/app/toilet-brain-games-einstool",
    "first_seen": "2026-09-23"
@@ -1529,6 +1588,11 @@
   {
    "slug": "versed-bible-verse-memory",
    "url": "https://apps.shipaton.com/app/versed-bible-verse-memory",
+   "first_seen": "2026-09-19"
+  },
+  {
+   "slug": "vocaburst-typing-shooter",
+   "url": "https://apps.shipaton.com/app/vocaburst-typing-shooter",
    "first_seen": "2026-09-19"
   },
   {
@@ -1598,9 +1662,23 @@
    "gaining": false
   },
   {
-   "slug": "fastest-lap-top-down-racing",
-   "url": "https://apps.shipaton.com/app/fastest-lap-top-down-racing",
-   "first_seen": "2026-09-19"
+   "slug": "findshiba",
+   "name": "FindShiba!",
+   "url": "https://apps.shipaton.com/app/findshiba",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-09",
+   "rating_count_prev": null,
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
   },
   {
    "slug": "handstand-pro",
@@ -1608,23 +1686,9 @@
    "first_seen": "2026-09-23"
   },
   {
-   "slug": "lms-land-of-magic-spices",
-   "name": "LMS: Land of Magic Spices",
-   "url": "https://apps.shipaton.com/app/lms-land-of-magic-spices",
-   "category": "",
-   "developer": "",
-   "platforms": [],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/lms-land-of-magic-spices/id6787628573?uo=4"
-   ],
-   "description": "",
-   "first_seen": "2026-09-02",
-   "rating_count_prev": 1,
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
+   "slug": "neverstill",
+   "url": "https://apps.shipaton.com/app/neverstill",
+   "first_seen": "2026-09-19"
   },
   {
    "slug": "gallus-alarm-punchlines",
@@ -1836,6 +1900,26 @@
    "gaining": false
   },
   {
+   "slug": "elderhub-family-care-log",
+   "name": "Elderhub: Family Care Log",
+   "url": "https://apps.shipaton.com/app/elderhub-family-care-log",
+   "category": "Medical",
+   "developer": "Jack Wallner",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/elderhub-family-care-log/id6796916172?uo=4"
+   ],
+   "description": "Most medication apps assume you are tracking your own pills. Elderhub assumes you are not. If you help look after a parent, a spouse, or both, you already know the problem: the real list lives in three places at once. Some of it is in your head, some of it is on a scrap of paper in a kitchen drawer, and some of it is whatever the pharmacy printed out last spring. Then a nurse asks what she takes, and you are guessing. Elderhub keeps one current list per person, so you always have the answer. MORE THAN ONE PERSON Add Mom, Dad, and yourself. Each person gets their own medications, their own schedule, and their own history. Switch between them in one tap. THE LIST A DOCTOR ACTUALLY WANTS Name, strength, form, what it is for, who prescribed it, and the instructions that matter. Not just an alarm. ONE TAP TO HAND IT OVER The emergency card renders the whole picture in large type: allergies, conditions, every active medication, and emergency contacts. Share it as plain text into a message or an email, or read it straight off the screen in a waiting room. It works with no signal. MARK DOSES ON SOMEONE ELSE'S BEHALF Log a dose as taken or skipped, and the entry records who did it. Useful w",
+   "first_seen": "2026-09-09",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "enxovaly",
    "name": "Enxovaly: Baby Checklist",
    "url": "https://apps.shipaton.com/app/enxovaly",
@@ -1963,9 +2047,32 @@
    "gaining": false
   },
   {
-   "slug": "journeydeck",
-   "url": "https://apps.shipaton.com/app/journeydeck",
+   "slug": "hexpair-logic-puzzle-game",
+   "url": "https://apps.shipaton.com/app/hexpair-logic-puzzle-game",
    "first_seen": "2026-09-19"
+  },
+  {
+   "slug": "hometend-ai-home-maintenance",
+   "name": "HomeTend: AI Home Inspection",
+   "url": "https://apps.shipaton.com/app/hometend-ai-home-maintenance",
+   "category": "Lifestyle",
+   "developer": "Matthew Smith",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/hometend-ai-home-inspection/id6797340061?uo=4",
+    "https://play.google.com/store/apps/details?id=com.matt.homemanager",
+    "https://play.google.com/store/apps/details?id=com.matt.homemanager&amp;hl=en&amp;gl=us"
+   ],
+   "description": "Your home tells you what it needs. HomeTend listens. Photograph anything — a drip under the sink, a filter that's due, a crack you don't like the look of — and HomeTend turns it into a scheduled task with a title, a category and a due date. No forms, no setup, no account to create. It works the moment you open it. WALK YOUR WHOLE HOUSE Inspection mode guides you through 66 checks across 14 areas: the walk-around outside, the roof from the ground, attic, basement and crawlspace, plumbing, electrical, heating and cooling, kitchen, bathrooms, laundry, garage, chimney, doors and windows, and septic. Each item tells you what to look for and why it matters. Photograph what you find, mark it pass or needs-attention yourself, and anything that fails becomes a scheduled task with the photo already attached. When you're done, email the full report — every item, your photos, what needs work — to yourself, your partner, or your agent. Want a second opinion? HomeTend Plus adds an AI read on any item: what it sees, and why. You stay the judge — every call can be overridden. MAINTENANCE THAT REMEMBERS SO YOU DON'T Set a job once and it reschedules itself. HVAC filters every three months, gutters ",
+   "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
   },
   {
    "slug": "journoo-ai-journal-companion",
@@ -2014,6 +2121,24 @@
    "slug": "lua-period-birth-control",
    "url": "https://apps.shipaton.com/app/lua-period-birth-control",
    "first_seen": "2026-09-23"
+  },
+  {
+   "slug": "makiroll",
+   "name": "MakiRoll",
+   "url": "https://apps.shipaton.com/app/makiroll",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/makiroll/id6801274678?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
   },
   {
    "slug": "matharoo-math-learning-fun",
@@ -2147,6 +2272,29 @@
     "https://play.google.com/store/apps/details?id=com.platediary.app&amp;hl=en&amp;gl=us"
    ],
    "description": "One photo of the table. Every dish and drink cuts itself into its own save — right on your phone, in about a second. PlateDiary is a food memory app for eating out. There's nothing to count and nothing to keep up with. Just the meal, the place, and everyone who was there. THREE SECONDS. THAT'S THE WHOLE THING. Snap the table the moment the food lands. On-device machine learning finds each dish and drink and cuts it out for you — no tracing, no tapping around plates. A name, a star, a note, a companion: all optional, always. A save is happy to stay unnamed forever. SAVES BECOME MOMENTS ON THEIR OWN Same place, same hour — your saves gather themselves into a moment that already knows the time, the spot, and who sat across from you. You lift a finger only to eat. SO YOU REMEMBER WHAT YOU ATE Name a dish, give it a star, or leave a note to future-you: \"get the truffle one again.\" Old favorites show how many times you've eaten them, and tags bring them back when memory needs a nudge. EVERY TABLE YOU'VE KEPT, IN ONE PLACE Your latest table sits up front. Everything earlier folds into a board you can wander by list, by month, or by moment — and search by dish, place, companion, or tag. YO",
+   "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "pocket-museum-daily-art",
+   "name": "Pocket Museum: Daily Art",
+   "url": "https://apps.shipaton.com/app/pocket-museum-daily-art",
+   "category": "Education",
+   "developer": "Ramanu LLC",
+   "platforms": [
+    "iPhone",
+    "Android"
+   ],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/pocket-museum-daily-art/id6792521728?uo=4",
+    "https://play.google.com/store/apps/details?id=jp.co.ramanu.pocketmuseum",
+    "https://play.google.com/store/apps/details?id=jp.co.ramanu.pocketmuseum&amp;hl=en&amp;gl=us"
+   ],
+   "description": "Pocket Museum brings you one masterpiece a day from museums around the world. Open the app and today's artwork is waiting for you. Every artwork you meet joins your collection — permanently. The works are drawn from 1,200 public-domain pieces across seven museums around the world, including The Metropolitan Museum of Art, the Art Institute of Chicago, and the Rijksmuseum, featuring masters such as Vermeer, Van Gogh, Monet, and Hokusai. ◆ MEET ONE MASTERPIECE EVERY DAY ・Open the app for the first time each day to receive a new artwork ・Acquired artworks stay in your collection forever — revisit them anytime ・An optional morning notification announces today's artwork (time adjustable) ◆ SEE EVERY BRUSHSTROKE ・High-resolution images — pinch to zoom into the finest details ・View your acquired artworks offline ・Mark favorites to keep beloved works close at hand ◆ A 3-MINUTE GUIDE TO EVERY ARTWORK ・Every artwork includes a concise guide to its background and highlights ・Who, when, where, and why — readable in about three minutes ・Artwork details (artist, date, museum) with a link to the museum's collection page ・Available in 9 languages ◆ FEATURED MUSEUMS (all images public domain / CC0)",
    "first_seen": "2026-09-02",
    "gamey": false,
    "is_game": false,
@@ -2303,11 +2451,6 @@
    "gaining": false
   },
   {
-   "slug": "storytrek",
-   "url": "https://apps.shipaton.com/app/storytrek",
-   "first_seen": "2026-09-19"
-  },
-  {
    "slug": "street-eats-official",
    "name": "Street Eats Official",
    "url": "https://apps.shipaton.com/app/street-eats-official",
@@ -2356,6 +2499,11 @@
    "first_seen": "2026-09-19"
   },
   {
+   "slug": "tiding-peptide-tracker",
+   "url": "https://apps.shipaton.com/app/tiding-peptide-tracker",
+   "first_seen": "2026-09-19"
+  },
+  {
    "slug": "travl-country-days-tracker",
    "name": "Travl: Country Days Tracker",
    "url": "https://apps.shipaton.com/app/travl-country-days-tracker",
@@ -2372,11 +2520,6 @@
    "gamey": false,
    "is_game": false,
    "gaining": false
-  },
-  {
-   "slug": "vocaburst-typing-shooter",
-   "url": "https://apps.shipaton.com/app/vocaburst-typing-shooter",
-   "first_seen": "2026-09-19"
   },
   {
    "slug": "voltfield-80s-classic-arcade",
@@ -2471,6 +2614,26 @@
    "gaining": false
   },
   {
+   "slug": "local-invoice-estimate-maker",
+   "name": "Local Invoice & Estimate Maker",
+   "url": "https://apps.shipaton.com/app/local-invoice-estimate-maker",
+   "category": "Business",
+   "developer": "Eden Schlegel",
+   "platforms": [
+    "iPhone"
+   ],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/local-invoice-estimate-maker/id6789413537?uo=4"
+   ],
+   "description": "The private invoice app. No accounts. No cloud. No subscriptions. Create beautiful, professional invoices in seconds while keeping your business data completely private. Local Invoice stores everything directly on your device—your invoices, clients, pricing, and business information never leave your phone. No sign-up. No internet required. No tracking. Just fast, professional invoicing. WHY CHOOSE LOCAL INVOICE? Your data stays with you. • Everything is stored locally on your device • No accounts or sign-ins required • No cloud storage • No tracking or analytics • Works completely offline Whether you're a freelancer, contractor, consultant, or small business owner, Local Invoice lets you create invoices quickly without giving up control of your business data. POWERFUL FEATURES • Create professional invoices in seconds • Add line items, quantities, hourly rates, taxes, and discounts • Automatic subtotal and total calculations • Save client information for one-tap reuse • Clean, modern invoice design • Export high-quality PDFs • Share invoices via Email, AirDrop, Messages, or any app you choose • Everything remains stored only on your device LOCAL INVOICE PRO One-time purchase. No su",
+   "first_seen": "2026-09-02",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "wdil-when-did-i-last",
    "url": "https://apps.shipaton.com/app/wdil-when-did-i-last",
    "first_seen": "2026-09-19"
@@ -2512,66 +2675,6 @@
    ],
    "description": "",
    "first_seen": "2026-09-02",
-   "rating_count_prev": null,
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "envisioned",
-   "name": "Envisioned",
-   "url": "https://apps.shipaton.com/app/envisioned",
-   "category": "Productivity",
-   "developer": "Anna Routledge",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/envisioned/id6791249850?uo=4"
-   ],
-   "description": "Envisioned — Turn Your Vision Into Progress Have you ever set a goal with the best intentions, only to forget about it a few weeks later? Envisioned is a quiet, beautiful goal tracker built to help you turn your vision into something real. Instead of overwhelming you with complex dashboards or endless to-do lists, Envisioned gives you a clear path from where you are to where you want to be. Built around a simple OKR-inspired framework, Envisioned breaks your goals down into three layers: VISIONS: the big picture. The dreams, ambitions, and goals that give you direction. Add photos and inspiration to make your vision feel real. MILESTONES: measurable steps that show you're getting there. Set targets, deadlines, and track your progress as your vision takes shape. ACTIONS: the things you can do today. Create one-time tasks and repeating habits that turn your milestones into consistent progress. Everything connects, so the small things you do today add up to something bigger. - Photo-led visions that make your goals feel real - Milestones with deadlines, targets, and progress rings - Daily actions and habits in one calm, focused view - Insights that show how your progress adds up - wee",
-   "first_seen": "2026-09-09",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "learn-french-game-cowsmic",
-   "name": "Learn French Game: Cowsmic",
-   "url": "https://apps.shipaton.com/app/learn-french-game-cowsmic",
-   "category": "",
-   "developer": "",
-   "platforms": [],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/learn-french-game-cowsmic/id6799401666?uo=4",
-    "https://play.google.com/store/apps/details?id=com.cowsmicgame.french",
-    "https://play.google.com/store/apps/details?id=com.cowsmicgame.french&amp;hl=en&amp;gl=us"
-   ],
-   "description": "",
-   "first_seen": "2026-09-02",
-   "rating_count_prev": null,
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "findshiba",
-   "name": "FindShiba!",
-   "url": "https://apps.shipaton.com/app/findshiba",
-   "category": "",
-   "developer": "",
-   "platforms": [],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/findshiba/id6796543267?uo=4"
-   ],
-   "description": "",
-   "first_seen": "2026-09-09",
    "rating_count_prev": null,
    "gamey": false,
    "is_game": false,
@@ -2620,6 +2723,27 @@
    "gaining": false
   },
   {
+   "slug": "learn-french-game-cowsmic",
+   "name": "Learn French Game: Cowsmic",
+   "url": "https://apps.shipaton.com/app/learn-french-game-cowsmic",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/learn-french-game-cowsmic/id6799401666?uo=4",
+    "https://play.google.com/store/apps/details?id=com.cowsmicgame.french",
+    "https://play.google.com/store/apps/details?id=com.cowsmicgame.french&amp;hl=en&amp;gl=us"
+   ],
+   "description": "",
+   "first_seen": "2026-09-02",
+   "rating_count_prev": null,
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
    "slug": "sever",
    "name": "SEVER.",
    "url": "https://apps.shipaton.com/app/sever",
@@ -2636,25 +2760,6 @@
    "description": "",
    "first_seen": "2026-09-02",
    "rating_count_prev": null,
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "velocity-unleashed",
-   "name": "Velocity Unleashed",
-   "url": "https://apps.shipaton.com/app/velocity-unleashed",
-   "category": "",
-   "developer": "",
-   "platforms": [],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/velocity-unleashed/id6794736953?uo=4"
-   ],
-   "description": "",
-   "first_seen": "2026-09-02",
-   "rating_count_prev": 1,
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -5369,26 +5474,6 @@
    "first_seen": "2026-09-19"
   },
   {
-   "slug": "elderhub-family-care-log",
-   "name": "Elderhub: Family Care Log",
-   "url": "https://apps.shipaton.com/app/elderhub-family-care-log",
-   "category": "Medical",
-   "developer": "Jack Wallner",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/elderhub-family-care-log/id6796916172?uo=4"
-   ],
-   "description": "Most medication apps assume you are tracking your own pills. Elderhub assumes you are not. If you help look after a parent, a spouse, or both, you already know the problem: the real list lives in three places at once. Some of it is in your head, some of it is on a scrap of paper in a kitchen drawer, and some of it is whatever the pharmacy printed out last spring. Then a nurse asks what she takes, and you are guessing. Elderhub keeps one current list per person, so you always have the answer. MORE THAN ONE PERSON Add Mom, Dad, and yourself. Each person gets their own medications, their own schedule, and their own history. Switch between them in one tap. THE LIST A DOCTOR ACTUALLY WANTS Name, strength, form, what it is for, who prescribed it, and the instructions that matter. Not just an alarm. ONE TAP TO HAND IT OVER The emergency card renders the whole picture in large type: allergies, conditions, every active medication, and emergency contacts. Share it as plain text into a message or an email, or read it straight off the screen in a waiting room. It works with no signal. MARK DOSES ON SOMEONE ELSE'S BEHALF Log a dose as taken or skipped, and the entry records who did it. Useful w",
-   "first_seen": "2026-09-09",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
    "slug": "elements-aesthetic-widgets",
    "name": "Elements - Aesthetic Widgets",
    "url": "https://apps.shipaton.com/app/elements-aesthetic-widgets",
@@ -6749,11 +6834,6 @@
    "first_seen": "2026-09-19"
   },
   {
-   "slug": "hexpair-logic-puzzle-game",
-   "url": "https://apps.shipaton.com/app/hexpair-logic-puzzle-game",
-   "first_seen": "2026-09-19"
-  },
-  {
    "slug": "waymark-hiking-journal",
    "name": "Waymark: Hiking Journal",
    "url": "https://apps.shipaton.com/app/waymark-hiking-journal",
@@ -6847,29 +6927,6 @@
     "https://apps.apple.com/us/app/home-maintenance-planner-tobi/id6784417439?uo=4"
    ],
    "description": "Home maintenance should not live in one person’s head. Tobi gives your household one shared place to track recurring upkeep, record completed work, save contractor history, and keep an accurate electrical panel schedule. Whether you just moved into a home, inherited a confusing breaker box, or simply want a better record of what has been done around the house, Tobi helps everyone stay on the same page. Track home maintenance Create reusable records for the important parts of your home, like your furnace, water heater, refrigerator, deck, or washer. Add recurring or one-time tasks, assign them to a household member, save notes, and include links for manuals or replacement items. When a task is completed, Tobi keeps a full history of who did the work, when it happened, and any notes from that visit or repair. Build your maintenance history Every completed task becomes part of your home’s record. See past work by task, home element, household member, or contractor, so you are not relying on memory, old texts, or a stack of paper invoices. Keep contractor records Save contractors with their trade, company, phone, email, and notes. When a contractor performs work, attach them to the mai",
-   "first_seen": "2026-09-02",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "hometend-ai-home-maintenance",
-   "name": "HomeTend: AI Home Inspection",
-   "url": "https://apps.shipaton.com/app/hometend-ai-home-maintenance",
-   "category": "Lifestyle",
-   "developer": "Matthew Smith",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/hometend-ai-home-inspection/id6797340061?uo=4",
-    "https://play.google.com/store/apps/details?id=com.matt.homemanager",
-    "https://play.google.com/store/apps/details?id=com.matt.homemanager&amp;hl=en&amp;gl=us"
-   ],
-   "description": "Your home tells you what it needs. HomeTend listens. Photograph anything — a drip under the sink, a filter that's due, a crack you don't like the look of — and HomeTend turns it into a scheduled task with a title, a category and a due date. No forms, no setup, no account to create. It works the moment you open it. WALK YOUR WHOLE HOUSE Inspection mode guides you through 66 checks across 14 areas: the walk-around outside, the roof from the ground, attic, basement and crawlspace, plumbing, electrical, heating and cooling, kitchen, bathrooms, laundry, garage, chimney, doors and windows, and septic. Each item tells you what to look for and why it matters. Photograph what you find, mark it pass or needs-attention yourself, and anything that fails becomes a scheduled task with the photo already attached. When you're done, email the full report — every item, your photos, what needs work — to yourself, your partner, or your agent. Want a second opinion? HomeTend Plus adds an AI read on any item: what it sees, and why. You stay the judge — every call can be overridden. MAINTENANCE THAT REMEMBERS SO YOU DON'T Set a job once and it reschedules itself. HVAC filters every three months, gutters ",
    "first_seen": "2026-09-02",
    "gamey": false,
    "is_game": false,
@@ -8152,26 +8209,6 @@
    "gaining": false
   },
   {
-   "slug": "local-invoice-estimate-maker",
-   "name": "Local Invoice & Estimate Maker",
-   "url": "https://apps.shipaton.com/app/local-invoice-estimate-maker",
-   "category": "Business",
-   "developer": "Eden Schlegel",
-   "platforms": [
-    "iPhone"
-   ],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/local-invoice-estimate-maker/id6789413537?uo=4"
-   ],
-   "description": "The private invoice app. No accounts. No cloud. No subscriptions. Create beautiful, professional invoices in seconds while keeping your business data completely private. Local Invoice stores everything directly on your device—your invoices, clients, pricing, and business information never leave your phone. No sign-up. No internet required. No tracking. Just fast, professional invoicing. WHY CHOOSE LOCAL INVOICE? Your data stays with you. • Everything is stored locally on your device • No accounts or sign-ins required • No cloud storage • No tracking or analytics • Works completely offline Whether you're a freelancer, contractor, consultant, or small business owner, Local Invoice lets you create invoices quickly without giving up control of your business data. POWERFUL FEATURES • Create professional invoices in seconds • Add line items, quantities, hourly rates, taxes, and discounts • Automatic subtotal and total calculations • Save client information for one-tap reuse • Clean, modern invoice design • Export high-quality PDFs • Share invoices via Email, AirDrop, Messages, or any app you choose • Everything remains stored only on your device LOCAL INVOICE PRO One-time purchase. No su",
-   "first_seen": "2026-09-02",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
    "slug": "local-pdf-merge-split-sign",
    "name": "Local PDF: Merge, Split & Sign",
    "url": "https://apps.shipaton.com/app/local-pdf-merge-split-sign",
@@ -8377,24 +8414,6 @@
    ],
    "description": "",
    "first_seen": "2026-09-09",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "makiroll",
-   "name": "MakiRoll",
-   "url": "https://apps.shipaton.com/app/makiroll",
-   "category": "",
-   "developer": "",
-   "platforms": [],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/makiroll/id6801274678?uo=4"
-   ],
-   "description": "",
-   "first_seen": "2026-09-14",
    "gamey": false,
    "is_game": false,
    "gaining": false
@@ -9213,11 +9232,6 @@
    "gamey": false,
    "is_game": false,
    "gaining": false
-  },
-  {
-   "slug": "neverstill",
-   "url": "https://apps.shipaton.com/app/neverstill",
-   "first_seen": "2026-09-19"
   },
   {
    "slug": "newmemo-ai",
@@ -10300,29 +10314,6 @@
     "https://apps.apple.com/us/app/pocket-ledger-expenses/id6775284968?uo=4"
    ],
    "description": "Expenses · Private is a simple, local-first finance tracker designed to help you understand your monthly spending without creating an account. Track recurring expenses, one-time payments, installments, loans, card statements, income and net worth in one clean dashboard. Key features: • Monthly spending overview • Upcoming payment tracking • Installment planning • Credit card statement management • Loan and debt tracking • Income and cash flow overview • Net worth calculation • Multi-currency support • Multiple language options • No account required Your financial data stays on your device. Expenses · Private is built for people who want a clear, personal and private way to manage their money. Information Seller Galip Erkin Doruk Compatibility iPhone Genres Finance, Productivity You might also like Payout: Claim Class Actions 2025 · Finance View Speak Japanese - Kigaru Talks 2025 · Education View Made by Perttu Lähteenlahti . Questions or corrections? Message me on X or send me an email . 1251 apps from every Shipaton. Shipaton",
-   "first_seen": "2026-09-02",
-   "gamey": false,
-   "is_game": false,
-   "gaining": false
-  },
-  {
-   "slug": "pocket-museum-daily-art",
-   "name": "Pocket Museum: Daily Art",
-   "url": "https://apps.shipaton.com/app/pocket-museum-daily-art",
-   "category": "Education",
-   "developer": "Ramanu LLC",
-   "platforms": [
-    "iPhone",
-    "Android"
-   ],
-   "rating": null,
-   "rating_count": null,
-   "store_links": [
-    "https://apps.apple.com/us/app/pocket-museum-daily-art/id6792521728?uo=4",
-    "https://play.google.com/store/apps/details?id=jp.co.ramanu.pocketmuseum",
-    "https://play.google.com/store/apps/details?id=jp.co.ramanu.pocketmuseum&amp;hl=en&amp;gl=us"
-   ],
-   "description": "Pocket Museum brings you one masterpiece a day from museums around the world. Open the app and today's artwork is waiting for you. Every artwork you meet joins your collection — permanently. The works are drawn from 1,200 public-domain pieces across seven museums around the world, including The Metropolitan Museum of Art, the Art Institute of Chicago, and the Rijksmuseum, featuring masters such as Vermeer, Van Gogh, Monet, and Hokusai. ◆ MEET ONE MASTERPIECE EVERY DAY ・Open the app for the first time each day to receive a new artwork ・Acquired artworks stay in your collection forever — revisit them anytime ・An optional morning notification announces today's artwork (time adjustable) ◆ SEE EVERY BRUSHSTROKE ・High-resolution images — pinch to zoom into the finest details ・View your acquired artworks offline ・Mark favorites to keep beloved works close at hand ◆ A 3-MINUTE GUIDE TO EVERY ARTWORK ・Every artwork includes a concise guide to its background and highlights ・Who, when, where, and why — readable in about three minutes ・Artwork details (artist, date, museum) with a link to the museum's collection page ・Available in 9 languages ◆ FEATURED MUSEUMS (all images public domain / CC0)",
    "first_seen": "2026-09-02",
    "gamey": false,
    "is_game": false,
@@ -12427,11 +12418,6 @@
    "first_seen": "2026-09-19"
   },
   {
-   "slug": "the-lede-read-later",
-   "url": "https://apps.shipaton.com/app/the-lede-read-later",
-   "first_seen": "2026-09-19"
-  },
-  {
    "slug": "the-pawmanent-record",
    "name": "The Pawmanent Record",
    "url": "https://apps.shipaton.com/app/the-pawmanent-record",
@@ -12514,11 +12500,6 @@
    "gamey": false,
    "is_game": false,
    "gaining": false
-  },
-  {
-   "slug": "tiding-peptide-tracker",
-   "url": "https://apps.shipaton.com/app/tiding-peptide-tracker",
-   "first_seen": "2026-09-19"
   },
   {
    "slug": "timesout",
@@ -12917,6 +12898,25 @@
    ],
    "description": "",
    "first_seen": "2026-09-14",
+   "gamey": false,
+   "is_game": false,
+   "gaining": false
+  },
+  {
+   "slug": "velocity-unleashed",
+   "name": "Velocity Unleashed",
+   "url": "https://apps.shipaton.com/app/velocity-unleashed",
+   "category": "",
+   "developer": "",
+   "platforms": [],
+   "rating": null,
+   "rating_count": null,
+   "store_links": [
+    "https://apps.apple.com/us/app/velocity-unleashed/id6794736953?uo=4"
+   ],
+   "description": "",
+   "first_seen": "2026-09-02",
+   "rating_count_prev": 1,
    "gamey": false,
    "is_game": false,
    "gaining": false
